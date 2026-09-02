@@ -16,11 +16,7 @@ The files are obtained by decompiling the game's compiled C# assemblies.
 
 For example:
 
-Assembly/
-└── BigAmbitions.ModsInternal/
-    └── Classes/
-        └── BAModAPI/
-            └── ModActivationScope.cs
+Assembly/BigAmbitions.ModsInternal/Classes/BAModAPI/ModActivationScope.cs
 
 The .cs files contain the technical details of the classes, including things such as:
 
@@ -39,19 +35,11 @@ The Docs directory mirrors the structure of Assembly.
 
 For example:
 
-Assembly/
-└── BigAmbitions.ModsInternal/
-    └── Classes/
-        └── BAModAPI/
-            └── ModActivationScope.cs
+Assembly/BigAmbitions.ModsInternal/Classes/BAModAPI/ModActivationScope.cs
 
 has a corresponding:
 
-Docs/
-└── BigAmbitions.ModsInternal/
-    └── Classes/
-        └── BAModAPI/
-            └── ModActivationScope.md
+Docs/BigAmbitions.ModsInternal/Classes/BAModAPI/ModActivationScope.md
 
 Each Markdown file provides an easier way to navigate the corresponding C# file and its relationships with other classes.
 
