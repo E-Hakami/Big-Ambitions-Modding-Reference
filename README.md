@@ -267,6 +267,8 @@ These are straight directories to files that are useful entry points when invest
 - [ModingAPI](https://github.com/E-Hakami/Big-Ambitions-Modding-Reference/blob/main/Builds/Build%203674/BAModAPI/ModdingAPI.md)
 - [ModOption](https://github.com/E-Hakami/Big-Ambitions-Modding-Reference/blob/main/Builds/Build%203674/00_BigAmbitions.ModAPI/BigAmbitions.Mods/ModOptions.cs)
 
+for more see [AI_Index](https://github.com/E-Hakami/Big-Ambitions-Modding-Reference/blob/main/AI_Index.md)
+
 
 # Disclaimer
 
