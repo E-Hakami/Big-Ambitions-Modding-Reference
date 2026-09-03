@@ -1,0 +1,23 @@
+public enum UiSound
+{
+	Click,
+	Back,
+	Error,
+	Drag,
+	SaveSuccessful,
+	Typing,
+	PauseOn,
+	PauseOff,
+	NotificationSuccess,
+	NotificationInfo,
+	NotificationWarning,
+	NotificationError,
+	NotificationMessage,
+	ScheduleDrag,
+	ScheduleMove,
+	MoneySpend,
+	Hover,
+	PaintWall,
+	PaintFloor,
+	ObjectiveCompleted
+}

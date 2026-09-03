@@ -1,0 +1,4 @@
+public enum VehicleNavigationBlocker
+{
+	WashingVehicle
+}

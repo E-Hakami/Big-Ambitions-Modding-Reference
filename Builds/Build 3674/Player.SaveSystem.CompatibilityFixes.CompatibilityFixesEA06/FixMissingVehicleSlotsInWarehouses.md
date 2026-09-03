@@ -1,0 +1,27 @@
+# FixMissingVehicleSlotsInWarehouses
+
+**Type:** Class
+
+**Declared Types:**
+
+- `FixMissingVehicleSlotsInWarehouses`
+
+## Main Reference
+
+[View source](./FixMissingVehicleSlotsInWarehouses.cs)
+
+## Uses
+
+- [BuildingHelper](../Helpers/BuildingHelper.md)
+- [BuildingRegistration](../BuildingRegistration.md)
+- [GameInstance](../GameInstance.md)
+- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
+- [Warehouse](../Entities/Warehouse.md)
+
+## Used By
+
+- [UpdateGameInstanceToEA06](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA06.md)
+
+## Notes
+
+<!-- Add manual notes here. -->

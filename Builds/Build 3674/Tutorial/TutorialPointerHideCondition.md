@@ -1,0 +1,56 @@
+# TutorialPointerHideCondition
+
+**Type:** Class
+
+**Declared Types:**
+
+- `TutorialPointerHideCondition`
+
+## Main Reference
+
+[View source](./TutorialPointerHideCondition.cs)
+
+## Uses
+
+- [BuildingHelper](../Helpers/BuildingHelper.md)
+
+## Used By
+
+- [TutorialPointerData](TutorialPointerData.md)
+- [TutorialPointerHideConditionHasAssignedHeadhunterToHeadhunterPlan](TutorialPointerHideConditionHasAssignedHeadhunterToHeadhunterPlan.md)
+- [TutorialPointerHideConditionHasAssignedHrManagerToHeadhunterPlan](TutorialPointerHideConditionHasAssignedHrManagerToHeadhunterPlan.md)
+- [TutorialPointerHideConditionHasAssignedHrManagerToHrManagerPlan](TutorialPointerHideConditionHasAssignedHrManagerToHrManagerPlan.md)
+- [TutorialPointerHideConditionHasAssignedLogisticsManagerDestination](TutorialPointerHideConditionHasAssignedLogisticsManagerDestination.md)
+- [TutorialPointerHideConditionHasAssignedLogisticsManagerPlan](TutorialPointerHideConditionHasAssignedLogisticsManagerPlan.md)
+- [TutorialPointerHideConditionHasAssignedPricingManager](TutorialPointerHideConditionHasAssignedPricingManager.md)
+- [TutorialPointerHideConditionHasAssignedWarehouse](TutorialPointerHideConditionHasAssignedWarehouse.md)
+- [TutorialPointerHideConditionHasEmployeeAssignedToHrManagerPlan](TutorialPointerHideConditionHasEmployeeAssignedToHrManagerPlan.md)
+- [TutorialPointerHideConditionHasHeadhunterPlan](TutorialPointerHideConditionHasHeadhunterPlan.md)
+- [TutorialPointerHideConditionHasHeadhunterPlanWithAutomaticReplacement](TutorialPointerHideConditionHasHeadhunterPlanWithAutomaticReplacement.md)
+- [TutorialPointerHideConditionHasHrManagerPlan](TutorialPointerHideConditionHasHrManagerPlan.md)
+- [TutorialPointerHideConditionHasLogisticsManagerDestination](TutorialPointerHideConditionHasLogisticsManagerDestination.md)
+- [TutorialPointerHideConditionHasLogisticsManagerPlan](TutorialPointerHideConditionHasLogisticsManagerPlan.md)
+- [TutorialPointerHideConditionHasPricingManagerPlan](TutorialPointerHideConditionHasPricingManagerPlan.md)
+- [TutorialPointerHideConditionHasSupervisedNeighborhood](TutorialPointerHideConditionHasSupervisedNeighborhood.md)
+- [TutorialPointerHideConditionIfAddressHasNoCandidates](TutorialPointerHideConditionIfAddressHasNoCandidates.md)
+- [TutorialPointerHideConditionIfCityMapFilterEnabled](TutorialPointerHideConditionIfCityMapFilterEnabled.md)
+- [TutorialPointerHideConditionIfIsHoldingItem](TutorialPointerHideConditionIfIsHoldingItem.md)
+- [TutorialPointerHideConditionIfIsNotHoldingSpecificItem](TutorialPointerHideConditionIfIsNotHoldingSpecificItem.md)
+- [TutorialPointerHideConditionIfIsPlayingVideoGame](TutorialPointerHideConditionIfIsPlayingVideoGame.md)
+- [TutorialPointerHideConditionIfItemPanelIsClosed](TutorialPointerHideConditionIfItemPanelIsClosed.md)
+- [TutorialPointerHideConditionIfPlayerActivityUIOpen](TutorialPointerHideConditionIfPlayerActivityUIOpen.md)
+- [TutorialPointerHideConditionIfPlayerHasEmployeesTraining](TutorialPointerHideConditionIfPlayerHasEmployeesTraining.md)
+- [TutorialPointerHideConditionIfSelectedEmployeeHasBusinessAssignedStatus](TutorialPointerHideConditionIfSelectedEmployeeHasBusinessAssignedStatus.md)
+- [TutorialPointerHideConditionIfTextEquals](TutorialPointerHideConditionIfTextEquals.md)
+- [TutorialPointerHideConditionIfThereIsAPlayerVehicle](TutorialPointerHideConditionIfThereIsAPlayerVehicle.md)
+- [TutorialPointerHideConditionIfUiEnabled](TutorialPointerHideConditionIfUiEnabled.md)
+- [TutorialPointerHideConditionIfUiInputFieldIsValue](TutorialPointerHideConditionIfUiInputFieldIsValue.md)
+- [TutorialPointerHideConditionIfUiNotVisibleInScrollView](TutorialPointerHideConditionIfUiNotVisibleInScrollView.md)
+- [TutorialPointerHideConditionInteriorScoreIsValue](TutorialPointerHideConditionInteriorScoreIsValue.md)
+- [TutorialPointerHideConditionIsNotWorkingDay](TutorialPointerHideConditionIsNotWorkingDay.md)
+- [TutorialPointerHideConditionSelectedBizManBuildingHasNoCharacteristics](TutorialPointerHideConditionSelectedBizManBuildingHasNoCharacteristics.md)
+- [TutorialPointerHideConditionTooltipIsVisible](TutorialPointerHideConditionTooltipIsVisible.md)
+
+## Notes
+
+<!-- Add manual notes here. -->
