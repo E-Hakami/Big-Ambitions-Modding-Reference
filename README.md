@@ -233,6 +233,35 @@ For this reason:
 
 The generated Markdown should be treated as a navigation aid, not as a replacement for reading the C# source.
 
+Also, Github Blocks AIs from recursive searching the tree so you will need to give the AI a complete file directory URL to get it started on the navigation system using the .md files, or AI agents can simply use the suggested starting points.
+
+## Suggested Starting Points
+
+These are straight directories to files that are useful entry points when investigating the codebase.
+
+### Core Systems
+
+- [BuildingHelper](https://github.com/E-Hakami/Big-Ambitions-Modding-Reference/blob/main/Builds/Build%203674/Helpers/BuildingHelper.md)
+- [BusinessHelper](https://github.com/E-Hakami/Big-Ambitions-Modding-Reference/blob/main/Builds/Build%203674/Helpers/BusinessHelper.md)
+- [EmployeeHelper](https://github.com/E-Hakami/Big-Ambitions-Modding-Reference/blob/main/Builds/Build%203674/Helpers/EmployeeHelper.md)
+- [VehicleHelper](https://github.com/E-Hakami/Big-Ambitions-Modding-Reference/blob/main/Builds/Build%203674/Helpers/VehicleHelper.md)
+
+### Employees & AI
+
+- [EmployeeInstance](https://github.com/E-Hakami/Big-Ambitions-Modding-Reference/blob/main/Builds/Build%203674/Entities/EmployeeInstance.md)
+- [Complaint](https://github.com/E-Hakami/Big-Ambitions-Modding-Reference/blob/main/Builds/Build%203674/AI.Employees/Complaint.md)
+- [ComplaintHelper](https://github.com/E-Hakami/Big-Ambitions-Modding-Reference/blob/main/Builds/Build%203674/AI.Employees/ComplaintHelper.md)
+
+### Communication
+
+- [Contact](https://github.com/E-Hakami/Big-Ambitions-Modding-Reference/blob/main/Builds/Build%203674/Entities/Contact.md)
+- [TextMessage](https://github.com/E-Hakami/Big-Ambitions-Modding-Reference/blob/main/Builds/Build%203674/Entities/TextMessage.md)
+
+### World & Characters
+
+- [Character](https://github.com/E-Hakami/Big-Ambitions-Modding-Reference/tree/main/Builds/Build%203674/Character)
+- [AddressHelper](https://github.com/E-Hakami/Big-Ambitions-Modding-Reference/blob/main/Builds/Build%203674/Streets/AddressHelper.md)
+
 # Disclaimer
 
 This is an unofficial, community-created reference for Big Ambitions.
