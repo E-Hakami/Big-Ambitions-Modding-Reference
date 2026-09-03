@@ -4,7 +4,9 @@
 
 ## Main Reference
 
-[View source](./IDItemUiTemplateData.cs)
+[View source on GitHub](https://github.com/E-Hakami/Big-Ambitions-Modding-Reference/blob/main/Builds/Build%203674/UI.InteriorDesigner/IDItemUiTemplateData.cs)
+
+[View raw source](https://raw.githubusercontent.com/E-Hakami/Big-Ambitions-Modding-Reference/refs/heads/main/Builds/Build%203674/UI.InteriorDesigner/IDItemUiTemplateData.cs)
 
 ## Uses
 

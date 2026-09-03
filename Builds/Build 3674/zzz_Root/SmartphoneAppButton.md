@@ -4,7 +4,9 @@
 
 ## Main Reference
 
-[View source](./SmartphoneAppButton.cs)
+[View source on GitHub](https://github.com/E-Hakami/Big-Ambitions-Modding-Reference/blob/main/Builds/Build%203674/zzz_Root/SmartphoneAppButton.cs)
+
+[View raw source](https://raw.githubusercontent.com/E-Hakami/Big-Ambitions-Modding-Reference/refs/heads/main/Builds/Build%203674/zzz_Root/SmartphoneAppButton.cs)
 
 ## Uses
 

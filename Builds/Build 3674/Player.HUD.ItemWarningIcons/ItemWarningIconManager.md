@@ -4,7 +4,9 @@
 
 ## Main Reference
 
-[View source](./ItemWarningIconManager.cs)
+[View source on GitHub](https://github.com/E-Hakami/Big-Ambitions-Modding-Reference/blob/main/Builds/Build%203674/Player.HUD.ItemWarningIcons/ItemWarningIconManager.cs)
+
+[View raw source](https://raw.githubusercontent.com/E-Hakami/Big-Ambitions-Modding-Reference/refs/heads/main/Builds/Build%203674/Player.HUD.ItemWarningIcons/ItemWarningIconManager.cs)
 
 ## Uses
 

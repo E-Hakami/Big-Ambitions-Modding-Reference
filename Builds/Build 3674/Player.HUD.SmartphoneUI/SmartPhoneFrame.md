@@ -4,7 +4,9 @@
 
 ## Main Reference
 
-[View source](./SmartPhoneFrame.cs)
+[View source on GitHub](https://github.com/E-Hakami/Big-Ambitions-Modding-Reference/blob/main/Builds/Build%203674/Player.HUD.SmartphoneUI/SmartPhoneFrame.cs)
+
+[View raw source](https://raw.githubusercontent.com/E-Hakami/Big-Ambitions-Modding-Reference/refs/heads/main/Builds/Build%203674/Player.HUD.SmartphoneUI/SmartPhoneFrame.cs)
 
 ## Uses
 

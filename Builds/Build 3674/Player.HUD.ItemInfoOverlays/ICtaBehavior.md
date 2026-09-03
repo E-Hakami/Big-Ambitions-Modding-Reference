@@ -4,7 +4,9 @@
 
 ## Main Reference
 
-[View source](./ICtaBehavior.cs)
+[View source on GitHub](https://github.com/E-Hakami/Big-Ambitions-Modding-Reference/blob/main/Builds/Build%203674/Player.HUD.ItemInfoOverlays/ICtaBehavior.cs)
+
+[View raw source](https://raw.githubusercontent.com/E-Hakami/Big-Ambitions-Modding-Reference/refs/heads/main/Builds/Build%203674/Player.HUD.ItemInfoOverlays/ICtaBehavior.cs)
 
 ## Uses
 

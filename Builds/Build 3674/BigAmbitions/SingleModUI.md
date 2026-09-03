@@ -4,7 +4,9 @@
 
 ## Main Reference
 
-[View source](./SingleModUI.cs)
+[View source on GitHub](https://github.com/E-Hakami/Big-Ambitions-Modding-Reference/blob/main/Builds/Build%203674/BigAmbitions/SingleModUI.cs)
+
+[View raw source](https://raw.githubusercontent.com/E-Hakami/Big-Ambitions-Modding-Reference/refs/heads/main/Builds/Build%203674/BigAmbitions/SingleModUI.cs)
 
 ## Uses
 
