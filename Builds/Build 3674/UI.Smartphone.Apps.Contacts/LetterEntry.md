@@ -1,10 +1,6 @@
 # LetterEntry
 
-**Type:** Struct
-
-**Declared Types:**
-
-- `LetterEntry`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,7 +12,7 @@
 
 ## Used By
 
-- [EmployeeContactIconSettings](EmployeeContactIconSettings.md)
+- None detected.
 
 ## Notes
 

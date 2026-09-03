@@ -1,10 +1,6 @@
 # FixFurnitureShopTutorialRolledBack
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FixFurnitureShopTutorialRolledBack`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA05](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA05.md)
+- None detected.
 
 ## Notes
 

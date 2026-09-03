@@ -1,10 +1,6 @@
 # PricingManagerFilterToggle
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PricingManagerFilterToggle`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BaseFilterToggle](../UI.Smartphone.Apps.Shared/BaseFilterToggle.md)
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [PricingManagerProductModel](PricingManagerProductModel.md)
+- None detected.
 
 ## Used By
 
-- [PricingManagerFilterController](PricingManagerFilterController.md)
+- None detected.
 
 ## Notes
 

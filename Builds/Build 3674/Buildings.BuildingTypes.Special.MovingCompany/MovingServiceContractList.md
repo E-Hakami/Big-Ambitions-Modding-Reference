@@ -1,10 +1,6 @@
 # MovingServiceContractList
 
-**Type:** Class
-
-**Declared Types:**
-
-- `MovingServiceContractList`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [DialogController](../DialogController.md)
-- [MovingContractEntry](MovingContractEntry.md)
-- [MovingServiceContract](../Entities/MovingServiceContract.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 

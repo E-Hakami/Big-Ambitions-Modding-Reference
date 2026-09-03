@@ -1,10 +1,6 @@
 # SharedOrder
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SharedOrder`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [Order](Order.md)
+- None detected.
 
 ## Used By
 
-- [GetOrder](GetOrder.md)
-- [GetOrderEntriesCount](GetOrderEntriesCount.md)
-- [HasItemInShoppingBasket](HasItemInShoppingBasket.md)
-- [SelectOrderEntry](SelectOrderEntry.md)
+- None detected.
 
 ## Notes
 

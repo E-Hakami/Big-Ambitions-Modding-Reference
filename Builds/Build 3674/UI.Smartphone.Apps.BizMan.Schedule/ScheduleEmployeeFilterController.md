@@ -1,10 +1,6 @@
 # ScheduleEmployeeFilterController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ScheduleEmployeeFilterController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BaseFilterController](../UI.Smartphone.Apps.Shared/BaseFilterController.md)
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [Employee](../Employee.md)
-- [FilterToggleGroup](../UI.Smartphone.Apps.Shared/FilterToggleGroup.md)
-- [JobDemandHelper](../Entities.Employee.JobDemands/JobDemandHelper.md)
-- [PurchaseUI](../UI.Purchase/PurchaseUI.md)
-- [ScheduleEmployeeFilterToggle](ScheduleEmployeeFilterToggle.md)
-- [ScheduleEmployeeModel](ScheduleEmployeeModel.md)
+- None detected.
 
 ## Used By
 
-- [ScheduleEmployeeScrollerController](ScheduleEmployeeScrollerController.md)
+- None detected.
 
 ## Notes
 

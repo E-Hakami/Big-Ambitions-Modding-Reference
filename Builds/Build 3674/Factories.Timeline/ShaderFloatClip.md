@@ -1,10 +1,6 @@
 # ShaderFloatClip
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ShaderFloatClip`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [ShaderFloatBehavior](ShaderFloatBehavior.md)
+- None detected.
 
 ## Used By
 
-- [ShaderTrack](ShaderTrack.md)
+- None detected.
 
 ## Notes
 

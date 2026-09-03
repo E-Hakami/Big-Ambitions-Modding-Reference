@@ -1,10 +1,6 @@
 # CustomerDemand
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CustomerDemand`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,23 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [Item](../BusinessLayoutSets/Item.md)
+- None detected.
 
 ## Used By
 
-- [AddressableLoader](../BigAmbitions.SaveSystem/AddressableLoader.md)
-- [Customer](../Customer.md)
-- [CustomerDemandHelper](CustomerDemandHelper.md)
-- [EmployeeUniformsCustomerDemand](EmployeeUniformsCustomerDemand.md)
-- [InteriorDesignCustomerDemand](InteriorDesignCustomerDemand.md)
-- [MusicCustomerDemand](MusicCustomerDemand.md)
-- [SeatingCustomerDemand](SeatingCustomerDemand.md)
-- [SinkCustomerDemand](SinkCustomerDemand.md)
-- [ToiletCustomerDemand](ToiletCustomerDemand.md)
-- [ToiletPrivacyCustomerDemand](ToiletPrivacyCustomerDemand.md)
-- [WorkoutVarietyCustomerDemand](WorkoutVarietyCustomerDemand.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # HoverMonoBehaviour
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HoverMonoBehaviour`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [ScheduleHourToggle](../UI.Smartphone.Apps.BizMan.Schedule/ScheduleHourToggle.md)
+- None detected.
 
 ## Notes
 

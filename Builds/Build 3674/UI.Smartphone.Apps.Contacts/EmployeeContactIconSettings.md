@@ -1,10 +1,6 @@
 # EmployeeContactIconSettings
 
-**Type:** Class
-
-**Declared Types:**
-
-- `EmployeeContactIconSettings`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [ContactIconData](ContactIconData.md)
-- [Gender](../Character.Customization/Gender.md)
-- [LetterEntry](LetterEntry.md)
+- None detected.
 
 ## Used By
 
-- [ContactsApp](ContactsApp.md)
-- [ContactScrollerController](ContactScrollerController.md)
+- None detected.
 
 ## Notes
 

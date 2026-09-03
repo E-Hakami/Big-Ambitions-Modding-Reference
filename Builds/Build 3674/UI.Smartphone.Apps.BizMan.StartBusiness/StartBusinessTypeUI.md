@@ -1,10 +1,6 @@
 # StartBusinessTypeUI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `StartBusinessTypeUI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BasicTooltip](../BasicTooltip.md)
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BusinessType](../BusinessType.md)
-- [HudConfirm](../HudConfirm.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [StartBusinessInventorySourceEntry](StartBusinessInventorySourceEntry.md)
+- None detected.
 
 ## Used By
 
-- [StartBusinessUI](StartBusinessUI.md)
+- None detected.
 
 ## Notes
 

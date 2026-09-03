@@ -1,10 +1,6 @@
 # GridGenerator
 
-**Type:** Class
-
-**Declared Types:**
-
-- `GridGenerator`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [GridCell](GridCell.md)
-- [GridMatrix](GridMatrix.md)
+- None detected.
 
 ## Used By
 
-- [MovingServiceHelper](../Buildings.BuildingTypes.Special.MovingCompany/MovingServiceHelper.md)
+- None detected.
 
 ## Notes
 

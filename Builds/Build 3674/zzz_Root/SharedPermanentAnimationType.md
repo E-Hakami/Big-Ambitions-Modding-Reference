@@ -1,10 +1,6 @@
 # SharedPermanentAnimationType
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SharedPermanentAnimationType`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,9 +12,7 @@
 
 ## Used By
 
-- [GoPlayOnAGameSpot](GoPlayOnAGameSpot.md)
-- [GoPlayOnAGameSpotInstantly](GoPlayOnAGameSpotInstantly.md)
-- [RunPermanentAnimation](RunPermanentAnimation.md)
+- None detected.
 
 ## Notes
 

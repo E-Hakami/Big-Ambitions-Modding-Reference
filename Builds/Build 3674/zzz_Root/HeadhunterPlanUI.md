@@ -1,10 +1,6 @@
 # HeadhunterPlanUI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HeadhunterPlanUI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [GlobalReferences](GlobalReferences.md)
-- [HeadhunterHelper](Buildings.Office.Headquarters/HeadhunterHelper.md)
-- [HeadhunterPlan](Buildings.Office.Headquarters/HeadhunterPlan.md)
-- [NoManagerAssignedPopUp](NoManagerAssignedPopUp.md)
+- None detected.
 
 ## Used By
 
-- [HeadhuntersAutomaticReplacementTab](HeadhuntersAutomaticReplacementTab.md)
-- [HeadhuntersPlanList](UI.Smartphone.Apps.BizMan.Headhunters/HeadhuntersPlanList.md)
-- [HeadhuntersRecruitingTab](HeadhuntersRecruitingTab.md)
+- None detected.
 
 ## Notes
 

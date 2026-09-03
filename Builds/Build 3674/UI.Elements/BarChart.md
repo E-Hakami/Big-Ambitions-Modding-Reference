@@ -1,11 +1,6 @@
 # BarChart
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BarChart`
-- `BarChartEntry`
+**Type:** Source File
 
 ## Main Reference
 
@@ -13,9 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Floor](../Parking.UndergroundParking/Floor.md)
-- [GlobalReferences](../GlobalReferences.md)
+- None detected.
 
 ## Used By
 

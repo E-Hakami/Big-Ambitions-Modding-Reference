@@ -1,10 +1,6 @@
 # AudioListenerPositioner
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AudioListenerPositioner`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [CityMap](CityMap.md)
-- [GameManager](GameManager.md)
+- None detected.
 
 ## Used By
 
-- [LoudSpeakersManager](Player.Sound.Radio/LoudSpeakersManager.md)
-- [RandomClipOnSourceLooped](RandomClipOnSourceLooped.md)
+- None detected.
 
 ## Notes
 

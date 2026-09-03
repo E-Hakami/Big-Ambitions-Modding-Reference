@@ -1,10 +1,6 @@
 # HealthInsuranceNegotiationDialog
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HealthInsuranceNegotiationDialog`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,24 +8,11 @@
 
 ## Uses
 
-- [Dialog](Dialog.md)
-- [DialogController](../DialogController.md)
-- [DialogEntry](../Entities/DialogEntry.md)
-- [HealthInsurancePlanOffer](../Entities/HealthInsurancePlanOffer.md)
-- [Icon](../UI.Dialog/Icon.md)
-- [NegotiationHelper](../Entities/NegotiationHelper.md)
-- [NegotiationOptions](../Entities/NegotiationOptions.md)
-- [Negotiator](../Entities/Negotiator.md)
-- [Notification](../UI.Notification/Notification.md)
-- [Notifications](../UI.Notification/Notifications.md)
-- [PlayerOfferSettings](../UI.Dialog/PlayerOfferSettings.md)
-- [TextMessage](../Entities/TextMessage.md)
+- None detected.
 
 ## Used By
 
-- [CallDialogFactory](CallDialogFactory.md)
-- [CallDialogType](CallDialogType.md)
-- [ContactsApp](../UI.Smartphone.Apps.Contacts/ContactsApp.md)
+- None detected.
 
 ## Notes
 

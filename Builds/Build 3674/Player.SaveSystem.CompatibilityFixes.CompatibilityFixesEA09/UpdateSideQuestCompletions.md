@@ -1,10 +1,6 @@
 # UpdateSideQuestCompletions
 
-**Type:** Class
-
-**Declared Types:**
-
-- `UpdateSideQuestCompletions`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
-- [SideQuest](../Tutorial.SideQuests/SideQuest.md)
-- [SideQuestHelper](../Tutorial.SideQuests/SideQuestHelper.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceTo1](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceTo1.md)
-- [UpdateGameInstanceToEA09](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA09.md)
+- None detected.
 
 ## Notes
 

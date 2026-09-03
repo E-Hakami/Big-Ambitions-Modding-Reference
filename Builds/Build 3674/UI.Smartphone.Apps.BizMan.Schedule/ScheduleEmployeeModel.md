@@ -1,10 +1,6 @@
 # ScheduleEmployeeModel
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ScheduleEmployeeModel`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,19 +8,11 @@
 
 ## Uses
 
-- [BaseEmployeeModel](../UI.Smartphone.Apps.Shared/BaseEmployeeModel.md)
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
+- None detected.
 
 ## Used By
 
-- [ScheduleEmployeeCellView](ScheduleEmployeeCellView.md)
-- [ScheduleEmployeeFilterController](ScheduleEmployeeFilterController.md)
-- [ScheduleEmployeeFilterToggle](ScheduleEmployeeFilterToggle.md)
-- [ScheduleEmployeeInfoBox](ScheduleEmployeeInfoBox.md)
-- [ScheduleEmployeeScrollerController](ScheduleEmployeeScrollerController.md)
-- [ScheduleEmployeeSortToggle](ScheduleEmployeeSortToggle.md)
+- None detected.
 
 ## Notes
 

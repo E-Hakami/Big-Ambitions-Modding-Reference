@@ -1,10 +1,6 @@
 # PlasticSurgeryPricing
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PlasticSurgeryPricing`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,7 +12,7 @@
 
 ## Used By
 
-- [PlasticSurgeryUI](PlasticSurgeryUI.md)
+- None detected.
 
 ## Notes
 

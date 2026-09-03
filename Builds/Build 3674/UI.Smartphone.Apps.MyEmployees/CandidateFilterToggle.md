@@ -1,10 +1,6 @@
 # CandidateFilterToggle
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CandidateFilterToggle`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [CandidateModel](CandidateModel.md)
-- [EmployeeFilterToggleBase](../UI.Smartphone.Apps.Shared/EmployeeFilterToggleBase.md)
-- [MyEmployees](MyEmployees.md)
+- None detected.
 
 ## Used By
 
-- [CandidateFilterController](CandidateFilterController.md)
+- None detected.
 
 ## Notes
 

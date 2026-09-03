@@ -1,10 +1,6 @@
 # IPurchasableAsset
 
-**Type:** Interface
-
-**Declared Types:**
-
-- `IPurchasableAsset`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [Contact](Entities/Contact.md)
-- [Order](Order.md)
+- None detected.
 
 ## Used By
 
-- [BoatController](Boats/BoatController.md)
-- [ContractVehicleForSale](Buildings/ContractVehicleForSale.md)
-- [PurchaseVehicleUI](UI.PurchaseVehicle/PurchaseVehicleUI.md)
-- [ShowcaseVehicleController](Controllers/ShowcaseVehicleController.md)
+- None detected.
 
 ## Notes
 

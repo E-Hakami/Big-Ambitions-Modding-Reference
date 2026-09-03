@@ -1,10 +1,6 @@
 # IEquipmentDemand
 
-**Type:** Interface
-
-**Declared Types:**
-
-- `IEquipmentDemand`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [Employee](../Employee.md)
+- None detected.
 
 ## Used By
 
-- [HasItemInBuilding](HasItemInBuilding.md)
-- [JobDemandHelper](../Entities.Employee.JobDemands/JobDemandHelper.md)
-- [WorksOnItem](WorksOnItem.md)
+- None detected.
 
 ## Notes
 

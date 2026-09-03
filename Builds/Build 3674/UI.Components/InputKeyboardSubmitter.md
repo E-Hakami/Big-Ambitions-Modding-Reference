@@ -1,10 +1,6 @@
 # InputKeyboardSubmitter
 
-**Type:** Class
-
-**Declared Types:**
-
-- `InputKeyboardSubmitter`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [KeyboardInputHelper](KeyboardInputHelper.md)
+- None detected.
 
 ## Used By
 

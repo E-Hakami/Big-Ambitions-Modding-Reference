@@ -1,10 +1,6 @@
 # PlaceVehicleAtPosition
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PlaceVehicleAtPosition`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,7 @@
 
 ## Uses
 
-- [GlobalReferences](../GlobalReferences.md)
-- [QuestAction](../Tutorial/QuestAction.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [VehicleHelper](../Helpers/VehicleHelper.md)
-- [VehicleInstance](../VehicleInstance.md)
-- [VehicleTypeHelper](../Vehicles.VehicleTypes/VehicleTypeHelper.md)
+- None detected.
 
 ## Used By
 

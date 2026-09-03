@@ -1,10 +1,6 @@
 # EconoViewRowType
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `EconoViewRowType`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [EconoView](EconoView.md)
+- None detected.
 
 ## Used By
 
-- [EconoViewIncomeStatementCellView](EconoViewIncomeStatementCellView.md)
-- [EconoViewIncomeStatementModel](EconoViewIncomeStatementModel.md)
-- [EconoViewIncomeStatementScrollerController](EconoViewIncomeStatementScrollerController.md)
+- None detected.
 
 ## Notes
 

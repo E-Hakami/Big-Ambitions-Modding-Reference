@@ -1,10 +1,6 @@
 # QuestActionHypeRandomWholesaleProducts
 
-**Type:** Class
-
-**Declared Types:**
-
-- `QuestActionHypeRandomWholesaleProducts`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BusinessType](../BusinessType.md)
-- [BusinessTypeHelper](../Helpers/BusinessTypeHelper.md)
-- [MarketEventType](../Entities/MarketEventType.md)
-- [NeighborhoodDemand](../Entities/NeighborhoodDemand.md)
-- [NeighborhoodHelper](../NeighborhoodHelper.md)
-- [ProductMarketHelper](../Helpers/ProductMarketHelper.md)
-- [QuestAction](../Tutorial/QuestAction.md)
-- [UpdateMarketDemands](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA04/UpdateMarketDemands.md)
+- None detected.
 
 ## Used By
 

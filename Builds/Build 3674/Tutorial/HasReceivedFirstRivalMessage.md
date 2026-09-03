@@ -1,10 +1,6 @@
 # HasReceivedFirstRivalMessage
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasReceivedFirstRivalMessage`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [QuestRequirement](QuestRequirement.md)
-- [RivalsHelper](../BigAmbitions.Rivals/RivalsHelper.md)
+- None detected.
 
 ## Used By
 

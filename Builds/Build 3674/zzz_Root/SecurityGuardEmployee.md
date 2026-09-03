@@ -1,10 +1,6 @@
 # SecurityGuardEmployee
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SecurityGuardEmployee`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [Employee](Employee.md)
-- [EmployeeStationController](EmployeeStationController.md)
+- None detected.
 
 ## Used By
 
-- [SecurityGuardLockerController](Controllers/SecurityGuardLockerController.md)
+- None detected.
 
 ## Notes
 

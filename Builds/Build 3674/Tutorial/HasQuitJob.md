@@ -1,10 +1,6 @@
 # HasQuitJob
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasQuitJob`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [JobInstance](../JobInstance.md)
-- [QuestRequirement](QuestRequirement.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 

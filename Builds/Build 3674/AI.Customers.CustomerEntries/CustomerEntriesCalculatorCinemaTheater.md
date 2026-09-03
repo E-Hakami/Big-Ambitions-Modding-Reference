@@ -1,10 +1,6 @@
 # CustomerEntriesCalculatorCinemaTheater
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CustomerEntriesCalculatorCinemaTheater`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [CustomerEntriesCalculatorRetail](CustomerEntriesCalculatorRetail.md)
-- [CustomerEntry](CustomerEntry.md)
-- [OrderEntry](../Entities/OrderEntry.md)
+- None detected.
 
 ## Used By
 
-- [CustomerEntriesCalculatorFactory](CustomerEntriesCalculatorFactory.md)
+- None detected.
 
 ## Notes
 

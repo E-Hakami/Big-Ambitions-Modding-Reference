@@ -1,12 +1,6 @@
 # PersonalGoalsUI
 
-**Type:** Multiple
-
-**Declared Types:**
-
-- `PersonalGoalsUI`
-- `SortCategory`
-- `SortDirection`
+**Type:** Source File
 
 ## Main Reference
 
@@ -14,22 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [GameManager](../GameManager.md)
-- [GenericPersonalGoal](../GenericPersonalGoal.md)
-- [PersonalGoalEntry](PersonalGoalEntry.md)
-- [PersonalGoalOverlay](../PersonalGoalOverlay.md)
-- [PersonalGoalTierGroup](PersonalGoalTierGroup.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [UiOrder](../UiOrder.md)
+- None detected.
 
 ## Used By
 
-- [BizManPresentation](../BizManPresentation.md)
-- [BusinessHelper](../Helpers/BusinessHelper.md)
-- [PersonalGoalOverlay](../PersonalGoalOverlay.md)
-- [StartBusinessUI](../UI.Smartphone.Apps.BizMan.StartBusiness/StartBusinessUI.md)
-- [TasksUI](../UI.Tasks/TasksUI.md)
+- None detected.
 
 ## Notes
 

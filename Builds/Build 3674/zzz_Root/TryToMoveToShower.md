@@ -1,10 +1,6 @@
 # TryToMoveToShower
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TryToMoveToShower`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [CharacterMoveToPosition](CharacterMoveToPosition.md)
-- [CustomerTimeState](CustomerTimeState.md)
-- [SharedCustomer](SharedCustomer.md)
-- [SharedItemController](SharedItemController.md)
+- None detected.
 
 ## Used By
 

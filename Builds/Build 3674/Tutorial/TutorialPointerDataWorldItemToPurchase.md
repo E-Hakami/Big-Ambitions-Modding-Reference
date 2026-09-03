@@ -1,10 +1,6 @@
 # TutorialPointerDataWorldItemToPurchase
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TutorialPointerDataWorldItemToPurchase`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [HasPurchasedItem](HasPurchasedItem.md)
-- [ItemController](../ItemController.md)
-- [ItemHelper](../ItemHelper.md)
-- [PlayerHelper](../Helpers/PlayerHelper.md)
-- [TutorialPointerDataWorldItem](TutorialPointerDataWorldItem.md)
-- [VehicleHelper](../Helpers/VehicleHelper.md)
+- None detected.
 
 ## Used By
 

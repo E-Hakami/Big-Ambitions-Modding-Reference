@@ -1,10 +1,6 @@
 # AiCarRescueCheckController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AiCarRescueCheckController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [AiCarRescueCheck](AiCarRescueCheck.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [AiCarRescueCheck](AiCarRescueCheck.md)
+- None detected.
 
 ## Notes
 

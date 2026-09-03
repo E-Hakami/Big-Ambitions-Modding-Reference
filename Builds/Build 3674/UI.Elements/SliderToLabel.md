@@ -1,10 +1,6 @@
 # SliderToLabel
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SliderToLabel`
+**Type:** Source File
 
 ## Main Reference
 

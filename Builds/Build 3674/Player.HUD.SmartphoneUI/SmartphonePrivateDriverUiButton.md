@@ -1,10 +1,6 @@
 # SmartphonePrivateDriverUiButton
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SmartphonePrivateDriverUiButton`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [SmartphonePrivateDriverUI](SmartphonePrivateDriverUI.md)
-- [SmartphoneUI](../SmartphoneUI.md)
-- [VehicleInstance](../VehicleInstance.md)
+- None detected.
 
 ## Used By
 
-- [SmartphonePrivateDriverUI](SmartphonePrivateDriverUI.md)
+- None detected.
 
 ## Notes
 

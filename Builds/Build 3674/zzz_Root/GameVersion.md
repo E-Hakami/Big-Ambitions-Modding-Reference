@@ -1,13 +1,6 @@
 # GameVersion
 
-**Type:** Multiple
-
-**Declared Types:**
-
-- `GameVersion`
-- `ChangelogEntry`
-- `VersionInfo`
-- `EntryType`
+**Type:** Source File
 
 ## Main Reference
 
@@ -15,32 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [BlueprintCompatibilityFixes](Blueprints.Compatibility/BlueprintCompatibilityFixes.md)
-- [BlueprintElementUI](BlueprintsUI/BlueprintElementUI.md)
-- [BlueprintFilterHelper](BlueprintsUI/BlueprintFilterHelper.md)
-- [BlueprintGalleryController](Blueprints/BlueprintGalleryController.md)
-- [BlueprintLibraryController](Blueprints/BlueprintLibraryController.md)
-- [BlueprintsFolderLoader](Blueprints/BlueprintsFolderLoader.md)
-- [BlueprintSortInfo](BlueprintsUI/BlueprintSortInfo.md)
-- [BusinessLayoutSetHelper](BusinessLayoutSets/BusinessLayoutSetHelper.md)
-- [CompatibilityHelper](Player.SaveSystem.CompatibilityFixes/CompatibilityHelper.md)
-- [Feedback](UI.Smartphone.Apps.Feedback/Feedback.md)
-- [MainMenuController](MainMenuController.md)
-- [MyModUI](BigAmbitions/MyModUI.md)
-- [SaveBlueprintUI](UI.InteriorDesigner/SaveBlueprintUI.md)
-- [SaveGameCompatibilityFixes](Player.SaveSystem.CompatibilityFixes/SaveGameCompatibilityFixes.md)
-- [SaveGameCompatibilityUI](Scenes.MainMenu/SaveGameCompatibilityUI.md)
-- [SavegameFeedbackData](UI.Smartphone.Apps.Feedback/SavegameFeedbackData.md)
-- [SaveGameManager](SaveGameManager.md)
-- [SaveGamePathHelper](SaveGamePathHelper.md)
-- [SelectedBlueprintUI](BlueprintsUI/SelectedBlueprintUI.md)
-- [SubscribedModUI](BigAmbitions/SubscribedModUI.md)
-- [SystemRequirement](SystemRequirement.md)
-- [UploadModPanel](BigAmbitions/UploadModPanel.md)
+- None detected.
 
 ## Notes
 

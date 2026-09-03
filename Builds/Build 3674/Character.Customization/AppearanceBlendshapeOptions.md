@@ -1,10 +1,6 @@
 # AppearanceBlendshapeOptions
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AppearanceBlendshapeOptions`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,19 +8,11 @@
 
 ## Uses
 
-- [AppearanceSetter](../AppearanceSetter.md)
-- [BlendshapeOption](BlendshapeOption.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CharacterData](../CharacterData.md)
-- [GameManager](../GameManager.md)
-- [Gender](Gender.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [SliderWithHeader](SliderWithHeader.md)
+- None detected.
 
 ## Used By
 
-- [IntroCharacterCustomizer](../Intro/IntroCharacterCustomizer.md)
-- [PlasticSurgeryUI](PlasticSurgeryUI.md)
+- None detected.
 
 ## Notes
 

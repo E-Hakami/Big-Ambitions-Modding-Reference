@@ -1,10 +1,6 @@
 # SaveBlueprintActionPanelUI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SaveBlueprintActionPanelUI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,7 @@
 
 ## Uses
 
-- [ActionPanelUI](ActionPanelUI.md)
-- [Blueprint](../Blueprints/Blueprint.md)
-- [BlueprintCreatorSystem](../BigAmbitions.BlueprintCreator/BlueprintCreatorSystem.md)
-- [BlueprintDataElement](../Blueprints/BlueprintDataElement.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BusinessType](../BusinessType.md)
-- [BusinessTypeHelper](../Helpers/BusinessTypeHelper.md)
-- [DataElement](../Blueprints/DataElement.md)
-- [DropdownSelector](DropdownSelector.md)
-- [SaveBlueprintUI](SaveBlueprintUI.md)
+- None detected.
 
 ## Used By
 

@@ -1,10 +1,6 @@
 # WholesaleStoreInYourBusinessNeighborhood
 
-**Type:** Class
-
-**Declared Types:**
-
-- `WholesaleStoreInYourBusinessNeighborhood`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [CustomBuildingTarget](CustomBuildingTarget.md)
-- [GlobalEvents](../GlobalEvents.md)
-- [QuestEntryTarget](QuestEntryTarget.md)
+- None detected.
 
 ## Used By
 

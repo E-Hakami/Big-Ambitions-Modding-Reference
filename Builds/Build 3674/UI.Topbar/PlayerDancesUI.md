@@ -1,10 +1,6 @@
 # PlayerDancesUI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PlayerDancesUI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,20 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [ButtonEffects](../ButtonEffects.md)
-- [Dances](../Dancing/Dances.md)
-- [DanceType](../Dancing/DanceType.md)
-- [GameManager](../GameManager.md)
-- [Notification](../UI.Notification/Notification.md)
-- [Notifications](../UI.Notification/Notifications.md)
-- [PlayerDances](../Character/PlayerDances.md)
-- [ThirdPersonCharacter](../ThirdPersonCharacter.md)
-- [Topbar](Topbar.md)
+- None detected.
 
 ## Used By
 
-- [Topbar](Topbar.md)
+- None detected.
 
 ## Notes
 

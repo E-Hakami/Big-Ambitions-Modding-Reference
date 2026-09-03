@@ -1,10 +1,6 @@
 # PedestrianAnimationHandler
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PedestrianAnimationHandler`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BaseHuman](BaseHuman.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [TimeHelper](TimeHelper.md)
-- [UmbrellaHandler](AI/UmbrellaHandler.md)
+- None detected.
 
 ## Used By
 
-- [PedestrianWalkingAiBehavior](Streets.Pedestrians/PedestrianWalkingAiBehavior.md)
+- None detected.
 
 ## Notes
 

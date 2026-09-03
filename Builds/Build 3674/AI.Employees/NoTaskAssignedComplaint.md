@@ -1,10 +1,6 @@
 # NoTaskAssignedComplaint
 
-**Type:** Class
-
-**Declared Types:**
-
-- `NoTaskAssignedComplaint`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Complaint](Complaint.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
+- None detected.
 
 ## Used By
 
-- [ComplaintHelper](ComplaintHelper.md)
+- None detected.
 
 ## Notes
 

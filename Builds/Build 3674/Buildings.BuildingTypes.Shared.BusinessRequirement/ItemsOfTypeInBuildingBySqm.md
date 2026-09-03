@@ -1,10 +1,6 @@
 # ItemsOfTypeInBuildingBySqm
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ItemsOfTypeInBuildingBySqm`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BuildingSizeHelper](../Buildings/BuildingSizeHelper.md)
-- [BusinessRequirement](BusinessRequirement.md)
-- [ItemsOfTypeInBuilding](ItemsOfTypeInBuilding.md)
+- None detected.
 
 ## Used By
 
-- [AddRequiredBathroomItemsAndChangingRoomsToDeliverySpots](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA08/AddRequiredBathroomItemsAndChangingRoomsToDeliverySpots.md)
-- [BizManBusiness](../BizManBusiness.md)
-- [TasksUI](../UI.Tasks/TasksUI.md)
+- None detected.
 
 ## Notes
 

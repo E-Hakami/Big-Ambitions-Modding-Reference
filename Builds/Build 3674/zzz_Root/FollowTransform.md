@@ -1,10 +1,6 @@
 # FollowTransform
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FollowTransform`
+**Type:** Source File
 
 ## Main Reference
 

@@ -1,10 +1,6 @@
 # EmployeeNameOverlay
 
-**Type:** Class
-
-**Declared Types:**
-
-- `EmployeeNameOverlay`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [BusinessEmployeeController](../BusinessEmployeeController.md)
-- [EmployeeStationController](../EmployeeStationController.md)
-- [EntityController](../EntityController.md)
-- [IOverlay](IOverlay.md)
-- [IsPlayerOwnedBusiness](../IsPlayerOwnedBusiness.md)
+- None detected.
 
 ## Used By
 
-- [OverlayHelper](OverlayHelper.md)
+- None detected.
 
 ## Notes
 

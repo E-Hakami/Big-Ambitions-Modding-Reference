@@ -1,10 +1,6 @@
 # DirectionGuider
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DirectionGuider`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,20 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [CityBuildingController](../CityBuildingController.md)
-- [CityManager](../CityManager.md)
-- [DirectionGuiderType](DirectionGuiderType.md)
-- [GlobalEvents](../GlobalEvents.md)
-- [GuidersManager](GuidersManager.md)
-- [PermanentPointsOfInterest](../UI/PermanentPointsOfInterest.md)
-- [PointOfInterest](../PointOfInterest.md)
+- None detected.
 
 ## Used By
 
-- [GuidersManager](GuidersManager.md)
-- [PermanentPointsOfInterest](../UI/PermanentPointsOfInterest.md)
+- None detected.
 
 ## Notes
 

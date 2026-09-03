@@ -1,10 +1,6 @@
 # TicketBoothEmployee
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TicketBoothEmployee`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [CustomerState](CustomerState.md)
-- [SelfServiceEmployee](SelfServiceEmployee.md)
-- [UIs](UI/UIs.md)
+- None detected.
 
 ## Used By
 
-- [TicketBoothController](Controllers/TicketBoothController.md)
+- None detected.
 
 ## Notes
 

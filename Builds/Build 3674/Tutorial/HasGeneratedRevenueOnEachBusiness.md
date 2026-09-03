@@ -1,10 +1,6 @@
 # HasGeneratedRevenueOnEachBusiness
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasGeneratedRevenueOnEachBusiness`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [FinancialSummary](../Entities/FinancialSummary.md)
-- [FinancialSummaryHelper](../Helpers/FinancialSummaryHelper.md)
-- [QuestRequirement](QuestRequirement.md)
+- None detected.
 
 ## Used By
 

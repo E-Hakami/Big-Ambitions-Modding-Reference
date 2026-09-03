@@ -1,10 +1,6 @@
 # BizManFactoryWorkstationPanel
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BizManFactoryWorkstationPanel`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [BizManFactoryMachineList](BizManFactoryMachineList.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [FactoryWorkstationInstance](../FactoryWorkstationInstance.md)
-- [IconSwapper](../UI.Components/IconSwapper.md)
+- None detected.
 
 ## Used By
 
-- [BizManFactoryInvalidWorkstationPanel](BizManFactoryInvalidWorkstationPanel.md)
-- [BizManFactoryValidWorkstationPanel](BizManFactoryValidWorkstationPanel.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # PurchaseUiItem
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PurchaseUiItem`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [AmountSelector](../UI/AmountSelector.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [PurchaseUI](PurchaseUI.md)
+- None detected.
 
 ## Notes
 

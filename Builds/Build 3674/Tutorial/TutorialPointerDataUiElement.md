@@ -1,10 +1,6 @@
 # TutorialPointerDataUiElement
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TutorialPointerDataUiElement`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,21 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [TutorialPointer](TutorialPointer.md)
-- [TutorialPointerData](TutorialPointerData.md)
-- [TutorialPointersManager](TutorialPointersManager.md)
-- [TutorialPointerType](TutorialPointerType.md)
+- None detected.
 
 ## Used By
 
-- [TutorialPointerDataBizManDriverDropdown](TutorialPointerDataBizManDriverDropdown.md)
-- [TutorialPointerDataEconoViewLoanPaymentButton](TutorialPointerDataEconoViewLoanPaymentButton.md)
-- [TutorialPointerDataUiElementCityMapFilter](TutorialPointerDataUiElementCityMapFilter.md)
-- [TutorialPointerDataUiElementDynamicItems](TutorialPointerDataUiElementDynamicItems.md)
-- [TutorialPointerDataUiElementLastBankLoanInputField](TutorialPointerDataUiElementLastBankLoanInputField.md)
-- [TutorialPointerDataUiElementWithVariableItemNamePath](TutorialPointerDataUiElementWithVariableItemNamePath.md)
-- [TutorialPointerDataUiElementWithVariablePath](TutorialPointerDataUiElementWithVariablePath.md)
+- None detected.
 
 ## Notes
 

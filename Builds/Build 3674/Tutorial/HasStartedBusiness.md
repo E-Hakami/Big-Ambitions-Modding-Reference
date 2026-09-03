@@ -1,10 +1,6 @@
 # HasStartedBusiness
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasStartedBusiness`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BuildingSizeHelper](../Buildings/BuildingSizeHelper.md)
-- [BusinessTypeHelper](../Helpers/BusinessTypeHelper.md)
-- [ProductMarketEntry](../Entities/ProductMarketEntry.md)
-- [QuestRequirement](QuestRequirement.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [TimeHelper](../TimeHelper.md)
+- None detected.
 
 ## Used By
 

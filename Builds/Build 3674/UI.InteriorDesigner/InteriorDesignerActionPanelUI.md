@@ -1,10 +1,6 @@
 # InteriorDesignerActionPanelUI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `InteriorDesignerActionPanelUI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [ActionPanelUI](ActionPanelUI.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [InteriorDesignerUI](InteriorDesignerUI.md)
+- None detected.
 
 ## Notes
 

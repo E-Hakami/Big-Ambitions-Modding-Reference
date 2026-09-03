@@ -1,10 +1,6 @@
 # InvestmentFundButton
 
-**Type:** Class
-
-**Declared Types:**
-
-- `InvestmentFundButton`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [EconoView](../UI.Smartphone.Apps.EconoView/EconoView.md)
-- [InvestmentFund](../Entities/InvestmentFund.md)
+- None detected.
 
 ## Used By
 
-- [EconoViewInvestments](../EconoViewInvestments.md)
+- None detected.
 
 ## Notes
 

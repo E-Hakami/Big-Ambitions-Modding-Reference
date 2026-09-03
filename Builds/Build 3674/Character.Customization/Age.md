@@ -1,10 +1,6 @@
 # Age
 
-**Type:** Class
-
-**Declared Types:**
-
-- `Age`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [CitizenData](../AI.Citizens/CitizenData.md)
-- [CitizenHelper](../AI.Citizens/CitizenHelper.md)
-- [IndoorCustomerSpawner](../IndoorCustomerSpawner.md)
-- [Pedestrian](../Streets.Pedestrians/Pedestrian.md)
+- None detected.
 
 ## Notes
 

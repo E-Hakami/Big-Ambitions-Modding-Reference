@@ -1,10 +1,6 @@
 # WaitingLineTransforms
 
-**Type:** Class
-
-**Declared Types:**
-
-- `WaitingLineTransforms`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,9 +12,7 @@
 
 ## Used By
 
-- [WaitingLine](WaitingLine.md)
-- [WaitingLineCustomersManagement](WaitingLineCustomersManagement.md)
-- [WaitingLineVisuals](WaitingLineVisuals.md)
+- None detected.
 
 ## Notes
 

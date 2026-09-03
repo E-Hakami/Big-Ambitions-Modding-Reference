@@ -1,10 +1,6 @@
 # FurnitureItemSearch
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FurnitureItemSearch`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [FurnitureCategoryToggle](FurnitureCategoryToggle.md)
-- [FurnitureTagMatcher](FurnitureTagMatcher.md)
-- [GameManager](../GameManager.md)
-- [IDItemTemplateBase](IDItemTemplateBase.md)
-- [IDItemUiTemplateData](IDItemUiTemplateData.md)
-- [Item](../BusinessLayoutSets/Item.md)
+- None detected.
 
 ## Used By
 
-- [FurnitureActionPanelUi](FurnitureActionPanelUi.md)
-- [IDItemTemplateScrollingController](IDItemTemplateScrollingController.md)
+- None detected.
 
 ## Notes
 

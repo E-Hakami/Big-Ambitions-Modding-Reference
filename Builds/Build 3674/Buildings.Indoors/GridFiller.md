@@ -1,10 +1,6 @@
 # GridFiller
 
-**Type:** Class
-
-**Declared Types:**
-
-- `GridFiller`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [GridMatrix](GridMatrix.md)
+- None detected.
 
 ## Used By
 
-- [MovingServiceHelper](../Buildings.BuildingTypes.Special.MovingCompany/MovingServiceHelper.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # ComplainIfServiceExpensive
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ComplainIfServiceExpensive`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CharacterShowEmojiExpression](CharacterShowEmojiExpression.md)
-- [ExpressionDataContainer](ExpressionDataContainer.md)
-- [Item](BusinessLayoutSets/Item.md)
-- [OrderEntry](Entities/OrderEntry.md)
-- [OrderHelper](OrderHelper.md)
-- [SharedCustomer](SharedCustomer.md)
+- None detected.
 
 ## Used By
 

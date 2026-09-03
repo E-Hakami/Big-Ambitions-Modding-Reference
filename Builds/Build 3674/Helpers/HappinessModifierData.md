@@ -1,10 +1,6 @@
 # HappinessModifierData
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HappinessModifierData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [CharacterStats](../UI.Smartphone.Apps.Persona/CharacterStats.md)
-- [FixHappinessModifierFirstJob](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA011/FixHappinessModifierFirstJob.md)
-- [GameInstance](../GameInstance.md)
-- [HappinessHelper](HappinessHelper.md)
-- [HasHappinessModifier](../Tutorial/HasHappinessModifier.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [UpdateHappinessModifiers](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA04/UpdateHappinessModifiers.md)
+- None detected.
 
 ## Notes
 

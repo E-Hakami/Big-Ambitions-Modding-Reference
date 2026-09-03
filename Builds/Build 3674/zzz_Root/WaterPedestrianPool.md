@@ -1,10 +1,6 @@
 # WaterPedestrianPool
 
-**Type:** Class
-
-**Declared Types:**
-
-- `WaterPedestrianPool`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [PrefabHelper](Helpers/PrefabHelper.md)
-- [WaterPedestrian](WaterPedestrian.md)
+- None detected.
 
 ## Used By
 
-- [PedestrianSpawnerForSwimmingPool](Entities/PedestrianSpawnerForSwimmingPool.md)
+- None detected.
 
 ## Notes
 

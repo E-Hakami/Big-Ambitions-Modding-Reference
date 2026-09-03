@@ -1,10 +1,6 @@
 # MyCreatedModsList
 
-**Type:** Class
-
-**Declared Types:**
-
-- `MyCreatedModsList`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Item](../BusinessLayoutSets/Item.md)
-- [ModCreatorUI](ModCreatorUI.md)
-- [MyModUI](MyModUI.md)
+- None detected.
 
 ## Used By
 
-- [ModCreatorUI](ModCreatorUI.md)
+- None detected.
 
 ## Notes
 

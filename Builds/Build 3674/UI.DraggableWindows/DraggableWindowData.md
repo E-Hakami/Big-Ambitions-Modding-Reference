@@ -1,10 +1,6 @@
 # DraggableWindowData
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DraggableWindowData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [DraggableWindows](DraggableWindows.md)
+- None detected.
 
 ## Used By
 
-- [DraggableWindow](DraggableWindow.md)
-- [DraggableWindows](DraggableWindows.md)
-- [PlayerSettingsData](../Helpers/PlayerSettingsData.md)
-- [PlayerSettingsHelper](../Helpers/PlayerSettingsHelper.md)
-- [UpdatePlayerSettings](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA09/UpdatePlayerSettings.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # IBlueprintCompatibilityFix
 
-**Type:** Interface
-
-**Declared Types:**
-
-- `IBlueprintCompatibilityFix`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [Blueprint](../Blueprints/Blueprint.md)
-- [BusinessLayoutSet](../BusinessLayoutSet.md)
-- [CompatibilityFixScope](CompatibilityFixScope.md)
+- None detected.
 
 ## Used By
 
-- [BlueprintCompatibilityFixes](BlueprintCompatibilityFixes.md)
-- [UpdateLegacyIds](../Blueprints.Compatibility.BlueprintFixesEA11/UpdateLegacyIds.md)
-- [UpdateWorkstationLegacyIds](../Blueprints.Compatibility.BlueprintFixesEA11/UpdateWorkstationLegacyIds.md)
+- None detected.
 
 ## Notes
 

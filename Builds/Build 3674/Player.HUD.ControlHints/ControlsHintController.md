@@ -1,10 +1,6 @@
 # ControlsHintController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ControlsHintController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CityMap](../CityMap.md)
-- [ControlsHintRegistry](ControlsHintRegistry.md)
-- [GlobalEvents](../GlobalEvents.md)
-- [IControlsHintProvider](IControlsHintProvider.md)
+- None detected.
 
 ## Used By
 
-- [ControlsHintsUIController](ControlsHintsUIController.md)
+- None detected.
 
 ## Notes
 

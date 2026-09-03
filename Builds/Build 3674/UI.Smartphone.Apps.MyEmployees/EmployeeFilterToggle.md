@@ -1,10 +1,6 @@
 # EmployeeFilterToggle
 
-**Type:** Class
-
-**Declared Types:**
-
-- `EmployeeFilterToggle`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [EmployeeFilterToggleBase](../UI.Smartphone.Apps.Shared/EmployeeFilterToggleBase.md)
-- [EmployeeModel](EmployeeModel.md)
-- [MyEmployees](MyEmployees.md)
+- None detected.
 
 ## Used By
 
-- [EmployeeFilterController](EmployeeFilterController.md)
+- None detected.
 
 ## Notes
 

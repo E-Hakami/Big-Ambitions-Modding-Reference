@@ -1,10 +1,6 @@
 # CasinoCustomerPool
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CasinoCustomerPool`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,7 @@
 
 ## Uses
 
-- [CasinoCustomer](CasinoCustomer.md)
-- [CasinoRandomAction](CasinoRandomAction.md)
-- [Customer](Customer.md)
-- [CustomerPool](CustomerPool.md)
-- [CustomerType](CustomerType.md)
-- [RemoveDrink](RemoveDrink.md)
+- None detected.
 
 ## Used By
 

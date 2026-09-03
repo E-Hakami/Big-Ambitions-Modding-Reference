@@ -1,10 +1,6 @@
 # WallToolSetup
 
-**Type:** Class
-
-**Declared Types:**
-
-- `WallToolSetup`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [ActionPanelUI](../UI.InteriorDesigner/ActionPanelUI.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [InteriorDesignerHelper](InteriorDesignerHelper.md)
-- [ToolSetup](ToolSetup.md)
-- [UiSound](../UiSound.md)
-- [UiSoundHelper](../UiSoundHelper.md)
+- None detected.
 
 ## Used By
 
-- [InteriorDesignerController](InteriorDesignerController.md)
+- None detected.
 
 ## Notes
 

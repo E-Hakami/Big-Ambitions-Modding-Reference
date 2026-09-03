@@ -1,10 +1,6 @@
 # DraggableWindowHandle
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DraggableWindowHandle`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [DraggableWindows](DraggableWindows.md)
+- None detected.
 
 ## Used By
 
-- [DraggableWindow](DraggableWindow.md)
-- [DraggableWindows](DraggableWindows.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # SewerSteam
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SewerSteam`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [GameManager](GameManager.md)
+- None detected.
 
 ## Used By
 
-- [GameManager](GameManager.md)
-- [TimeOfDayController](TimeOfDayController.md)
+- None detected.
 
 ## Notes
 

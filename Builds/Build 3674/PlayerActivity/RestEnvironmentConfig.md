@@ -1,10 +1,6 @@
 # RestEnvironmentConfig
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RestEnvironmentConfig`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [PlayerActivityBalanceConfig](PlayerActivityBalanceConfig.md)
-- [PlayerActivityEnergyEnvironmentConfig](PlayerActivityEnergyEnvironmentConfig.md)
-- [RestEnvironmentType](RestEnvironmentType.md)
+- None detected.
 
 ## Used By
 
-- [RestEnvironment](RestEnvironment.md)
+- None detected.
 
 ## Notes
 

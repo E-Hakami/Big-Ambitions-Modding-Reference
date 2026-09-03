@@ -1,10 +1,6 @@
 # CollMeshAsNavMeshElement
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CollMeshAsNavMeshElement`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,7 +8,7 @@
 
 ## Uses
 
-- [NavMeshElement](NavMeshElement.md)
+- None detected.
 
 ## Used By
 

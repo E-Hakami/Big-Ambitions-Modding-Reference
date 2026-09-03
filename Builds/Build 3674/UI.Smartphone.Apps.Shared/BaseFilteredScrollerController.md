@@ -1,10 +1,6 @@
 # BaseFilteredScrollerController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BaseFilteredScrollerController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BaseFilterController](BaseFilterController.md)
-- [BaTable](../BaTable/BaTable.md)
-- [BaTableCellView](../BaTable/BaTableCellView.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [BusinessScrollerController](../UI.Smartphone.Apps.BizMan/BusinessScrollerController.md)
-- [CandidateScrollerController](../UI.Smartphone.Apps.MyEmployees/CandidateScrollerController.md)
-- [EmployeeScrollerController](../UI.Smartphone.Apps.MyEmployees/EmployeeScrollerController.md)
+- None detected.
 
 ## Notes
 

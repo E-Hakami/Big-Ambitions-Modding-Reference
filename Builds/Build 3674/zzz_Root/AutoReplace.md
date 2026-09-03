@@ -1,10 +1,6 @@
 # AutoReplace
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AutoReplace`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [AutoHide](AutoHide.md)
-- [AutoHideBase](UI.Components.AutoHide/AutoHideBase.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 

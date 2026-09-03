@@ -1,10 +1,6 @@
 # DonationBucket
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DonationBucket`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,7 @@
 
 ## Uses
 
-- [GameManager](../GameManager.md)
-- [HappinessHelper](../Helpers/HappinessHelper.md)
-- [HudConfirm](../HudConfirm.md)
-- [OutsideInteractableItem](OutsideInteractableItem.md)
-- [PlayerActivityBalanceConfig](../PlayerActivity/PlayerActivityBalanceConfig.md)
-- [PlayerController](../PlayerController.md)
-- [TransactionInfo](../TransactionInfo.md)
+- None detected.
 
 ## Used By
 

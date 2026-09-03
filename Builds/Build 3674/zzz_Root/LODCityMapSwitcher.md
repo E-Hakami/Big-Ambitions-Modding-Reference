@@ -1,10 +1,6 @@
 # LODCityMapSwitcher
 
-**Type:** Class
-
-**Declared Types:**
-
-- `LODCityMapSwitcher`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [GlobalEvents](GlobalEvents.md)
-- [PlayerPrefSettings](PlayerPrefSettings.md)
+- None detected.
 
 ## Used By
 

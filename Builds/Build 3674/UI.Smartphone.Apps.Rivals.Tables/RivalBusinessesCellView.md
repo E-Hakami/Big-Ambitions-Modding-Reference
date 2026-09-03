@@ -1,11 +1,6 @@
 # RivalBusinessesCellView
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RivalBusinessesCellView`
-- `RivalBusinessModel`
+**Type:** Source File
 
 ## Main Reference
 
@@ -13,17 +8,11 @@
 
 ## Uses
 
-- [BaTable](../BaTable/BaTable.md)
-- [BaTableCellView](../BaTable/BaTableCellView.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BusinessType](../BusinessType.md)
-- [CityManager](../CityManager.md)
-- [GlobalReferences](../GlobalReferences.md)
-- [UIs](../UI/UIs.md)
+- None detected.
 
 ## Used By
 
-- [RivalBusinessesTable](RivalBusinessesTable.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # AddressableResolver
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AddressableResolver`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [AddressableLoader](AddressableLoader.md)
-- [ItemHelper](../ItemHelper.md)
-- [PrefabHelper](../Helpers/PrefabHelper.md)
+- None detected.
 
 ## Notes
 

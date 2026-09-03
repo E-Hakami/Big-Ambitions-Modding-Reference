@@ -1,10 +1,6 @@
 # PlayerAgeGoal
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PlayerAgeGoal`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CharacterData](CharacterData.md)
-- [IntBaseGoal](IntBaseGoal.md)
-- [PlayerHelper](Helpers/PlayerHelper.md)
-- [TimeHelper](TimeHelper.md)
+- None detected.
 
 ## Used By
 

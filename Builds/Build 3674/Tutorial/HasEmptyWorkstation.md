@@ -1,10 +1,6 @@
 # HasEmptyWorkstation
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasEmptyWorkstation`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [ItemHelper](../ItemHelper.md)
-- [QuestEntryTarget](QuestEntryTarget.md)
-- [QuestRequirement](QuestRequirement.md)
-- [ScheduleDay](../ScheduleDay.md)
-- [WorkShift](../WorkShift.md)
+- None detected.
 
 ## Used By
 

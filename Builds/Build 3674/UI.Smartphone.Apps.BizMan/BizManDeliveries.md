@@ -1,10 +1,6 @@
 # BizManDeliveries
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BizManDeliveries`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BizMan](BizMan.md)
-- [BizManBusiness](../BizManBusiness.md)
-- [BizManContractSettings](BizManContractSettings.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [DeliveryContract](../Entities/DeliveryContract.md)
-- [DeliveryContractEntry](DeliveryContractEntry.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 
-- [BizManContractSettings](BizManContractSettings.md)
+- None detected.
 
 ## Notes
 

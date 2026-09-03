@@ -1,10 +1,6 @@
 # CeilingPositionOverrideSizeOrientedBounds
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CeilingPositionOverrideSizeOrientedBounds`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,7 +12,7 @@
 
 ## Used By
 
-- [MultipleHeightsBuildingController](MultipleHeightsBuildingController.md)
+- None detected.
 
 ## Notes
 

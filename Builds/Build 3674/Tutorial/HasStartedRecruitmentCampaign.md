@@ -1,10 +1,6 @@
 # HasStartedRecruitmentCampaign
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasStartedRecruitmentCampaign`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [QuestRequirement](QuestRequirement.md)
-- [RecruitmentCampaign](../Entities/RecruitmentCampaign.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 

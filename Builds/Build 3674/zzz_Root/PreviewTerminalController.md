@@ -1,10 +1,6 @@
 # PreviewTerminalController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PreviewTerminalController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [GameManager](GameManager.md)
-- [ItemController](ItemController.md)
-- [OverlayManager](Player.HUD.ItemInfoOverlays/OverlayManager.md)
-- [PreviewTerminalUI](UI.CustomUI/PreviewTerminalUI.md)
+- None detected.
 
 ## Used By
 
-- [ManageCtaBehavior](Player.HUD.ItemInfoOverlays/ManageCtaBehavior.md)
+- None detected.
 
 ## Notes
 

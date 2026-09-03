@@ -1,10 +1,6 @@
 # VehicleBlinker
 
-**Type:** Class
-
-**Declared Types:**
-
-- `VehicleBlinker`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CarFeatures](../CarFeatures.md)
+- None detected.
 
 ## Used By
 
-- [CarController](../CarController.md)
+- None detected.
 
 ## Notes
 

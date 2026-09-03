@@ -1,10 +1,6 @@
 # UniformCustomizer
 
-**Type:** Class
-
-**Declared Types:**
-
-- `UniformCustomizer`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [CharacterCustomizer](Character.Customization/CharacterCustomizer.md)
-- [CharacterData](CharacterData.md)
-- [EmployeePreset](EmployeePreset.md)
-- [GameManager](GameManager.md)
-- [Gender](Character.Customization/Gender.md)
+- None detected.
 
 ## Used By
 
-- [EmployeePresetCustomizer](UI/EmployeePresetCustomizer.md)
-- [UniformEditorTool](UniformEditorTool.md)
+- None detected.
 
 ## Notes
 

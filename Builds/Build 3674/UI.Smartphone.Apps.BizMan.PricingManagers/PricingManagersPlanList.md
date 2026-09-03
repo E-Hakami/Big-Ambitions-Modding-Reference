@@ -1,10 +1,6 @@
 # PricingManagersPlanList
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PricingManagersPlanList`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,26 +8,11 @@
 
 ## Uses
 
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [Dropdown](../UI.Elements/Dropdown.md)
-- [EmployeeHelper](../Helpers/EmployeeHelper.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [HudConfirm](../HudConfirm.md)
-- [NoManagerAssignedPopUp](../NoManagerAssignedPopUp.md)
-- [PricingManagerHelper](../Buildings.Office.Headquarters/PricingManagerHelper.md)
-- [PricingManagerPlan](../Buildings.Office.Headquarters/PricingManagerPlan.md)
-- [PricingManagerPlanUI](PricingManagerPlanUI.md)
-- [PricingManagersPlanListEntry](PricingManagersPlanListEntry.md)
-- [ReorderableList](../UI.Components/ReorderableList.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [TogglePanel](../UI.Elements/TogglePanel.md)
-- [UIs](../UI/UIs.md)
+- None detected.
 
 ## Used By
 
-- [BizManBusiness](../BizManBusiness.md)
+- None detected.
 
 ## Notes
 

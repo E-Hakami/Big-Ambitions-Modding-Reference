@@ -1,10 +1,6 @@
 # MovingServiceSettings
 
-**Type:** Class
-
-**Declared Types:**
-
-- `MovingServiceSettings`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [SpecialServiceSettings](SpecialServiceSettings.md)
+- None detected.
 
 ## Used By
 
-- [DialogEntry](../Entities/DialogEntry.md)
-- [EnumHelpers](../EnumHelpers.md)
-- [MovingServiceContractSettings](../UI.Dialog/MovingServiceContractSettings.md)
-- [MovingServiceDialog](../Dialogs/MovingServiceDialog.md)
-- [MovingServiceHelper](../Buildings.BuildingTypes.Special.MovingCompany/MovingServiceHelper.md)
+- None detected.
 
 ## Notes
 

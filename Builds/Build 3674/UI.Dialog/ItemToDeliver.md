@@ -1,10 +1,6 @@
 # ItemToDeliver
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ItemToDeliver`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [AmountSelector](../UI/AmountSelector.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Dialog](../Dialogs/Dialog.md)
+- None detected.
 
 ## Used By
 

@@ -1,10 +1,6 @@
 # RivalPortraitHelper
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RivalPortraitHelper`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [PortraitGenerator](../Character.Customization/PortraitGenerator.md)
-- [RivalData](RivalData.md)
+- None detected.
 
 ## Used By
 
-- [SelectedRivalUI](../UI.Smartphone.Apps.Rivals/SelectedRivalUI.md)
+- None detected.
 
 ## Notes
 

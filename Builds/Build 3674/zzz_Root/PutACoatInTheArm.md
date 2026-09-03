@@ -1,10 +1,6 @@
 # PutACoatInTheArm
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PutACoatInTheArm`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [SharedNightclubCustomer](SharedNightclubCustomer.md)
+- None detected.
 
 ## Used By
 
-- [NightclubCustomer](NightclubCustomer.md)
-- [NightclubCustomerLeave](NightclubCustomerLeave.md)
+- None detected.
 
 ## Notes
 

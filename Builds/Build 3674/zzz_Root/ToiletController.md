@@ -1,10 +1,6 @@
 # ToiletController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ToiletController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [Employee](Employee.md)
-- [HygieneItemController](HygieneItemController.md)
-- [ThirdPersonCharacter](ThirdPersonCharacter.md)
+- None detected.
 
 ## Used By
 
-- [TryUseToilet](TryUseToilet.md)
+- None detected.
 
 ## Notes
 

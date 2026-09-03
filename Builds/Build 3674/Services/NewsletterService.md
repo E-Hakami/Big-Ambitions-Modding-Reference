@@ -1,11 +1,6 @@
 # NewsletterService
 
-**Type:** Class
-
-**Declared Types:**
-
-- `NewsletterService`
-- `SubscribeRequest`
+**Type:** Source File
 
 ## Main Reference
 
@@ -13,11 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [WelcomeScreen](../Scenes.MainMenu/WelcomeScreen.md)
+- None detected.
 
 ## Notes
 

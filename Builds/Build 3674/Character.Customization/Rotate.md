@@ -1,10 +1,6 @@
 # Rotate
 
-**Type:** Class
-
-**Declared Types:**
-
-- `Rotate`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [CasinoBoatWheelIndoor](../CasinoBoatWheelIndoor.md)
-- [CharacterEditorScene](../CharacterEditorScene.md)
-- [LightRotatorComponent](../LightRotatorComponent.md)
-- [PhysicsGizmos](../PhysicsGizmos.md)
-- [RotateButton](RotateButton.md)
-- [RotateButtonUI](RotateButtonUI.md)
-- [TennisPlayer](../PlayerActivity.Tennis/TennisPlayer.md)
-- [ThirdPersonCharacter](../ThirdPersonCharacter.md)
+- None detected.
 
 ## Notes
 

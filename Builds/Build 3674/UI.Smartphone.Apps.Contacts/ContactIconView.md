@@ -1,10 +1,6 @@
 # ContactIconView
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ContactIconView`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,8 +12,7 @@
 
 ## Used By
 
-- [ContactCellView](ContactCellView.md)
-- [ContactsApp](ContactsApp.md)
+- None detected.
 
 ## Notes
 

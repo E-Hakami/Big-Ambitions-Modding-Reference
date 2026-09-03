@@ -1,10 +1,6 @@
 # CrosswalkToTrafficLightLink
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CrosswalkToTrafficLightLink`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,8 +12,7 @@
 
 ## Used By
 
-- [PedestrianDetector](PedestrianDetector.md)
-- [PedestrianMovementHandler](Streets.Pedestrians/PedestrianMovementHandler.md)
+- None detected.
 
 ## Notes
 

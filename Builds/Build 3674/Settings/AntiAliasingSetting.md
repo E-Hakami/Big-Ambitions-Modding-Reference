@@ -1,10 +1,6 @@
 # AntiAliasingSetting
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `AntiAliasingSetting`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,8 +12,7 @@
 
 ## Used By
 
-- [AntiAliasingHelper](AntiAliasingHelper.md)
-- [Options](../Scenes.MainMenu/Options.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # RouletteEmployeeController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RouletteEmployeeController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CasinoGameEmployeeController](CasinoGameEmployeeController.md)
+- None detected.
 
 ## Used By
 

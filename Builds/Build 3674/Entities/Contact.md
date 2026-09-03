@@ -1,10 +1,6 @@
 # Contact
 
-**Type:** Class
-
-**Declared Types:**
-
-- `Contact`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,93 +8,11 @@
 
 ## Uses
 
-- [AppName](../AppName.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [CallDialogType](../Dialogs/CallDialogType.md)
-- [CandidateSalaryNegotiation](../AI.Employees.SalaryNegotiation/CandidateSalaryNegotiation.md)
-- [ContactCategoryName](../UI.Smartphone.Apps.Contacts/ContactCategoryName.md)
-- [ContactCellView](../UI.Smartphone.Apps.Contacts/ContactCellView.md)
-- [ContactsApp](../UI.Smartphone.Apps.Contacts/ContactsApp.md)
-- [ContactsHelper](ContactsHelper.md)
-- [EmployeeHelper](../Helpers/EmployeeHelper.md)
-- [EmployeeInstance](EmployeeInstance.md)
-- [GlobalReferences](../GlobalReferences.md)
-- [HealthInsurancePlanOffer](HealthInsurancePlanOffer.md)
-- [Notification](../UI.Notification/Notification.md)
-- [Notifications](../UI.Notification/Notifications.md)
-- [NotificationType](../UI.Notification/NotificationType.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [TextMessage](TextMessage.md)
-- [TimeHelper](../TimeHelper.md)
-- [UIs](../UI/UIs.md)
+- None detected.
 
 ## Used By
 
-- [AutoTowServiceHelper](../Dialogs/AutoTowServiceHelper.md)
-- [BizManMarketing](../UI.Smartphone.Apps.BizMan/BizManMarketing.md)
-- [BoatController](../Boats/BoatController.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BusinessHelper](../Helpers/BusinessHelper.md)
-- [CandidateSalaryNegotiation](../AI.Employees.SalaryNegotiation/CandidateSalaryNegotiation.md)
-- [CompatibilityHelper](../Player.SaveSystem.CompatibilityFixes/CompatibilityHelper.md)
-- [ContactCategoryButton](../UI.Smartphone.Apps.Contacts/ContactCategoryButton.md)
-- [ContactCategorySelection](../UI.Smartphone.Apps.Contacts/ContactCategorySelection.md)
-- [ContactModel](../UI.Smartphone.Apps.Contacts/ContactModel.md)
-- [ContactsApp](../UI.Smartphone.Apps.Contacts/ContactsApp.md)
-- [ContactScrollerController](../UI.Smartphone.Apps.Contacts/ContactScrollerController.md)
-- [ContactsHelper](ContactsHelper.md)
-- [ContractVehicleForSale](../Buildings/ContractVehicleForSale.md)
-- [DialogController](../DialogController.md)
-- [DialogUI](../UI.Dialog/DialogUI.md)
-- [EconoViewTaxes](../EconoViewTaxes.md)
-- [EmployeeInstance](EmployeeInstance.md)
-- [FixContactsDescriptionAndMergeDuplicates](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA011/FixContactsDescriptionAndMergeDuplicates.md)
-- [FixEmployeeContactCategories](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixes1/FixEmployeeContactCategories.md)
-- [FixHealthInsuranceAddress](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA08/FixHealthInsuranceAddress.md)
-- [FixKristianBahoodWrongContact](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA04/FixKristianBahoodWrongContact.md)
-- [FixLegacyJobDemandMessageData](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixes1/FixLegacyJobDemandMessageData.md)
-- [FoodDeliveryHelper](../Buildings.BuildingTypes.Special.FoodDelivery/FoodDeliveryHelper.md)
-- [FurnitureDeliveryHelper](../Buildings.BuildingTypes.Special.FurnitureStore/FurnitureDeliveryHelper.md)
-- [GameInstance](../GameInstance.md)
-- [GameManager](../GameManager.md)
-- [HealthInsurancePlanOffer](HealthInsurancePlanOffer.md)
-- [ImportPartnership](ImportPartnership.md)
-- [InitLastCategoryName](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA010/InitLastCategoryName.md)
-- [InteriorInstallationFirmContract](InteriorInstallationFirmContract.md)
-- [InteriorInstallationFirmHelper](../Buildings/InteriorInstallationFirmHelper.md)
-- [IPurchasableAsset](../IPurchasableAsset.md)
-- [JobHelper](../JobHelper.md)
-- [LogisticsManagerPlan](../Buildings.Office.Headquarters/LogisticsManagerPlan.md)
-- [MoveDeliveryReportsToLogisticsAlerts](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixes1/MoveDeliveryReportsToLogisticsAlerts.md)
-- [MoveEmployeeMessagesToEmployeeContacts](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixes1/MoveEmployeeMessagesToEmployeeContacts.md)
-- [MoveSomeSpecialBuildingsToFourthAvenue](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA03/MoveSomeSpecialBuildingsToFourthAvenue.md)
-- [MovingServiceContract](MovingServiceContract.md)
-- [MovingServiceHelper](../Buildings.BuildingTypes.Special.MovingCompany/MovingServiceHelper.md)
-- [ParkingSimulator](../Helpers/ParkingSimulator.md)
-- [PrivateDriverServiceDialog](../Buildings/PrivateDriverServiceDialog.md)
-- [PurchaseVehicleUI](../UI.PurchaseVehicle/PurchaseVehicleUI.md)
-- [RecruitmentCampaign](RecruitmentCampaign.md)
-- [RegenerateWronglyGeneratedAIBusinessEmployees](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA05/RegenerateWronglyGeneratedAIBusinessEmployees.md)
-- [RemoveContactsWithNullId](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA09/RemoveContactsWithNullId.md)
-- [RemoveDeclinedHealthInsurancePlanOffers](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA03/RemoveDeclinedHealthInsurancePlanOffers.md)
-- [RescueVehiclesOnRoofTopsAndPark](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA08/RescueVehiclesOnRoofTopsAndPark.md)
-- [RescueVehiclesUnderStockCo](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA010/RescueVehiclesUnderStockCo.md)
-- [RivalsHelper](../BigAmbitions.Rivals/RivalsHelper.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [ShowcaseVehicleController](../Controllers/ShowcaseVehicleController.md)
-- [SideQuest](../Tutorial.SideQuests/SideQuest.md)
-- [SideQuestUI](../Tutorial.SideQuests/SideQuestUI.md)
-- [SmartphoneUI](../SmartphoneUI.md)
-- [SpecialEmployeeController](../SpecialEmployeeController.md)
-- [TasksUI](../UI.Tasks/TasksUI.md)
-- [TaxHelper](../Helpers/TaxHelper.md)
-- [TutorialHelper](../Helpers/TutorialHelper.md)
-- [UpdateCandidatesToNewSystem](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA03/UpdateCandidatesToNewSystem.md)
-- [UpdateContactsCategories](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA05/UpdateContactsCategories.md)
-- [UpdateWholesalersContactAddress](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA09/UpdateWholesalersContactAddress.md)
-- [VehicleDeliveryHelper](../Vehicles/VehicleDeliveryHelper.md)
-- [VehicleStoreDialog](../Buildings/VehicleStoreDialog.md)
+- None detected.
 
 ## Notes
 

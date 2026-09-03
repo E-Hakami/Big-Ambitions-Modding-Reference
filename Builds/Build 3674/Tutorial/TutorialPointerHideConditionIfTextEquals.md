@@ -1,10 +1,6 @@
 # TutorialPointerHideConditionIfTextEquals
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TutorialPointerHideConditionIfTextEquals`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [TutorialPointerHideCondition](TutorialPointerHideCondition.md)
-- [TutorialPointersManager](TutorialPointersManager.md)
-- [TutorialPointerVariablePathGetter](TutorialPointerVariablePathGetter.md)
+- None detected.
 
 ## Used By
 

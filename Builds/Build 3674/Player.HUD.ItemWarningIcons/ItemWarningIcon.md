@@ -1,10 +1,6 @@
 # ItemWarningIcon
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ItemWarningIcon`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [ItemController](../ItemController.md)
-- [WarningIconType](WarningIconType.md)
+- None detected.
 
 ## Used By
 
-- [ItemWarningIconManager](ItemWarningIconManager.md)
+- None detected.
 
 ## Notes
 

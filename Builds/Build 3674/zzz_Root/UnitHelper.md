@@ -1,10 +1,6 @@
 # UnitHelper
 
-**Type:** Class
-
-**Declared Types:**
-
-- `UnitHelper`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [BlueprintCreatorManager](BigAmbitions.BlueprintCreator/BlueprintCreatorManager.md)
-- [GameManager](GameManager.md)
-- [MarketInsiderNeighborhoodData](UI.Smartphone.Apps.MarketInsider/MarketInsiderNeighborhoodData.md)
-- [NeighborhoodHelper](NeighborhoodHelper.md)
-- [Options](Scenes.MainMenu/Options.md)
-- [RealEstateSettings](UI.Smartphone.Apps.BizMan/RealEstateSettings.md)
+- None detected.
 
 ## Notes
 

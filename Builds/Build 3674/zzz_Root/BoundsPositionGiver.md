@@ -1,10 +1,6 @@
 # BoundsPositionGiver
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BoundsPositionGiver`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,8 +12,7 @@
 
 ## Used By
 
-- [AiSpawnerZone](AiSpawnerZone.md)
-- [StationaryAiSpawner](StationaryAiSpawner.md)
+- None detected.
 
 ## Notes
 

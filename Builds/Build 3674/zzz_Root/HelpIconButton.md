@@ -1,10 +1,6 @@
 # HelpIconButton
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HelpIconButton`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [HelpSystem](HelpSystem.md)
+- None detected.
 
 ## Used By
 
-- [BizManBusiness](BizManBusiness.md)
+- None detected.
 
 ## Notes
 

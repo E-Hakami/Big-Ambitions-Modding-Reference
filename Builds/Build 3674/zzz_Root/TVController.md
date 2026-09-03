@@ -1,10 +1,6 @@
 # TVController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TVController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [EntertainDevice](PlayerActivity/EntertainDevice.md)
-- [IsPlayerOwnedBusiness](IsPlayerOwnedBusiness.md)
-- [ItemController](ItemController.md)
-- [PlayerActivityUI](PlayerActivity/PlayerActivityUI.md)
+- None detected.
 
 ## Used By
 
-- [PlayerActivityCtaBehavior](Player.HUD.ItemInfoOverlays/PlayerActivityCtaBehavior.md)
+- None detected.
 
 ## Notes
 

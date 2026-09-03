@@ -1,10 +1,6 @@
 # TreadmillController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TreadmillController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [WorkoutMachineController](../WorkoutMachineController.md)
+- None detected.
 
 ## Used By
 

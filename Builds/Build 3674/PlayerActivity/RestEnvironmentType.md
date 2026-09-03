@@ -1,10 +1,6 @@
 # RestEnvironmentType
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `RestEnvironmentType`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,10 +12,7 @@
 
 ## Used By
 
-- [EnumHelpers](../EnumHelpers.md)
-- [RestActivity](../PlayerActivity.Activities.Rest/RestActivity.md)
-- [RestEnvironment](RestEnvironment.md)
-- [RestEnvironmentConfig](RestEnvironmentConfig.md)
+- None detected.
 
 ## Notes
 

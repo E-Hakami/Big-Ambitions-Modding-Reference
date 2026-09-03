@@ -1,10 +1,6 @@
 # PlayerActivityEnvironmentConfig
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PlayerActivityEnvironmentConfig`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,10 +12,7 @@
 
 ## Used By
 
-- [HygieneEnvironmentConfig](HygieneEnvironmentConfig.md)
-- [PaidActivityEnvironmentConfig](../PlayerActivity.Activities.Paid/PaidActivityEnvironmentConfig.md)
-- [PlayerActivityEnergyEnvironmentConfig](PlayerActivityEnergyEnvironmentConfig.md)
-- [PlayerActivityEnvironment](PlayerActivityEnvironment.md)
+- None detected.
 
 ## Notes
 

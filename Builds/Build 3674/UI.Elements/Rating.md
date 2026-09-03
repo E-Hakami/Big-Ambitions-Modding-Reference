@@ -1,10 +1,6 @@
 # Rating
 
-**Type:** Class
-
-**Declared Types:**
-
-- `Rating`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [BlueprintSortInfo](../BlueprintsUI/BlueprintSortInfo.md)
-- [EnumHelpers](../EnumHelpers.md)
-- [SortByOption](../BlueprintsUI/SortByOption.md)
-- [SteamWorkshopBlueprint](../Steam/SteamWorkshopBlueprint.md)
+- None detected.
 
 ## Notes
 

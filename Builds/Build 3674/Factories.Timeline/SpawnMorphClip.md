@@ -1,10 +1,6 @@
 # SpawnMorphClip
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SpawnMorphClip`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [SpawnMorphBehavior](SpawnMorphBehavior.md)
+- None detected.
 
 ## Used By
 
-- [SpawnMorphTrack](SpawnMorphTrack.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # SeatFoldingController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SeatFoldingController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [SeatController](SeatController.md)
+- None detected.
 
 ## Used By
 

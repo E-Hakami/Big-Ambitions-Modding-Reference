@@ -1,10 +1,6 @@
 # CasinoWinGoal
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CasinoWinGoal`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [FloatBaseGoal](FloatBaseGoal.md)
-- [SaveGameManager](SaveGameManager.md)
+- None detected.
 
 ## Used By
 

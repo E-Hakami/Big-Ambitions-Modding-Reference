@@ -1,10 +1,6 @@
 # FurnitureDeliveryItem
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FurnitureDeliveryItem`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [FoodDeliveryContract](FoodDeliveryContract.md)
-- [FoodDeliveryDialog](../Dialogs/FoodDeliveryDialog.md)
-- [FoodDeliveryHelper](../Buildings.BuildingTypes.Special.FoodDelivery/FoodDeliveryHelper.md)
-- [FurnitureDeliveriesList](../Dialogs/FurnitureDeliveriesList.md)
-- [FurnitureDeliveryContract](FurnitureDeliveryContract.md)
-- [FurnitureDeliveryHelper](../Buildings.BuildingTypes.Special.FurnitureStore/FurnitureDeliveryHelper.md)
-- [FurnitureStoreManagerDialog](../Dialogs/FurnitureStoreManagerDialog.md)
+- None detected.
 
 ## Notes
 

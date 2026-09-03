@@ -1,10 +1,6 @@
 # Post
 
-**Type:** Class
-
-**Declared Types:**
-
-- `Post`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,8 +12,7 @@
 
 ## Used By
 
-- [Feedback](../UI.Smartphone.Apps.Feedback/Feedback.md)
-- [NewsAndUpdates](NewsAndUpdates.md)
+- None detected.
 
 ## Notes
 

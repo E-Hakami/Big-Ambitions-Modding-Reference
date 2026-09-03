@@ -1,10 +1,6 @@
 # WaitingLineVisuals
 
-**Type:** Class
-
-**Declared Types:**
-
-- `WaitingLineVisuals`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [WaitingLineAnchor](WaitingLineAnchor.md)
-- [WaitingLineData](WaitingLineData.md)
-- [WaitingLineTransforms](WaitingLineTransforms.md)
+- None detected.
 
 ## Used By
 
-- [WaitingLine](WaitingLine.md)
+- None detected.
 
 ## Notes
 

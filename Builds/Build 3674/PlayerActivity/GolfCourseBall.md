@@ -1,10 +1,6 @@
 # GolfCourseBall
 
-**Type:** Class
-
-**Declared Types:**
-
-- `GolfCourseBall`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [GolfCourse](GolfCourse.md)
-- [PlayerHelper](../Helpers/PlayerHelper.md)
+- None detected.
 
 ## Used By
 
-- [GolfCourse](GolfCourse.md)
+- None detected.
 
 ## Notes
 

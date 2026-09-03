@@ -1,10 +1,6 @@
 # ValuationGoal
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ValuationGoal`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [FloatBaseGoal](FloatBaseGoal.md)
-- [PlayerHelper](Helpers/PlayerHelper.md)
+- None detected.
 
 ## Used By
 

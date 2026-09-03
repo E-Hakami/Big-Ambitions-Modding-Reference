@@ -1,10 +1,6 @@
 # LocationHappinessTrigger
 
-**Type:** Class
-
-**Declared Types:**
-
-- `LocationHappinessTrigger`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [HappinessHelper](Helpers/HappinessHelper.md)
-- [PlayerActivityBalanceConfig](PlayerActivity/PlayerActivityBalanceConfig.md)
-- [SaveGameManager](SaveGameManager.md)
-- [TimeHelper](TimeHelper.md)
+- None detected.
 
 ## Used By
 
-- [SubwaySystem](SubwaySystem.md)
+- None detected.
 
 ## Notes
 

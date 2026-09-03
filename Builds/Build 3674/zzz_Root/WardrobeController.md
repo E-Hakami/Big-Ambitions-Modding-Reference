@@ -1,10 +1,6 @@
 # WardrobeController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `WardrobeController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [GameManager](GameManager.md)
-- [ItemController](ItemController.md)
-- [UIs](UI/UIs.md)
+- None detected.
 
 ## Used By
 
-- [PlayerActivityCtaBehavior](Player.HUD.ItemInfoOverlays/PlayerActivityCtaBehavior.md)
-- [UniformLockerController](UniformLockerController.md)
+- None detected.
 
 ## Notes
 

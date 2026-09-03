@@ -1,10 +1,6 @@
 # HeadhuntersDealBreakers
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HeadhuntersDealBreakers`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [HeadhunterHelper](Buildings.Office.Headquarters/HeadhunterHelper.md)
-- [Notification](UI.Notification/Notification.md)
-- [Notifications](UI.Notification/Notifications.md)
+- None detected.
 
 ## Used By
 
-- [HeadhuntersRecruitingTab](HeadhuntersRecruitingTab.md)
+- None detected.
 
 ## Notes
 

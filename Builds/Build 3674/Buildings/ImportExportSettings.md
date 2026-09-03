@@ -1,10 +1,6 @@
 # ImportExportSettings
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ImportExportSettings`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,21 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [GameInstance](../GameInstance.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [SpecialServiceSettings](SpecialServiceSettings.md)
+- None detected.
 
 ## Used By
 
-- [BizManPresentation](../BizManPresentation.md)
-- [DynamicImportTarget](../Tutorial/DynamicImportTarget.md)
-- [DynamicImportTargetProductionLine](../Tutorial/DynamicImportTargetProductionLine.md)
-- [ImportManagerDialog](../Dialogs/ImportManagerDialog.md)
-- [ImportPartnership](../Entities/ImportPartnership.md)
-- [LogisticsManagerPlanUI](../UI.Smartphone.Apps.BizMan.LogisticsManagers/LogisticsManagerPlanUI.md)
-- [ProductMarketHelper](../Helpers/ProductMarketHelper.md)
-- [UpdateMarketEvents](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA09/UpdateMarketEvents.md)
+- None detected.
 
 ## Notes
 

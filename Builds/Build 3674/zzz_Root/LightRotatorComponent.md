@@ -1,10 +1,6 @@
 # LightRotatorComponent
 
-**Type:** Class
-
-**Declared Types:**
-
-- `LightRotatorComponent`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,7 +8,7 @@
 
 ## Uses
 
-- [Rotate](Character.Customization/Rotate.md)
+- None detected.
 
 ## Used By
 

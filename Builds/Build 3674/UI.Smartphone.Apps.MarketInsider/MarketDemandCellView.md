@@ -1,11 +1,6 @@
 # MarketDemandCellView
 
-**Type:** Class
-
-**Declared Types:**
-
-- `MarketDemandCellView`
-- `DemandModel`
+**Type:** Source File
 
 ## Main Reference
 
@@ -13,18 +8,11 @@
 
 ## Uses
 
-- [BaTable](../BaTable/BaTable.md)
-- [BaTableCellView](../BaTable/BaTableCellView.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Item](../BusinessLayoutSets/Item.md)
-- [LocalizationHelper](../Helpers/LocalizationHelper.md)
-- [MarketInsider](MarketInsider.md)
+- None detected.
 
 ## Used By
 
-- [MarketDemandFilterController](MarketDemandFilterController.md)
-- [MarketDemandFilterToggle](MarketDemandFilterToggle.md)
-- [MarketDemandScrollerController](MarketDemandScrollerController.md)
+- None detected.
 
 ## Notes
 

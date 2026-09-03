@@ -1,10 +1,6 @@
 # ProcessSelfServiceOrder
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ProcessSelfServiceOrder`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,7 @@
 
 ## Uses
 
-- [BuildingCleanlinessHelper](Buildings.BuildingTypes.Shared.Dirtiness/BuildingCleanlinessHelper.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [IsPlayerOwnedBusiness](IsPlayerOwnedBusiness.md)
-- [ItemController](ItemController.md)
-- [OrderEntry](Entities/OrderEntry.md)
-- [OrderHelper](OrderHelper.md)
-- [PrefabHelper](Helpers/PrefabHelper.md)
-- [SharedCustomer](SharedCustomer.md)
+- None detected.
 
 ## Used By
 

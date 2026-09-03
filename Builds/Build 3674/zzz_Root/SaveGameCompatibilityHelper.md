@@ -1,10 +1,6 @@
 # SaveGameCompatibilityHelper
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SaveGameCompatibilityHelper`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [MainMenuController](MainMenuController.md)
-- [SaveGamePathHelper](SaveGamePathHelper.md)
+- None detected.
 
 ## Used By
 
-- [LoadGame](Scenes.MainMenu/LoadGame.md)
-- [SaveGameCompatibilityUI](Scenes.MainMenu/SaveGameCompatibilityUI.md)
+- None detected.
 
 ## Notes
 

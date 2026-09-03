@@ -1,10 +1,6 @@
 # SharedOrderEntry
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SharedOrderEntry`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [OrderEntry](Entities/OrderEntry.md)
+- None detected.
 
 ## Used By
 
-- [CheckScaleAndComplainIfRequired](CheckScaleAndComplainIfRequired.md)
-- [SelectOrderEntry](SelectOrderEntry.md)
-- [SelfServiceCustomerTryFindItem](SelfServiceCustomerTryFindItem.md)
-- [TryGrabItemBase](TryGrabItemBase.md)
+- None detected.
 
 ## Notes
 

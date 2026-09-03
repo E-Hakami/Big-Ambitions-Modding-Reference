@@ -1,10 +1,6 @@
 # FilterToggleGroupParent
 
-**Type:** Struct
-
-**Declared Types:**
-
-- `FilterToggleGroupParent`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [FilterToggleGroup](FilterToggleGroup.md)
+- None detected.
 
 ## Used By
 
-- [BaseFilterController](BaseFilterController.md)
+- None detected.
 
 ## Notes
 

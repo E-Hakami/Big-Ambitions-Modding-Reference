@@ -1,10 +1,6 @@
 # HasPricingManagerPlan
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasPricingManagerPlan`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [PricingManagerPlan](../Buildings.Office.Headquarters/PricingManagerPlan.md)
-- [QuestRequirement](QuestRequirement.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 

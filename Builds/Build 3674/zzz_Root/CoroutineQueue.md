@@ -1,10 +1,6 @@
 # CoroutineQueue
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CoroutineQueue`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [ThirdPersonCharacter](ThirdPersonCharacter.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # EducationInfo
 
-**Type:** Class
-
-**Declared Types:**
-
-- `EducationInfo`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [Diploma](../Diploma.md)
-- [DiplomaData](../DiplomaData.md)
-- [DiplomaName](../DiplomaName.md)
-- [EducationHelper](../EducationHelper.md)
-- [EducationInfoEntry](EducationInfoEntry.md)
+- None detected.
 
 ## Used By
 

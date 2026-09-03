@@ -1,10 +1,6 @@
 # AutoHideBase
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AutoHideBase`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [AutoHide](../AutoHide.md)
-- [AutoHideMonitor](../AutoHideMonitor.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [AutoHide](../AutoHide.md)
-- [AutoHideMonitor](../AutoHideMonitor.md)
-- [AutoReplace](../AutoReplace.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # ButtonEffects
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ButtonEffects`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [GameManager](GameManager.md)
-- [UiSound](UiSound.md)
-- [UiSoundHelper](UiSoundHelper.md)
+- None detected.
 
 ## Used By
 
-- [MissionTasksUI](UI.Tasks/MissionTasksUI.md)
-- [PlayerDancesUI](UI.Topbar/PlayerDancesUI.md)
-- [ScheduleEmployeeCellView](UI.Smartphone.Apps.BizMan.Schedule/ScheduleEmployeeCellView.md)
+- None detected.
 
 ## Notes
 

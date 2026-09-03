@@ -1,10 +1,6 @@
 # TutorialPointerHideConditionIfCityMapFilterEnabled
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TutorialPointerHideConditionIfCityMapFilterEnabled`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [TutorialPointerHideCondition](TutorialPointerHideCondition.md)
+- None detected.
 
 ## Used By
 

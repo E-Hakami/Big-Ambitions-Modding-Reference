@@ -1,10 +1,6 @@
 # SaveGameSerializationPolicy
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SaveGameSerializationPolicy`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [SaveGameSerializationHelper](../SaveGameSerializationHelper.md)
+- None detected.
 
 ## Notes
 

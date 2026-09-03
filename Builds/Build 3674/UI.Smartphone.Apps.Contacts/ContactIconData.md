@@ -1,10 +1,6 @@
 # ContactIconData
 
-**Type:** Struct
-
-**Declared Types:**
-
-- `ContactIconData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,9 +12,7 @@
 
 ## Used By
 
-- [ContactsApp](ContactsApp.md)
-- [ContactScrollerController](ContactScrollerController.md)
-- [EmployeeContactIconSettings](EmployeeContactIconSettings.md)
+- None detected.
 
 ## Notes
 

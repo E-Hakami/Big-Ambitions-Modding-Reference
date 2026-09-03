@@ -1,10 +1,6 @@
 # TaxiCtaBehavior
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TaxiCtaBehavior`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,19 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [EntityController](../EntityController.md)
-- [ICtaBehavior](ICtaBehavior.md)
-- [PermanentTaxiController](../PermanentTaxiController.md)
-- [PrivateDriverVehicle](../Helpers/PrivateDriverVehicle.md)
-- [TaxiController](../TaxiController.md)
-- [VehicleHelper](../Helpers/VehicleHelper.md)
-- [VehicleInstance](../VehicleInstance.md)
-- [VehicleType](../Vehicles.VehicleTypes/VehicleType.md)
+- None detected.
 
 ## Used By
 
-- [CtaManager](CtaManager.md)
+- None detected.
 
 ## Notes
 

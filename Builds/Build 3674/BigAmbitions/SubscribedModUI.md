@@ -1,10 +1,6 @@
 # SubscribedModUI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SubscribedModUI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BasicTooltip](../BasicTooltip.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [GameVersion](../GameVersion.md)
-- [SingleModUI](SingleModUI.md)
+- None detected.
 
 ## Used By
 
-- [ModsRow](ModsRow.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # CustomerCapacity
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CustomerCapacity`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [BuildingSizeData](BuildingSizeData.md)
-- [OverlayHelper](Player.HUD.ItemInfoOverlays/OverlayHelper.md)
-- [SimpleOverlayType](Player.HUD.ItemInfoOverlays/SimpleOverlayType.md)
+- None detected.
 
 ## Notes
 

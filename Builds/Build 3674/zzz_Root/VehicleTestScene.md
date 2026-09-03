@@ -1,10 +1,6 @@
 # VehicleTestScene
 
-**Type:** Class
-
-**Declared Types:**
-
-- `VehicleTestScene`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,7 @@
 
 ## Uses
 
-- [AddressableLoader](BigAmbitions.SaveSystem/AddressableLoader.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CarController](CarController.md)
-- [GlobalEvents](GlobalEvents.md)
-- [ParkingLaneGenerator](ParkingLaneGenerator.md)
-- [SfxManager](SfxManager.md)
-- [VehicleController](VehicleController.md)
-- [VehicleType](Vehicles.VehicleTypes/VehicleType.md)
-- [VehicleTypeHelper](Vehicles.VehicleTypes/VehicleTypeHelper.md)
+- None detected.
 
 ## Used By
 

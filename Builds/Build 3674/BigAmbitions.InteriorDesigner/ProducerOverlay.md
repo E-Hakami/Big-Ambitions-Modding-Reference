@@ -1,10 +1,6 @@
 # ProducerOverlay
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ProducerOverlay`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Dropdown](../UI.Elements/Dropdown.md)
-- [DropdownProducerOverlay](DropdownProducerOverlay.md)
-- [InteriorDesignerUI](../UI.InteriorDesigner/InteriorDesignerUI.md)
-- [IProducerOverlay](IProducerOverlay.md)
-- [ItemController](../ItemController.md)
+- None detected.
 
 ## Used By
 
-- [InteriorDesignerController](../Buildings.Indoors.InteriorDesign/InteriorDesignerController.md)
-- [ProducerToolSetup](../Buildings.Indoors.InteriorDesign/ProducerToolSetup.md)
-- [WorldTextProducerOverlay](WorldTextProducerOverlay.md)
+- None detected.
 
 ## Notes
 

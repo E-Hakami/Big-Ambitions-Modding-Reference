@@ -1,10 +1,6 @@
 # BigStrikers
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BigStrikers`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BigStrikersUnit](BigStrikersUnit.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CarnivalPedestrian](../CarnivalPedestrian.md)
-- [ICarnivalNpcItem](ICarnivalNpcItem.md)
-- [NpcItemPositionGiver](../NpcItemPositionGiver.md)
+- None detected.
 
 ## Used By
 
-- [BigStrikersTicketSeller](BigStrikersTicketSeller.md)
-- [BigStrikersUnit](BigStrikersUnit.md)
-- [EnumHelpers](../EnumHelpers.md)
-- [PaidActivityType](../PlayerActivity.Activities.Paid/PaidActivityType.md)
+- None detected.
 
 ## Notes
 

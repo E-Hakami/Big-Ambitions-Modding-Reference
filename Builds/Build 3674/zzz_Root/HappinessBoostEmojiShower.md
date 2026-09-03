@@ -1,10 +1,6 @@
 # HappinessBoostEmojiShower
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HappinessBoostEmojiShower`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [ThirdPersonCharacter](ThirdPersonCharacter.md)
+- None detected.
 
 ## Used By
 
-- [ThirdPersonCharacter](ThirdPersonCharacter.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # BenchPedestrianPool
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BenchPedestrianPool`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [BaseHuman](BaseHuman.md)
-- [BaseHumanPool](BaseHumanPool.md)
-- [HumanHider](HumanHider.md)
+- None detected.
 
 ## Used By
 

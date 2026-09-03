@@ -1,10 +1,6 @@
 # TutorialPointerDataUiElementWithVariableItemNamePath
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TutorialPointerDataUiElementWithVariableItemNamePath`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [TutorialPointerDataUiElement](TutorialPointerDataUiElement.md)
+- None detected.
 
 ## Used By
 

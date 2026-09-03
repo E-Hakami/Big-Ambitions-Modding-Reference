@@ -1,10 +1,6 @@
 # PlaySpotStatus
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `PlaySpotStatus`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,9 +12,7 @@
 
 ## Used By
 
-- [GoPlayOnAGameSpot](../GoPlayOnAGameSpot.md)
-- [GoPlayOnAGameSpotInstantly](../GoPlayOnAGameSpotInstantly.md)
-- [PlaySpotsManager](PlaySpotsManager.md)
+- None detected.
 
 ## Notes
 

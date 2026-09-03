@@ -1,10 +1,6 @@
 # ParkingElevator
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ParkingElevator`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [BuildingManager](../BuildingManager.md)
-- [ElevatorOverlay](../UI.Overlays/ElevatorOverlay.md)
-- [Floor](Floor.md)
-- [GameManager](../GameManager.md)
-- [VehicleController](../VehicleController.md)
+- None detected.
 
 ## Used By
 

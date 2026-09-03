@@ -1,10 +1,6 @@
 # FoodDeliveryJobUI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FoodDeliveryJobUI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,19 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [FoodDeliveryJobHelper](FoodDeliveryJobHelper.md)
-- [FoodDeliveryMission](../Player.PlayerMissions/FoodDeliveryMission.md)
-- [GlobalEvents](../GlobalEvents.md)
-- [HudConfirm](../HudConfirm.md)
-- [MissionTasksUI](../UI.Tasks/MissionTasksUI.md)
-- [PlayerHelper](../Helpers/PlayerHelper.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [UIs](../UI/UIs.md)
+- None detected.
 
 ## Used By
 
-- [TasksUI](../UI.Tasks/TasksUI.md)
+- None detected.
 
 ## Notes
 

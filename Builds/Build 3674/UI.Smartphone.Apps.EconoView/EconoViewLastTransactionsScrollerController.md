@@ -1,10 +1,6 @@
 # EconoViewLastTransactionsScrollerController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `EconoViewLastTransactionsScrollerController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BaTable](../BaTable/BaTable.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [EconoView](EconoView.md)
-- [EconoViewLastTransactionCellView](EconoViewLastTransactionCellView.md)
-- [EconoViewLastTransactionModel](EconoViewLastTransactionModel.md)
-- [EconoViewOverview](EconoViewOverview.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [Transaction](../Transaction.md)
+- None detected.
 
 ## Used By
 
-- [EconoViewOverview](EconoViewOverview.md)
+- None detected.
 
 ## Notes
 

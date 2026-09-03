@@ -1,10 +1,6 @@
 # ModsRow
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ModsRow`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [SubscribedModUI](SubscribedModUI.md)
+- None detected.
 
 ## Used By
 
-- [ModsPanel](ModsPanel.md)
+- None detected.
 
 ## Notes
 

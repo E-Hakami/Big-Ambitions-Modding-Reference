@@ -1,10 +1,6 @@
 # EconoViewFullTransactionsScrollerController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `EconoViewFullTransactionsScrollerController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BaTable](../BaTable/BaTable.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [EconoView](EconoView.md)
-- [EconoViewOverview](EconoViewOverview.md)
-- [EconoViewTransactionCellView](EconoViewTransactionCellView.md)
-- [Transaction](../Transaction.md)
-- [TransactionModel](TransactionModel.md)
+- None detected.
 
 ## Used By
 
-- [EconoViewFullTransactions](EconoViewFullTransactions.md)
+- None detected.
 
 ## Notes
 

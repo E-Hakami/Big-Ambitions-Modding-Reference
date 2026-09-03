@@ -1,10 +1,6 @@
 # GolfCourse
 
-**Type:** Class
-
-**Declared Types:**
-
-- `GolfCourse`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,40 +8,11 @@
 
 ## Uses
 
-- [ActivityWithoutUI](ActivityWithoutUI.md)
-- [AnimationTriggerEvents](../Character/AnimationTriggerEvents.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CameraHelper](../Helpers/CameraHelper.md)
-- [CityManager](../CityManager.md)
-- [CullingManager](../Culling/CullingManager.md)
-- [EnergyHelper](../Helpers/EnergyHelper.md)
-- [GameEvent](../GameEvent.md)
-- [GameManager](../GameManager.md)
-- [GlobalEvents](../GlobalEvents.md)
-- [GolfCart](GolfCart.md)
-- [GolfCourseBall](GolfCourseBall.md)
-- [GolfCourseHole](GolfCourseHole.md)
-- [GolferNpc](../AI/GolferNpc.md)
-- [GolfPlatformController](../Items.SpecialItems/GolfPlatformController.md)
-- [GolfUI](GolfUI.md)
-- [ICullable](../Culling/ICullable.md)
-- [NavigationBlocker](../NavigationBlocker.md)
-- [Notification](../UI.Notification/Notification.md)
-- [Notifications](../UI.Notification/Notifications.md)
-- [NotificationType](../UI.Notification/NotificationType.md)
-- [OverlayManager](../Player.HUD.ItemInfoOverlays/OverlayManager.md)
-- [PlayerActivityBalanceConfig](PlayerActivityBalanceConfig.md)
-- [PlayerActivityUI](PlayerActivityUI.md)
-- [PlayerController](../PlayerController.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [ThirdPersonCharacter](../ThirdPersonCharacter.md)
-- [TransactionInfo](../TransactionInfo.md)
-- [UIs](../UI/UIs.md)
+- None detected.
 
 ## Used By
 
-- [GolfCourseBall](GolfCourseBall.md)
-- [GolfPlatformController](../Items.SpecialItems/GolfPlatformController.md)
+- None detected.
 
 ## Notes
 

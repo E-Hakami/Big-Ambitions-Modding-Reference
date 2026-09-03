@@ -1,10 +1,6 @@
 # StandUpFromSleepingBench
 
-**Type:** Class
-
-**Declared Types:**
-
-- `StandUpFromSleepingBench`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [OutsideBenchController](OutsideBenchController.md)
-- [ThirdPersonCharacter](ThirdPersonCharacter.md)
+- None detected.
 
 ## Used By
 

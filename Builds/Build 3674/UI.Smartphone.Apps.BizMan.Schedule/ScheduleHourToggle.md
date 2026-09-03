@@ -1,10 +1,6 @@
 # ScheduleHourToggle
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ScheduleHourToggle`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [HoverMonoBehaviour](../Extensions/HoverMonoBehaviour.md)
-- [Notification](../UI.Notification/Notification.md)
-- [Notifications](../UI.Notification/Notifications.md)
-- [ScheduleHelper](ScheduleHelper.md)
-- [ScheduleHourToggleGroup](ScheduleHourToggleGroup.md)
+- None detected.
 
 ## Used By
 
-- [ScheduleHourToggleGroup](ScheduleHourToggleGroup.md)
+- None detected.
 
 ## Notes
 

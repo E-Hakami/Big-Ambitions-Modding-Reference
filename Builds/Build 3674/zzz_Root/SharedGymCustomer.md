@@ -1,10 +1,6 @@
 # SharedGymCustomer
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SharedGymCustomer`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [GymCustomer](GymCustomer.md)
+- None detected.
 
 ## Used By
 
-- [ArrivedWithSportClothes](ArrivedWithSportClothes.md)
-- [TryGoChangeGymClothes](TryGoChangeGymClothes.md)
-- [UseShower](UseShower.md)
+- None detected.
 
 ## Notes
 

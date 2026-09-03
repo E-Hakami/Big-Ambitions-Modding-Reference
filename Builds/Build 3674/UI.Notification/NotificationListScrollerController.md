@@ -1,10 +1,6 @@
 # NotificationListScrollerController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `NotificationListScrollerController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BaTable](../BaTable/BaTable.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Notification](Notification.md)
-- [NotificationListCellView](NotificationListCellView.md)
-- [NotificationListModel](NotificationListModel.md)
+- None detected.
 
 ## Used By
 
-- [NotificationsListUI](NotificationsListUI.md)
+- None detected.
 
 ## Notes
 

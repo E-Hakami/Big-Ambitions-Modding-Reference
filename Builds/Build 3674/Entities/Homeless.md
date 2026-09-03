@@ -1,10 +1,6 @@
 # Homeless
 
-**Type:** Class
-
-**Declared Types:**
-
-- `Homeless`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BaseHuman](../BaseHuman.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [HomelessPool](../HomelessPool.md)
-- [StationaryAiSpawner](../StationaryAiSpawner.md)
+- None detected.
 
 ## Notes
 

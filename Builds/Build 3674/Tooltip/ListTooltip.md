@@ -1,10 +1,6 @@
 # ListTooltip
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ListTooltip`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BasicTooltip](../BasicTooltip.md)
-- [TooltipSystem](TooltipSystem.md)
+- None detected.
 
 ## Used By
 
-- [BizManFactoryWorkstationTemplate](../UI.Smartphone.Apps.BizMan.Factory/BizManFactoryWorkstationTemplate.md)
-- [EconoViewInvestments](../EconoViewInvestments.md)
-- [ScheduleCellView](../UI.Smartphone.Apps.BizMan.Schedule/ScheduleCellView.md)
-- [SelectedRivalUI](../UI.Smartphone.Apps.Rivals/SelectedRivalUI.md)
+- None detected.
 
 ## Notes
 

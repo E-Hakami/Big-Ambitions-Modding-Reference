@@ -1,10 +1,6 @@
 # ContactCategorySelection
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ContactCategorySelection`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,19 +8,11 @@
 
 ## Uses
 
-- [AppName](../AppName.md)
-- [Contact](../Entities/Contact.md)
-- [ContactCategory](ContactCategory.md)
-- [ContactCategoryButton](ContactCategoryButton.md)
-- [ContactCategoryName](ContactCategoryName.md)
-- [ContactsApp](ContactsApp.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [SmartphoneUI](../SmartphoneUI.md)
+- None detected.
 
 ## Used By
 
-- [ContactCategoryButton](ContactCategoryButton.md)
-- [ContactsApp](ContactsApp.md)
+- None detected.
 
 ## Notes
 

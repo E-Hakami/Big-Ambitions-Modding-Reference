@@ -1,10 +1,6 @@
 # BuildingTypeLegacyMap
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BuildingTypeLegacyMap`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [LegacyMapperBase](LegacyMapperBase.md)
+- None detected.
 
 ## Used By
 
-- [LegacyHelper](LegacyHelper.md)
-- [UpdateLegacyIds](../Blueprints.Compatibility.BlueprintFixesEA11/UpdateLegacyIds.md)
+- None detected.
 
 ## Notes
 

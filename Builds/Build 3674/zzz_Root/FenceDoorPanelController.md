@@ -1,10 +1,6 @@
 # FenceDoorPanelController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FenceDoorPanelController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [EntityController](EntityController.md)
-- [ItemController](ItemController.md)
+- None detected.
 
 ## Used By
 

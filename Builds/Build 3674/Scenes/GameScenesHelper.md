@@ -1,10 +1,6 @@
 # GameScenesHelper
 
-**Type:** Class
-
-**Declared Types:**
-
-- `GameScenesHelper`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [GameScenes](GameScenes.md)
-- [PlayerPrefSettings](../PlayerPrefSettings.md)
-- [TransitionToSave](../TransitionToSave.md)
+- None detected.
 
 ## Used By
 
-- [LoadScene](../UI.Load/LoadScene.md)
+- None detected.
 
 ## Notes
 

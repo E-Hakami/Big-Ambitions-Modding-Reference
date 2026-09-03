@@ -1,10 +1,6 @@
 # ConfigurableControlsHintProvider
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ConfigurableControlsHintProvider`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [ControlsHint](ControlsHint.md)
-- [ControlsHintConfiguration](ControlsHintConfiguration.md)
-- [ControlsHintRegistry](ControlsHintRegistry.md)
-- [IControlsHintProvider](IControlsHintProvider.md)
+- None detected.
 
 ## Used By
 
-- [ConfigurableControlsHintsToggler](ConfigurableControlsHintsToggler.md)
-- [DrivingControlsHintProvider](DrivingControlsHintProvider.md)
-- [PlacementControlsHintProvider](PlacementControlsHintProvider.md)
+- None detected.
 
 ## Notes
 

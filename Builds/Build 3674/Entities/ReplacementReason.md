@@ -1,10 +1,6 @@
 # ReplacementReason
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `ReplacementReason`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [Satisfaction](../Satisfaction.md)
+- None detected.
 
 ## Used By
 
-- [EmployeeInstance](EmployeeInstance.md)
-- [HeadhunterEmployeeCellView](../UI.Smartphone.Apps.BizMan.HrManagers/HeadhunterEmployeeCellView.md)
-- [HeadhunterEmployeeModel](../UI.Smartphone.Apps.BizMan.HrManagers/HeadhunterEmployeeModel.md)
-- [HeadhunterHelper](../Buildings.Office.Headquarters/HeadhunterHelper.md)
-- [HeadhunterPlan](../Buildings.Office.Headquarters/HeadhunterPlan.md)
-- [HeadhunterReplacementData](HeadhunterReplacementData.md)
+- None detected.
 
 ## Notes
 

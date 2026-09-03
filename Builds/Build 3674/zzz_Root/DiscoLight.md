@@ -1,10 +1,6 @@
 # DiscoLight
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DiscoLight`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [ColorHelper](Helpers/ColorHelper.md)
-- [GameManager](GameManager.md)
-- [GlobalEvents](GlobalEvents.md)
-- [PlayerPrefSettings](PlayerPrefSettings.md)
+- None detected.
 
 ## Used By
 

@@ -1,10 +1,6 @@
 # Dances
 
-**Type:** Class
-
-**Declared Types:**
-
-- `Dances`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [DanceType](DanceType.md)
+- None detected.
 
 ## Used By
 
-- [NightclubDance](../NightclubDance.md)
-- [NightclubDanceInAction](../NightclubDanceInAction.md)
-- [PlayerDancesUI](../UI.Topbar/PlayerDancesUI.md)
+- None detected.
 
 ## Notes
 

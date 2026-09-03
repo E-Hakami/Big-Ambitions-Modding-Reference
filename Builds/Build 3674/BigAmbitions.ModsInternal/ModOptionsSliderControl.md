@@ -1,10 +1,6 @@
 # ModOptionsSliderControl
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ModOptionsSliderControl`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [ModOptionPrefs](ModOptionPrefs.md)
+- None detected.
 
 ## Used By
 

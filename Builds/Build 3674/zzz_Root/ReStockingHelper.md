@@ -1,11 +1,6 @@
 # ReStockingHelper
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ReStockingHelper`
-- `RestockTarget`
+**Type:** Source File
 
 ## Main Reference
 
@@ -13,18 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingRegistration](BuildingRegistration.md)
-- [GameEvent](GameEvent.md)
-- [ItemHelper](ItemHelper.md)
-- [SaveGameManager](SaveGameManager.md)
-- [VehicleInstance](VehicleInstance.md)
+- None detected.
 
 ## Used By
 
-- [BusinessHelper](Helpers/BusinessHelper.md)
-- [ItemHelper](ItemHelper.md)
-- [RetailBusinessSimulator](Buildings.Retail.Simulation/RetailBusinessSimulator.md)
+- None detected.
 
 ## Notes
 

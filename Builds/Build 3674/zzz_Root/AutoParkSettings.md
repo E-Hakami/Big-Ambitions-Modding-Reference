@@ -1,10 +1,6 @@
 # AutoParkSettings
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AutoParkSettings`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,8 +12,7 @@
 
 ## Used By
 
-- [GlobalReferences](GlobalReferences.md)
-- [ParkingLaneGenerator](ParkingLaneGenerator.md)
+- None detected.
 
 ## Notes
 

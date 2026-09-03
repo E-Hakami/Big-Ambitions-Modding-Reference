@@ -1,10 +1,6 @@
 # CustomGameOption
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CustomGameOption`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BasicTooltip](../BasicTooltip.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [CustomGameCheckboxOption](CustomGameCheckboxOption.md)
-- [CustomGameSliderOption](CustomGameSliderOption.md)
+- None detected.
 
 ## Notes
 

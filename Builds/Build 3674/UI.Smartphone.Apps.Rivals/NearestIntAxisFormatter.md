@@ -1,10 +1,6 @@
 # NearestIntAxisFormatter
 
-**Type:** Class
-
-**Declared Types:**
-
-- `NearestIntAxisFormatter`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [SelectedRivalUI](SelectedRivalUI.md)
+- None detected.
 
 ## Notes
 

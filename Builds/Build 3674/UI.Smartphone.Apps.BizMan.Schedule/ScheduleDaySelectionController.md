@@ -1,10 +1,6 @@
 # ScheduleDaySelectionController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ScheduleDaySelectionController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,20 +8,11 @@
 
 ## Uses
 
-- [BasicTooltip](../BasicTooltip.md)
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [EmployeeHelper](../Helpers/EmployeeHelper.md)
-- [EmployeeInstancesQueryInfo](../EmployeeInstancesQueryInfo.md)
-- [ScheduleDay](../ScheduleDay.md)
-- [ScheduleDayButton](ScheduleDayButton.md)
-- [ScheduleHelper](ScheduleHelper.md)
-- [TimeHelper](../TimeHelper.md)
-- [UIs](../UI/UIs.md)
+- None detected.
 
 ## Used By
 
-- [BizManSchedule](BizManSchedule.md)
+- None detected.
 
 ## Notes
 

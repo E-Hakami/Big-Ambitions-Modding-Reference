@@ -1,10 +1,6 @@
 # EmploymentGoal
 
-**Type:** Class
-
-**Declared Types:**
-
-- `EmploymentGoal`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [EmployeeHelper](Helpers/EmployeeHelper.md)
-- [EmployeeInstancesQueryInfo](EmployeeInstancesQueryInfo.md)
-- [IntBaseGoal](IntBaseGoal.md)
+- None detected.
 
 ## Used By
 

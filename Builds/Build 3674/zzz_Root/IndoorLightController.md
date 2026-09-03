@@ -1,10 +1,6 @@
 # IndoorLightController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `IndoorLightController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,21 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [EntityController](EntityController.md)
-- [GameManager](GameManager.md)
-- [GlobalEvents](GlobalEvents.md)
-- [IndoorLightVisibilityManager](IndoorLightVisibilityManager.md)
-- [ItemController](ItemController.md)
-- [PlayerPrefSettings](PlayerPrefSettings.md)
-- [TimeOfDayController](TimeOfDayController.md)
+- None detected.
 
 ## Used By
 
-- [ColorOverlay](BigAmbitions.InteriorDesigner/ColorOverlay.md)
-- [IndoorLightVisibilityManager](IndoorLightVisibilityManager.md)
-- [IndoorSpotlightController](Buildings.Indoors/IndoorSpotlightController.md)
-- [ItemController](ItemController.md)
+- None detected.
 
 ## Notes
 

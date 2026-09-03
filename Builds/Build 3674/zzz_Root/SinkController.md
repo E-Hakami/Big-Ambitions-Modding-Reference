@@ -1,10 +1,6 @@
 # SinkController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SinkController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [HygieneItemController](HygieneItemController.md)
-- [ThirdPersonCharacter](ThirdPersonCharacter.md)
+- None detected.
 
 ## Used By
 
-- [TryUseToilet](TryUseToilet.md)
+- None detected.
 
 ## Notes
 

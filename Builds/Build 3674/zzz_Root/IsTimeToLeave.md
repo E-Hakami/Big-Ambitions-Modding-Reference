@@ -1,10 +1,6 @@
 # IsTimeToLeave
 
-**Type:** Class
-
-**Declared Types:**
-
-- `IsTimeToLeave`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,7 +8,7 @@
 
 ## Uses
 
-- [SharedNightclubCustomer](SharedNightclubCustomer.md)
+- None detected.
 
 ## Used By
 

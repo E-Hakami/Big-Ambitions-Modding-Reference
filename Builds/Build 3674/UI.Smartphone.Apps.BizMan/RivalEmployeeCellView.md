@@ -1,10 +1,6 @@
 # RivalEmployeeCellView
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RivalEmployeeCellView`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,20 +8,11 @@
 
 ## Uses
 
-- [BaTable](../BaTable/BaTable.md)
-- [BaTableCellView](../BaTable/BaTableCellView.md)
-- [BizMan](BizMan.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [DiplomaName](../DiplomaName.md)
-- [EducationHelper](../EducationHelper.md)
-- [Notification](../UI.Notification/Notification.md)
-- [Notifications](../UI.Notification/Notifications.md)
-- [NotificationType](../UI.Notification/NotificationType.md)
-- [RivalEmployeeModel](RivalEmployeeModel.md)
+- None detected.
 
 ## Used By
 
-- [RivalEmployeeScrollerController](RivalEmployeeScrollerController.md)
+- None detected.
 
 ## Notes
 

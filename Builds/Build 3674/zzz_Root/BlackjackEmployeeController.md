@@ -1,10 +1,6 @@
 # BlackjackEmployeeController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BlackjackEmployeeController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [BaseHuman](BaseHuman.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CasinoGameEmployeeController](CasinoGameEmployeeController.md)
-- [ThirdPersonCharacter](ThirdPersonCharacter.md)
+- None detected.
 
 ## Used By
 

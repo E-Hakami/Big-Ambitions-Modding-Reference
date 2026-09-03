@@ -1,10 +1,6 @@
 # IRSEmployee
 
-**Type:** Class
-
-**Declared Types:**
-
-- `IRSEmployee`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,19 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CustomerState](CustomerState.md)
-- [Employee](Employee.md)
-- [Notification](UI.Notification/Notification.md)
-- [Notifications](UI.Notification/Notifications.md)
-- [PurchaseUI](UI.Purchase/PurchaseUI.md)
-- [TaxHelper](Helpers/TaxHelper.md)
-- [TaxPaymentType](Entities/TaxPaymentType.md)
-- [UIs](UI/UIs.md)
+- None detected.
 
 ## Used By
 
-- [IRSStationController](Controllers/IRSStationController.md)
+- None detected.
 
 ## Notes
 

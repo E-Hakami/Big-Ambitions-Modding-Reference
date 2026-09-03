@@ -1,10 +1,6 @@
 # BizManFactoryValidWorkstationPanel
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BizManFactoryValidWorkstationPanel`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,25 +8,11 @@
 
 ## Uses
 
-- [AmountSelector](../UI/AmountSelector.md)
-- [AppName](../AppName.md)
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [BizManFactoryWorkstationPanel](BizManFactoryWorkstationPanel.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BusinessNameGenerator](../UI.Smartphone.Apps.BizMan/BusinessNameGenerator.md)
-- [Dropdown](../UI.Elements/Dropdown.md)
-- [EmployeeHelper](../Helpers/EmployeeHelper.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [FactoryWorkstationInstance](../FactoryWorkstationInstance.md)
-- [GlobalReferences](../GlobalReferences.md)
-- [MyEmployees](../UI.Smartphone.Apps.MyEmployees/MyEmployees.md)
-- [UIs](../UI/UIs.md)
+- None detected.
 
 ## Used By
 
-- [BizManFactory](BizManFactory.md)
-- [BizManFactoryMachineList](BizManFactoryMachineList.md)
+- None detected.
 
 ## Notes
 

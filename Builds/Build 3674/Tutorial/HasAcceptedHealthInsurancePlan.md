@@ -1,10 +1,6 @@
 # HasAcceptedHealthInsurancePlan
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasAcceptedHealthInsurancePlan`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [HrManagerPlan](../Buildings.Office.Headquarters/HrManagerPlan.md)
-- [QuestRequirement](QuestRequirement.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 

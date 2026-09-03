@@ -1,10 +1,6 @@
 # HappinessModifier
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HappinessModifier`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [AddressableLoader](../BigAmbitions.SaveSystem/AddressableLoader.md)
-- [CharacterStats](../UI.Smartphone.Apps.Persona/CharacterStats.md)
-- [HappinessHelper](HappinessHelper.md)
-- [PlayerActivityBalanceConfig](../PlayerActivity/PlayerActivityBalanceConfig.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # JobSummary
 
-**Type:** Class
-
-**Declared Types:**
-
-- `JobSummary`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [DailySummary](DailySummary.md)
+- None detected.
 
 ## Used By
 
-- [DailySummary](DailySummary.md)
-- [DeliveryJobSummary](DeliveryJobSummary.md)
-- [FoodDeliverySummary](FoodDeliverySummary.md)
+- None detected.
 
 ## Notes
 

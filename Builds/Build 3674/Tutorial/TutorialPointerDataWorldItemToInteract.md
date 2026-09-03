@@ -1,10 +1,6 @@
 # TutorialPointerDataWorldItemToInteract
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TutorialPointerDataWorldItemToInteract`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,20 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [Item](../BusinessLayoutSets/Item.md)
-- [ItemController](../ItemController.md)
-- [PlayerHelper](../Helpers/PlayerHelper.md)
-- [TutorialPointerDataWorldItem](TutorialPointerDataWorldItem.md)
+- None detected.
 
 ## Used By
 
-- [TutorialPointerDataWorldItemToInteractIfItemNotGrabbed](TutorialPointerDataWorldItemToInteractIfItemNotGrabbed.md)
-- [TutorialPointerDataWorldItemToInteractIfItemsInHand](TutorialPointerDataWorldItemToInteractIfItemsInHand.md)
-- [TutorialPointerDataWorldItemToInteractIfItemsToPurchaseGrabbed](TutorialPointerDataWorldItemToInteractIfItemsToPurchaseGrabbed.md)
-- [TutorialPointerDataWorldItemToInteractIfItemsToPurchaseGrabbedDynamic](TutorialPointerDataWorldItemToInteractIfItemsToPurchaseGrabbedDynamic.md)
-- [TutorialPointerDataWorldItemToInteractWithVehicle](TutorialPointerDataWorldItemToInteractWithVehicle.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # RealEstateScrollerController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RealEstateScrollerController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [Badge](../UI.Elements/Badge.md)
-- [BaTable](../BaTable/BaTable.md)
-- [BuildingForSale](../BuildingForSale.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [MarketInsider](MarketInsider.md)
-- [RealEstateCellView](RealEstateCellView.md)
-- [RealEstateFilterController](RealEstateFilterController.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 
-- [MarketInsider](MarketInsider.md)
+- None detected.
 
 ## Notes
 

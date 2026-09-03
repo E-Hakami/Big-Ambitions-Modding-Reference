@@ -1,10 +1,6 @@
 # HasHiredEmployee
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasHiredEmployee`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [EmployeeHelper](../Helpers/EmployeeHelper.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [EmployeeInstancesQueryInfo](../EmployeeInstancesQueryInfo.md)
-- [QuestRequirement](QuestRequirement.md)
+- None detected.
 
 ## Used By
 

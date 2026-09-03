@@ -1,10 +1,6 @@
 # EconoViewLastTransactionModel
 
-**Type:** Class
-
-**Declared Types:**
-
-- `EconoViewLastTransactionModel`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [EconoView](EconoView.md)
+- None detected.
 
 ## Used By
 
-- [EconoViewLastTransactionCellView](EconoViewLastTransactionCellView.md)
-- [EconoViewLastTransactionsScrollerController](EconoViewLastTransactionsScrollerController.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # BodyCustomization
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BodyCustomization`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Gender](Gender.md)
-- [GradientSlider](../UI.Components/GradientSlider.md)
-- [IntroCharacterCustomizer](../Intro/IntroCharacterCustomizer.md)
+- None detected.
 
 ## Used By
 
-- [IntroCharacterCustomizer](../Intro/IntroCharacterCustomizer.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # DanceSpot
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DanceSpot`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [ItemController](../ItemController.md)
+- None detected.
 
 ## Used By
 
-- [NightclubBusinessHelper](NightclubBusinessHelper.md)
-- [NightclubCustomer](../NightclubCustomer.md)
-- [NightclubDance](../NightclubDance.md)
-- [NightclubDanceInAction](../NightclubDanceInAction.md)
+- None detected.
 
 ## Notes
 

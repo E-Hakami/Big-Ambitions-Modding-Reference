@@ -1,10 +1,6 @@
 # BusinessSimulator
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BusinessSimulator`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
+- None detected.
 
 ## Used By
 
-- [BusinessType](../BusinessType.md)
-- [FactoryBusinessSimulator](../Buildings.Factory/FactoryBusinessSimulator.md)
-- [OfficeBusinessSimulator](../Buildings.Office/OfficeBusinessSimulator.md)
-- [RetailBusinessSimulator](../Buildings.Retail.Simulation/RetailBusinessSimulator.md)
+- None detected.
 
 ## Notes
 

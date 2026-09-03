@@ -1,10 +1,6 @@
 # BuildingSizeData
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BuildingSizeData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingVersion](BuildingVersion.md)
-- [CustomerCapacity](CustomerCapacity.md)
+- None detected.
 
 ## Used By
 
-- [AddressableLoader](BigAmbitions.SaveSystem/AddressableLoader.md)
-- [BlueprintFilterHelper](BlueprintsUI/BlueprintFilterHelper.md)
-- [BuildingSizeHelper](Buildings/BuildingSizeHelper.md)
+- None detected.
 
 ## Notes
 

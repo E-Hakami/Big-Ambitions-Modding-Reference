@@ -1,10 +1,6 @@
 # FloatBaseGoal
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FloatBaseGoal`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,21 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [GenericPersonalGoal](GenericPersonalGoal.md)
+- None detected.
 
 ## Used By
 
-- [ApartmentValueGoal](ApartmentValueGoal.md)
-- [BankBalanceGoal](BankBalanceGoal.md)
-- [BusinessWeeklyIncomeGoal](BusinessWeeklyIncomeGoal.md)
-- [CarRepairGoal](CarRepairGoal.md)
-- [CasinoWinGoal](CasinoWinGoal.md)
-- [EmployeeMaxLevelGoal](EmployeeMaxLevelGoal.md)
-- [GasPaidGoal](GasPaidGoal.md)
-- [InteriorDesignerPaidGoal](InteriorDesignerPaidGoal.md)
-- [TaxesPaidGoal](TaxesPaidGoal.md)
-- [ValuationGoal](ValuationGoal.md)
+- None detected.
 
 ## Notes
 

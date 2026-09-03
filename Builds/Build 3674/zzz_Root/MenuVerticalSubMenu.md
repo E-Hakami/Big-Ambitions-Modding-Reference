@@ -1,10 +1,6 @@
 # MenuVerticalSubMenu
 
-**Type:** Class
-
-**Declared Types:**
-
-- `MenuVerticalSubMenu`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [MenuVertical](MenuVertical.md)
-- [SubCategoryButton](UI.Components.MenuVerticalCategorized/SubCategoryButton.md)
+- None detected.
 
 ## Used By
 
-- [MenuVertical](MenuVertical.md)
+- None detected.
 
 ## Notes
 

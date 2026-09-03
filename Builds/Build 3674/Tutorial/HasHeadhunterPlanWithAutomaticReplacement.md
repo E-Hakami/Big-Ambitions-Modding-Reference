@@ -1,10 +1,6 @@
 # HasHeadhunterPlanWithAutomaticReplacement
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasHeadhunterPlanWithAutomaticReplacement`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [HeadhunterPlan](../Buildings.Office.Headquarters/HeadhunterPlan.md)
-- [QuestRequirement](QuestRequirement.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 

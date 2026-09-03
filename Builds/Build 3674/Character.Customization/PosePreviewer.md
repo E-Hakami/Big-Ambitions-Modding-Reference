@@ -1,10 +1,6 @@
 # PosePreviewer
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PosePreviewer`
+**Type:** Source File
 
 ## Main Reference
 

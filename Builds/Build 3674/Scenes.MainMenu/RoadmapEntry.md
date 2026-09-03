@@ -1,10 +1,6 @@
 # RoadmapEntry
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RoadmapEntry`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [NextRelease](NextRelease.md)
+- None detected.
 
 ## Notes
 

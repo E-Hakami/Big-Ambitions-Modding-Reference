@@ -1,10 +1,6 @@
 # SharedWorkoutMachineController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SharedWorkoutMachineController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [WorkoutMachineController](WorkoutMachineController.md)
+- None detected.
 
 ## Used By
 
-- [GetWorkoutMachine](GetWorkoutMachine.md)
-- [UseWorkoutMachine](UseWorkoutMachine.md)
+- None detected.
 
 ## Notes
 

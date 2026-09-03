@@ -1,10 +1,6 @@
 # FactoryTimelineHelper
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FactoryTimelineHelper`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,7 +8,7 @@
 
 ## Uses
 
-- [SpawnMorphPlayerData](SpawnMorphPlayerData.md)
+- None detected.
 
 ## Used By
 

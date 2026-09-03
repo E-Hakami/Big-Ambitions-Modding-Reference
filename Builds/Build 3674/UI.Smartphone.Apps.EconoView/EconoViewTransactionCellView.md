@@ -1,10 +1,6 @@
 # EconoViewTransactionCellView
 
-**Type:** Class
-
-**Declared Types:**
-
-- `EconoViewTransactionCellView`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BaTable](../BaTable/BaTable.md)
-- [BaTableCellView](../BaTable/BaTableCellView.md)
-- [EconoView](EconoView.md)
-- [GlobalReferences](../GlobalReferences.md)
-- [PurchaseUI](../UI.Purchase/PurchaseUI.md)
-- [TransactionModel](TransactionModel.md)
+- None detected.
 
 ## Used By
 
-- [EconoViewFullTransactionsScrollerController](EconoViewFullTransactionsScrollerController.md)
+- None detected.
 
 ## Notes
 

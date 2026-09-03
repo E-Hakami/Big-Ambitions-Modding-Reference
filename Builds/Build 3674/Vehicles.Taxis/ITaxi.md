@@ -1,10 +1,6 @@
 # ITaxi
 
-**Type:** Interface
-
-**Declared Types:**
-
-- `ITaxi`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,11 +12,7 @@
 
 ## Used By
 
-- [CityMap](../CityMap.md)
-- [PermanentTaxiController](../PermanentTaxiController.md)
-- [PrivateDriverVehicle](../Helpers/PrivateDriverVehicle.md)
-- [TaxiController](../TaxiController.md)
-- [TaxiSystem](../TaxiSystem.md)
+- None detected.
 
 ## Notes
 

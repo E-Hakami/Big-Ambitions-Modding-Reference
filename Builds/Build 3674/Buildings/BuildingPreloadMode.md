@@ -1,10 +1,6 @@
 # BuildingPreloadMode
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `BuildingPreloadMode`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,8 +12,7 @@
 
 ## Used By
 
-- [BuildingSizeResolver](BuildingSizeResolver.md)
-- [BuildingStructureEntry](BuildingStructureEntry.md)
+- None detected.
 
 ## Notes
 

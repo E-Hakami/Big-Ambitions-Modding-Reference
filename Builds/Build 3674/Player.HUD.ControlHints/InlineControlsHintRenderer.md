@@ -1,10 +1,6 @@
 # InlineControlsHintRenderer
 
-**Type:** Class
-
-**Declared Types:**
-
-- `InlineControlsHintRenderer`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [ControlsHintBinding](ControlsHintBinding.md)
-- [ControlsHintBindingUI](ControlsHintBindingUI.md)
-- [GlobalEvents](../GlobalEvents.md)
+- None detected.
 
 ## Used By
 
-- [SingleControlHintEntry](SingleControlHintEntry.md)
+- None detected.
 
 ## Notes
 

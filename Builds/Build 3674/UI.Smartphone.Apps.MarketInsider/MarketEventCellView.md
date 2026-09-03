@@ -1,11 +1,6 @@
 # MarketEventCellView
 
-**Type:** Class
-
-**Declared Types:**
-
-- `MarketEventCellView`
-- `EventModel`
+**Type:** Source File
 
 ## Main Reference
 
@@ -13,16 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [LocalizationHelper](../Helpers/LocalizationHelper.md)
-- [MarketEvent](../Entities/MarketEvent.md)
-- [MarketEventInfo](../Entities/MarketEventInfo.md)
-- [MarketEventType](../Entities/MarketEventType.md)
-- [MarketInsider](MarketInsider.md)
+- None detected.
 
 ## Used By
 
-- [MarketEventScrollerController](MarketEventScrollerController.md)
+- None detected.
 
 ## Notes
 

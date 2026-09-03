@@ -1,10 +1,6 @@
 # WarehouseProductCellView
 
-**Type:** Class
-
-**Declared Types:**
-
-- `WarehouseProductCellView`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BaTable](../BaTable/BaTable.md)
-- [BaTableCellView](../BaTable/BaTableCellView.md)
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [GlobalReferences](../GlobalReferences.md)
-- [Warehouse](../Entities/Warehouse.md)
-- [WarehouseProductModel](WarehouseProductModel.md)
+- None detected.
 
 ## Used By
 
-- [WarehouseProductsScrollerController](WarehouseProductsScrollerController.md)
+- None detected.
 
 ## Notes
 

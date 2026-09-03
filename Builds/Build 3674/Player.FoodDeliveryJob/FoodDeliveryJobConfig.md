@@ -1,10 +1,6 @@
 # FoodDeliveryJobConfig
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FoodDeliveryJobConfig`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [DeliveryJobTipsConfig](../Vehicles.DeliveryDriverJob/DeliveryJobTipsConfig.md)
+- None detected.
 
 ## Used By
 
-- [FoodDeliveryJobHelper](FoodDeliveryJobHelper.md)
-- [GlobalReferences](../GlobalReferences.md)
+- None detected.
 
 ## Notes
 

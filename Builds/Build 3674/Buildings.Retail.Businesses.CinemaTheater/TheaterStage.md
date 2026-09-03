@@ -1,10 +1,6 @@
 # TheaterStage
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TheaterStage`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,22 +8,11 @@
 
 ## Uses
 
-- [ActorEmployee](ActorEmployee.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [CinemaTheaterBoothController](../Controllers/CinemaTheaterBoothController.md)
-- [CinemaTheaterCustomer](../CinemaTheaterCustomer.md)
-- [CinemaTheaterHelper](CinemaTheaterHelper.md)
-- [Customer](../Customer.md)
-- [IndoorCustomerSpawner](../IndoorCustomerSpawner.md)
-- [ItemController](../ItemController.md)
+- None detected.
 
 ## Used By
 
-- [ActorEmployee](ActorEmployee.md)
-- [CinemaTheaterBoothController](../Controllers/CinemaTheaterBoothController.md)
-- [CinemaTheaterHelper](CinemaTheaterHelper.md)
-- [WatchShow](../WatchShow.md)
+- None detected.
 
 ## Notes
 

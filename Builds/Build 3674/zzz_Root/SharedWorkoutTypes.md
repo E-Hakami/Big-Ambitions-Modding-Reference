@@ -1,10 +1,6 @@
 # SharedWorkoutTypes
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SharedWorkoutTypes`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [WorkoutType](PlayerActivity/WorkoutType.md)
+- None detected.
 
 ## Used By
 
-- [GetWorkoutMachine](GetWorkoutMachine.md)
-- [InitGymWorkout](InitGymWorkout.md)
-- [UseWorkoutMachine](UseWorkoutMachine.md)
+- None detected.
 
 ## Notes
 

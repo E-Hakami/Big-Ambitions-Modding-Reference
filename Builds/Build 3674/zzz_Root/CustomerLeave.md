@@ -1,10 +1,6 @@
 # CustomerLeave
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CustomerLeave`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,7 +8,7 @@
 
 ## Uses
 
-- [Customer](Customer.md)
+- None detected.
 
 ## Used By
 

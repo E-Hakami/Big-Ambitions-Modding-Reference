@@ -1,10 +1,6 @@
 # SharedEmployeeStation
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SharedEmployeeStation`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,7 +8,7 @@
 
 ## Uses
 
-- [EmployeeStationController](EmployeeStationController.md)
+- None detected.
 
 ## Used By
 

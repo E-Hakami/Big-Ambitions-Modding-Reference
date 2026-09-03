@@ -1,10 +1,6 @@
 # UpdateWorkstationLegacyIds
 
-**Type:** Class
-
-**Declared Types:**
-
-- `UpdateWorkstationLegacyIds`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,19 +8,11 @@
 
 ## Uses
 
-- [Blueprint](../Blueprints/Blueprint.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BusinessLayoutSet](../BusinessLayoutSet.md)
-- [CompatibilityFixScope](../Blueprints.Compatibility/CompatibilityFixScope.md)
-- [FactoryItem](../BusinessLayoutSets/FactoryItem.md)
-- [FactoryWorkstationTypeLegacyMap](../BigAmbitions.SaveSystem.Legacy/FactoryWorkstationTypeLegacyMap.md)
-- [IBlueprintCompatibilityFix](../Blueprints.Compatibility/IBlueprintCompatibilityFix.md)
-- [Item](../BusinessLayoutSets/Item.md)
-- [LegacyHelper](../BigAmbitions.SaveSystem.Legacy/LegacyHelper.md)
+- None detected.
 
 ## Used By
 
-- [BlueprintCompatibilityFixes](../Blueprints.Compatibility/BlueprintCompatibilityFixes.md)
+- None detected.
 
 ## Notes
 

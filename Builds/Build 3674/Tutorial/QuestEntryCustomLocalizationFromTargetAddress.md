@@ -1,10 +1,6 @@
 # QuestEntryCustomLocalizationFromTargetAddress
 
-**Type:** Class
-
-**Declared Types:**
-
-- `QuestEntryCustomLocalizationFromTargetAddress`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [AddressTarget](AddressTarget.md)
-- [QuestEntryCustomLocalization](QuestEntryCustomLocalization.md)
+- None detected.
 
 ## Used By
 

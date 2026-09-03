@@ -1,10 +1,6 @@
 # RandomAvailableNavMeshPositionGetter
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RandomAvailableNavMeshPositionGetter`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [PathHelper](../PathHelper.md)
+- None detected.
 
 ## Used By
 
-- [DeliveryJobStartController](../Vehicles.DeliveryDriverJob/DeliveryJobStartController.md)
-- [EntityController](../EntityController.md)
+- None detected.
 
 ## Notes
 

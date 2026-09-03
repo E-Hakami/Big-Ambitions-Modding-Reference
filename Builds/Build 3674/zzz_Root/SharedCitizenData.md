@@ -1,10 +1,6 @@
 # SharedCitizenData
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SharedCitizenData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,7 +8,7 @@
 
 ## Uses
 
-- [CitizenData](AI.Citizens/CitizenData.md)
+- None detected.
 
 ## Used By
 

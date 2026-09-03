@@ -1,10 +1,6 @@
 # RoadPath
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RoadPath`
+**Type:** Source File
 
 ## Main Reference
 

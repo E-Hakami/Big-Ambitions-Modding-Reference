@@ -1,10 +1,6 @@
 # RemoveNonExistingDeliveryDrivers
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RemoveNonExistingDeliveryDrivers`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BuildingRegistration](../BuildingRegistration.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
-- [VehicleSlot](../Entities/VehicleSlot.md)
-- [Warehouse](../Entities/Warehouse.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA010](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA010.md)
+- None detected.
 
 ## Notes
 

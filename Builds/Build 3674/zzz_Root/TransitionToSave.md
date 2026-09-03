@@ -1,10 +1,6 @@
 # TransitionToSave
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TransitionToSave`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [LoadScene](UI.Load/LoadScene.md)
-- [SaveGameManager](SaveGameManager.md)
+- None detected.
 
 ## Used By
 
-- [FuneralUI](UI/FuneralUI.md)
-- [GameScenes](Scenes/GameScenes.md)
-- [GameScenesHelper](Scenes/GameScenesHelper.md)
-- [LoadGame](Scenes.MainMenu/LoadGame.md)
-- [LoadScene](UI.Load/LoadScene.md)
+- None detected.
 
 ## Notes
 

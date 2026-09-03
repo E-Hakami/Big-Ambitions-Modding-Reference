@@ -1,10 +1,6 @@
 # HasViewedHelpPageForTargetBusiness
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasViewedHelpPageForTargetBusiness`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [HelpSlugOverrider](HelpSlugOverrider.md)
-- [HelpSystem](../HelpSystem.md)
-- [QuestRequirement](QuestRequirement.md)
+- None detected.
 
 ## Used By
 

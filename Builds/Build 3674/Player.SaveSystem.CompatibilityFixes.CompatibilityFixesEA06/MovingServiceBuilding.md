@@ -1,10 +1,6 @@
 # MovingServiceBuilding
 
-**Type:** Class
-
-**Declared Types:**
-
-- `MovingServiceBuilding`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA06](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA06.md)
+- None detected.
 
 ## Notes
 

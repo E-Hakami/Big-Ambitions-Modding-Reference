@@ -1,10 +1,6 @@
 # ControlsHintBindingUI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ControlsHintBindingUI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,7 +12,7 @@
 
 ## Used By
 
-- [InlineControlsHintRenderer](InlineControlsHintRenderer.md)
+- None detected.
 
 ## Notes
 

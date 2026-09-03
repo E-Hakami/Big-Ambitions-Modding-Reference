@@ -1,10 +1,6 @@
 # ReorderableListItem
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ReorderableListItem`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [ReorderableList](ReorderableList.md)
+- None detected.
 
 ## Used By
 
-- [LogisticsManagerPlanUI](../UI.Smartphone.Apps.BizMan.LogisticsManagers/LogisticsManagerPlanUI.md)
-- [ReorderableList](ReorderableList.md)
+- None detected.
 
 ## Notes
 

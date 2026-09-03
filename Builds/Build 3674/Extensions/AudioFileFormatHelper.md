@@ -1,10 +1,6 @@
 # AudioFileFormatHelper
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AudioFileFormatHelper`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [Options](../Scenes.MainMenu/Options.md)
-- [RadioPlayer](../RadioPlayer.md)
-- [RadioStationData](../RadioStationData.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # ButtonOverlay
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ButtonOverlay`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,19 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [CashRegisterController](../Controllers/CashRegisterController.md)
-- [CustomerType](../CustomerType.md)
-- [EntityController](../EntityController.md)
-- [IOverlay](IOverlay.md)
-- [Order](../Order.md)
-- [OverlayManager](OverlayManager.md)
-- [ShowcaseShelfController](../Items.SpecialItems/ShowcaseShelfController.md)
+- None detected.
 
 ## Used By
 
-- [OverlayHelper](OverlayHelper.md)
+- None detected.
 
 ## Notes
 

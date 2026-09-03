@@ -1,10 +1,6 @@
 # ControllersHintProviderEntry
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ControllersHintProviderEntry`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [ControlsHint](ControlsHint.md)
-- [IControlsHintProvider](IControlsHintProvider.md)
-- [SingleControlHintEntry](SingleControlHintEntry.md)
+- None detected.
 
 ## Used By
 
-- [ControlsHintsUI](ControlsHintsUI.md)
+- None detected.
 
 ## Notes
 

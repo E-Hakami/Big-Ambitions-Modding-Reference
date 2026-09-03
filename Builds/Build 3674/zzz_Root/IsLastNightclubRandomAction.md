@@ -1,10 +1,6 @@
 # IsLastNightclubRandomAction
 
-**Type:** Class
-
-**Declared Types:**
-
-- `IsLastNightclubRandomAction`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [NightclubRandomAction](NightclubRandomAction.md)
-- [SharedNightclubCustomer](SharedNightclubCustomer.md)
+- None detected.
 
 ## Used By
 

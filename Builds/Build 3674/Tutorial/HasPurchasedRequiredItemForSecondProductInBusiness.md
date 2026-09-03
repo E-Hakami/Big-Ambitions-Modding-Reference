@@ -1,10 +1,6 @@
 # HasPurchasedRequiredItemForSecondProductInBusiness
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasPurchasedRequiredItemForSecondProductInBusiness`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BusinessTypeHelper](../Helpers/BusinessTypeHelper.md)
-- [HasItemTypeAttached](../Furniture.Requirements/HasItemTypeAttached.md)
-- [HasPurchasedDynamicItems](HasPurchasedDynamicItems.md)
-- [Item](../BusinessLayoutSets/Item.md)
-- [QuestEntryTarget](QuestEntryTarget.md)
-- [TutorialDynamicItems](TutorialDynamicItems.md)
+- None detected.
 
 ## Used By
 

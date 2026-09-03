@@ -1,10 +1,6 @@
 # RentBuildingUI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RentBuildingUI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BizMan](BizMan.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [TutorialHelper](../Helpers/TutorialHelper.md)
+- None detected.
 
 ## Used By
 
-- [BizManPresentation](../BizManPresentation.md)
+- None detected.
 
 ## Notes
 

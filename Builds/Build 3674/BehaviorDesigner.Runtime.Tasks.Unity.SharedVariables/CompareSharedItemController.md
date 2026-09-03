@@ -1,10 +1,6 @@
 # CompareSharedItemController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CompareSharedItemController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,7 +8,7 @@
 
 ## Uses
 
-- [SharedItemController](../SharedItemController.md)
+- None detected.
 
 ## Used By
 

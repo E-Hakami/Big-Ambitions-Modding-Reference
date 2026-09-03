@@ -1,10 +1,6 @@
 # RivalEmployeeScrollerController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RivalEmployeeScrollerController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,21 +8,11 @@
 
 ## Uses
 
-- [AiBusinessEmployeeData](../Buildings.BuildingTypes.Shared/AiBusinessEmployeeData.md)
-- [BaTable](../BaTable/BaTable.md)
-- [BizMan](BizMan.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Notification](../UI.Notification/Notification.md)
-- [Notifications](../UI.Notification/Notifications.md)
-- [NotificationType](../UI.Notification/NotificationType.md)
-- [RivalEmployeeCellView](RivalEmployeeCellView.md)
-- [RivalEmployeeModel](RivalEmployeeModel.md)
-- [TimeHelper](../TimeHelper.md)
-- [UIs](../UI/UIs.md)
+- None detected.
 
 ## Used By
 
-- [RivalEmployeesUi](../RivalEmployeesUi.md)
+- None detected.
 
 ## Notes
 

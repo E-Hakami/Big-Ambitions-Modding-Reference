@@ -1,10 +1,6 @@
 # TakenOverBusinessTarget
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TakenOverBusinessTarget`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [BuildingRegistration](../BuildingRegistration.md)
-- [QuestEntryTarget](QuestEntryTarget.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 

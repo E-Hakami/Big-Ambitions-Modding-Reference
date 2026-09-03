@@ -1,10 +1,6 @@
 # WorkoutMachineNpcSpawnerItem
 
-**Type:** Class
-
-**Declared Types:**
-
-- `WorkoutMachineNpcSpawnerItem`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,7 @@
 
 ## Uses
 
-- [BaseHuman](../BaseHuman.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [HandObjectData](HandObjectData.md)
-- [IWorkoutMachine](IWorkoutMachine.md)
-- [NpcSpawnerItem](NpcSpawnerItem.md)
-- [TimeHelper](../TimeHelper.md)
-- [WorkoutAnimatorController](../PlayerActivity/WorkoutAnimatorController.md)
-- [WorkoutExercise](../PlayerActivity/WorkoutExercise.md)
+- None detected.
 
 ## Used By
 

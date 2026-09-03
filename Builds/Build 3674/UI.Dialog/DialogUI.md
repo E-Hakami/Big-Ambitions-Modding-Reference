@@ -1,10 +1,6 @@
 # DialogUI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DialogUI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,25 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CallDialogFactory](../Dialogs/CallDialogFactory.md)
-- [CallDialogType](../Dialogs/CallDialogType.md)
-- [Contact](../Entities/Contact.md)
-- [Dialog](../Dialogs/Dialog.md)
-- [DialogController](../DialogController.md)
-- [GameManager](../GameManager.md)
-- [GlobalEvents](../GlobalEvents.md)
-- [ItemPanelUI](../UI.ItemPanel/ItemPanelUI.md)
-- [NavigationBlocker](../NavigationBlocker.md)
-- [PedestrianCam](../CameraControllers/PedestrianCam.md)
-- [ThirdPersonCharacter](../ThirdPersonCharacter.md)
-- [UIs](../UI/UIs.md)
+- None detected.
 
 ## Used By
 
-- [CancelButtonHandler](../CancelButtonHandler.md)
-- [PlayerHUD](../UI.PlayerHUD/PlayerHUD.md)
-- [TutorialPointerDataUiElementLastBankLoanInputField](../Tutorial/TutorialPointerDataUiElementLastBankLoanInputField.md)
+- None detected.
 
 ## Notes
 

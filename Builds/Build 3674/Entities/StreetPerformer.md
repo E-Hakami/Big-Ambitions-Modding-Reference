@@ -1,10 +1,6 @@
 # StreetPerformer
 
-**Type:** Class
-
-**Declared Types:**
-
-- `StreetPerformer`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,19 +8,11 @@
 
 ## Uses
 
-- [AttachedObjectData](../AttachedObjectData.md)
-- [BaseHuman](../BaseHuman.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Gender](../Character.Customization/Gender.md)
-- [GlobalReferences](../GlobalReferences.md)
-- [PerformerObjectData](PerformerObjectData.md)
-- [PrefabHelper](../Helpers/PrefabHelper.md)
-- [StreetPerformerData](StreetPerformerData.md)
+- None detected.
 
 ## Used By
 
-- [StationaryAiSpawner](../StationaryAiSpawner.md)
-- [StreetPerformerPool](../StreetPerformerPool.md)
+- None detected.
 
 ## Notes
 

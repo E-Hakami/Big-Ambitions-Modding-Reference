@@ -1,10 +1,6 @@
 # SceneLoader
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SceneLoader`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [GameScenes](../Scenes/GameScenes.md)
-- [GlobalReferences](../GlobalReferences.md)
-- [ProgressBar](../UI.Elements/ProgressBar.md)
+- None detected.
 
 ## Used By
 
-- [LoadingScreen](LoadingScreen.md)
+- None detected.
 
 ## Notes
 

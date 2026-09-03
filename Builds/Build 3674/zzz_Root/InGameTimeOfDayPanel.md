@@ -1,10 +1,6 @@
 # InGameTimeOfDayPanel
 
-**Type:** Class
-
-**Declared Types:**
-
-- `InGameTimeOfDayPanel`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [GameManager](GameManager.md)
-- [InteriorDesignerHelper](Buildings.Indoors.InteriorDesign/InteriorDesignerHelper.md)
-- [SaveGameManager](SaveGameManager.md)
-- [TimeOfDayController](TimeOfDayController.md)
+- None detected.
 
 ## Used By
 
-- [TimeOfDayController](TimeOfDayController.md)
+- None detected.
 
 ## Notes
 

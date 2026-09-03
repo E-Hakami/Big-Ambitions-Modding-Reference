@@ -1,10 +1,6 @@
 # RecalculateLoanPayments
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RecalculateLoanPayments`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
-- [LoanHelper](../Helpers/LoanHelper.md)
+- None detected.
 
 ## Used By
 
-- [LoanHelper](../Helpers/LoanHelper.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [UpdateGameInstanceTo1](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceTo1.md)
+- None detected.
 
 ## Notes
 

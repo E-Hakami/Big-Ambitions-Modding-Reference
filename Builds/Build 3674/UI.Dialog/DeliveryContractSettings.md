@@ -1,10 +1,6 @@
 # DeliveryContractSettings
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DeliveryContractSettings`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,20 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BuildingTypeHelper](../Buildings/BuildingTypeHelper.md)
-- [Dialog](../Dialogs/Dialog.md)
-- [DialogController](../DialogController.md)
-- [Dropdown](../UI.Elements/Dropdown.md)
-- [SpecialService](../Buildings/SpecialService.md)
-- [WholesaleStoreSettings](../Buildings/WholesaleStoreSettings.md)
+- None detected.
 
 ## Used By
 
-- [DialogEntry](../Entities/DialogEntry.md)
-- [EnumHelpers](../EnumHelpers.md)
-- [WholesaleStoreManagerDialog](../Dialogs/WholesaleStoreManagerDialog.md)
+- None detected.
 
 ## Notes
 

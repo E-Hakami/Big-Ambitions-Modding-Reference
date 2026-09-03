@@ -1,10 +1,6 @@
 # HasInteriorScore
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasInteriorScore`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [CustomBuildingTarget](CustomBuildingTarget.md)
-- [InteriorScoreCalculator](../InteriorDesign/InteriorScoreCalculator.md)
-- [QuestRequirement](QuestRequirement.md)
+- None detected.
 
 ## Used By
 

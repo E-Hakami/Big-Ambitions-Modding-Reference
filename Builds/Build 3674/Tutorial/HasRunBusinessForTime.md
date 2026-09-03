@@ -1,10 +1,6 @@
 # HasRunBusinessForTime
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasRunBusinessForTime`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [FinancialSummary](../Entities/FinancialSummary.md)
-- [QuestRequirement](QuestRequirement.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 

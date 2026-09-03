@@ -1,10 +1,6 @@
 # AnimationObjectSpawner
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AnimationObjectSpawner`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,7 +8,7 @@
 
 ## Uses
 
-- [ThirdPersonCharacter](../ThirdPersonCharacter.md)
+- None detected.
 
 ## Used By
 

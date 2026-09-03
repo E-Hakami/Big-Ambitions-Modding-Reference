@@ -1,10 +1,6 @@
 # ParkingBuildingWithDifferentHeightsManager
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ParkingBuildingWithDifferentHeightsManager`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [GameManager](GameManager.md)
-- [GlobalEvents](GlobalEvents.md)
-- [LoadScene](UI.Load/LoadScene.md)
-- [ParkingLaneGenerator](ParkingLaneGenerator.md)
-- [SaveGameManager](SaveGameManager.md)
-- [VehicleController](VehicleController.md)
-- [VehicleHelper](Helpers/VehicleHelper.md)
-- [ViewBlockingEntity](ViewBlockingEntity.md)
-- [ViewBlockingObjectManager](ViewBlockingObjectManager.md)
+- None detected.
 
 ## Used By
 

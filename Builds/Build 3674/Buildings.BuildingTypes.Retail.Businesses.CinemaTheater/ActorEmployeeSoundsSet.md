@@ -1,10 +1,6 @@
 # ActorEmployeeSoundsSet
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ActorEmployeeSoundsSet`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,7 +12,7 @@
 
 ## Used By
 
-- [ActorEmployeeAnimationEvents](ActorEmployeeAnimationEvents.md)
+- None detected.
 
 ## Notes
 

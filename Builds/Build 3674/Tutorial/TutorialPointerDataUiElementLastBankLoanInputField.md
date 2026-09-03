@@ -1,10 +1,6 @@
 # TutorialPointerDataUiElementLastBankLoanInputField
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TutorialPointerDataUiElementLastBankLoanInputField`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [BankLoanSettings](../UI.Dialog/BankLoanSettings.md)
-- [Dialog](../Dialogs/Dialog.md)
-- [DialogUI](../UI.Dialog/DialogUI.md)
-- [TutorialPointerDataUiElement](TutorialPointerDataUiElement.md)
-- [UIs](../UI/UIs.md)
+- None detected.
 
 ## Used By
 

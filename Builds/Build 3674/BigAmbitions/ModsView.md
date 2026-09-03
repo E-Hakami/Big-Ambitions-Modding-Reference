@@ -1,10 +1,6 @@
 # ModsView
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ModsView`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [AcknowledgeWarning](../AcknowledgeWarning.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [UploadModPanel](UploadModPanel.md)
+- None detected.
 
 ## Notes
 

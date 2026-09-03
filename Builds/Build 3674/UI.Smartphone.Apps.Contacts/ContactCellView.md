@@ -1,10 +1,6 @@
 # ContactCellView
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ContactCellView`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,19 +8,11 @@
 
 ## Uses
 
-- [Badge](../UI.Elements/Badge.md)
-- [BaTable](../BaTable/BaTable.md)
-- [BaTableCellView](../BaTable/BaTableCellView.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [ContactIconView](ContactIconView.md)
-- [ContactModel](ContactModel.md)
-- [GlobalReferences](../GlobalReferences.md)
-- [UIs](../UI/UIs.md)
+- None detected.
 
 ## Used By
 
-- [Contact](../Entities/Contact.md)
-- [ContactScrollerController](ContactScrollerController.md)
+- None detected.
 
 ## Notes
 

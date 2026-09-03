@@ -1,10 +1,6 @@
 # ChangingRoomController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ChangingRoomController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [ItemController](ItemController.md)
+- None detected.
 
 ## Used By
 
-- [TryUseChangingRoom](TryUseChangingRoom.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # UnlockBuilding
 
-**Type:** Class
-
-**Declared Types:**
-
-- `UnlockBuilding`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [Reward](Reward.md)
+- None detected.
 
 ## Used By
 
-- [BuildingManager](BuildingManager.md)
-- [CityBuildingController](CityBuildingController.md)
+- None detected.
 
 ## Notes
 

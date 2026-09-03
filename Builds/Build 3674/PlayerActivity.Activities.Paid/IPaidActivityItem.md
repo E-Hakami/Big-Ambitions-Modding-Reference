@@ -1,10 +1,6 @@
 # IPaidActivityItem
 
-**Type:** Interface
-
-**Declared Types:**
-
-- `IPaidActivityItem`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [PaidActivity](PaidActivity.md)
-- [PlayerController](../PlayerController.md)
+- None detected.
 
 ## Used By
 
-- [PaidActivity](PaidActivity.md)
-- [TicketSeller](../Controllers/TicketSeller.md)
+- None detected.
 
 ## Notes
 

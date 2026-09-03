@@ -1,10 +1,6 @@
 # ParkingState
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `ParkingState`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,16 +12,7 @@
 
 ## Used By
 
-- [CarController](../CarController.md)
-- [GameManager](../GameManager.md)
-- [ParkingSimulator](ParkingSimulator.md)
-- [PrivateDriverGarageTrigger](../Buildings.BuildingTypes.Special.PrivateDriverService/PrivateDriverGarageTrigger.md)
-- [PrivateDriverServiceDialog](../Buildings/PrivateDriverServiceDialog.md)
-- [VehicleController](../VehicleController.md)
-- [VehicleHelper](VehicleHelper.md)
-- [VehicleInfoPanel](../UI.ItemPanel/VehicleInfoPanel.md)
-- [VehicleInstance](../VehicleInstance.md)
-- [VehicleParkingHelper](../VehicleParkingHelper.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # IsBusinessType
 
-**Type:** Class
-
-**Declared Types:**
-
-- `IsBusinessType`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,7 +8,7 @@
 
 ## Uses
 
-- [BuildingManager](BuildingManager.md)
+- None detected.
 
 ## Used By
 

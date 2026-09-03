@@ -1,10 +1,6 @@
 # BlendshapeOption
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BlendshapeOption`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [AppearanceBlendshapeOptions](AppearanceBlendshapeOptions.md)
+- None detected.
 
 ## Notes
 

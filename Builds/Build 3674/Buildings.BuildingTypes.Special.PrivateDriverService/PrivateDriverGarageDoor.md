@@ -1,10 +1,6 @@
 # PrivateDriverGarageDoor
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PrivateDriverGarageDoor`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [GarageDoor](../Vehicles.Components/GarageDoor.md)
-- [VehicleController](../VehicleController.md)
+- None detected.
 
 ## Used By
 
-- [PrivateDriverGarageTrigger](PrivateDriverGarageTrigger.md)
+- None detected.
 
 ## Notes
 

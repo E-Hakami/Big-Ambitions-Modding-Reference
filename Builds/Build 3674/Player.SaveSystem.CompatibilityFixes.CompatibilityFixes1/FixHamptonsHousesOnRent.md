@@ -1,10 +1,6 @@
 # FixHamptonsHousesOnRent
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FixHamptonsHousesOnRent`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingRegistration](../BuildingRegistration.md)
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceTo1](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceTo1.md)
+- None detected.
 
 ## Notes
 

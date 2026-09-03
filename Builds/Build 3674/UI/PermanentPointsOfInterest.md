@@ -1,10 +1,6 @@
 # PermanentPointsOfInterest
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PermanentPointsOfInterest`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,20 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CityManager](../CityManager.md)
-- [CityMap](../CityMap.md)
-- [DirectionGuider](../UI.Guiders/DirectionGuider.md)
-- [FullMenu](../UI.Smartphone/FullMenu.md)
-- [GameManager](../GameManager.md)
-- [GuidersManager](../UI.Guiders/GuidersManager.md)
-- [PointOfInterest](../PointOfInterest.md)
+- None detected.
 
 ## Used By
 
-- [CityManager](../CityManager.md)
-- [CityMap](../CityMap.md)
-- [DirectionGuider](../UI.Guiders/DirectionGuider.md)
+- None detected.
 
 ## Notes
 

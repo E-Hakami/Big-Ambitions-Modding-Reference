@@ -1,10 +1,6 @@
 # SaveBlueprintToolSetup
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SaveBlueprintToolSetup`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [ActionPanelUI](../UI.InteriorDesigner/ActionPanelUI.md)
-- [ToolSetup](ToolSetup.md)
+- None detected.
 
 ## Used By
 
-- [InteriorDesignerController](InteriorDesignerController.md)
+- None detected.
 
 ## Notes
 

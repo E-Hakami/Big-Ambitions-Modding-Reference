@@ -1,10 +1,6 @@
 # EnergyRegen
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `EnergyRegen`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,14 +12,7 @@
 
 ## Used By
 
-- [DoctorDialog](Dialogs/DoctorDialog.md)
-- [EnergyHelper](Helpers/EnergyHelper.md)
-- [GameManager](GameManager.md)
-- [PlayerActivityEnergyEnvironmentConfig](PlayerActivity/PlayerActivityEnergyEnvironmentConfig.md)
-- [RestActivity](PlayerActivity.Activities.Rest/RestActivity.md)
-- [RestEnvironment](PlayerActivity/RestEnvironment.md)
-- [SleepActivity](PlayerActivity/SleepActivity.md)
-- [SleepEnvironment](PlayerActivity/SleepEnvironment.md)
+- None detected.
 
 ## Notes
 

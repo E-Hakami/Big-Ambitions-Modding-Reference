@@ -1,10 +1,6 @@
 # AutoDeactivatePrefabOnSave
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AutoDeactivatePrefabOnSave`
+**Type:** Source File
 
 ## Main Reference
 

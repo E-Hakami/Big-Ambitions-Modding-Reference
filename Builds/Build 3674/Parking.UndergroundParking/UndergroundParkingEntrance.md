@@ -1,10 +1,6 @@
 # UndergroundParkingEntrance
 
-**Type:** Class
-
-**Declared Types:**
-
-- `UndergroundParkingEntrance`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,22 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CityBuildingController](../CityBuildingController.md)
-- [CityManager](../CityManager.md)
-- [GameManager](../GameManager.md)
-- [GlobalEvents](../GlobalEvents.md)
-- [PointOfInterest](../PointOfInterest.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [UIs](../UI/UIs.md)
-- [UndergroundParkingManager](UndergroundParkingManager.md)
-- [VehicleController](../VehicleController.md)
-- [VehicleInstance](../VehicleInstance.md)
+- None detected.
 
 ## Used By
 
-- [CityBuildingController](../CityBuildingController.md)
-- [UndergroundParkingManager](UndergroundParkingManager.md)
+- None detected.
 
 ## Notes
 

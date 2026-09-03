@@ -1,10 +1,6 @@
 # WaitingLineData
 
-**Type:** Class
-
-**Declared Types:**
-
-- `WaitingLineData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Customer](../Customer.md)
-- [CustomerState](../CustomerState.md)
-- [WaitingLineAnchor](WaitingLineAnchor.md)
+- None detected.
 
 ## Used By
 
-- [WaitingLine](WaitingLine.md)
-- [WaitingLineAnchorsModifier](WaitingLineAnchorsModifier.md)
-- [WaitingLineCreator](WaitingLineCreator.md)
-- [WaitingLineCustomersManagement](WaitingLineCustomersManagement.md)
-- [WaitingLineVisuals](WaitingLineVisuals.md)
+- None detected.
 
 ## Notes
 

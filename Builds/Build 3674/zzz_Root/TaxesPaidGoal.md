@@ -1,10 +1,6 @@
 # TaxesPaidGoal
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TaxesPaidGoal`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [FloatBaseGoal](FloatBaseGoal.md)
-- [SaveGameManager](SaveGameManager.md)
+- None detected.
 
 ## Used By
 

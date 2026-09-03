@@ -1,10 +1,6 @@
 # CinemaTheaterBoothController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CinemaTheaterBoothController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,22 +8,11 @@
 
 ## Uses
 
-- [ActorEmployee](../Buildings.Retail.Businesses.CinemaTheater/ActorEmployee.md)
-- [BuildingContext](../BuildingContext.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [EmployeeStationController](../EmployeeStationController.md)
-- [GlobalEvents](../GlobalEvents.md)
-- [IsPlayerOwnedBusiness](../IsPlayerOwnedBusiness.md)
-- [ItemWarningIconManager](../Player.HUD.ItemWarningIcons/ItemWarningIconManager.md)
-- [PathHelper](../PathHelper.md)
-- [TheaterStage](../Buildings.Retail.Businesses.CinemaTheater/TheaterStage.md)
-- [ThirdPersonCharacter](../ThirdPersonCharacter.md)
+- None detected.
 
 ## Used By
 
-- [TheaterStage](../Buildings.Retail.Businesses.CinemaTheater/TheaterStage.md)
+- None detected.
 
 ## Notes
 

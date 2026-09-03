@@ -1,10 +1,6 @@
 # SharedExpressionDataContainer
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SharedExpressionDataContainer`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,7 +8,7 @@
 
 ## Uses
 
-- [ExpressionDataContainer](ExpressionDataContainer.md)
+- None detected.
 
 ## Used By
 

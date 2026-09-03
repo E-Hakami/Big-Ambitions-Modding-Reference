@@ -1,10 +1,6 @@
 # NegativeNavMeshElement
 
-**Type:** Class
-
-**Declared Types:**
-
-- `NegativeNavMeshElement`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,7 +8,7 @@
 
 ## Uses
 
-- [NavMeshElement](NavMeshElement.md)
+- None detected.
 
 ## Used By
 

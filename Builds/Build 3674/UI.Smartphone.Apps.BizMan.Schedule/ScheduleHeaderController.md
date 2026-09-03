@@ -1,10 +1,6 @@
 # ScheduleHeaderController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ScheduleHeaderController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [ScheduleHelper](ScheduleHelper.md)
-- [ScheduleHourToggleGroup](ScheduleHourToggleGroup.md)
+- None detected.
 
 ## Used By
 
-- [BizManSchedule](BizManSchedule.md)
+- None detected.
 
 ## Notes
 

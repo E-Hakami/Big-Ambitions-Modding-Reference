@@ -1,10 +1,6 @@
 # LoudspeakerController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `LoudspeakerController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,21 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [GameManager](GameManager.md)
-- [GlobalEvents](GlobalEvents.md)
-- [InteriorDesignerHelper](Buildings.Indoors.InteriorDesign/InteriorDesignerHelper.md)
-- [ItemController](ItemController.md)
-- [LoudSpeakersManager](Player.Sound.Radio/LoudSpeakersManager.md)
+- None detected.
 
 ## Used By
 
-- [DJBoothMusicPlayer](DJBoothMusicPlayer.md)
-- [LoudSpeakersManager](Player.Sound.Radio/LoudSpeakersManager.md)
-- [ManageCtaBehavior](Player.HUD.ItemInfoOverlays/ManageCtaBehavior.md)
-- [Options](Scenes.MainMenu/Options.md)
-- [RadioOverlay](Player.HUD.ItemInfoOverlays/RadioOverlay.md)
+- None detected.
 
 ## Notes
 

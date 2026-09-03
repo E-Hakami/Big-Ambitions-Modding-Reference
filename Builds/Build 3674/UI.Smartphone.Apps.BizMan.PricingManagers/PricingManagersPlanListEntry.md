@@ -1,10 +1,6 @@
 # PricingManagersPlanListEntry
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PricingManagersPlanListEntry`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Dropdown](../UI.Elements/Dropdown.md)
-- [PricingManagerPlan](../Buildings.Office.Headquarters/PricingManagerPlan.md)
+- None detected.
 
 ## Used By
 
-- [PricingManagersPlanList](PricingManagersPlanList.md)
+- None detected.
 
 ## Notes
 

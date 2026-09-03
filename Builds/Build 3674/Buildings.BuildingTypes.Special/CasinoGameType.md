@@ -1,10 +1,6 @@
 # CasinoGameType
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `CasinoGameType`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,8 +12,7 @@
 
 ## Used By
 
-- [CasinoBusinessHelper](../Buildings/CasinoBusinessHelper.md)
-- [SharedCasinoGameType](../SharedCasinoGameType.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # PreferredSizeFitter
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PreferredSizeFitter`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [CustomGameFoldout](CustomGameFoldout.md)
-- [TasksUI](../UI.Tasks/TasksUI.md)
+- None detected.
 
 ## Notes
 

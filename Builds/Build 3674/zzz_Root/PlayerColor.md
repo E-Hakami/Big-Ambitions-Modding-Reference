@@ -1,10 +1,6 @@
 # PlayerColor
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PlayerColor`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,7 +12,7 @@
 
 ## Used By
 
-- [ColorListUI](ColorListUI.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # VehiclePassengerDropOff
 
-**Type:** Class
-
-**Declared Types:**
-
-- `VehiclePassengerDropOff`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [PedestrianWalkToTarget](../Streets.Pedestrians/PedestrianWalkToTarget.md)
-- [ThirdPersonCharacter](../ThirdPersonCharacter.md)
-- [ThirdPersonCharacterPool](../ThirdPersonCharacterPool.md)
+- None detected.
 
 ## Used By
 

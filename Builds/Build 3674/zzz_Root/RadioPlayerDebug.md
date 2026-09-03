@@ -1,10 +1,6 @@
 # RadioPlayerDebug
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RadioPlayerDebug`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [GameManager](GameManager.md)
-- [PhysicsGizmos](PhysicsGizmos.md)
-- [RadioPlayer](RadioPlayer.md)
-- [RadioStationData](RadioStationData.md)
+- None detected.
 
 ## Used By
 
-- [RadioPlayer](RadioPlayer.md)
+- None detected.
 
 ## Notes
 

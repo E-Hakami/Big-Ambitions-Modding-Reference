@@ -1,10 +1,6 @@
 # PedestrianSpawnerForSwimmingPool
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PedestrianSpawnerForSwimmingPool`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CullingManager](../Culling/CullingManager.md)
-- [ICullable](../Culling/ICullable.md)
-- [WaterPedestrian](../WaterPedestrian.md)
-- [WaterPedestrianPool](../WaterPedestrianPool.md)
+- None detected.
 
 ## Used By
 

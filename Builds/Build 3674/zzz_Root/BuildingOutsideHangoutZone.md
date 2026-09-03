@@ -1,10 +1,6 @@
 # BuildingOutsideHangoutZone
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BuildingOutsideHangoutZone`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,19 +8,11 @@
 
 ## Uses
 
-- [AiSpawnerForBuildingOutsideHangoutZone](AiSpawnerForBuildingOutsideHangoutZone.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BusinessHelper](Helpers/BusinessHelper.md)
-- [BusinessType](BusinessType.md)
-- [BusinessTypeHelper](Helpers/BusinessTypeHelper.md)
-- [CityBuildingController](CityBuildingController.md)
-- [CityManager](CityManager.md)
-- [GlobalEvents](GlobalEvents.md)
+- None detected.
 
 ## Used By
 
-- [BuildingOutsideHangoutZoneController](Buildings.Outdoors/BuildingOutsideHangoutZoneController.md)
-- [BuildingOutsideHangoutZoneSpawner](Buildings.Outdoors/BuildingOutsideHangoutZoneSpawner.md)
+- None detected.
 
 ## Notes
 

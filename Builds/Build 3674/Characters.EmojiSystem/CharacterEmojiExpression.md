@@ -1,10 +1,6 @@
 # CharacterEmojiExpression
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CharacterEmojiExpression`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CharacterEmojiSystem](CharacterEmojiSystem.md)
-- [GameManager](../GameManager.md)
-- [GlobalEvents](../GlobalEvents.md)
+- None detected.
 
 ## Used By
 
-- [CharacterEmojiSystem](CharacterEmojiSystem.md)
-- [ThirdPersonCharacter](../ThirdPersonCharacter.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # CustomerEntriesCalculatorOffice
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CustomerEntriesCalculatorOffice`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CustomerEntriesCalculator](CustomerEntriesCalculator.md)
-- [CustomerEntry](CustomerEntry.md)
-- [OrderEntry](../Entities/OrderEntry.md)
-- [ProductMarketHelper](../Helpers/ProductMarketHelper.md)
-- [ScheduleDay](../ScheduleDay.md)
-- [WorkShift](../WorkShift.md)
+- None detected.
 
 ## Used By
 
-- [CustomerEntriesCalculatorFactory](CustomerEntriesCalculatorFactory.md)
+- None detected.
 
 ## Notes
 

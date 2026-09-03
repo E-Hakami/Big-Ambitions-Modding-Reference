@@ -1,10 +1,6 @@
 # SeatSpot
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SeatSpot`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,20 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [Item](BusinessLayoutSets/Item.md)
-- [ItemController](ItemController.md)
+- None detected.
 
 ## Used By
 
-- [BuildingManager](BuildingManager.md)
-- [Customer](Customer.md)
-- [FullServiceSitInASeat](FullServiceSitInASeat.md)
-- [ItemController](ItemController.md)
-- [RestActivity](PlayerActivity.Activities.Rest/RestActivity.md)
-- [SharedSeatSpot](SharedSeatSpot.md)
-- [SitInASeat](SitInASeat.md)
-- [SitInASeatInstantly](SitInASeatInstantly.md)
+- None detected.
 
 ## Notes
 

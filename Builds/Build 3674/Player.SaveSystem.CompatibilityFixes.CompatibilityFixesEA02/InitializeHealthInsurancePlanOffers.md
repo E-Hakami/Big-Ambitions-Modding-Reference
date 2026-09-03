@@ -1,10 +1,6 @@
 # InitializeHealthInsurancePlanOffers
 
-**Type:** Class
-
-**Declared Types:**
-
-- `InitializeHealthInsurancePlanOffers`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [GameInstance](../GameInstance.md)
-- [HealthInsurancePlanOffer](../Entities/HealthInsurancePlanOffer.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA02](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA02.md)
+- None detected.
 
 ## Notes
 

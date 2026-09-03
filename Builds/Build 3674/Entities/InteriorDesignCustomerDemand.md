@@ -1,10 +1,6 @@
 # InteriorDesignCustomerDemand
 
-**Type:** Class
-
-**Declared Types:**
-
-- `InteriorDesignCustomerDemand`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [CustomerDemand](CustomerDemand.md)
-- [InteriorScoreCalculator](../InteriorDesign/InteriorScoreCalculator.md)
-- [Item](../BusinessLayoutSets/Item.md)
-- [NeighborhoodHelper](../NeighborhoodHelper.md)
+- None detected.
 
 ## Used By
 

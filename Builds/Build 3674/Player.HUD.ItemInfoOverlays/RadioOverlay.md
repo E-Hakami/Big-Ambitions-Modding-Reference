@@ -1,10 +1,6 @@
 # RadioOverlay
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RadioOverlay`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [EntityController](../EntityController.md)
-- [IOverlay](IOverlay.md)
-- [IsPlayerOwnedBusiness](../IsPlayerOwnedBusiness.md)
-- [LoudspeakerController](../LoudspeakerController.md)
-- [LoudSpeakersManager](../Player.Sound.Radio/LoudSpeakersManager.md)
+- None detected.
 
 ## Used By
 
-- [OverlayHelper](OverlayHelper.md)
+- None detected.
 
 ## Notes
 

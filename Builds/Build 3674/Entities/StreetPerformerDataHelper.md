@@ -1,10 +1,6 @@
 # StreetPerformerDataHelper
 
-**Type:** Class
-
-**Declared Types:**
-
-- `StreetPerformerDataHelper`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [StreetPerformerData](StreetPerformerData.md)
+- None detected.
 
 ## Used By
 
-- [StationaryAiSpawner](../StationaryAiSpawner.md)
+- None detected.
 
 ## Notes
 

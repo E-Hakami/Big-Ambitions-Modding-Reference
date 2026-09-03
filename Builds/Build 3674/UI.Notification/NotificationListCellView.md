@@ -1,10 +1,6 @@
 # NotificationListCellView
 
-**Type:** Class
-
-**Declared Types:**
-
-- `NotificationListCellView`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BaTable](../BaTable/BaTable.md)
-- [BaTableCellView](../BaTable/BaTableCellView.md)
-- [DraggableWindows](../UI.DraggableWindows/DraggableWindows.md)
-- [Notification](Notification.md)
-- [NotificationListModel](NotificationListModel.md)
-- [PurchaseUI](../UI.Purchase/PurchaseUI.md)
-- [UIs](../UI/UIs.md)
+- None detected.
 
 ## Used By
 
-- [NotificationListScrollerController](NotificationListScrollerController.md)
+- None detected.
 
 ## Notes
 

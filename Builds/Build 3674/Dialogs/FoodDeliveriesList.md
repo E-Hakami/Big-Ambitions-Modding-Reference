@@ -1,10 +1,6 @@
 # FoodDeliveriesList
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FoodDeliveriesList`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,19 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [DeliveryContractSettingsBase](../UI.Dialog/DeliveryContractSettingsBase.md)
-- [Dialog](Dialog.md)
-- [DialogController](../DialogController.md)
-- [FoodDeliveryContract](../Entities/FoodDeliveryContract.md)
-- [FoodDeliveryDialog](FoodDeliveryDialog.md)
-- [FoodDeliveryHelper](../Buildings.BuildingTypes.Special.FoodDelivery/FoodDeliveryHelper.md)
+- None detected.
 
 ## Used By
 
-- [DialogEntry](../Entities/DialogEntry.md)
-- [EnumHelpers](../EnumHelpers.md)
-- [FoodDeliveryDialog](FoodDeliveryDialog.md)
+- None detected.
 
 ## Notes
 

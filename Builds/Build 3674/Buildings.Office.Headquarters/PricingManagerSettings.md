@@ -1,10 +1,6 @@
 # PricingManagerSettings
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PricingManagerSettings`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [GlobalReferences](../GlobalReferences.md)
-- [PricingManagerHelper](PricingManagerHelper.md)
+- None detected.
 
 ## Notes
 

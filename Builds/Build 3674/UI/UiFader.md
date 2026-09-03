@@ -1,10 +1,6 @@
 # UiFader
 
-**Type:** Class
-
-**Declared Types:**
-
-- `UiFader`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,26 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [UIs](UIs.md)
+- None detected.
 
 ## Used By
 
-- [AutoTowServiceDialog](../Dialogs/AutoTowServiceDialog.md)
-- [BuildingManager](../BuildingManager.md)
-- [CasinoBoatManager](../CasinoBoatManager.md)
-- [CemeteryDeadScenePlayer](../CemeteryDeadScenePlayer.md)
-- [DoctorDialog](../Dialogs/DoctorDialog.md)
-- [GameManager](../GameManager.md)
-- [PlasticSurgeryUI](../Character.Customization/PlasticSurgeryUI.md)
-- [PrivateDriverGarageTrigger](../Buildings.BuildingTypes.Special.PrivateDriverService/PrivateDriverGarageTrigger.md)
-- [ShowcaseVehicleController](../Controllers/ShowcaseVehicleController.md)
-- [SkipBridgeHelper](../Vehicles/SkipBridgeHelper.md)
-- [TaxiSystem](../TaxiSystem.md)
-- [TutorialPointerData](../Tutorial/TutorialPointerData.md)
-- [UndergroundParkingManager](../Parking.UndergroundParking/UndergroundParkingManager.md)
-- [VehicleParkingHelper](../VehicleParkingHelper.md)
-- [ViewBlockingObjectManager](../ViewBlockingObjectManager.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # ModCreatorUI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ModCreatorUI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [MyCreatedModsList](MyCreatedModsList.md)
-- [UploadModPanel](UploadModPanel.md)
+- None detected.
 
 ## Used By
 
-- [MyCreatedModsList](MyCreatedModsList.md)
+- None detected.
 
 ## Notes
 

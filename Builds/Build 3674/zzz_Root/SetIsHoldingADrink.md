@@ -1,10 +1,6 @@
 # SetIsHoldingADrink
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SetIsHoldingADrink`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,7 +8,7 @@
 
 ## Uses
 
-- [SharedCustomer](SharedCustomer.md)
+- None detected.
 
 ## Used By
 

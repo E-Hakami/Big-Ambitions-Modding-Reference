@@ -1,10 +1,6 @@
 # TooltipTarget
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TooltipTarget`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [TooltipSystem](Tooltip/TooltipSystem.md)
+- None detected.
 
 ## Used By
 
-- [ActionKeyTooltip](ActionKeyTooltip.md)
-- [BasicTooltip](BasicTooltip.md)
-- [EmployeeTooltip](EmployeeTooltip.md)
-- [ImageTooltip](Tooltip/ImageTooltip.md)
-- [ItemInfoTooltip](Tooltip/ItemInfoTooltip.md)
-- [ModTooltip](UI.Components/ModTooltip.md)
-- [Topbar](UI.Topbar/Topbar.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # AppIcon
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AppIcon`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,7 +8,7 @@
 
 ## Uses
 
-- [AppName](AppName.md)
+- None detected.
 
 ## Used By
 

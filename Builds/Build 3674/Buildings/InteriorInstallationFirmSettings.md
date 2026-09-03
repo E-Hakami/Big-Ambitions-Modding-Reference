@@ -1,10 +1,6 @@
 # InteriorInstallationFirmSettings
 
-**Type:** Class
-
-**Declared Types:**
-
-- `InteriorInstallationFirmSettings`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [SpecialServiceSettings](SpecialServiceSettings.md)
+- None detected.
 
 ## Used By
 
-- [InteriorInstallationFirmDesignSettings](../UI.Dialog/InteriorInstallationFirmDesignSettings.md)
-- [InteriorInstallationFirmHelper](InteriorInstallationFirmHelper.md)
-- [PreviewTerminalUI](../UI.CustomUI/PreviewTerminalUI.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # IProducerOverlay
 
-**Type:** Class
-
-**Declared Types:**
-
-- `IProducerOverlay`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [ItemController](../ItemController.md)
+- None detected.
 
 ## Used By
 
-- [DropdownProducerOverlay](DropdownProducerOverlay.md)
-- [FactoryMachineProducerOverlay](FactoryMachineProducerOverlay.md)
-- [ProducerOverlay](ProducerOverlay.md)
-- [WorldTextProducerOverlay](WorldTextProducerOverlay.md)
+- None detected.
 
 ## Notes
 

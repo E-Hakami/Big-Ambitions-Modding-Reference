@@ -1,10 +1,6 @@
 # PedestrianSpawner
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PedestrianSpawner`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,21 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [BuildingStationaryAiBehavior](Entities/BuildingStationaryAiBehavior.md)
-- [BuildingStationaryAiPool](BuildingStationaryAiPool.md)
-- [CityManager](CityManager.md)
-- [GlobalEvents](GlobalEvents.md)
-- [OutsideBenchController](OutsideBenchController.md)
-- [Pedestrian](Streets.Pedestrians/Pedestrian.md)
-- [PedestrianPool](PedestrianPool.md)
-- [StationaryAiSpawner](StationaryAiSpawner.md)
+- None detected.
 
 ## Used By
 
-- [CityManager](CityManager.md)
-- [GameManager](GameManager.md)
+- None detected.
 
 ## Notes
 

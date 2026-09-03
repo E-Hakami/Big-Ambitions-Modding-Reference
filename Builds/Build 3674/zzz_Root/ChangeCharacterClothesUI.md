@@ -1,10 +1,6 @@
 # ChangeCharacterClothesUI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ChangeCharacterClothesUI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,22 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CharacterCustomizer](Character.Customization/CharacterCustomizer.md)
-- [GameManager](GameManager.md)
-- [HudConfirm](HudConfirm.md)
-- [MenuVertical](MenuVertical.md)
-- [NavigationBlocker](NavigationBlocker.md)
-- [PedestrianCam](CameraControllers/PedestrianCam.md)
-- [PortraitGenerator](Character.Customization/PortraitGenerator.md)
-- [SaveGameManager](SaveGameManager.md)
-- [UiHoverTarget](Character.Customization/UiHoverTarget.md)
-- [UIs](UI/UIs.md)
+- None detected.
 
 ## Used By
 
-- [CancelButtonHandler](CancelButtonHandler.md)
-- [UIs](UI/UIs.md)
+- None detected.
 
 ## Notes
 

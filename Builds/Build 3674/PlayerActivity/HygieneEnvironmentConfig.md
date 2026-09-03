@@ -1,10 +1,6 @@
 # HygieneEnvironmentConfig
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HygieneEnvironmentConfig`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [PlayerActivityBalanceConfig](PlayerActivityBalanceConfig.md)
-- [PlayerActivityEnvironmentConfig](PlayerActivityEnvironmentConfig.md)
+- None detected.
 
 ## Used By
 
-- [HygieneEnvironment](HygieneEnvironment.md)
+- None detected.
 
 ## Notes
 

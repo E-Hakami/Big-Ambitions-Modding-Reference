@@ -1,10 +1,6 @@
 # PrivateDriverVehicleListEntry
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PrivateDriverVehicleListEntry`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [DialogController](../DialogController.md)
-- [PrivateDriverServiceDialog](../Buildings/PrivateDriverServiceDialog.md)
-- [VehicleInstance](../VehicleInstance.md)
+- None detected.
 
 ## Used By
 
-- [PrivateDriverVehicleList](PrivateDriverVehicleList.md)
+- None detected.
 
 ## Notes
 

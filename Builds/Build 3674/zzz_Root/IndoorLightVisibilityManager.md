@@ -1,10 +1,6 @@
 # IndoorLightVisibilityManager
 
-**Type:** Class
-
-**Declared Types:**
-
-- `IndoorLightVisibilityManager`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [GameManager](GameManager.md)
-- [IndoorLightController](IndoorLightController.md)
+- None detected.
 
 ## Used By
 
-- [IndoorLightController](IndoorLightController.md)
+- None detected.
 
 ## Notes
 

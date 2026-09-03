@@ -1,10 +1,6 @@
 # ViewBlockingEntityPart
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ViewBlockingEntityPart`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [EntityController](EntityController.md)
-- [FullMenu](UI.Smartphone/FullMenu.md)
-- [GameManager](GameManager.md)
-- [MouseController](MouseController.md)
-- [ViewBlockingEntity](ViewBlockingEntity.md)
+- None detected.
 
 ## Used By
 
-- [CityBuildingController](CityBuildingController.md)
-- [SwimmingPoolBuildingController](SwimmingPoolBuildingController.md)
-- [ViewBlockingEntity](ViewBlockingEntity.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # TutorialDynamicItems
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TutorialDynamicItems`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,21 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [PrefabHelper](../Helpers/PrefabHelper.md)
+- None detected.
 
 ## Used By
 
-- [HasDynamicItemsInTarget](HasDynamicItemsInTarget.md)
-- [HasPlacedDynamicItems](HasPlacedDynamicItems.md)
-- [HasPurchasedDynamicItems](HasPurchasedDynamicItems.md)
-- [HasPurchasedRequiredItemForSecondProductInBusiness](HasPurchasedRequiredItemForSecondProductInBusiness.md)
-- [HasStockOfDynamicInventory](HasStockOfDynamicInventory.md)
-- [QuestEntryCustomLocalizationFromDynamicPurchaseRequirement](QuestEntryCustomLocalizationFromDynamicPurchaseRequirement.md)
-- [TutorialPointerDataUiElementDynamicItems](TutorialPointerDataUiElementDynamicItems.md)
-- [TutorialPointerDataWorldDynamicItemsToPurchase](TutorialPointerDataWorldDynamicItemsToPurchase.md)
-- [TutorialPointerDataWorldDynamicItemsToSetStock](TutorialPointerDataWorldDynamicItemsToSetStock.md)
-- [TutorialPointerDataWorldItemToInteractIfItemsToPurchaseGrabbedDynamic](TutorialPointerDataWorldItemToInteractIfItemsToPurchaseGrabbedDynamic.md)
+- None detected.
 
 ## Notes
 

@@ -1,11 +1,6 @@
 # HelpCategoryEntry
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HelpCategoryEntry`
-- `HelpPageEntry`
+**Type:** Source File
 
 ## Main Reference
 

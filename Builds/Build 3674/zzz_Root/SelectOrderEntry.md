@@ -1,10 +1,6 @@
 # SelectOrderEntry
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SelectOrderEntry`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [OrderEntry](Entities/OrderEntry.md)
-- [SharedCustomer](SharedCustomer.md)
-- [SharedOrder](SharedOrder.md)
-- [SharedOrderEntry](SharedOrderEntry.md)
+- None detected.
 
 ## Used By
 

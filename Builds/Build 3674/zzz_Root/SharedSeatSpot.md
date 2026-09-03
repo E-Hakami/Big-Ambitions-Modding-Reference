@@ -1,10 +1,6 @@
 # SharedSeatSpot
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SharedSeatSpot`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,7 +8,7 @@
 
 ## Uses
 
-- [SeatSpot](SeatSpot.md)
+- None detected.
 
 ## Used By
 

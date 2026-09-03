@@ -1,10 +1,6 @@
 # ExitCondition
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ExitCondition`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [BusinessIsOpenExitCondition](BusinessIsOpenExitCondition.md)
-- [ExitZoneDespawner](ExitZoneDespawner.md)
-- [OwnsAHamptonsHouseExitCondition](OwnsAHamptonsHouseExitCondition.md)
+- None detected.
 
 ## Notes
 

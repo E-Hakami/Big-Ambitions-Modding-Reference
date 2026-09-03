@@ -1,10 +1,6 @@
 # LegacyMapperRegistry
 
-**Type:** Class
-
-**Declared Types:**
-
-- `LegacyMapperRegistry`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [LegacyHelper](LegacyHelper.md)
+- None detected.
 
 ## Notes
 

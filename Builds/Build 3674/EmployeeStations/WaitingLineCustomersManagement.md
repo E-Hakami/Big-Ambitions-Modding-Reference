@@ -1,10 +1,6 @@
 # WaitingLineCustomersManagement
 
-**Type:** Class
-
-**Declared Types:**
-
-- `WaitingLineCustomersManagement`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Customer](../Customer.md)
-- [CustomerState](../CustomerState.md)
-- [EmployeeStationController](../EmployeeStationController.md)
-- [WaitingLine](WaitingLine.md)
-- [WaitingLineData](WaitingLineData.md)
-- [WaitingLinesHelper](../WaitingLinesHelper.md)
-- [WaitingLineTransforms](WaitingLineTransforms.md)
+- None detected.
 
 ## Used By
 
-- [WaitingLine](WaitingLine.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # RivalsSettings
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RivalsSettings`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingSizeInfo](../Blueprints/BuildingSizeInfo.md)
+- None detected.
 
 ## Used By
 
-- [AddressableLoader](../BigAmbitions.SaveSystem/AddressableLoader.md)
-- [RivalsHelper](RivalsHelper.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # IsPlacedInTheEntrance
 
-**Type:** Class
-
-**Declared Types:**
-
-- `IsPlacedInTheEntrance`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,7 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 

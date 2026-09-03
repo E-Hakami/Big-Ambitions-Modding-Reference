@@ -1,10 +1,6 @@
 # ComplaintHelper
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ComplaintHelper`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,21 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Complaint](Complaint.md)
-- [EmployeeHelper](../Helpers/EmployeeHelper.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [EmployeeInstancesQueryInfo](../EmployeeInstancesQueryInfo.md)
-- [LowSatisfactionComplaint](LowSatisfactionComplaint.md)
-- [LowSkillComplaint](LowSkillComplaint.md)
-- [NoTaskAssignedComplaint](NoTaskAssignedComplaint.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [UnfulfilledDemandsComplaint](UnfulfilledDemandsComplaint.md)
+- None detected.
 
 ## Used By
 
-- [EmployeeHelper](../Helpers/EmployeeHelper.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # BizManDeliveriesProductsScrollerController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BizManDeliveriesProductsScrollerController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,20 +8,11 @@
 
 ## Uses
 
-- [BaTable](../BaTable/BaTable.md)
-- [BizMan](BizMan.md)
-- [BizManDeliveriesProductCellView](BizManDeliveriesProductCellView.md)
-- [BizManDeliveriesProductModel](BizManDeliveriesProductModel.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BusinessType](../BusinessType.md)
-- [BusinessTypeHelper](../Helpers/BusinessTypeHelper.md)
-- [DeliveryContract](../Entities/DeliveryContract.md)
-- [DeliveryContractItem](../Entities/DeliveryContractItem.md)
+- None detected.
 
 ## Used By
 
-- [BizManContractSettings](BizManContractSettings.md)
+- None detected.
 
 ## Notes
 

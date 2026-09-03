@@ -1,10 +1,6 @@
 # ScheduleWorkstationModel
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ScheduleWorkstationModel`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [WorkShiftType](../WorkShiftType.md)
+- None detected.
 
 ## Used By
 
-- [ScheduleCellView](ScheduleCellView.md)
-- [ScheduleScrollerController](ScheduleScrollerController.md)
+- None detected.
 
 ## Notes
 

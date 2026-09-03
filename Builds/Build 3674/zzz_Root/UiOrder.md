@@ -1,10 +1,6 @@
 # UiOrder
 
-**Type:** Class
-
-**Declared Types:**
-
-- `UiOrder`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,7 +12,7 @@
 
 ## Used By
 
-- [PersonalGoalsUI](UI.Smartphone.Apps.Persona/PersonalGoalsUI.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # HasPurchasedRequiredInventoryToSetUpBusiness
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasPurchasedRequiredInventoryToSetUpBusiness`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BusinessTypeHelper](../Helpers/BusinessTypeHelper.md)
-- [HasPurchasedDynamicItems](HasPurchasedDynamicItems.md)
+- None detected.
 
 ## Used By
 

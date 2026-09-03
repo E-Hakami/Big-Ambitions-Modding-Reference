@@ -1,10 +1,6 @@
 # ProductMarketSettings
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ProductMarketSettings`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [CompetitionHelper](CompetitionHelper.md)
-- [EstimatedWeeklyIncomeHelper](EstimatedWeeklyIncomeHelper.md)
-- [ImportPartnership](../Entities/ImportPartnership.md)
-- [NeighborhoodDemand](../Entities/NeighborhoodDemand.md)
-- [ProductMarketHelper](ProductMarketHelper.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # ProducerActionPanelUi
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ProducerActionPanelUi`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [InteriorDesignerController](../Buildings.Indoors.InteriorDesign/InteriorDesignerController.md)
-- [ItemActionPanelUI](ItemActionPanelUI.md)
-- [ItemController](../ItemController.md)
-- [ItemWithTextController](../Controllers/ItemWithTextController.md)
-- [Producer](../Producer.md)
+- None detected.
 
 ## Used By
 
-- [InteriorDesignerController](../Buildings.Indoors.InteriorDesign/InteriorDesignerController.md)
-- [ProducerToolSetup](../Buildings.Indoors.InteriorDesign/ProducerToolSetup.md)
+- None detected.
 
 ## Notes
 

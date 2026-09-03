@@ -1,10 +1,6 @@
 # FurnitureDeliveriesList
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FurnitureDeliveriesList`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,20 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Dialog](Dialog.md)
-- [DialogController](../DialogController.md)
-- [DialogEntry](../Entities/DialogEntry.md)
-- [FurnitureDeliveryContract](../Entities/FurnitureDeliveryContract.md)
-- [FurnitureDeliveryItem](../Entities/FurnitureDeliveryItem.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [TimeHelper](../TimeHelper.md)
+- None detected.
 
 ## Used By
 
-- [DialogEntry](../Entities/DialogEntry.md)
-- [EnumHelpers](../EnumHelpers.md)
-- [FurnitureStoreManagerDialog](FurnitureStoreManagerDialog.md)
+- None detected.
 
 ## Notes
 

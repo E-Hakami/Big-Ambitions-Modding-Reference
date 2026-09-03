@@ -1,10 +1,6 @@
 # HasAnyHairChangeEntry
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasAnyHairChangeEntry`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,7 +8,7 @@
 
 ## Uses
 
-- [SharedHairdresserCustomer](SharedHairdresserCustomer.md)
+- None detected.
 
 ## Used By
 

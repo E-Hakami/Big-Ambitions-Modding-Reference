@@ -1,10 +1,6 @@
 # StudyActivity
 
-**Type:** Class
-
-**Declared Types:**
-
-- `StudyActivity`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,40 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [ButtonInfo](../UI.Elements/ButtonInfo.md)
-- [Diploma](../Diploma.md)
-- [DiplomaData](../DiplomaData.md)
-- [DiplomaName](../DiplomaName.md)
-- [EducationHelper](../EducationHelper.md)
-- [EnergyConsumption](../EnergyConsumption.md)
-- [EnergyHelper](../Helpers/EnergyHelper.md)
-- [EntityController](../EntityController.md)
-- [GameEvent](../GameEvent.md)
-- [GameManager](../GameManager.md)
-- [GlobalReferences](../GlobalReferences.md)
-- [IPlayerActivity](IPlayerActivity.md)
-- [ItemPanelUI](../UI.ItemPanel/ItemPanelUI.md)
-- [LabelInfo](../UI.Elements/LabelInfo.md)
-- [NavigationBlocker](../NavigationBlocker.md)
-- [Notification](../UI.Notification/Notification.md)
-- [Notifications](../UI.Notification/Notifications.md)
-- [NotificationType](../UI.Notification/NotificationType.md)
-- [OpeningHourSlot](../OpeningHourSlot.md)
-- [PlayerActivityState](../PlayerActivityState.md)
-- [PlayerHelper](../Helpers/PlayerHelper.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [StudyDiploma](StudyDiploma.md)
-- [TimeHelper](../TimeHelper.md)
-- [TransactionInfo](../TransactionInfo.md)
-- [UIs](../UI/UIs.md)
-- [VideoClipData](../VideoClipData.md)
+- None detected.
 
 ## Used By
 
-- [NavigationBlocker](../NavigationBlocker.md)
-- [StudyDiploma](StudyDiploma.md)
+- None detected.
 
 ## Notes
 

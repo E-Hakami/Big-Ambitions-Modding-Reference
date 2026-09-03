@@ -1,10 +1,6 @@
 # GameSpeed
 
-**Type:** Class
-
-**Declared Types:**
-
-- `GameSpeed`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,24 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [TimeSpeed](TimeSpeed.md)
+- None detected.
 
 ## Used By
 
-- [CemeteryDeadScenePlayer](CemeteryDeadScenePlayer.md)
-- [EnumHelpers](EnumHelpers.md)
-- [GameManager](GameManager.md)
-- [GameSpeedController](GameSpeedController.md)
-- [Options](Scenes.MainMenu/Options.md)
-- [PaidActivity](PlayerActivity.Activities.Paid/PaidActivity.md)
-- [PlayerActivityUI](PlayerActivity/PlayerActivityUI.md)
-- [PlayerPref](PlayerPref.md)
-- [PlayerPrefs](PlayerPrefs.md)
-- [PlayerPrefSettings](PlayerPrefSettings.md)
-- [SkipBridgeHelper](Vehicles/SkipBridgeHelper.md)
-- [TaxiSystem](TaxiSystem.md)
-- [TimeMachine](Timemachine/TimeMachine.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # ContactPreset
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ContactPreset`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [ContactCategoryName](../UI.Smartphone.Apps.Contacts/ContactCategoryName.md)
+- None detected.
 
 ## Used By
 
-- [AdManager](../AdManager.md)
-- [ContactScrollerController](../UI.Smartphone.Apps.Contacts/ContactScrollerController.md)
-- [ContactsHelper](../Entities/ContactsHelper.md)
+- None detected.
 
 ## Notes
 

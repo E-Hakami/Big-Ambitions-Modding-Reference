@@ -1,10 +1,6 @@
 # FixOpenFastFoodQuestAppearingOnAdvancedSaveGames
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FixOpenFastFoodQuestAppearingOnAdvancedSaveGames`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA03](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA03.md)
+- None detected.
 
 ## Notes
 

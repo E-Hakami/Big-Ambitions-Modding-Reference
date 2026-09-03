@@ -1,10 +1,6 @@
 # UpdateWholesaleStores
 
-**Type:** Class
-
-**Declared Types:**
-
-- `UpdateWholesaleStores`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,20 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BuildingSizeHelper](../Buildings/BuildingSizeHelper.md)
-- [BuildingSizeInfo](../Blueprints/BuildingSizeInfo.md)
-- [BusinessTypeHelper](../Helpers/BusinessTypeHelper.md)
-- [CompatibilityHelper](../Player.SaveSystem.CompatibilityFixes/CompatibilityHelper.md)
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
-- [RivalsHelper](../BigAmbitions.Rivals/RivalsHelper.md)
-- [RivalState](../BigAmbitions.Rivals/RivalState.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA09](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA09.md)
+- None detected.
 
 ## Notes
 

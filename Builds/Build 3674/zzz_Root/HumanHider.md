@@ -1,10 +1,6 @@
 # HumanHider
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HumanHider`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [AppearanceSetter](AppearanceSetter.md)
-- [BaseHuman](BaseHuman.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [BenchPedestrianPool](BenchPedestrianPool.md)
+- None detected.
 
 ## Notes
 

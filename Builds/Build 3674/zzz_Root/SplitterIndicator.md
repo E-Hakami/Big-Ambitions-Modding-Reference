@@ -1,10 +1,6 @@
 # SplitterIndicator
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SplitterIndicator`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,9 +12,7 @@
 
 ## Used By
 
-- [BizManBusiness](BizManBusiness.md)
-- [MarketInsider](UI.Smartphone.Apps.MarketInsider/MarketInsider.md)
-- [TabMenu](UI.Components/TabMenu.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # AddMissingNeighborhoodStats
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AddMissingNeighborhoodStats`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
-- [NeighborhoodHelper](../NeighborhoodHelper.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA010](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA010.md)
+- None detected.
 
 ## Notes
 

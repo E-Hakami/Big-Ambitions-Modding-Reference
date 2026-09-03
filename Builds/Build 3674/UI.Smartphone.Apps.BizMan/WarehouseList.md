@@ -1,10 +1,6 @@
 # WarehouseList
 
-**Type:** Class
-
-**Declared Types:**
-
-- `WarehouseList`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,21 +8,11 @@
 
 ## Uses
 
-- [BizMan](BizMan.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [EmployeeHelper](../Helpers/EmployeeHelper.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [GlobalReferences](../GlobalReferences.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [UIs](../UI/UIs.md)
-- [VehicleInstance](../VehicleInstance.md)
-- [VehicleSlot](../Entities/VehicleSlot.md)
-- [Warehouse](../Entities/Warehouse.md)
+- None detected.
 
 ## Used By
 
-- [BizManList](BizManList.md)
+- None detected.
 
 ## Notes
 

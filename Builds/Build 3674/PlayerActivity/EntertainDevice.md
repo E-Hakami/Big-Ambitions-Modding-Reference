@@ -1,10 +1,6 @@
 # EntertainDevice
 
-**Type:** Class
-
-**Declared Types:**
-
-- `EntertainDevice`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,23 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [EntertainActivity](EntertainActivity.md)
-- [EntertainType](EntertainType.md)
-- [EntityController](../EntityController.md)
-- [IPlayerActivity](IPlayerActivity.md)
-- [IPlayerActivityType](IPlayerActivityType.md)
-- [PlayerActivityBalanceConfig](PlayerActivityBalanceConfig.md)
-- [PlayerDefaults](../PlayerDefaults.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 
-- [CargoItemUi](../UI.PlayerHUD/CargoItemUi.md)
-- [ComputerController](../ComputerController.md)
-- [DJBoothController](../Controllers/DJBoothController.md)
-- [EntertainActivity](EntertainActivity.md)
-- [TVController](../TVController.md)
+- None detected.
 
 ## Notes
 

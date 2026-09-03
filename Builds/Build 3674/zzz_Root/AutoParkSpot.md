@@ -1,10 +1,6 @@
 # AutoParkSpot
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AutoParkSpot`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [GlobalEvents](GlobalEvents.md)
-- [VehicleController](VehicleController.md)
+- None detected.
 
 ## Used By
 
-- [ParkingLaneGenerator](ParkingLaneGenerator.md)
-- [VehicleParkingHelper](VehicleParkingHelper.md)
+- None detected.
 
 ## Notes
 

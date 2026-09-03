@@ -1,10 +1,6 @@
 # ItemsOfTypeInBuilding
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ItemsOfTypeInBuilding`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BusinessRequirement](BusinessRequirement.md)
-- [Item](../BusinessLayoutSets/Item.md)
-- [TodoTaskType](../Entities/TodoTaskType.md)
+- None detected.
 
 ## Used By
 
-- [ItemsOfTypeInBuildingBySqm](ItemsOfTypeInBuildingBySqm.md)
+- None detected.
 
 ## Notes
 

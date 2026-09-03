@@ -1,10 +1,6 @@
 # SelectableButton
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SelectableButton`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [CategoryButton](CategoryButton.md)
-- [SubCategoryButton](SubCategoryButton.md)
+- None detected.
 
 ## Notes
 

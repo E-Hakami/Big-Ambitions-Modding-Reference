@@ -1,10 +1,6 @@
 # CreateMarketEvent
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CreateMarketEvent`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [MarketEventType](../Entities/MarketEventType.md)
-- [ProductMarketHelper](../Helpers/ProductMarketHelper.md)
-- [Reward](../Reward.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [UpdateMarketDemands](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA04/UpdateMarketDemands.md)
+- None detected.
 
 ## Used By
 

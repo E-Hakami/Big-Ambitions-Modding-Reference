@@ -1,10 +1,6 @@
 # BizManFactoryWorkstationGroupModelIngredient
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BizManFactoryWorkstationGroupModelIngredient`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [BizManFactoryWorkstationGroupCellView](BizManFactoryWorkstationGroupCellView.md)
-- [BizManFactoryWorkstationGroupIngredientTemplate](BizManFactoryWorkstationGroupIngredientTemplate.md)
-- [BizManFactoryWorkstationGroupModel](BizManFactoryWorkstationGroupModel.md)
-- [BizManFactoryWorkstationGroupScrollerController](BizManFactoryWorkstationGroupScrollerController.md)
+- None detected.
 
 ## Notes
 

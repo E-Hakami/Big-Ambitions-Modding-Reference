@@ -1,10 +1,6 @@
 # GoPlayOnAGameSpotInstantly
 
-**Type:** Class
-
-**Declared Types:**
-
-- `GoPlayOnAGameSpotInstantly`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CasinoBusinessHelper](Buildings/CasinoBusinessHelper.md)
-- [PlaySpotsManager](Buildings.BuildingTypes.Special/PlaySpotsManager.md)
-- [PlaySpotStatus](Buildings.BuildingTypes.Special/PlaySpotStatus.md)
-- [SharedCasinoGameType](SharedCasinoGameType.md)
-- [SharedCustomer](SharedCustomer.md)
-- [SharedPermanentAnimationType](SharedPermanentAnimationType.md)
-- [TimeHelper](TimeHelper.md)
+- None detected.
 
 ## Used By
 

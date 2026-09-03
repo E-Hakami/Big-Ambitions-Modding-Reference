@@ -1,10 +1,6 @@
 # ScrollBarHandleSizeLimiter
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ScrollBarHandleSizeLimiter`
+**Type:** Source File
 
 ## Main Reference
 

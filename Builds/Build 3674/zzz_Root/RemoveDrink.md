@@ -1,10 +1,6 @@
 # RemoveDrink
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RemoveDrink`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [SharedCustomer](SharedCustomer.md)
+- None detected.
 
 ## Used By
 
-- [CasinoCustomerPool](CasinoCustomerPool.md)
-- [Customer](Customer.md)
-- [DrinkForAWhileIfHasADrink](DrinkForAWhileIfHasADrink.md)
-- [DrinkInAGulpIfHasADrink](DrinkInAGulpIfHasADrink.md)
-- [NightclubCustomerLeave](NightclubCustomerLeave.md)
-- [NightclubCustomerPool](NightclubCustomerPool.md)
+- None detected.
 
 ## Notes
 

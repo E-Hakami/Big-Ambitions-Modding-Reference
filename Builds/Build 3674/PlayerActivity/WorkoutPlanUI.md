@@ -1,10 +1,6 @@
 # WorkoutPlanUI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `WorkoutPlanUI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [UIs](../UI/UIs.md)
-- [WorkoutType](WorkoutType.md)
+- None detected.
 
 ## Used By
 
-- [TasksUI](../UI.Tasks/TasksUI.md)
+- None detected.
 
 ## Notes
 

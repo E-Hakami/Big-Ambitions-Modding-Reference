@@ -1,10 +1,6 @@
 # EntertainType
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `EntertainType`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,10 +12,7 @@
 
 ## Used By
 
-- [CargoItemUi](../UI.PlayerHUD/CargoItemUi.md)
-- [EntertainActivity](EntertainActivity.md)
-- [EntertainDevice](EntertainDevice.md)
-- [EnumHelpers](../EnumHelpers.md)
+- None detected.
 
 ## Notes
 

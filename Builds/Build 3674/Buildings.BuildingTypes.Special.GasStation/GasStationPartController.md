@@ -1,10 +1,6 @@
 # GasStationPartController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `GasStationPartController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CityBuildingController](../CityBuildingController.md)
-- [CityMap](../CityMap.md)
-- [ViewBlockingEntity](../ViewBlockingEntity.md)
+- None detected.
 
 ## Used By
 
-- [CityBuildingController](../CityBuildingController.md)
-- [CityManager](../CityManager.md)
+- None detected.
 
 ## Notes
 

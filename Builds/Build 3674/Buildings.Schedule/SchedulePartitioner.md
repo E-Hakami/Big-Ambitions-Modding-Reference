@@ -1,11 +1,6 @@
 # SchedulePartitioner
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SchedulePartitioner`
-- `SchedulePartition`
+**Type:** Source File
 
 ## Main Reference
 
@@ -13,21 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [Employee](../Employee.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [HoursWorkingPerWeek](../Entities.Employee.JobDemands.Requirements/HoursWorkingPerWeek.md)
-- [IWorkStationFilter](../Entities.Employee.JobDemands.Requirements/IWorkStationFilter.md)
-- [JobDemandHelper](../Entities.Employee.JobDemands/JobDemandHelper.md)
-- [OpeningHourSlot](../OpeningHourSlot.md)
-- [ScheduleDay](../ScheduleDay.md)
-- [WorkShiftType](../WorkShiftType.md)
-- [WorkStationInfo](WorkStationInfo.md)
+- None detected.
 
 ## Used By
 
-- [ScheduleAutoFiller](ScheduleAutoFiller.md)
+- None detected.
 
 ## Notes
 

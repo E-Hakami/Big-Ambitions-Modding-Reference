@@ -1,10 +1,6 @@
 # MoveGeneralUsTrucksToIndustryCity
 
-**Type:** Class
-
-**Declared Types:**
-
-- `MoveGeneralUsTrucksToIndustryCity`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
-- [RivalsHelper](../BigAmbitions.Rivals/RivalsHelper.md)
-- [RivalState](../BigAmbitions.Rivals/RivalState.md)
-- [SaveGameCompatibilityFixes](../Player.SaveSystem.CompatibilityFixes/SaveGameCompatibilityFixes.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA09](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA09.md)
+- None detected.
 
 ## Notes
 

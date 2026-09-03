@@ -1,10 +1,6 @@
 # RivalDefeatGoal
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RivalDefeatGoal`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [IntBaseGoal](../IntBaseGoal.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [SpecialRivalState](../BigAmbitions.Rivals/SpecialRivalState.md)
+- None detected.
 
 ## Used By
 

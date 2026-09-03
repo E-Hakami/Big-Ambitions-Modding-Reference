@@ -1,10 +1,6 @@
 # OrderHelper
 
-**Type:** Class
-
-**Declared Types:**
-
-- `OrderHelper`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,27 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [BuildingRegistration](BuildingRegistration.md)
-- [CitizenData](AI.Citizens/CitizenData.md)
-- [IsPlayerOwnedBusiness](IsPlayerOwnedBusiness.md)
-- [ItemController](ItemController.md)
-- [ItemHelper](ItemHelper.md)
-- [Order](Order.md)
-- [OrderEntry](Entities/OrderEntry.md)
+- None detected.
 
 ## Used By
 
-- [ComplainIfServiceExpensive](ComplainIfServiceExpensive.md)
-- [Customer](Customer.md)
-- [FullServiceOnEnterBuildingInAction](FullServiceOnEnterBuildingInAction.md)
-- [GymCustomerTryGrabItem](GymCustomerTryGrabItem.md)
-- [OfficeBusinessSimulator](Buildings.Office/OfficeBusinessSimulator.md)
-- [Order](Order.md)
-- [ProcessSelfServiceOrder](ProcessSelfServiceOrder.md)
-- [SelfServiceCustomerTryGrabItem](SelfServiceCustomerTryGrabItem.md)
-- [TicketKioskController](Controllers/TicketKioskController.md)
+- None detected.
 
 ## Notes
 

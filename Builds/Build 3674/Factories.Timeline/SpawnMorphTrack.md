@@ -1,10 +1,6 @@
 # SpawnMorphTrack
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SpawnMorphTrack`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [SpawnMorph2To1Clip](SpawnMorph2To1Clip.md)
-- [SpawnMorphClip](SpawnMorphClip.md)
-- [SpawnMorphPlayerData](SpawnMorphPlayerData.md)
+- None detected.
 
 ## Used By
 

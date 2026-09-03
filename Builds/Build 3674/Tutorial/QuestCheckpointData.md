@@ -1,10 +1,6 @@
 # QuestCheckpointData
 
-**Type:** Class
-
-**Declared Types:**
-
-- `QuestCheckpointData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,7 +12,7 @@
 
 ## Used By
 
-- [Quest](Quest.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # RescueVehiclesUnderStockCo
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RescueVehiclesUnderStockCo`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Contact](../Entities/Contact.md)
-- [ContactCategoryName](../UI.Smartphone.Apps.Contacts/ContactCategoryName.md)
-- [GameInstance](../GameInstance.md)
-- [GlobalReferences](../GlobalReferences.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
-- [TextMessage](../Entities/TextMessage.md)
-- [VehicleInstance](../VehicleInstance.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA010](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA010.md)
+- None detected.
 
 ## Notes
 

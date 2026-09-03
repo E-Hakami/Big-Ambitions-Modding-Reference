@@ -1,10 +1,6 @@
 # NavMeshElement
 
-**Type:** Class
-
-**Declared Types:**
-
-- `NavMeshElement`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [CollMeshAsNavMeshElement](CollMeshAsNavMeshElement.md)
-- [GameManager](GameManager.md)
-- [NegativeNavMeshElement](NegativeNavMeshElement.md)
+- None detected.
 
 ## Notes
 

@@ -1,11 +1,6 @@
 # MonologueUI
 
-**Type:** Multiple
-
-**Declared Types:**
-
-- `MonologueUI`
-- `MonologueEntry`
+**Type:** Source File
 
 ## Main Reference
 
@@ -13,18 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [GlobalEvents](../GlobalEvents.md)
-- [LoudSpeakersManager](../Player.Sound.Radio/LoudSpeakersManager.md)
-- [Options](../Scenes.MainMenu/Options.md)
-- [PlayerPrefSettings](../PlayerPrefSettings.md)
-- [UIs](../UI/UIs.md)
-- [UiSound](../UiSound.md)
-- [UiSoundHelper](../UiSoundHelper.md)
+- None detected.
 
 ## Used By
 
-- [UIs](../UI/UIs.md)
+- None detected.
 
 ## Notes
 

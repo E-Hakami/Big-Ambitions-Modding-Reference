@@ -1,10 +1,6 @@
 # ContactCategory
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ContactCategory`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [ContactCategoryName](ContactCategoryName.md)
+- None detected.
 
 ## Used By
 
-- [ContactCategoryButton](ContactCategoryButton.md)
-- [ContactCategorySelection](ContactCategorySelection.md)
+- None detected.
 
 ## Notes
 

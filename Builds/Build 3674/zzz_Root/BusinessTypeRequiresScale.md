@@ -1,10 +1,6 @@
 # BusinessTypeRequiresScale
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BusinessTypeRequiresScale`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [BuildingManager](BuildingManager.md)
-- [BusinessRequirement](Buildings.BuildingTypes.Shared.BusinessRequirement/BusinessRequirement.md)
+- None detected.
 
 ## Used By
 

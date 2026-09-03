@@ -1,10 +1,6 @@
 # HasVisitedBuilding
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasVisitedBuilding`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [QuestEntryTarget](QuestEntryTarget.md)
-- [QuestRequirement](QuestRequirement.md)
+- None detected.
 
 ## Used By
 

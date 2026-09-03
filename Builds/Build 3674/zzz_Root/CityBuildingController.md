@@ -1,10 +1,6 @@
 # CityBuildingController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CityBuildingController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,101 +8,11 @@
 
 ## Uses
 
-- [Building](Buildings/Building.md)
-- [BuildingEntranceDoor](Buildings.Outdoors/BuildingEntranceDoor.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingLogoSignController](BuildingLogoSignController.md)
-- [BuildingManager](BuildingManager.md)
-- [BuildingOutsideHangoutZoneController](Buildings.Outdoors/BuildingOutsideHangoutZoneController.md)
-- [BuildingOutsideMusicController](Buildings.Outdoors/BuildingOutsideMusicController.md)
-- [BuildingRegistration](BuildingRegistration.md)
-- [BuildingSignController](BuildingSignController.md)
-- [BuildingTypeData](BuildingTypeData.md)
-- [BuildingTypeHelper](Buildings/BuildingTypeHelper.md)
-- [BusinessHelper](Helpers/BusinessHelper.md)
-- [CityManager](CityManager.md)
-- [CityMap](CityMap.md)
-- [CityMapFilters](CityMapFilters.md)
-- [CullingManager](Culling/CullingManager.md)
-- [DriveInEntrance](DriveInEntrance.md)
-- [EntityController](EntityController.md)
-- [FullMenu](UI.Smartphone/FullMenu.md)
-- [GameManager](GameManager.md)
-- [GasStationPartController](Buildings.BuildingTypes.Special.GasStation/GasStationPartController.md)
-- [GenericPersonalGoal](GenericPersonalGoal.md)
-- [GlobalEvents](GlobalEvents.md)
-- [GlobalReferences](GlobalReferences.md)
-- [HudConfirm](HudConfirm.md)
-- [LogoSettings](LogoSettings.md)
-- [MouseController](MouseController.md)
-- [NightclubBusinessHelper](Buildings/NightclubBusinessHelper.md)
-- [Notification](UI.Notification/Notification.md)
-- [Notifications](UI.Notification/Notifications.md)
-- [NotificationType](UI.Notification/NotificationType.md)
-- [PlayerHelper](Helpers/PlayerHelper.md)
-- [PlayerMission](Player.PlayerMissions/PlayerMission.md)
-- [PointOfInterest](PointOfInterest.md)
-- [Reward](Reward.md)
-- [SaveGameManager](SaveGameManager.md)
-- [ScreenshotController](ScreenshotController.md)
-- [SignAppearanceSettings](SignAppearanceSettings.md)
-- [SubwaySystem](SubwaySystem.md)
-- [TransactionInfo](TransactionInfo.md)
-- [TreeController](TreeController.md)
-- [UIs](UI/UIs.md)
-- [UndergroundParkingEntrance](Parking.UndergroundParking/UndergroundParkingEntrance.md)
-- [UnlockBuilding](UnlockBuilding.md)
-- [ViewBlockingEntity](ViewBlockingEntity.md)
-- [ViewBlockingEntityPart](ViewBlockingEntityPart.md)
-- [ViewBlockingObjectManager](ViewBlockingObjectManager.md)
+- None detected.
 
 ## Used By
 
-- [BizManBuildingInfo](BizManBuildingInfo.md)
-- [BizManPresentation](BizManPresentation.md)
-- [BuildingEntranceOverlay](UI.Overlays/BuildingEntranceOverlay.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [BuildingOutsideHangoutZone](BuildingOutsideHangoutZone.md)
-- [BuildingOutsideHangoutZoneController](Buildings.Outdoors/BuildingOutsideHangoutZoneController.md)
-- [BuildingOutsideMusic](BuildingOutsideMusic.md)
-- [BuildingOutsideMusicController](Buildings.Outdoors/BuildingOutsideMusicController.md)
-- [BuildingRegistration](BuildingRegistration.md)
-- [BuildingResume](UI.InGameUI/BuildingResume.md)
-- [CancelButtonHandler](CancelButtonHandler.md)
-- [CasinoBoatManager](CasinoBoatManager.md)
-- [CasinoBuildingController](CasinoBuildingController.md)
-- [CityHamptonsHouseController](CityHamptonsHouseController.md)
-- [CityManager](CityManager.md)
-- [CityMap](CityMap.md)
-- [CityMapFilters](CityMapFilters.md)
-- [CityMapSubwayStations](CityMapSubwayStations.md)
-- [ClosestBuildingFromPlayer](Buildings/ClosestBuildingFromPlayer.md)
-- [CompetitionHelper](Helpers/CompetitionHelper.md)
-- [ContactsApp](UI.Smartphone.Apps.Contacts/ContactsApp.md)
-- [DeliveryJobHelper](Vehicles.DeliveryDriverJob/DeliveryJobHelper.md)
-- [DirectionGuider](UI.Guiders/DirectionGuider.md)
-- [DriveInEntrance](DriveInEntrance.md)
-- [ElevatorOverlay](UI.Overlays/ElevatorOverlay.md)
-- [FoodDeliveryJobHelper](Player.FoodDeliveryJob/FoodDeliveryJobHelper.md)
-- [GameManager](GameManager.md)
-- [GasStationPartController](Buildings.BuildingTypes.Special.GasStation/GasStationPartController.md)
-- [GasStationTrigger](GasStationTrigger.md)
-- [GuidersManager](UI.Guiders/GuidersManager.md)
-- [HelpSystem](HelpSystem.md)
-- [MiniMenu](UI.MiniMenu/MiniMenu.md)
-- [NeighborhoodSfxModifier](NeighborhoodSfxModifier.md)
-- [PedestrianBuildingPositionProvider](Streets.Pedestrians/PedestrianBuildingPositionProvider.md)
-- [PlayerController](PlayerController.md)
-- [PlayerHelper](Helpers/PlayerHelper.md)
-- [PrivateDriverGarageTrigger](Buildings.BuildingTypes.Special.PrivateDriverService/PrivateDriverGarageTrigger.md)
-- [PrivateDriverHelpers](Helpers/PrivateDriverHelpers.md)
-- [RealEstateHelper](Helpers/RealEstateHelper.md)
-- [SignAppearance](SignAppearance.md)
-- [TaxiSystem](TaxiSystem.md)
-- [TutorialPointerDataWorldBuildingEntrance](Tutorial/TutorialPointerDataWorldBuildingEntrance.md)
-- [UndergroundParkingEntrance](Parking.UndergroundParking/UndergroundParkingEntrance.md)
-- [VehicleHelper](Helpers/VehicleHelper.md)
+- None detected.
 
 ## Notes
 

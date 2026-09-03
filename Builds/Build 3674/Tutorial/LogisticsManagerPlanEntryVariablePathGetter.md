@@ -1,10 +1,6 @@
 # LogisticsManagerPlanEntryVariablePathGetter
 
-**Type:** Class
-
-**Declared Types:**
-
-- `LogisticsManagerPlanEntryVariablePathGetter`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [LogisticsManagerPlan](../Buildings.Office.Headquarters/LogisticsManagerPlan.md)
-- [TutorialPointerHeadquartersPlanHelper](TutorialPointerHeadquartersPlanHelper.md)
-- [TutorialPointerVariablePathGetter](TutorialPointerVariablePathGetter.md)
+- None detected.
 
 ## Used By
 

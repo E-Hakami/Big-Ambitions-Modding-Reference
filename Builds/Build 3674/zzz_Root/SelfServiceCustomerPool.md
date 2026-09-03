@@ -1,10 +1,6 @@
 # SelfServiceCustomerPool
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SelfServiceCustomerPool`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [Customer](Customer.md)
-- [CustomerPool](CustomerPool.md)
-- [CustomerType](CustomerType.md)
+- None detected.
 
 ## Used By
 

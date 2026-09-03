@@ -1,10 +1,6 @@
 # InitLastDaySold
 
-**Type:** Class
-
-**Declared Types:**
-
-- `InitLastDaySold`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
-- [NeighborhoodDemand](../Entities/NeighborhoodDemand.md)
-- [ProductMarketEntry](../Entities/ProductMarketEntry.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA09](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA09.md)
+- None detected.
 
 ## Notes
 

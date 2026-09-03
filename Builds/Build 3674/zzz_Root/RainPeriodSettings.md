@@ -1,10 +1,6 @@
 # RainPeriodSettings
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RainPeriodSettings`
+**Type:** Source File
 
 ## Main Reference
 

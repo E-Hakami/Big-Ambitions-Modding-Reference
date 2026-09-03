@@ -1,10 +1,6 @@
 # BlueprintFilterOption
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BlueprintFilterOption`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,19 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [BlueprintAllFilterOption](BlueprintAllFilterOption.md)
-- [BlueprintBuildingSizeFilterOption](BlueprintBuildingSizeFilterOption.md)
-- [BlueprintBuildingTypeFilterOption](BlueprintBuildingTypeFilterOption.md)
-- [BlueprintBuildVersionFilterOption](BlueprintBuildVersionFilterOption.md)
-- [BlueprintBusinessTypeFilterOption](BlueprintBusinessTypeFilterOption.md)
-- [BlueprintFilter](BlueprintFilter.md)
-- [BlueprintFilterHelper](BlueprintFilterHelper.md)
-- [BlueprintFilterUI](BlueprintFilterUI.md)
-- [BlueprintSortInfo](BlueprintSortInfo.md)
+- None detected.
 
 ## Notes
 

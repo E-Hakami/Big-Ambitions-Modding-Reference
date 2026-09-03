@@ -1,10 +1,6 @@
 # SaveGameCompatibilityUI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SaveGameCompatibilityUI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [GameVersion](../GameVersion.md)
-- [LoadGame](LoadGame.md)
-- [LoadingSpinner](../LoadingSpinner.md)
-- [MainMenuController](../MainMenuController.md)
-- [SaveGameCompatibilityHelper](../SaveGameCompatibilityHelper.md)
-- [SaveGamePathHelper](../SaveGamePathHelper.md)
+- None detected.
 
 ## Used By
 
-- [MainMenuController](../MainMenuController.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # WaterPedestrian
 
-**Type:** Class
-
-**Declared Types:**
-
-- `WaterPedestrian`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [GlobalReferences](GlobalReferences.md)
-- [ThirdPersonCharacter](ThirdPersonCharacter.md)
+- None detected.
 
 ## Used By
 
-- [PedestrianSpawnerForSwimmingPool](Entities/PedestrianSpawnerForSwimmingPool.md)
-- [SwimmingActivity](PlayerActivity/SwimmingActivity.md)
-- [WaterPedestrianPool](WaterPedestrianPool.md)
+- None detected.
 
 ## Notes
 

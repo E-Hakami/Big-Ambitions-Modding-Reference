@@ -1,10 +1,6 @@
 # PedestrianSpawnerForOutsideInteractableItems
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PedestrianSpawnerForOutsideInteractableItems`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,7 @@
 
 ## Uses
 
-- [BaseHuman](../BaseHuman.md)
-- [BaseHumanPool](../BaseHumanPool.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CullingManager](../Culling/CullingManager.md)
-- [ICullable](../Culling/ICullable.md)
-- [NpcSpawnerItem](../Controllers/NpcSpawnerItem.md)
+- None detected.
 
 ## Used By
 

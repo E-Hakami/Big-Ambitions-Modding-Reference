@@ -1,10 +1,6 @@
 # CursorHoverChangeEvent
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CursorHoverChangeEvent`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CursorType](../CursorType.md)
-- [ICursorHoverEvent](../ICursorHoverEvent.md)
-- [MouseController](../MouseController.md)
+- None detected.
 
 ## Used By
 
-- [MouseController](../MouseController.md)
-- [WorkShiftDrag](../UI.Smartphone.Apps.BizMan.Schedule/WorkShiftDrag.md)
-- [WorkShiftSliderHandle](../UI.Smartphone.Apps.BizMan.Schedule/WorkShiftSliderHandle.md)
+- None detected.
 
 ## Notes
 

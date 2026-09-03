@@ -1,10 +1,6 @@
 # MachineInfoOverlay
 
-**Type:** Class
-
-**Declared Types:**
-
-- `MachineInfoOverlay`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [EntityController](../EntityController.md)
-- [FactoryAssemblyMachineController](../Items.SpecialItems/FactoryAssemblyMachineController.md)
-- [GlobalReferences](../GlobalReferences.md)
-- [IOverlay](IOverlay.md)
+- None detected.
 
 ## Used By
 
-- [FactoryMachineProducerOverlay](../BigAmbitions.InteriorDesigner/FactoryMachineProducerOverlay.md)
-- [OverlayHelper](OverlayHelper.md)
+- None detected.
 
 ## Notes
 

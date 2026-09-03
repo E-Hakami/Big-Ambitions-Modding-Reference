@@ -1,10 +1,6 @@
 # QueueOverlay
 
-**Type:** Class
-
-**Declared Types:**
-
-- `QueueOverlay`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [ItemController](../ItemController.md)
-- [IWaitingLineHolder](../EmployeeStations/IWaitingLineHolder.md)
-- [WaitingLine](../EmployeeStations/WaitingLine.md)
+- None detected.
 
 ## Used By
 
-- [InteriorDesignerController](../Buildings.Indoors.InteriorDesign/InteriorDesignerController.md)
-- [QueueToolSetup](../Buildings.Indoors.InteriorDesign/QueueToolSetup.md)
+- None detected.
 
 ## Notes
 

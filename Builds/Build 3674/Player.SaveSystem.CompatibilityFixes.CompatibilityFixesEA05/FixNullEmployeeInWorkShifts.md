@@ -1,10 +1,6 @@
 # FixNullEmployeeInWorkShifts
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FixNullEmployeeInWorkShifts`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
-- [ScheduleDay](../ScheduleDay.md)
-- [WorkShift](../WorkShift.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA05](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA05.md)
-- [UpdateGameInstanceToEA07](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA07.md)
+- None detected.
 
 ## Notes
 

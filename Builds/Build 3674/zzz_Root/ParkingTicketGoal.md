@@ -1,10 +1,6 @@
 # ParkingTicketGoal
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ParkingTicketGoal`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [IntBaseGoal](IntBaseGoal.md)
-- [SaveGameManager](SaveGameManager.md)
+- None detected.
 
 ## Used By
 

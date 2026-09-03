@@ -1,10 +1,6 @@
 # EmployeeScrollerController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `EmployeeScrollerController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,19 +8,11 @@
 
 ## Uses
 
-- [BaseFilterController](../UI.Smartphone.Apps.Shared/BaseFilterController.md)
-- [BaseFilteredScrollerController](../UI.Smartphone.Apps.Shared/BaseFilteredScrollerController.md)
-- [EmployeeCellView](../EmployeeCellView.md)
-- [EmployeeFilterController](EmployeeFilterController.md)
-- [EmployeeHelper](../Helpers/EmployeeHelper.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [EmployeeInstancesQueryInfo](../EmployeeInstancesQueryInfo.md)
-- [EmployeeModel](EmployeeModel.md)
-- [MyEmployees](MyEmployees.md)
+- None detected.
 
 ## Used By
 
-- [MyEmployees](MyEmployees.md)
+- None detected.
 
 ## Notes
 

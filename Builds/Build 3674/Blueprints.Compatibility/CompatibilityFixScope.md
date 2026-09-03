@@ -1,10 +1,6 @@
 # CompatibilityFixScope
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `CompatibilityFixScope`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,14 +12,7 @@
 
 ## Used By
 
-- [Blueprint](../Blueprints/Blueprint.md)
-- [BlueprintCompatibilityFixes](BlueprintCompatibilityFixes.md)
-- [BlueprintLibraryController](../Blueprints/BlueprintLibraryController.md)
-- [BlueprintParser](../Blueprints/BlueprintParser.md)
-- [BlueprintsFolderLoader](../Blueprints/BlueprintsFolderLoader.md)
-- [IBlueprintCompatibilityFix](IBlueprintCompatibilityFix.md)
-- [UpdateLegacyIds](../Blueprints.Compatibility.BlueprintFixesEA11/UpdateLegacyIds.md)
-- [UpdateWorkstationLegacyIds](../Blueprints.Compatibility.BlueprintFixesEA11/UpdateWorkstationLegacyIds.md)
+- None detected.
 
 ## Notes
 

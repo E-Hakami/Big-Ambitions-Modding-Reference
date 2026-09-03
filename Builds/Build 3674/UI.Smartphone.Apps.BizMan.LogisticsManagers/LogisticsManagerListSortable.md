@@ -1,10 +1,6 @@
 # LogisticsManagerListSortable
 
-**Type:** Class
-
-**Declared Types:**
-
-- `LogisticsManagerListSortable`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [LogisticsManagerListEntryData](LogisticsManagerListEntryData.md)
-- [LogisticsManagerListOption](LogisticsManagerListOption.md)
+- None detected.
 
 ## Used By
 
-- [LogisticsManagerDestinationUI](LogisticsManagerDestinationUI.md)
+- None detected.
 
 ## Notes
 

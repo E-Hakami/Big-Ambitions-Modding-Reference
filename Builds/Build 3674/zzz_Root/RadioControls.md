@@ -1,10 +1,6 @@
 # RadioControls
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RadioControls`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CollapsibleWindow](UI/CollapsibleWindow.md)
-- [GameManager](GameManager.md)
-- [Options](Scenes.MainMenu/Options.md)
-- [PlayerPrefSettings](PlayerPrefSettings.md)
-- [RadioPlayer](RadioPlayer.md)
-- [RadioStationData](RadioStationData.md)
-- [UIs](UI/UIs.md)
+- None detected.
 
 ## Used By
 
-- [SmartphoneUI](SmartphoneUI.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # FullServiceCustomer
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FullServiceCustomer`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BuildingManager](BuildingManager.md)
-- [Customer](Customer.md)
-- [CustomerState](CustomerState.md)
-- [CustomerTimeState](CustomerTimeState.md)
-- [CustomerType](CustomerType.md)
-- [GlobalEvents](GlobalEvents.md)
-- [IsPlayerOwnedBusiness](IsPlayerOwnedBusiness.md)
-- [TimeHelper](TimeHelper.md)
+- None detected.
 
 ## Used By
 
-- [SharedFullServiceCustomer](SharedFullServiceCustomer.md)
+- None detected.
 
 ## Notes
 

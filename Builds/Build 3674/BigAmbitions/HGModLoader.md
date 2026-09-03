@@ -1,10 +1,6 @@
 # HGModLoader
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HGModLoader`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [ModsNotification](../UI/ModsNotification.md)
+- None detected.
 
 ## Used By
 

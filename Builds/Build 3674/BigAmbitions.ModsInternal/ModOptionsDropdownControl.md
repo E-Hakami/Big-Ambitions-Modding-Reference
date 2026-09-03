@@ -1,10 +1,6 @@
 # ModOptionsDropdownControl
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ModOptionsDropdownControl`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Dropdown](../UI.Elements/Dropdown.md)
-- [ModOptionPrefs](ModOptionPrefs.md)
+- None detected.
 
 ## Used By
 

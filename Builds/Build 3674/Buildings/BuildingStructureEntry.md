@@ -1,10 +1,6 @@
 # BuildingStructureEntry
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BuildingStructureEntry`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingPreloadMode](BuildingPreloadMode.md)
+- None detected.
 
 ## Used By
 
-- [BuildingSizeContainer](BuildingSizeContainer.md)
-- [BuildingSizeResolver](BuildingSizeResolver.md)
+- None detected.
 
 ## Notes
 

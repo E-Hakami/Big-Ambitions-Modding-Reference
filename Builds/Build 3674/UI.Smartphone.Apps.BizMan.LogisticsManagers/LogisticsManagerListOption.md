@@ -1,10 +1,6 @@
 # LogisticsManagerListOption
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `LogisticsManagerListOption`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
+- None detected.
 
 ## Used By
 
-- [LogisticsManagerListEntryData](LogisticsManagerListEntryData.md)
-- [LogisticsManagerListSortable](LogisticsManagerListSortable.md)
-- [LogisticsManagerPlanUI](LogisticsManagerPlanUI.md)
+- None detected.
 
 ## Notes
 

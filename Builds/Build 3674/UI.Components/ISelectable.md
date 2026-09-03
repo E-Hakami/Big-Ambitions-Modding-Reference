@@ -1,10 +1,6 @@
 # ISelectable
 
-**Type:** Interface
-
-**Declared Types:**
-
-- `ISelectable`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,9 +12,7 @@
 
 ## Used By
 
-- [BizManFactoryWorkstationGroupTemplate](../UI.Smartphone.Apps.BizMan.Factory/BizManFactoryWorkstationGroupTemplate.md)
-- [BizManFactoryWorkstationTemplate](../UI.Smartphone.Apps.BizMan.Factory/BizManFactoryWorkstationTemplate.md)
-- [SelectorGroup](SelectorGroup.md)
+- None detected.
 
 ## Notes
 

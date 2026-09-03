@@ -1,10 +1,6 @@
 # StreetLamp
 
-**Type:** Class
-
-**Declared Types:**
-
-- `StreetLamp`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CityMap](CityMap.md)
-- [CullingManager](Culling/CullingManager.md)
-- [GameManager](GameManager.md)
-- [GlobalEvents](GlobalEvents.md)
-- [ICullable](Culling/ICullable.md)
-- [PlayerPrefSettings](PlayerPrefSettings.md)
+- None detected.
 
 ## Used By
 

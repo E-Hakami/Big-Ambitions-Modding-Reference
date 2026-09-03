@@ -1,10 +1,6 @@
 # CharacterAnimations
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CharacterAnimations`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,7 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 

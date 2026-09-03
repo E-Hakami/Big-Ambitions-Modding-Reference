@@ -1,10 +1,6 @@
 # AiCarRescueCheck
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AiCarRescueCheck`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [AiCarRescueCheckController](AiCarRescueCheckController.md)
-- [SmartphonePrivateDriverUI](Player.HUD.SmartphoneUI/SmartphonePrivateDriverUI.md)
-- [SmartphoneUI](SmartphoneUI.md)
+- None detected.
 
 ## Used By
 
-- [AiCarRescueCheckController](AiCarRescueCheckController.md)
+- None detected.
 
 ## Notes
 

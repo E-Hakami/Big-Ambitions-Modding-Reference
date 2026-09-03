@@ -1,10 +1,6 @@
 # BuildingLogoSignController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BuildingLogoSignController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingRegistration](BuildingRegistration.md)
-- [BusinessLogoGenerator](BusinessLogoGenerator.md)
-- [LogoHelper](LogoHelper.md)
-- [LogoSize](LogoSize.md)
+- None detected.
 
 ## Used By
 
-- [CityBuildingController](CityBuildingController.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # WaitingLineAnchorsModifier
 
-**Type:** Class
-
-**Declared Types:**
-
-- `WaitingLineAnchorsModifier`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [GameManager](../GameManager.md)
-- [WaitingLineData](WaitingLineData.md)
+- None detected.
 
 ## Used By
 
-- [WaitingLine](WaitingLine.md)
+- None detected.
 
 ## Notes
 

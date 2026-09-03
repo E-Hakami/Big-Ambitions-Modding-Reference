@@ -1,10 +1,6 @@
 # CustomGameCheckboxOption
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CustomGameCheckboxOption`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CustomGameOption](CustomGameOption.md)
+- None detected.
 
 ## Used By
 
-- [CustomGameOptionsHandler](CustomGameOptionsHandler.md)
+- None detected.
 
 ## Notes
 

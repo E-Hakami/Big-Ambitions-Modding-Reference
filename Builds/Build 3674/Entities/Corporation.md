@@ -1,10 +1,6 @@
 # Corporation
 
-**Type:** Class
-
-**Declared Types:**
-
-- `Corporation`
+**Type:** Source File
 
 ## Main Reference
 

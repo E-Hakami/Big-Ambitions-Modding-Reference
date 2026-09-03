@@ -1,10 +1,6 @@
 # IScheduleDemand
 
-**Type:** Interface
-
-**Declared Types:**
-
-- `IScheduleDemand`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,20 +8,11 @@
 
 ## Uses
 
-- [Employee](../Employee.md)
+- None detected.
 
 ## Used By
 
-- [ContactsApp](../UI.Smartphone.Apps.Contacts/ContactsApp.md)
-- [DaysWorkingPerWeek](DaysWorkingPerWeek.md)
-- [FreeOnDays](FreeOnDays.md)
-- [HasNoShiftBetweenHours](HasNoShiftBetweenHours.md)
-- [HoursWorkingPerWeek](HoursWorkingPerWeek.md)
-- [JobDemandHelper](../Entities.Employee.JobDemands/JobDemandHelper.md)
-- [NoSpecificShift](NoSpecificShift.md)
-- [ScheduleEmployeeScrollerController](../UI.Smartphone.Apps.BizMan.Schedule/ScheduleEmployeeScrollerController.md)
-- [WorkShiftSlider](../UI.Smartphone.Apps.BizMan.Schedule/WorkShiftSlider.md)
-- [WorksOnItem](WorksOnItem.md)
+- None detected.
 
 ## Notes
 

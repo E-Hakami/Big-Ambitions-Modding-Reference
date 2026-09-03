@@ -1,10 +1,6 @@
 # CharacterShowEmojiExpression
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CharacterShowEmojiExpression`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,24 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [ExpressionDataContainer](ExpressionDataContainer.md)
-- [ThirdPersonCharacter](ThirdPersonCharacter.md)
+- None detected.
 
 ## Used By
 
-- [CheckScaleAndComplainIfRequired](CheckScaleAndComplainIfRequired.md)
-- [ComplainIfServiceExpensive](ComplainIfServiceExpensive.md)
-- [CustomerJoinQueue](CustomerJoinQueue.md)
-- [GoGrabBasketRecentlyArrived](GoGrabBasketRecentlyArrived.md)
-- [SelfServiceCustomerTryFindItem](SelfServiceCustomerTryFindItem.md)
-- [SelfServiceCustomerTryUseScaleJustArrived](SelfServiceCustomerTryUseScaleJustArrived.md)
-- [SitInASeat](SitInASeat.md)
-- [TryGrabItemBase](TryGrabItemBase.md)
-- [TryUseChangingRoom](TryUseChangingRoom.md)
-- [TryUseToilet](TryUseToilet.md)
-- [WanderAndLeave](WanderAndLeave.md)
-- [WarpAndLeave](WarpAndLeave.md)
+- None detected.
 
 ## Notes
 

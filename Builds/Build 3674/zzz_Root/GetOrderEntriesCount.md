@@ -1,10 +1,6 @@
 # GetOrderEntriesCount
 
-**Type:** Class
-
-**Declared Types:**
-
-- `GetOrderEntriesCount`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [SharedCustomer](SharedCustomer.md)
-- [SharedOrder](SharedOrder.md)
+- None detected.
 
 ## Used By
 

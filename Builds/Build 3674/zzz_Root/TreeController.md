@@ -1,10 +1,6 @@
 # TreeController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TreeController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CullingManager](Culling/CullingManager.md)
-- [GameManager](GameManager.md)
-- [GlobalEvents](GlobalEvents.md)
-- [ICullable](Culling/ICullable.md)
-- [PlayerPrefSettings](PlayerPrefSettings.md)
-- [ViewBlockingEntity](ViewBlockingEntity.md)
+- None detected.
 
 ## Used By
 
-- [CityBuildingController](CityBuildingController.md)
-- [CityManager](CityManager.md)
+- None detected.
 
 ## Notes
 

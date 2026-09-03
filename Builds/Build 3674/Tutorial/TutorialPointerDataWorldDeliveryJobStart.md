@@ -1,10 +1,6 @@
 # TutorialPointerDataWorldDeliveryJobStart
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TutorialPointerDataWorldDeliveryJobStart`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [DeliveryJobStartController](../Vehicles.DeliveryDriverJob/DeliveryJobStartController.md)
-- [GameManager](../GameManager.md)
-- [PlayerHelper](../Helpers/PlayerHelper.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [TutorialPointer](TutorialPointer.md)
-- [TutorialPointerData](TutorialPointerData.md)
-- [TutorialPointerType](TutorialPointerType.md)
+- None detected.
 
 ## Used By
 

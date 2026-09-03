@@ -1,11 +1,6 @@
 # TennisPopup
 
-**Type:** Multiple
-
-**Declared Types:**
-
-- `TennisPopup`
-- `NotificationData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -13,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [Notification](../UI.Notification/Notification.md)
-- [NotificationDataParser](../BigAmbitions.SaveSystem.Legacy.CompatParsers/NotificationDataParser.md)
-- [TennisUI](TennisUI.md)
+- None detected.
 
 ## Notes
 

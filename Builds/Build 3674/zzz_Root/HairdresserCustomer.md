@@ -1,10 +1,6 @@
 # HairdresserCustomer
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HairdresserCustomer`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,19 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [Customer](Customer.md)
-- [CustomerType](CustomerType.md)
-- [Gender](Character.Customization/Gender.md)
-- [GlobalEvents](GlobalEvents.md)
-- [IsPlayerOwnedBusiness](IsPlayerOwnedBusiness.md)
-- [OrderEntry](Entities/OrderEntry.md)
-- [SkinColorHelper](Character/SkinColorHelper.md)
+- None detected.
 
 ## Used By
 
-- [SharedHairdresserCustomer](SharedHairdresserCustomer.md)
+- None detected.
 
 ## Notes
 

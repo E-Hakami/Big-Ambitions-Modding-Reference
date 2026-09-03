@@ -1,10 +1,6 @@
 # TutorialPointerDataWorldDirtSpot
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TutorialPointerDataWorldDirtSpot`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [BuildingManager](../BuildingManager.md)
-- [DirtSpot](../Entities/DirtSpot.md)
-- [TutorialPointer](TutorialPointer.md)
-- [TutorialPointerDataWorldItem](TutorialPointerDataWorldItem.md)
+- None detected.
 
 ## Used By
 

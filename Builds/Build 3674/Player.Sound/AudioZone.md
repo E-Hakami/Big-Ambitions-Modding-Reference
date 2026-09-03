@@ -1,10 +1,6 @@
 # AudioZone
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AudioZone`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [GlobalEvents](../GlobalEvents.md)
+- None detected.
 
 ## Used By
 

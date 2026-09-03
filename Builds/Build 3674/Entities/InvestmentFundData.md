@@ -1,10 +1,6 @@
 # InvestmentFundData
 
-**Type:** Class
-
-**Declared Types:**
-
-- `InvestmentFundData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [AddressableLoader](../BigAmbitions.SaveSystem/AddressableLoader.md)
-- [BankInvestmentSettings](../UI.Dialog/BankInvestmentSettings.md)
-- [InvestmentFundHelper](../Helpers/InvestmentFundHelper.md)
+- None detected.
 
 ## Notes
 

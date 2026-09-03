@@ -1,10 +1,6 @@
 # TennisHumanController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TennisHumanController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [TennisController](TennisController.md)
+- None detected.
 
 ## Used By
 
-- [TennisCourt](TennisCourt.md)
-- [TennisPlayer](TennisPlayer.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # MarketingCampaign
 
-**Type:** Class
-
-**Declared Types:**
-
-- `MarketingCampaign`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [MarketingTypeName](MarketingTypeName.md)
+- None detected.
 
 ## Used By
 
-- [AdManager](../AdManager.md)
-- [BizManMarketing](../UI.Smartphone.Apps.BizMan/BizManMarketing.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [HasMarketingCampaigns](../Tutorial/HasMarketingCampaigns.md)
-- [MarketingAgencyDialog](../Dialogs/MarketingAgencyDialog.md)
-- [MarketingHelper](../Helpers/MarketingHelper.md)
+- None detected.
 
 ## Notes
 

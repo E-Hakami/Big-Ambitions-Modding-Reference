@@ -1,10 +1,6 @@
 # VehicleDeliveryContractList
 
-**Type:** Class
-
-**Declared Types:**
-
-- `VehicleDeliveryContractList`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,7 @@
 
 ## Uses
 
-- [DialogController](../DialogController.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [VehicleDeliveryContract](../Vehicles/VehicleDeliveryContract.md)
-- [VehicleDeliveryContractEntry](VehicleDeliveryContractEntry.md)
-- [VehicleType](../Vehicles.VehicleTypes/VehicleType.md)
-- [VehicleTypeHelper](../Vehicles.VehicleTypes/VehicleTypeHelper.md)
+- None detected.
 
 ## Used By
 

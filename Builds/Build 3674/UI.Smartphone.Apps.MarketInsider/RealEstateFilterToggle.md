@@ -1,10 +1,6 @@
 # RealEstateFilterToggle
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RealEstateFilterToggle`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BaseFilterToggle](../UI.Smartphone.Apps.Shared/BaseFilterToggle.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [MarketInsider](MarketInsider.md)
-- [RealEstateCellView](RealEstateCellView.md)
+- None detected.
 
 ## Used By
 
-- [RealEstateFilterController](RealEstateFilterController.md)
+- None detected.
 
 ## Notes
 

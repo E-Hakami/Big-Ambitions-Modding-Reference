@@ -1,10 +1,6 @@
 # HoverEffect
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HoverEffect`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,7 +12,7 @@
 
 ## Used By
 
-- [Dropdown](../UI.Elements/Dropdown.md)
+- None detected.
 
 ## Notes
 

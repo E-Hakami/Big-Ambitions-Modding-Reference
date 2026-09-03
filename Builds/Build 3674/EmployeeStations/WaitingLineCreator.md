@@ -1,10 +1,6 @@
 # WaitingLineCreator
 
-**Type:** Class
-
-**Declared Types:**
-
-- `WaitingLineCreator`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Floor](../Parking.UndergroundParking/Floor.md)
-- [IWaitingLineHolder](IWaitingLineHolder.md)
-- [WaitingLineData](WaitingLineData.md)
+- None detected.
 
 ## Used By
 
-- [WaitingLine](WaitingLine.md)
+- None detected.
 
 ## Notes
 

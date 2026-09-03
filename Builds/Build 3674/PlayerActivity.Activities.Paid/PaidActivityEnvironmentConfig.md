@@ -1,10 +1,6 @@
 # PaidActivityEnvironmentConfig
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PaidActivityEnvironmentConfig`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [PaidActivityType](PaidActivityType.md)
-- [PlayerActivityBalanceConfig](../PlayerActivity/PlayerActivityBalanceConfig.md)
-- [PlayerActivityEnvironmentConfig](../PlayerActivity/PlayerActivityEnvironmentConfig.md)
+- None detected.
 
 ## Used By
 
-- [PaidActivityEnvironment](PaidActivityEnvironment.md)
+- None detected.
 
 ## Notes
 

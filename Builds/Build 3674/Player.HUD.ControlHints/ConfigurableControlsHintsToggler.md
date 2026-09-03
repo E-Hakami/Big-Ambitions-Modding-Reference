@@ -1,10 +1,6 @@
 # ConfigurableControlsHintsToggler
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ConfigurableControlsHintsToggler`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [ConfigurableControlsHintProvider](ConfigurableControlsHintProvider.md)
+- None detected.
 
 ## Used By
 

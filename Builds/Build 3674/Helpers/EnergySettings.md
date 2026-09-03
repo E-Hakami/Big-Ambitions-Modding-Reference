@@ -1,10 +1,6 @@
 # EnergySettings
 
-**Type:** Class
-
-**Declared Types:**
-
-- `EnergySettings`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,8 +12,7 @@
 
 ## Used By
 
-- [AddressableLoader](../BigAmbitions.SaveSystem/AddressableLoader.md)
-- [EnergyHelper](EnergyHelper.md)
+- None detected.
 
 ## Notes
 

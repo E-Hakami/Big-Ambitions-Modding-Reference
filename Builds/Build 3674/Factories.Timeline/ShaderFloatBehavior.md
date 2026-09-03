@@ -1,10 +1,6 @@
 # ShaderFloatBehavior
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ShaderFloatBehavior`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [SmartPhoneFrame](../Player.HUD.SmartphoneUI/SmartPhoneFrame.md)
+- None detected.
 
 ## Used By
 
-- [ShaderFloatClip](ShaderFloatClip.md)
+- None detected.
 
 ## Notes
 

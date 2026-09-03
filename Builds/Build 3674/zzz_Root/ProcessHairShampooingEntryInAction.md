@@ -1,10 +1,6 @@
 # ProcessHairShampooingEntryInAction
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ProcessHairShampooingEntryInAction`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [EmployeeInstance](Entities/EmployeeInstance.md)
-- [EmployeeStationController](EmployeeStationController.md)
-- [IsPlayerOwnedBusiness](IsPlayerOwnedBusiness.md)
-- [ItemController](ItemController.md)
-- [ItemHelper](ItemHelper.md)
-- [OrderEntry](Entities/OrderEntry.md)
-- [SharedCustomer](SharedCustomer.md)
-- [WaitingLine](EmployeeStations/WaitingLine.md)
-- [WaitingLinesHelper](WaitingLinesHelper.md)
+- None detected.
 
 ## Used By
 

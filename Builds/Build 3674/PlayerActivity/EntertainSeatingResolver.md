@@ -1,10 +1,6 @@
 # EntertainSeatingResolver
 
-**Type:** Class
-
-**Declared Types:**
-
-- `EntertainSeatingResolver`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [EntertainSeatingResult](EntertainSeatingResult.md)
-- [EntityController](../EntityController.md)
-- [PlayerHelper](../Helpers/PlayerHelper.md)
-- [SeatController](../Controllers/SeatController.md)
+- None detected.
 
 ## Used By
 
-- [EntertainActivity](EntertainActivity.md)
+- None detected.
 
 ## Notes
 

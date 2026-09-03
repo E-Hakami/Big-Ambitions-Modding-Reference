@@ -1,10 +1,6 @@
 # FenceDoorTrigger
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FenceDoorTrigger`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [FenceDoor](FenceDoor.md)
-- [GameManager](GameManager.md)
+- None detected.
 
 ## Used By
 
-- [FenceDoor](FenceDoor.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # DuplicateCursorChangeEvent
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DuplicateCursorChangeEvent`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CursorType](../CursorType.md)
-- [ICursorHoverEvent](../ICursorHoverEvent.md)
-- [MouseController](../MouseController.md)
+- None detected.
 
 ## Used By
 
-- [DuplicateToolSetup](../Buildings.Indoors.InteriorDesign/DuplicateToolSetup.md)
+- None detected.
 
 ## Notes
 

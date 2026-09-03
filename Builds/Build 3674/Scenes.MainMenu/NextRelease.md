@@ -1,10 +1,6 @@
 # NextRelease
 
-**Type:** Class
-
-**Declared Types:**
-
-- `NextRelease`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [RoadmapEntry](RoadmapEntry.md)
+- None detected.
 
 ## Used By
 

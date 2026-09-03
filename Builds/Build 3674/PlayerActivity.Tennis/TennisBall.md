@@ -1,10 +1,6 @@
 # TennisBall
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TennisBall`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [TennisCourt](TennisCourt.md)
-- [TennisCourtSide](TennisCourtSide.md)
+- None detected.
 
 ## Used By
 
-- [TennisController](TennisController.md)
-- [TennisCourt](TennisCourt.md)
-- [TennisPlayer](TennisPlayer.md)
+- None detected.
 
 ## Notes
 

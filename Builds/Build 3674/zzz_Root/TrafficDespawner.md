@@ -1,10 +1,6 @@
 # TrafficDespawner
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TrafficDespawner`
+**Type:** Source File
 
 ## Main Reference
 

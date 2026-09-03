@@ -1,10 +1,6 @@
 # RadioClip
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RadioClip`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [RadioPlayer](RadioPlayer.md)
-- [RadioStationClips](Player.Sound.Radio/RadioStationClips.md)
-- [RadioStationData](RadioStationData.md)
+- None detected.
 
 ## Notes
 

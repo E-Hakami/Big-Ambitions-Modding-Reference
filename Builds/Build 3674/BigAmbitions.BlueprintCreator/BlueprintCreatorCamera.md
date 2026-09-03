@@ -1,10 +1,6 @@
 # BlueprintCreatorCamera
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BlueprintCreatorCamera`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingPreviewCam](../CameraControllers/BuildingPreviewCam.md)
-- [BuildingPreviewHandle](../BuildingPreviewHandle.md)
-- [CameraHelper](../Helpers/CameraHelper.md)
-- [PedestrianCam](../CameraControllers/PedestrianCam.md)
-- [PlacementCam](../CameraControllers/PlacementCam.md)
-- [TimeOfDayController](../TimeOfDayController.md)
+- None detected.
 
 ## Used By
 
-- [BlueprintCreatorManager](BlueprintCreatorManager.md)
-- [BlueprintCreatorSystem](BlueprintCreatorSystem.md)
+- None detected.
 
 ## Notes
 

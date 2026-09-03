@@ -1,10 +1,6 @@
 # AreThereWorkoutMachines
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AreThereWorkoutMachines`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [BuildingManager](BuildingManager.md)
-- [Item](BusinessLayoutSets/Item.md)
-- [ItemController](ItemController.md)
+- None detected.
 
 ## Used By
 

@@ -1,10 +1,6 @@
 # BlueprintFilterUI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BlueprintFilterUI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BlueprintAllFilterOption](BlueprintAllFilterOption.md)
-- [BlueprintCategory](BlueprintCategory.md)
-- [BlueprintFilter](BlueprintFilter.md)
-- [BlueprintFilterHelper](BlueprintFilterHelper.md)
-- [BlueprintFilterOption](BlueprintFilterOption.md)
-- [BlueprintSortInfo](BlueprintSortInfo.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [SortByOption](SortByOption.md)
+- None detected.
 
 ## Used By
 
-- [BlueprintsListUI](BlueprintsListUI.md)
+- None detected.
 
 ## Notes
 

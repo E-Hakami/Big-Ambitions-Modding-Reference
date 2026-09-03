@@ -1,10 +1,6 @@
 # TennisPlayerAnimator
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TennisPlayerAnimator`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [TennisPlayer](TennisPlayer.md)
+- None detected.
 
 ## Used By
 

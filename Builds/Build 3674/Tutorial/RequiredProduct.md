@@ -1,10 +1,6 @@
 # RequiredProduct
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RequiredProduct`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [HasImportPartnership](HasImportPartnership.md)
+- None detected.
 
 ## Notes
 

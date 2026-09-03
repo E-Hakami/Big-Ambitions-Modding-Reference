@@ -1,10 +1,6 @@
 # AppearanceColorPicker
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AppearanceColorPicker`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [CharacterCustomizer](CharacterCustomizer.md)
+- None detected.
 
 ## Notes
 

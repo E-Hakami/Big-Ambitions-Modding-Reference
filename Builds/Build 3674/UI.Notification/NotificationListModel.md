@@ -1,10 +1,6 @@
 # NotificationListModel
 
-**Type:** Class
-
-**Declared Types:**
-
-- `NotificationListModel`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [DraggableWindows](../UI.DraggableWindows/DraggableWindows.md)
-- [Notification](Notification.md)
-- [NotificationType](NotificationType.md)
-- [PurchaseUI](../UI.Purchase/PurchaseUI.md)
+- None detected.
 
 ## Used By
 
-- [NotificationListCellView](NotificationListCellView.md)
-- [NotificationListScrollerController](NotificationListScrollerController.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # CandidateSalaryOffer
 
-**Type:** Struct
-
-**Declared Types:**
-
-- `CandidateSalaryOffer`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [CandidateSalaryNegotiation](CandidateSalaryNegotiation.md)
-- [CandidateSalaryNegotiationDialog](CandidateSalaryNegotiationDialog.md)
-- [CandidateSalaryNegotiator](CandidateSalaryNegotiator.md)
-- [SalaryOfferSettings](SalaryOfferSettings.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # TutorialPointerHideConditionIfUiInputFieldIsValue
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TutorialPointerHideConditionIfUiInputFieldIsValue`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [InputField](../UI.Components/InputField.md)
-- [TutorialPointerHideCondition](TutorialPointerHideCondition.md)
-- [TutorialPointersManager](TutorialPointersManager.md)
+- None detected.
 
 ## Used By
 

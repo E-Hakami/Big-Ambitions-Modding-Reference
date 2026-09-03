@@ -1,10 +1,6 @@
 # HasJob
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasJob`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [JobInstance](../JobInstance.md)
-- [QuestRequirement](QuestRequirement.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 
-- [JobBoardController](../JobBoardController.md)
-- [ManageCtaBehavior](../Player.HUD.ItemInfoOverlays/ManageCtaBehavior.md)
+- None detected.
 
 ## Notes
 

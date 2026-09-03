@@ -1,10 +1,6 @@
 # DriveInEntranceEnterTrigger
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DriveInEntranceEnterTrigger`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [CarController](CarController.md)
-- [DriveInEntrance](DriveInEntrance.md)
-- [GameManager](GameManager.md)
-- [ItemPanelUI](UI.ItemPanel/ItemPanelUI.md)
+- None detected.
 
 ## Used By
 

@@ -1,10 +1,6 @@
 # RemoveDeclinedHealthInsurancePlanOffers
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RemoveDeclinedHealthInsurancePlanOffers`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [Contact](../Entities/Contact.md)
-- [GameInstance](../GameInstance.md)
-- [HealthInsurancePlanOffer](../Entities/HealthInsurancePlanOffer.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
-- [TextMessage](../Entities/TextMessage.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA03](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA03.md)
+- None detected.
 
 ## Notes
 

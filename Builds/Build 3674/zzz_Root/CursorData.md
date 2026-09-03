@@ -1,10 +1,6 @@
 # CursorData
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CursorData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [CursorType](CursorType.md)
+- None detected.
 
 ## Used By
 
-- [MouseController](MouseController.md)
-- [MouseSettings](MouseSettings.md)
+- None detected.
 
 ## Notes
 

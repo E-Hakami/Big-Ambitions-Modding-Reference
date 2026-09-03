@@ -1,10 +1,6 @@
 # DecorativeBookshelfHolderController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DecorativeBookshelfHolderController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [DecorativeItemHolderController](DecorativeItemHolderController.md)
-- [OverlayManager](Player.HUD.ItemInfoOverlays/OverlayManager.md)
+- None detected.
 
 ## Used By
 

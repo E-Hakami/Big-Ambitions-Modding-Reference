@@ -1,10 +1,6 @@
 # ToggleClickSound
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ToggleClickSound`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [UiSound](UiSound.md)
-- [UiSoundHelper](UiSoundHelper.md)
+- None detected.
 
 ## Used By
 

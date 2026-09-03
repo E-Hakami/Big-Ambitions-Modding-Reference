@@ -1,10 +1,6 @@
 # WatchShow
 
-**Type:** Class
-
-**Declared Types:**
-
-- `WatchShow`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CharacterMoveToPosition](CharacterMoveToPosition.md)
-- [CinemaTheaterHelper](Buildings.Retail.Businesses.CinemaTheater/CinemaTheaterHelper.md)
-- [CustomerTimeState](CustomerTimeState.md)
-- [InteriorDesignerUI](UI.InteriorDesigner/InteriorDesignerUI.md)
-- [SharedCustomer](SharedCustomer.md)
-- [TheaterStage](Buildings.Retail.Businesses.CinemaTheater/TheaterStage.md)
-- [ThirdPersonCharacter](ThirdPersonCharacter.md)
-- [TimeHelper](TimeHelper.md)
+- None detected.
 
 ## Used By
 

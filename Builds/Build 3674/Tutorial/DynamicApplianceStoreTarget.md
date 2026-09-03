@@ -1,10 +1,6 @@
 # DynamicApplianceStoreTarget
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DynamicApplianceStoreTarget`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BusinessRequirement](../Buildings.BuildingTypes.Shared.BusinessRequirement/BusinessRequirement.md)
-- [BusinessTypeHelper](../Helpers/BusinessTypeHelper.md)
-- [CustomBuildingTarget](CustomBuildingTarget.md)
-- [GlobalEvents](../GlobalEvents.md)
-- [QuestEntryTarget](QuestEntryTarget.md)
+- None detected.
 
 ## Used By
 

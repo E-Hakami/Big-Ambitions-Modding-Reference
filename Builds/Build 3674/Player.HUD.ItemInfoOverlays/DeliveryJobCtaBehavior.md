@@ -1,10 +1,6 @@
 # DeliveryJobCtaBehavior
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DeliveryJobCtaBehavior`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [DeliveryJobStartController](../Vehicles.DeliveryDriverJob/DeliveryJobStartController.md)
-- [EntityController](../EntityController.md)
-- [ICtaBehavior](ICtaBehavior.md)
+- None detected.
 
 ## Used By
 
-- [CtaManager](CtaManager.md)
+- None detected.
 
 ## Notes
 

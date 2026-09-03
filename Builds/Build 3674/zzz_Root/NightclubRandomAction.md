@@ -1,10 +1,6 @@
 # NightclubRandomAction
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `NightclubRandomAction`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,10 +12,7 @@
 
 ## Used By
 
-- [IsLastNightclubRandomAction](IsLastNightclubRandomAction.md)
-- [NightclubCustomer](NightclubCustomer.md)
-- [NightclubCustomerPool](NightclubCustomerPool.md)
-- [SetLastNightclubRandomAction](SetLastNightclubRandomAction.md)
+- None detected.
 
 ## Notes
 

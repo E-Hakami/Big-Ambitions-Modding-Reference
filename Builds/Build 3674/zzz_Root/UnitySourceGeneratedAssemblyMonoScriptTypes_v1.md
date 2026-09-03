@@ -1,11 +1,6 @@
 # UnitySourceGeneratedAssemblyMonoScriptTypes_v1
 
-**Type:** Multiple
-
-**Declared Types:**
-
-- `UnitySourceGeneratedAssemblyMonoScriptTypes_v1`
-- `MonoScriptData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -13,7 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 

@@ -1,10 +1,6 @@
 # TimeMachine
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TimeMachine`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,23 +8,11 @@
 
 ## Uses
 
-- [BlurEffect](../Player/BlurEffect.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CityManager](../CityManager.md)
-- [GameEvent](../GameEvent.md)
-- [GameManager](../GameManager.md)
-- [GameSpeed](../GameSpeed.md)
-- [GlobalEvents](../GlobalEvents.md)
-- [ItemWarningIconManager](../Player.HUD.ItemWarningIcons/ItemWarningIconManager.md)
-- [OverlayManager](../Player.HUD.ItemInfoOverlays/OverlayManager.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [TimeHelper](../TimeHelper.md)
-- [TimeSpeed](../TimeSpeed.md)
-- [UIs](../UI/UIs.md)
+- None detected.
 
 ## Used By
 
-- [UIs](../UI/UIs.md)
+- None detected.
 
 ## Notes
 

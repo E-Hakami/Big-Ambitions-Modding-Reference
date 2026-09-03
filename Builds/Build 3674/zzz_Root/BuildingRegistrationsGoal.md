@@ -1,10 +1,6 @@
 # BuildingRegistrationsGoal
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BuildingRegistrationsGoal`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingRegistration](BuildingRegistration.md)
-- [FinancialSummary](Entities/FinancialSummary.md)
-- [IntBaseGoal](IntBaseGoal.md)
-- [SaveGameManager](SaveGameManager.md)
+- None detected.
 
 ## Used By
 

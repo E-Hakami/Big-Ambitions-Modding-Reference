@@ -1,10 +1,6 @@
 # RandomWarpInRadius
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RandomWarpInRadius`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,7 +8,7 @@
 
 ## Uses
 
-- [SharedCustomer](SharedCustomer.md)
+- None detected.
 
 ## Used By
 

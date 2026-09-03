@@ -1,10 +1,6 @@
 # CustomerPool
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CustomerPool`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,21 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [Customer](Customer.md)
-- [CustomerType](CustomerType.md)
-- [PrefabHelper](Helpers/PrefabHelper.md)
+- None detected.
 
 ## Used By
 
-- [CasinoCustomerPool](CasinoCustomerPool.md)
-- [CinemaTheaterCustomerPool](CinemaTheaterCustomerPool.md)
-- [CustomerSpawner](Buildings.Indoors/CustomerSpawner.md)
-- [FullServiceCustomerPool](FullServiceCustomerPool.md)
-- [GymCustomerPool](GymCustomerPool.md)
-- [HairdresserCustomerPool](HairdresserCustomerPool.md)
-- [NightclubCustomerPool](NightclubCustomerPool.md)
-- [SelfServiceCustomerPool](SelfServiceCustomerPool.md)
+- None detected.
 
 ## Notes
 

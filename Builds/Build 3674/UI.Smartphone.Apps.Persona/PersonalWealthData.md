@@ -1,10 +1,6 @@
 # PersonalWealthData
 
-**Type:** Struct
-
-**Declared Types:**
-
-- `PersonalWealthData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,8 +12,7 @@
 
 ## Used By
 
-- [CharacterInfo](CharacterInfo.md)
-- [PlayerHelper](../Helpers/PlayerHelper.md)
+- None detected.
 
 ## Notes
 

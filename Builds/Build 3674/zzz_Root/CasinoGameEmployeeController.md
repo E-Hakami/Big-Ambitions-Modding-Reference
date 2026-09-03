@@ -1,10 +1,6 @@
 # CasinoGameEmployeeController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CasinoGameEmployeeController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [AnimationTriggerEvents](Character/AnimationTriggerEvents.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [PlaySpotsManager](Buildings.BuildingTypes.Special/PlaySpotsManager.md)
-- [SfxManager](SfxManager.md)
-- [ThirdPersonCharacter](ThirdPersonCharacter.md)
+- None detected.
 
 ## Used By
 
-- [BlackjackEmployeeController](BlackjackEmployeeController.md)
-- [CasinoGameController](CasinoGameController.md)
-- [RouletteEmployeeController](RouletteEmployeeController.md)
+- None detected.
 
 ## Notes
 

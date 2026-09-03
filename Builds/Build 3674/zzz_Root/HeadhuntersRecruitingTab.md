@@ -1,10 +1,6 @@
 # HeadhuntersRecruitingTab
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HeadhuntersRecruitingTab`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,7 @@
 
 ## Uses
 
-- [AppName](AppName.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [Dropdown](UI.Elements/Dropdown.md)
-- [HeadhunterHelper](Buildings.Office.Headquarters/HeadhunterHelper.md)
-- [HeadhunterPlanUI](HeadhunterPlanUI.md)
-- [HeadhuntersDealBreakers](HeadhuntersDealBreakers.md)
-- [MyEmployees](UI.Smartphone.Apps.MyEmployees/MyEmployees.md)
-- [UIs](UI/UIs.md)
+- None detected.
 
 ## Used By
 

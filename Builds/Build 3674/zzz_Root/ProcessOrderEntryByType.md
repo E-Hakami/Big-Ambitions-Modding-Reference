@@ -1,10 +1,6 @@
 # ProcessOrderEntryByType
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ProcessOrderEntryByType`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [OrderEntry](Entities/OrderEntry.md)
-- [SharedCustomer](SharedCustomer.md)
+- None detected.
 
 ## Used By
 

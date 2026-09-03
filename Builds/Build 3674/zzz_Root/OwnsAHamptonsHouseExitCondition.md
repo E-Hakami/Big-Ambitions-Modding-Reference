@@ -1,10 +1,6 @@
 # OwnsAHamptonsHouseExitCondition
 
-**Type:** Class
-
-**Declared Types:**
-
-- `OwnsAHamptonsHouseExitCondition`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingRegistration](BuildingRegistration.md)
-- [ExitCondition](ExitCondition.md)
-- [SaveGameManager](SaveGameManager.md)
+- None detected.
 
 ## Used By
 

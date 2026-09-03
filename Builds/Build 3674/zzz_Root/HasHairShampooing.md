@@ -1,10 +1,6 @@
 # HasHairShampooing
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasHairShampooing`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,7 +8,7 @@
 
 ## Uses
 
-- [SharedHairdresserCustomer](SharedHairdresserCustomer.md)
+- None detected.
 
 ## Used By
 

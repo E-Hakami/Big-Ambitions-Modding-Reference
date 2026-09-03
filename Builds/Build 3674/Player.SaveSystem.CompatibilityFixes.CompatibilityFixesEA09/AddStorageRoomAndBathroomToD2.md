@@ -1,10 +1,6 @@
 # AddStorageRoomAndBathroomToD2
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AddStorageRoomAndBathroomToD2`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA09](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA09.md)
+- None detected.
 
 ## Notes
 

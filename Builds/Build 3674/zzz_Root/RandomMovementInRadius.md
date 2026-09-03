@@ -1,10 +1,6 @@
 # RandomMovementInRadius
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RandomMovementInRadius`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CharacterMoveToPosition](CharacterMoveToPosition.md)
-- [SharedCustomer](SharedCustomer.md)
+- None detected.
 
 ## Used By
 

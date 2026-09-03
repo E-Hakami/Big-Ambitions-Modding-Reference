@@ -1,10 +1,6 @@
 # HandTruckSpawnerData
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HandTruckSpawnerData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,7 +12,7 @@
 
 ## Used By
 
-- [BuildingRegistration](BuildingRegistration.md)
+- None detected.
 
 ## Notes
 

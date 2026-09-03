@@ -1,10 +1,6 @@
 # BoatColor
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BoatColor`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [DraggableWindows](../UI.DraggableWindows/DraggableWindows.md)
+- None detected.
 
 ## Used By
 
-- [Boat](../Boats/Boat.md)
-- [BoatColorSetter](../Boats/BoatColorSetter.md)
-- [BoatController](../Boats/BoatController.md)
-- [GlobalReferences](../GlobalReferences.md)
+- None detected.
 
 ## Notes
 

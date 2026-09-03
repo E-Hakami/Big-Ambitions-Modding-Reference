@@ -1,10 +1,6 @@
 # EnablePartAndFullTimeToRecruitmentCampaigns
 
-**Type:** Class
-
-**Declared Types:**
-
-- `EnablePartAndFullTimeToRecruitmentCampaigns`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
-- [RecruitmentCampaign](../Entities/RecruitmentCampaign.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA03](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA03.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # PedestrianWalkingAiBehavior
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PedestrianWalkingAiBehavior`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [PedestrianAnimationHandler](../PedestrianAnimationHandler.md)
-- [PedestrianMovementHandler](PedestrianMovementHandler.md)
-- [ThirdPersonCharacter](../ThirdPersonCharacter.md)
+- None detected.
 
 ## Used By
 
-- [BuildingOutsidePedestrian](BuildingOutsidePedestrian.md)
-- [Pedestrian](Pedestrian.md)
+- None detected.
 
 ## Notes
 

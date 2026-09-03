@@ -1,10 +1,6 @@
 # PedestrianWalkToTarget
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PedestrianWalkToTarget`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [ThirdPersonCharacter](../ThirdPersonCharacter.md)
-- [ThirdPersonCharacterPool](../ThirdPersonCharacterPool.md)
+- None detected.
 
 ## Used By
 
-- [VehiclePassengerDropOff](../Streets/VehiclePassengerDropOff.md)
+- None detected.
 
 ## Notes
 

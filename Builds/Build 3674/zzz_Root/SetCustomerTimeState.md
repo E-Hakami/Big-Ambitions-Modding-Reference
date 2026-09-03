@@ -1,10 +1,6 @@
 # SetCustomerTimeState
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SetCustomerTimeState`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [CustomerTimeState](CustomerTimeState.md)
-- [SharedCustomer](SharedCustomer.md)
+- None detected.
 
 ## Used By
 

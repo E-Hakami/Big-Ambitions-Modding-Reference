@@ -1,10 +1,6 @@
 # LoadGameCharacterEntryView
 
-**Type:** Class
-
-**Declared Types:**
-
-- `LoadGameCharacterEntryView`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [LoadGameSaveEntryView](LoadGameSaveEntryView.md)
-- [ModTooltip](../UI.Components/ModTooltip.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 
-- [LoadGame](LoadGame.md)
+- None detected.
 
 ## Notes
 

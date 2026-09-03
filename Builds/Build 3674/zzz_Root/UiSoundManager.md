@@ -1,10 +1,6 @@
 # UiSoundManager
 
-**Type:** Class
-
-**Declared Types:**
-
-- `UiSoundManager`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [UiSound](UiSound.md)
-- [UiSoundData](UiSoundData.md)
-- [UiSoundHelper](UiSoundHelper.md)
+- None detected.
 
 ## Used By
 

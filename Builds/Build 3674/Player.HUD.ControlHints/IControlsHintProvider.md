@@ -1,10 +1,6 @@
 # IControlsHintProvider
 
-**Type:** Interface
-
-**Declared Types:**
-
-- `IControlsHintProvider`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [ControlsHint](ControlsHint.md)
+- None detected.
 
 ## Used By
 
-- [ConfigurableControlsHintProvider](ConfigurableControlsHintProvider.md)
-- [ControllersHintProviderEntry](ControllersHintProviderEntry.md)
-- [ControlsHintController](ControlsHintController.md)
-- [ControlsHintRegistry](ControlsHintRegistry.md)
-- [ControlsHintsUI](ControlsHintsUI.md)
+- None detected.
 
 ## Notes
 

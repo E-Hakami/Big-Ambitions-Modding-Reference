@@ -1,10 +1,6 @@
 # SpecialNpcHelper
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SpecialNpcHelper`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [SpecialNpcData](SpecialNpcData.md)
+- None detected.
 
 ## Used By
 
-- [BusinessEmployeeController](BusinessEmployeeController.md)
-- [GameManager](GameManager.md)
+- None detected.
 
 ## Notes
 

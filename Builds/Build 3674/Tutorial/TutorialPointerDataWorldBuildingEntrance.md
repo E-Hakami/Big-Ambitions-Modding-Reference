@@ -1,10 +1,6 @@
 # TutorialPointerDataWorldBuildingEntrance
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TutorialPointerDataWorldBuildingEntrance`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,7 @@
 
 ## Uses
 
-- [CityBuildingController](../CityBuildingController.md)
-- [CityManager](../CityManager.md)
-- [GameManager](../GameManager.md)
-- [QuestEntryTarget](QuestEntryTarget.md)
-- [TutorialPointer](TutorialPointer.md)
-- [TutorialPointerData](TutorialPointerData.md)
-- [TutorialPointerType](TutorialPointerType.md)
+- None detected.
 
 ## Used By
 

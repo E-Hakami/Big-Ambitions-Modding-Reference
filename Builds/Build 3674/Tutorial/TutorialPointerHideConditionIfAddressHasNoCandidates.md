@@ -1,10 +1,6 @@
 # TutorialPointerHideConditionIfAddressHasNoCandidates
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TutorialPointerHideConditionIfAddressHasNoCandidates`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CustomBuildingTarget](CustomBuildingTarget.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [TutorialPointerHideCondition](TutorialPointerHideCondition.md)
+- None detected.
 
 ## Used By
 

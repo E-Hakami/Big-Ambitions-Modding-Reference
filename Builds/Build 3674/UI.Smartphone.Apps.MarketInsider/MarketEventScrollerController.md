@@ -1,10 +1,6 @@
 # MarketEventScrollerController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `MarketEventScrollerController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [MarketEventCellView](MarketEventCellView.md)
-- [MarketInsider](MarketInsider.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 
-- [MarketInsider](MarketInsider.md)
+- None detected.
 
 ## Notes
 

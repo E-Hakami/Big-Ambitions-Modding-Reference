@@ -1,10 +1,6 @@
 # IEnvironmentDemand
 
-**Type:** Interface
-
-**Declared Types:**
-
-- `IEnvironmentDemand`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [Employee](../Employee.md)
+- None detected.
 
 ## Used By
 
-- [CleanWorkplace](CleanWorkplace.md)
-- [JobDemandHelper](../Entities.Employee.JobDemands/JobDemandHelper.md)
-- [MinimumPlayerHappiness](MinimumPlayerHappiness.md)
+- None detected.
 
 ## Notes
 

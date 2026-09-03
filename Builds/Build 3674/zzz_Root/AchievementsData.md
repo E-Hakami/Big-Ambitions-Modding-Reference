@@ -1,10 +1,6 @@
 # AchievementsData
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AchievementsData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [GameInstance](GameInstance.md)
+- None detected.
 
 ## Notes
 

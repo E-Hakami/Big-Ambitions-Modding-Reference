@@ -1,10 +1,6 @@
 # HasPurchasedItem
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasPurchasedItem`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,21 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [Item](../BusinessLayoutSets/Item.md)
-- [ItemController](../ItemController.md)
-- [PlayerHelper](../Helpers/PlayerHelper.md)
-- [QuestRequirement](QuestRequirement.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [VehicleHelper](../Helpers/VehicleHelper.md)
-- [VehicleInstance](../VehicleInstance.md)
+- None detected.
 
 ## Used By
 
-- [TutorialPointerDataWorldItemToInteractIfItemsToPurchaseGrabbed](TutorialPointerDataWorldItemToInteractIfItemsToPurchaseGrabbed.md)
-- [TutorialPointerDataWorldItemToPurchase](TutorialPointerDataWorldItemToPurchase.md)
+- None detected.
 
 ## Notes
 

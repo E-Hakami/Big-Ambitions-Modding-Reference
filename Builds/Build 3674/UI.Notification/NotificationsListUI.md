@@ -1,10 +1,6 @@
 # NotificationsListUI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `NotificationsListUI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [GlobalEvents](../GlobalEvents.md)
-- [HudConfirm](../HudConfirm.md)
-- [Notification](Notification.md)
-- [NotificationListScrollerController](NotificationListScrollerController.md)
-- [NotificationType](NotificationType.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 
-- [GameManager](../GameManager.md)
-- [UIs](../UI/UIs.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # BuildingPreviewHandle
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BuildingPreviewHandle`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,8 +12,7 @@
 
 ## Used By
 
-- [BlueprintCreatorCamera](BigAmbitions.BlueprintCreator/BlueprintCreatorCamera.md)
-- [BuildingPreview](UI/BuildingPreview.md)
+- None detected.
 
 ## Notes
 

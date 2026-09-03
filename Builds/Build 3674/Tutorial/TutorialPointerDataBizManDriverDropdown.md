@@ -1,10 +1,6 @@
 # TutorialPointerDataBizManDriverDropdown
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TutorialPointerDataBizManDriverDropdown`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [DriverStation](../UI.Smartphone.Apps.BizMan.Warehouse/DriverStation.md)
-- [TutorialPointerDataUiElement](TutorialPointerDataUiElement.md)
-- [Warehouse](../Entities/Warehouse.md)
+- None detected.
 
 ## Used By
 

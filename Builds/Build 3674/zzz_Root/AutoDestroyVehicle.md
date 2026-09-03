@@ -1,10 +1,6 @@
 # AutoDestroyVehicle
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AutoDestroyVehicle`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,20 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CityMap](CityMap.md)
-- [FullMenu](UI.Smartphone/FullMenu.md)
-- [GameManager](GameManager.md)
-- [SaveGameManager](SaveGameManager.md)
-- [TimeHelper](TimeHelper.md)
-- [VehicleController](VehicleController.md)
-- [VehicleHelper](Helpers/VehicleHelper.md)
-- [VehicleInstance](VehicleInstance.md)
+- None detected.
 
 ## Used By
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [VehicleController](VehicleController.md)
+- None detected.
 
 ## Notes
 

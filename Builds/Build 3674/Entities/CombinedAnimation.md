@@ -1,10 +1,6 @@
 # CombinedAnimation
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CombinedAnimation`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,8 +12,7 @@
 
 ## Used By
 
-- [StationaryAiBehavior](StationaryAiBehavior.md)
-- [StationaryAiData](StationaryAiData.md)
+- None detected.
 
 ## Notes
 

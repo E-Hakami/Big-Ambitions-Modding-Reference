@@ -1,10 +1,6 @@
 # SwimmingPoolBuildingController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SwimmingPoolBuildingController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,27 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CityMap](CityMap.md)
-- [EntityController](EntityController.md)
-- [FullMenu](UI.Smartphone/FullMenu.md)
-- [GameManager](GameManager.md)
-- [GlobalEvents](GlobalEvents.md)
-- [GlobalReferences](GlobalReferences.md)
-- [OverlayManager](Player.HUD.ItemInfoOverlays/OverlayManager.md)
-- [PlayerActivityUI](PlayerActivity/PlayerActivityUI.md)
-- [PlayerController](PlayerController.md)
-- [PlayerHelper](Helpers/PlayerHelper.md)
-- [ScreenshotController](ScreenshotController.md)
-- [SubwaySystem](SubwaySystem.md)
-- [ThirdPersonCharacter](ThirdPersonCharacter.md)
-- [UIs](UI/UIs.md)
-- [ViewBlockingEntity](ViewBlockingEntity.md)
-- [ViewBlockingEntityPart](ViewBlockingEntityPart.md)
+- None detected.
 
 ## Used By
 
-- [PlayerActivityCtaBehavior](Player.HUD.ItemInfoOverlays/PlayerActivityCtaBehavior.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # MouseSettings
 
-**Type:** Class
-
-**Declared Types:**
-
-- `MouseSettings`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [CursorData](CursorData.md)
+- None detected.
 
 ## Used By
 
-- [BlueprintCreatorManager](BigAmbitions.BlueprintCreator/BlueprintCreatorManager.md)
-- [GameManager](GameManager.md)
-- [MouseController](MouseController.md)
+- None detected.
 
 ## Notes
 

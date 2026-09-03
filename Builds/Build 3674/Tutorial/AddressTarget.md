@@ -1,10 +1,6 @@
 # AddressTarget
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AddressTarget`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [QuestEntryTarget](QuestEntryTarget.md)
+- None detected.
 
 ## Used By
 
-- [QuestEntryCustomLocalizationFromTargetAddress](QuestEntryCustomLocalizationFromTargetAddress.md)
+- None detected.
 
 ## Notes
 

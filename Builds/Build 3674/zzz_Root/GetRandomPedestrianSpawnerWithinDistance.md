@@ -1,10 +1,6 @@
 # GetRandomPedestrianSpawnerWithinDistance
 
-**Type:** Class
-
-**Declared Types:**
-
-- `GetRandomPedestrianSpawnerWithinDistance`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,7 +8,7 @@
 
 ## Uses
 
-- [StationaryAiSpawner](StationaryAiSpawner.md)
+- None detected.
 
 ## Used By
 

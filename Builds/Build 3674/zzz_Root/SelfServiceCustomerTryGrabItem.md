@@ -1,10 +1,6 @@
 # SelfServiceCustomerTryGrabItem
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SelfServiceCustomerTryGrabItem`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [BuildingCleanlinessHelper](Buildings.BuildingTypes.Shared.Dirtiness/BuildingCleanlinessHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [Customer](Customer.md)
-- [OrderHelper](OrderHelper.md)
-- [TryGrabItemBase](TryGrabItemBase.md)
+- None detected.
 
 ## Used By
 

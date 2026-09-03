@@ -1,10 +1,6 @@
 # BillboardAd
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BillboardAd`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,21 +8,11 @@
 
 ## Uses
 
-- [AdManager](AdManager.md)
-- [AdSettings](AdSettings.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingRegistration](BuildingRegistration.md)
-- [BusinessLogoGenerator](BusinessLogoGenerator.md)
-- [GlobalEvents](GlobalEvents.md)
-- [LogoHelper](LogoHelper.md)
-- [LogoSize](LogoSize.md)
-- [MarketingTypeName](Entities/MarketingTypeName.md)
-- [SaveGameManager](SaveGameManager.md)
+- None detected.
 
 ## Used By
 
-- [AdManager](AdManager.md)
-- [CityManager](CityManager.md)
+- None detected.
 
 ## Notes
 

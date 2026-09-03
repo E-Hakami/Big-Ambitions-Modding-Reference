@@ -1,10 +1,6 @@
 # FurnitureActionPanelUi
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FurnitureActionPanelUi`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,22 +8,11 @@
 
 ## Uses
 
-- [ActionPanelUI](ActionPanelUI.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [FurnitureCategoryToggle](FurnitureCategoryToggle.md)
-- [FurnitureItemSearch](FurnitureItemSearch.md)
-- [GameManager](../GameManager.md)
-- [IDItemTemplateBase](IDItemTemplateBase.md)
-- [IDItemTemplateScrollingController](IDItemTemplateScrollingController.md)
-- [InputField](../UI.Components/InputField.md)
-- [Item](../BusinessLayoutSets/Item.md)
-- [PlayerSettingsHelper](../Helpers/PlayerSettingsHelper.md)
+- None detected.
 
 ## Used By
 
-- [FurnitureCategoryToggle](FurnitureCategoryToggle.md)
-- [FurnitureToolSetup](../Buildings.Indoors.InteriorDesign/FurnitureToolSetup.md)
-- [InteriorDesignerController](../Buildings.Indoors.InteriorDesign/InteriorDesignerController.md)
+- None detected.
 
 ## Notes
 

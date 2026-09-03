@@ -1,10 +1,6 @@
 # CollapsibleFilterCategory
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CollapsibleFilterCategory`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [BaseFilterController](../UI.Smartphone.Apps.Shared/BaseFilterController.md)
+- None detected.
 
 ## Notes
 

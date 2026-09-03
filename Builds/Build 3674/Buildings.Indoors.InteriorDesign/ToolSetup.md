@@ -1,10 +1,6 @@
 # ToolSetup
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ToolSetup`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,29 +8,11 @@
 
 ## Uses
 
-- [ActionPanelUI](../UI.InteriorDesigner/ActionPanelUI.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [InteriorDesignerController](InteriorDesignerController.md)
-- [ItemController](../ItemController.md)
-- [VehicleController](../VehicleController.md)
+- None detected.
 
 ## Used By
 
-- [DuplicateToolSetup](DuplicateToolSetup.md)
-- [EyedropperToolSetup](EyedropperToolSetup.md)
-- [FloorToolSetup](FloorToolSetup.md)
-- [FurnitureToolSetup](FurnitureToolSetup.md)
-- [HandToolSetup](HandToolSetup.md)
-- [InteriorDesignerController](InteriorDesignerController.md)
-- [PackageToolSetup](PackageToolSetup.md)
-- [PaletteToolSetup](PaletteToolSetup.md)
-- [ProducerToolSetup](ProducerToolSetup.md)
-- [QueueToolSetup](QueueToolSetup.md)
-- [SaveBlueprintToolSetup](SaveBlueprintToolSetup.md)
-- [SecurityToolSetup](SecurityToolSetup.md)
-- [SellToolSetup](SellToolSetup.md)
-- [TimeOfDayToolSetup](TimeOfDayToolSetup.md)
-- [WallToolSetup](WallToolSetup.md)
+- None detected.
 
 ## Notes
 

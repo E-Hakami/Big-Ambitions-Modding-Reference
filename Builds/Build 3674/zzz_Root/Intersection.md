@@ -1,10 +1,6 @@
 # Intersection
 
-**Type:** Class
-
-**Declared Types:**
-
-- `Intersection`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [Road](Road.md)
+- None detected.
 
 ## Notes
 

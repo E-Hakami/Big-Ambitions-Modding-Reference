@@ -1,10 +1,6 @@
 # HudConfirmUi
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HudConfirmUi`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [FullMenu](UI.Smartphone/FullMenu.md)
-- [HudConfirm](HudConfirm.md)
+- None detected.
 
 ## Used By
 

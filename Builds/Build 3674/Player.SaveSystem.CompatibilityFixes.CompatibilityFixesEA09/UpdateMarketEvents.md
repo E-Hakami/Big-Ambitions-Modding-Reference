@@ -1,10 +1,6 @@
 # UpdateMarketEvents
 
-**Type:** Class
-
-**Declared Types:**
-
-- `UpdateMarketEvents`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,19 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
-- [ImportExportSettings](../Buildings/ImportExportSettings.md)
-- [MarketEvent](../Entities/MarketEvent.md)
-- [MarketEventType](../Entities/MarketEventType.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [SpecialService](../Buildings/SpecialService.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA09](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA09.md)
+- None detected.
 
 ## Notes
 

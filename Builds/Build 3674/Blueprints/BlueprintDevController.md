@@ -1,10 +1,6 @@
 # BlueprintDevController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BlueprintDevController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,25 +8,11 @@
 
 ## Uses
 
-- [Blueprint](Blueprint.md)
-- [BlueprintController](BlueprintController.md)
-- [BlueprintDataElement](BlueprintDataElement.md)
-- [BlueprintSortInfo](../BlueprintsUI/BlueprintSortInfo.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingSizeHelper](../Buildings/BuildingSizeHelper.md)
-- [BuildingSizeInfo](BuildingSizeInfo.md)
-- [BuildingVersion](../BuildingVersion.md)
-- [BusinessLayoutSet](../BusinessLayoutSet.md)
-- [BusinessType](../BusinessType.md)
-- [BusinessTypeHelper](../Helpers/BusinessTypeHelper.md)
-- [DataElement](DataElement.md)
+- None detected.
 
 ## Used By
 
-- [BlueprintBusinessLayoutsController](BlueprintBusinessLayoutsController.md)
-- [BlueprintFeedbackController](BlueprintFeedbackController.md)
-- [BlueprintInteriorDesignsController](BlueprintInteriorDesignsController.md)
-- [BlueprintsListUI](../BlueprintsUI/BlueprintsListUI.md)
+- None detected.
 
 ## Notes
 

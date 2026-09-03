@@ -1,10 +1,6 @@
 # SkinColorHelper
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SkinColorHelper`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [AppearanceSetter](../AppearanceSetter.md)
-- [HairdresserCustomer](../HairdresserCustomer.md)
-- [PlayerController](../PlayerController.md)
-- [UpdateCharacterDataToNewSystem](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA02/UpdateCharacterDataToNewSystem.md)
+- None detected.
 
 ## Notes
 

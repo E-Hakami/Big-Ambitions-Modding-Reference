@@ -1,10 +1,6 @@
 # ICarnivalNpcItem
 
-**Type:** Interface
-
-**Declared Types:**
-
-- `ICarnivalNpcItem`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CarnivalPedestrian](../CarnivalPedestrian.md)
+- None detected.
 
 ## Used By
 
-- [Attraction](Attraction.md)
-- [BigStrikers](BigStrikers.md)
-- [CarnivalPedestrian](../CarnivalPedestrian.md)
-- [FerrisWheel](FerrisWheel.md)
-- [PedestrianSpawnerForCarnival](../Entities/PedestrianSpawnerForCarnival.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # CityHamptonsHouseController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CityHamptonsHouseController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,24 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [CityBuildingController](CityBuildingController.md)
-- [CityMap](CityMap.md)
-- [GameManager](GameManager.md)
-- [GlobalEvents](GlobalEvents.md)
-- [HamptonsHouse](HamptonsHouse.md)
-- [Notification](UI.Notification/Notification.md)
-- [Notifications](UI.Notification/Notifications.md)
-- [UIs](UI/UIs.md)
-- [VehicleController](VehicleController.md)
+- None detected.
 
 ## Used By
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [InteriorInstallationFirmContract](Entities/InteriorInstallationFirmContract.md)
-- [RealEstateHelper](Helpers/RealEstateHelper.md)
+- None detected.
 
 ## Notes
 

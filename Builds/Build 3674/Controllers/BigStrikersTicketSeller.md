@@ -1,10 +1,6 @@
 # BigStrikersTicketSeller
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BigStrikersTicketSeller`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [BigStrikers](BigStrikers.md)
-- [PaidActivity](../PlayerActivity.Activities.Paid/PaidActivity.md)
-- [PlayerController](../PlayerController.md)
-- [TicketSeller](TicketSeller.md)
+- None detected.
 
 ## Used By
 

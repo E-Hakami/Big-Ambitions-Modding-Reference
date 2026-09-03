@@ -1,10 +1,6 @@
 # SecurityActionPanelUi
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SecurityActionPanelUi`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [BusinessTypeHelper](Helpers/BusinessTypeHelper.md)
-- [GlobalReferences](GlobalReferences.md)
-- [InteriorDesignerController](Buildings.Indoors.InteriorDesign/InteriorDesignerController.md)
-- [ItemActionPanelUI](UI.InteriorDesigner/ItemActionPanelUI.md)
-- [ItemController](ItemController.md)
+- None detected.
 
 ## Used By
 
-- [InteriorDesignerController](Buildings.Indoors.InteriorDesign/InteriorDesignerController.md)
+- None detected.
 
 ## Notes
 

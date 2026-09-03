@@ -1,10 +1,6 @@
 # VehicleStoreSettings
 
-**Type:** Class
-
-**Declared Types:**
-
-- `VehicleStoreSettings`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [SpecialServiceSettings](SpecialServiceSettings.md)
+- None detected.
 
 ## Used By
 
-- [ContractVehicleForSale](ContractVehicleForSale.md)
-- [PurchaseVehicleUI](../UI.PurchaseVehicle/PurchaseVehicleUI.md)
-- [ShowcaseVehicleController](../Controllers/ShowcaseVehicleController.md)
-- [VehicleContractSettings](VehicleContractSettings.md)
-- [VehicleDeliveryHelper](../Vehicles/VehicleDeliveryHelper.md)
-- [VehicleStoreDialog](VehicleStoreDialog.md)
+- None detected.
 
 ## Notes
 

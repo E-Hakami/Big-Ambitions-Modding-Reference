@@ -1,10 +1,6 @@
 # CityMap
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CityMap`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,109 +8,11 @@
 
 ## Uses
 
-- [AppName](AppName.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [BuildingPreview](UI/BuildingPreview.md)
-- [CameraHelper](Helpers/CameraHelper.md)
-- [CasinoBoatManager](CasinoBoatManager.md)
-- [CityBuildingController](CityBuildingController.md)
-- [CityManager](CityManager.md)
-- [CityMapCam](CityMapCam.md)
-- [CityMapNeighborhoodZones](CityMapNeighborhoodZones.md)
-- [CursorType](CursorType.md)
-- [FullMenu](UI.Smartphone/FullMenu.md)
-- [GameManager](GameManager.md)
-- [GlobalEvents](GlobalEvents.md)
-- [GlobalReferences](GlobalReferences.md)
-- [InteractiveObjectType](InteractiveObjectType.md)
-- [InteriorDesignerUI](UI.InteriorDesigner/InteriorDesignerUI.md)
-- [ITaxi](Vehicles.Taxis/ITaxi.md)
-- [MiniMenu](UI.MiniMenu/MiniMenu.md)
-- [MouseController](MouseController.md)
-- [NavigationBlocker](NavigationBlocker.md)
-- [Notification](UI.Notification/Notification.md)
-- [Notifications](UI.Notification/Notifications.md)
-- [OverlayManager](Player.HUD.ItemInfoOverlays/OverlayManager.md)
-- [PermanentPointsOfInterest](UI/PermanentPointsOfInterest.md)
-- [PlayerHelper](Helpers/PlayerHelper.md)
-- [PlayerPrefSettings](PlayerPrefSettings.md)
-- [PointOfInterest](PointOfInterest.md)
-- [PurchaseVehicleUI](UI.PurchaseVehicle/PurchaseVehicleUI.md)
-- [SfxManager](SfxManager.md)
-- [SubwayStation](SubwayStation.md)
-- [SubwaySystem](SubwaySystem.md)
-- [TaxiSystem](TaxiSystem.md)
-- [UIs](UI/UIs.md)
-- [UndergroundParkingManager](Parking.UndergroundParking/UndergroundParkingManager.md)
-- [VehicleHelper](Helpers/VehicleHelper.md)
-- [VideoGameSetup](Controllers/VideoGameSetup.md)
+- None detected.
 
 ## Used By
 
-- [AiSpawnerForBuildingOutsideHangoutZone](AiSpawnerForBuildingOutsideHangoutZone.md)
-- [AudioListenerPositioner](AudioListenerPositioner.md)
-- [AutoDestroyVehicle](AutoDestroyVehicle.md)
-- [BuildingPreview](UI/BuildingPreview.md)
-- [BuildingResume](UI.InGameUI/BuildingResume.md)
-- [BuildingSignController](BuildingSignController.md)
-- [CancelButtonHandler](CancelButtonHandler.md)
-- [CarController](CarController.md)
-- [CityBuildingController](CityBuildingController.md)
-- [CityHamptonsHouseController](CityHamptonsHouseController.md)
-- [CityManager](CityManager.md)
-- [CityMapCam](CityMapCam.md)
-- [CityMapFilter](City.CityMap/CityMapFilter.md)
-- [CityMapFilterCategory](City.CityMap/CityMapFilterCategory.md)
-- [CityMapFilterData](City.CityMap/CityMapFilterData.md)
-- [CityMapFilters](CityMapFilters.md)
-- [CityMapHider](CityMapHider.md)
-- [CityMapObjectSwitcher](CityMapObjectSwitcher.md)
-- [CityMapSubwayStations](CityMapSubwayStations.md)
-- [ContactsApp](UI.Smartphone.Apps.Contacts/ContactsApp.md)
-- [ControlsHintController](Player.HUD.ControlHints/ControlsHintController.md)
-- [CtaOverlay](Player.HUD.ItemInfoOverlays/CtaOverlay.md)
-- [CurrentJob](UI.CurrentJob/CurrentJob.md)
-- [EntityController](EntityController.md)
-- [FullMenu](UI.Smartphone/FullMenu.md)
-- [GameManager](GameManager.md)
-- [GasStationPartController](Buildings.BuildingTypes.Special.GasStation/GasStationPartController.md)
-- [GolfPlatformController](Items.SpecialItems/GolfPlatformController.md)
-- [GuidersManager](UI.Guiders/GuidersManager.md)
-- [HamptonsHouse](HamptonsHouse.md)
-- [HospitalizationNotification](UI/HospitalizationNotification.md)
-- [ItemPanelUI](UI.ItemPanel/ItemPanelUI.md)
-- [LoudSpeakersManager](Player.Sound.Radio/LoudSpeakersManager.md)
-- [MarketInsiderNeighborhoodData](UI.Smartphone.Apps.MarketInsider/MarketInsiderNeighborhoodData.md)
-- [MiniMenu](UI.MiniMenu/MiniMenu.md)
-- [ModsNotification](UI/ModsNotification.md)
-- [MouseController](MouseController.md)
-- [MusicPlayer](MusicPlayer.md)
-- [OutsideBenchController](OutsideBenchController.md)
-- [OutsideChairController](OutsideChairController.md)
-- [OutsideInteractableItem](Controllers/OutsideInteractableItem.md)
-- [OverlayManager](Player.HUD.ItemInfoOverlays/OverlayManager.md)
-- [PedestrianCam](CameraControllers/PedestrianCam.md)
-- [PermanentPointsOfInterest](UI/PermanentPointsOfInterest.md)
-- [PlayerController](PlayerController.md)
-- [PointOfInterest](PointOfInterest.md)
-- [SfxManager](SfxManager.md)
-- [SkipBridgeUi](Player/SkipBridgeUi.md)
-- [SmartphonePrivateDriverUI](Player.HUD.SmartphoneUI/SmartphonePrivateDriverUI.md)
-- [SmartphoneUI](SmartphoneUI.md)
-- [StationaryAiSpawner](StationaryAiSpawner.md)
-- [StreetLamp](StreetLamp.md)
-- [SubwayStation](SubwayStation.md)
-- [SwimmingPoolBuildingController](SwimmingPoolBuildingController.md)
-- [SwimmingPoolController](SwimmingPoolController.md)
-- [TaxiSystem](TaxiSystem.md)
-- [TennisCourt](PlayerActivity.Tennis/TennisCourt.md)
-- [TennisInteractionNpc](PlayerActivity.Tennis/TennisInteractionNpc.md)
-- [TimeOfDayController](TimeOfDayController.md)
-- [UIs](UI/UIs.md)
-- [VehicleController](VehicleController.md)
-- [VehicleOverlay](Player.HUD.ItemInfoOverlays/VehicleOverlay.md)
-- [ViewBlockingObjectManager](ViewBlockingObjectManager.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # PixelatedCube
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PixelatedCube`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [GlobalEvents](GlobalEvents.md)
-- [MultipleHeightsBuildingController](MultipleHeightsBuildingController.md)
+- None detected.
 
 ## Used By
 
-- [AppearanceSetter](AppearanceSetter.md)
+- None detected.
 
 ## Notes
 

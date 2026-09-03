@@ -1,10 +1,6 @@
 # ReportBugButton
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ReportBugButton`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [BasicTooltip](../BasicTooltip.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [Topbar](Topbar.md)
+- None detected.
 
 ## Used By
 

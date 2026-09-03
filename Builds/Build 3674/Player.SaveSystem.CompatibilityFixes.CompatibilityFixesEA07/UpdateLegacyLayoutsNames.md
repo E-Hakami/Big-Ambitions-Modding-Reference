@@ -1,10 +1,6 @@
 # UpdateLegacyLayoutsNames
 
-**Type:** Class
-
-**Declared Types:**
-
-- `UpdateLegacyLayoutsNames`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
-- [SpecialService](../Buildings/SpecialService.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA07](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA07.md)
+- None detected.
 
 ## Notes
 

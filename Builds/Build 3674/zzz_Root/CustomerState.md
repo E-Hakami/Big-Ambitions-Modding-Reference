@@ -1,10 +1,6 @@
 # CustomerState
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `CustomerState`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,22 +12,7 @@
 
 ## Used By
 
-- [BarmanEmployee](BarmanEmployee.md)
-- [CoatCheckEmployee](CoatCheckEmployee.md)
-- [Customer](Customer.md)
-- [CustomerJoinQueue](CustomerJoinQueue.md)
-- [CustomerJoinQueueInstantly](CustomerJoinQueueInstantly.md)
-- [FullServiceCustomer](FullServiceCustomer.md)
-- [FullServiceEmployee](FullServiceEmployee.md)
-- [HairdresserChairController](Controllers/HairdresserChairController.md)
-- [HairdresserStylistEmployee](HairdresserStylistEmployee.md)
-- [IRSEmployee](IRSEmployee.md)
-- [IWaitingLineHolder](EmployeeStations/IWaitingLineHolder.md)
-- [SelfServiceEmployee](SelfServiceEmployee.md)
-- [TicketBoothEmployee](TicketBoothEmployee.md)
-- [TicketKioskController](Controllers/TicketKioskController.md)
-- [WaitingLineCustomersManagement](EmployeeStations/WaitingLineCustomersManagement.md)
-- [WaitingLineData](EmployeeStations/WaitingLineData.md)
+- None detected.
 
 ## Notes
 

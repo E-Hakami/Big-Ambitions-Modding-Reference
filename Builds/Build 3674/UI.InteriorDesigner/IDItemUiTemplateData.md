@@ -1,10 +1,6 @@
 # IDItemUiTemplateData
 
-**Type:** Class
-
-**Declared Types:**
-
-- `IDItemUiTemplateData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,19 +8,11 @@
 
 ## Uses
 
-- [IDItemTemplateBase](IDItemTemplateBase.md)
-- [ItemController](../ItemController.md)
+- None detected.
 
 ## Used By
 
-- [FurnitureItemSearch](FurnitureItemSearch.md)
-- [FurnitureTagMatcher](FurnitureTagMatcher.md)
-- [IDFurnitureItemTemplate](IDFurnitureItemTemplate.md)
-- [IDItemTemplateBase](IDItemTemplateBase.md)
-- [IDItemTemplateScrollingController](IDItemTemplateScrollingController.md)
-- [IDItemTemplatesModel](IDItemTemplatesModel.md)
-- [IDOtherItemTemplate](IDOtherItemTemplate.md)
-- [ItemActionPanelUI](ItemActionPanelUI.md)
+- None detected.
 
 ## Notes
 

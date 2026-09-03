@@ -1,10 +1,6 @@
 # FixMissingDeliverySpot
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FixMissingDeliverySpot`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,19 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BuildingSizeInfo](../Blueprints/BuildingSizeInfo.md)
-- [BusinessLayoutSet](../BusinessLayoutSet.md)
-- [BusinessLayoutSetHelper](../BusinessLayoutSets/BusinessLayoutSetHelper.md)
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
-- [Item](../BusinessLayoutSets/Item.md)
-- [ItemHelper](../ItemHelper.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA011](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA011.md)
+- None detected.
 
 ## Notes
 

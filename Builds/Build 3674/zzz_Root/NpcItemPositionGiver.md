@@ -1,10 +1,6 @@
 # NpcItemPositionGiver
 
-**Type:** Class
-
-**Declared Types:**
-
-- `NpcItemPositionGiver`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [Attraction](Controllers/Attraction.md)
-- [BigStrikers](Controllers/BigStrikers.md)
-- [FerrisWheel](Controllers/FerrisWheel.md)
-- [ManuallyPlacedPositionGiver](ManuallyPlacedPositionGiver.md)
-- [RadiusBasedPositionGiver](RadiusBasedPositionGiver.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # ThirdPersonCharacterPool
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ThirdPersonCharacterPool`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [PrefabHelper](Helpers/PrefabHelper.md)
-- [ThirdPersonCharacter](ThirdPersonCharacter.md)
+- None detected.
 
 ## Used By
 
-- [PedestrianWalkToTarget](Streets.Pedestrians/PedestrianWalkToTarget.md)
-- [VehiclePassengerDropOff](Streets/VehiclePassengerDropOff.md)
+- None detected.
 
 ## Notes
 

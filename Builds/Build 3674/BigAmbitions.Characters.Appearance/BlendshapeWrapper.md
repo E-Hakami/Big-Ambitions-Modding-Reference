@@ -1,10 +1,6 @@
 # BlendshapeWrapper
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BlendshapeWrapper`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [AppearanceSetter](../AppearanceSetter.md)
-- [CharacterData](../CharacterData.md)
+- None detected.
 
 ## Used By
 
-- [AppearanceSetter](../AppearanceSetter.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # TutorialPointerHeadquartersPlanHelper
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TutorialPointerHeadquartersPlanHelper`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,20 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [LogisticsManagerPlan](../Buildings.Office.Headquarters/LogisticsManagerPlan.md)
-- [PricingManagerPlan](../Buildings.Office.Headquarters/PricingManagerPlan.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [UIs](../UI/UIs.md)
+- None detected.
 
 ## Used By
 
-- [LogisticsManagerPlanEntryVariablePathGetter](LogisticsManagerPlanEntryVariablePathGetter.md)
-- [PricingManagerPlanEntryVariablePathGetter](PricingManagerPlanEntryVariablePathGetter.md)
-- [TutorialPointerHideConditionHasAssignedLogisticsManagerDestination](TutorialPointerHideConditionHasAssignedLogisticsManagerDestination.md)
-- [TutorialPointerHideConditionHasAssignedLogisticsManagerPlan](TutorialPointerHideConditionHasAssignedLogisticsManagerPlan.md)
-- [TutorialPointerHideConditionHasAssignedWarehouse](TutorialPointerHideConditionHasAssignedWarehouse.md)
-- [TutorialPointerHideConditionHasLogisticsManagerDestination](TutorialPointerHideConditionHasLogisticsManagerDestination.md)
+- None detected.
 
 ## Notes
 

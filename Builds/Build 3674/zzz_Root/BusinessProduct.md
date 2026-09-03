@@ -1,10 +1,6 @@
 # BusinessProduct
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BusinessProduct`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,7 +12,7 @@
 
 ## Used By
 
-- [BusinessType](BusinessType.md)
+- None detected.
 
 ## Notes
 

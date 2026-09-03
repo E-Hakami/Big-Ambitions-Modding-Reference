@@ -1,10 +1,6 @@
 # AreThereOrderEntriesRemaining
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AreThereOrderEntriesRemaining`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [OrderEntry](Entities/OrderEntry.md)
-- [SharedCustomer](SharedCustomer.md)
+- None detected.
 
 ## Used By
 

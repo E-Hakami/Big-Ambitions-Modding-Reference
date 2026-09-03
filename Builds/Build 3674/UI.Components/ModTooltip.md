@@ -1,10 +1,6 @@
 # ModTooltip
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ModTooltip`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [TooltipSystem](../Tooltip/TooltipSystem.md)
-- [TooltipTarget](../TooltipTarget.md)
+- None detected.
 
 ## Used By
 
-- [LoadGameCharacterEntryView](../Scenes.MainMenu/LoadGameCharacterEntryView.md)
-- [LoadGameSaveEntryView](../Scenes.MainMenu/LoadGameSaveEntryView.md)
-- [MainMenuController](../MainMenuController.md)
+- None detected.
 
 ## Notes
 

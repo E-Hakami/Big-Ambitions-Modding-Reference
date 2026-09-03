@@ -1,10 +1,6 @@
 # ModsPanel
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ModsPanel`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [InputField](../UI.Components/InputField.md)
-- [LoadingSpinner](../LoadingSpinner.md)
-- [ModsRow](ModsRow.md)
+- None detected.
 
 ## Used By
 

@@ -1,10 +1,6 @@
 # BuildingStructureController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BuildingStructureController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingSizeHelper](BuildingSizeHelper.md)
+- None detected.
 
 ## Used By
 
-- [BuildingManager](../BuildingManager.md)
-- [BuildingSizeContainer](BuildingSizeContainer.md)
-- [BuildingSizeResolver](BuildingSizeResolver.md)
+- None detected.
 
 ## Notes
 

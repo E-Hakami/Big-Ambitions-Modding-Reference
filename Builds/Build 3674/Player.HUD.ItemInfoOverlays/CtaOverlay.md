@@ -1,10 +1,6 @@
 # CtaOverlay
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CtaOverlay`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,19 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CityMap](../CityMap.md)
-- [CtaManager](CtaManager.md)
-- [EntityController](../EntityController.md)
-- [GlobalReferences](../GlobalReferences.md)
-- [IOverlay](IOverlay.md)
-- [ItemController](../ItemController.md)
-- [ShowcaseVehicleController](../Controllers/ShowcaseVehicleController.md)
+- None detected.
 
 ## Used By
 
-- [OverlayBase](OverlayBase.md)
-- [OverlayHelper](OverlayHelper.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # InitGymWorkout
 
-**Type:** Class
-
-**Declared Types:**
-
-- `InitGymWorkout`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [SharedCustomer](SharedCustomer.md)
-- [SharedItemController](SharedItemController.md)
-- [SharedWorkoutTypes](SharedWorkoutTypes.md)
-- [WorkoutType](PlayerActivity/WorkoutType.md)
+- None detected.
 
 ## Used By
 

@@ -1,10 +1,6 @@
 # ModsNotification
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ModsNotification`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [CityMap](../CityMap.md)
-- [MiniMenu](../UI.MiniMenu/MiniMenu.md)
-- [UIs](UIs.md)
+- None detected.
 
 ## Used By
 
-- [HGModLoader](../BigAmbitions/HGModLoader.md)
+- None detected.
 
 ## Notes
 

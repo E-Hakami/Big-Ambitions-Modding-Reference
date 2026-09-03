@@ -1,10 +1,6 @@
 # RecruitmentAgencySettings
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RecruitmentAgencySettings`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [SpecialServiceSettings](SpecialServiceSettings.md)
+- None detected.
 
 ## Used By
 
-- [RecruitmentSettings](../UI.Dialog/RecruitmentSettings.md)
+- None detected.
 
 ## Notes
 

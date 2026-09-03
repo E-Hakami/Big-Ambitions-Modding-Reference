@@ -1,10 +1,6 @@
 # ActorEmployeeAnimationEvents
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ActorEmployeeAnimationEvents`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [ActorEmployeeSoundsSet](ActorEmployeeSoundsSet.md)
-- [AppearanceSetter](../AppearanceSetter.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Gender](../Character.Customization/Gender.md)
-- [GlobalReferences](../GlobalReferences.md)
-- [SfxManager](../SfxManager.md)
+- None detected.
 
 ## Used By
 
-- [ActorEmployee](../Buildings.Retail.Businesses.CinemaTheater/ActorEmployee.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # StartupSceneController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `StartupSceneController`
+**Type:** Source File
 
 ## Main Reference
 

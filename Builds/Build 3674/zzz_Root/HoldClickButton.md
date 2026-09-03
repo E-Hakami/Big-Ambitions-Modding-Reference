@@ -1,10 +1,6 @@
 # HoldClickButton
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HoldClickButton`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,7 +12,7 @@
 
 ## Used By
 
-- [PlasticSurgeryUI](Character.Customization/PlasticSurgeryUI.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # FixNoBuildingsForRentDuringSecondRetailQuest
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FixNoBuildingsForRentDuringSecondRetailQuest`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BusinessHelper](../Helpers/BusinessHelper.md)
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
-- [TutorialHelper](../Helpers/TutorialHelper.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA03](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA03.md)
+- None detected.
 
 ## Notes
 

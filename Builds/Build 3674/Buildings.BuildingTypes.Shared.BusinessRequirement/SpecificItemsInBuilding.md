@@ -1,10 +1,6 @@
 # SpecificItemsInBuilding
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SpecificItemsInBuilding`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BusinessRequirement](BusinessRequirement.md)
-- [TodoTaskType](../Entities/TodoTaskType.md)
+- None detected.
 
 ## Used By
 
-- [SpecificItemsInBuildingBySqm](SpecificItemsInBuildingBySqm.md)
+- None detected.
 
 ## Notes
 

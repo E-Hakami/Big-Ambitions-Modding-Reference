@@ -1,10 +1,6 @@
 # WideSignType
 
-**Type:** Class
-
-**Declared Types:**
-
-- `WideSignType`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [SignType](../Enums/SignType.md)
+- None detected.
 
 ## Used By
 
-- [BuildingSignController](../BuildingSignController.md)
-- [WideSignTypes](WideSignTypes.md)
+- None detected.
 
 ## Notes
 

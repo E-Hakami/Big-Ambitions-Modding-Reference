@@ -1,10 +1,6 @@
 # PedestrianMovementHandler
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PedestrianMovementHandler`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BusinessHelper](../Helpers/BusinessHelper.md)
-- [CityManager](../CityManager.md)
-- [CrosswalkToTrafficLightLink](../CrosswalkToTrafficLightLink.md)
-- [ThirdPersonCharacter](../ThirdPersonCharacter.md)
+- None detected.
 
 ## Used By
 
-- [PedestrianWalkingAiBehavior](PedestrianWalkingAiBehavior.md)
+- None detected.
 
 ## Notes
 

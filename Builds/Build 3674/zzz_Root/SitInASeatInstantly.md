@@ -1,10 +1,6 @@
 # SitInASeatInstantly
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SitInASeatInstantly`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,7 @@
 
 ## Uses
 
-- [BuildingCleanlinessHelper](Buildings.BuildingTypes.Shared.Dirtiness/BuildingCleanlinessHelper.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [ItemController](ItemController.md)
-- [SeatSpot](SeatSpot.md)
-- [SharedCustomer](SharedCustomer.md)
-- [TimeHelper](TimeHelper.md)
+- None detected.
 
 ## Used By
 

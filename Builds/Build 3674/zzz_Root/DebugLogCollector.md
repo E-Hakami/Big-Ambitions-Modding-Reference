@@ -1,11 +1,6 @@
 # DebugLogCollector
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DebugLogCollector`
-- `DebugMessage`
+**Type:** Source File
 
 ## Main Reference
 
@@ -13,11 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [Feedback](UI.Smartphone.Apps.Feedback/Feedback.md)
+- None detected.
 
 ## Notes
 

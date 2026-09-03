@@ -1,10 +1,6 @@
 # HandObjectData
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HandObjectData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [BigStrikersUnit](BigStrikersUnit.md)
-- [IWorkoutMachine](IWorkoutMachine.md)
-- [WorkoutMachineController](../WorkoutMachineController.md)
-- [WorkoutMachineNpcSpawnerItem](WorkoutMachineNpcSpawnerItem.md)
-- [WorkoutMachineOutsideInteractableItem](WorkoutMachineOutsideInteractableItem.md)
+- None detected.
 
 ## Notes
 

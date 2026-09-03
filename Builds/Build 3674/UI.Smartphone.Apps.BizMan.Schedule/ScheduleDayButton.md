@@ -1,10 +1,6 @@
 # ScheduleDayButton
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ScheduleDayButton`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,22 +8,11 @@
 
 ## Uses
 
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [GameInstance](../GameInstance.md)
-- [GlobalReferences](../GlobalReferences.md)
-- [HudConfirm](../HudConfirm.md)
-- [Notification](../UI.Notification/Notification.md)
-- [Notifications](../UI.Notification/Notifications.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [ScheduleDay](../ScheduleDay.md)
-- [ScheduleHelper](ScheduleHelper.md)
-- [UIs](../UI/UIs.md)
+- None detected.
 
 ## Used By
 
-- [ScheduleDaySelectionController](ScheduleDaySelectionController.md)
+- None detected.
 
 ## Notes
 

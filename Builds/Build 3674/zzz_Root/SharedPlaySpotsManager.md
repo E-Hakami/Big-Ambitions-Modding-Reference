@@ -1,10 +1,6 @@
 # SharedPlaySpotsManager
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SharedPlaySpotsManager`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,7 +8,7 @@
 
 ## Uses
 
-- [PlaySpotsManager](Buildings.BuildingTypes.Special/PlaySpotsManager.md)
+- None detected.
 
 ## Used By
 

@@ -1,10 +1,6 @@
 # AutoTowServiceHelper
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AutoTowServiceHelper`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [Contact](../Entities/Contact.md)
-- [ContactCategoryName](../UI.Smartphone.Apps.Contacts/ContactCategoryName.md)
-- [GlobalEvents](../GlobalEvents.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [TextMessage](../Entities/TextMessage.md)
-- [VehicleController](../VehicleController.md)
-- [VehicleType](../Vehicles.VehicleTypes/VehicleType.md)
+- None detected.
 
 ## Used By
 
-- [GameManager](../GameManager.md)
-- [TasksUI](../UI.Tasks/TasksUI.md)
+- None detected.
 
 ## Notes
 

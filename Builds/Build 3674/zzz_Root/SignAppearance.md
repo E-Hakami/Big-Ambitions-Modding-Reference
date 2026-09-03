@@ -1,10 +1,6 @@
 # SignAppearance
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SignAppearance`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,24 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingRegistration](BuildingRegistration.md)
-- [CityBuildingController](CityBuildingController.md)
-- [CityManager](CityManager.md)
-- [ColorListUI](ColorListUI.md)
-- [CustomColorPicker](CustomColorPicker.md)
-- [Dropdown](UI.Elements/Dropdown.md)
-- [GameManager](GameManager.md)
-- [GlobalEvents](GlobalEvents.md)
-- [SignType](Enums/SignType.md)
-- [UIs](UI/UIs.md)
+- None detected.
 
 ## Used By
 
-- [CancelButtonHandler](CancelButtonHandler.md)
-- [DraggableWindows](UI.DraggableWindows/DraggableWindows.md)
-- [GameManager](GameManager.md)
-- [MiniMenu](UI.MiniMenu/MiniMenu.md)
+- None detected.
 
 ## Notes
 

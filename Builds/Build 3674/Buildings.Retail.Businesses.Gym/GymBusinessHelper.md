@@ -1,10 +1,6 @@
 # GymBusinessHelper
 
-**Type:** Class
-
-**Declared Types:**
-
-- `GymBusinessHelper`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,21 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BusinessType](../BusinessType.md)
-- [BusinessTypeHelper](../Helpers/BusinessTypeHelper.md)
-- [GlobalEvents](../GlobalEvents.md)
-- [GymTrainerEmployee](../GymTrainerEmployee.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [UIs](../UI/UIs.md)
-- [WorkoutGroup](../PlayerActivity/WorkoutGroup.md)
-- [WorkoutGroupType](../PlayerActivity/WorkoutGroupType.md)
-- [WorkoutType](../PlayerActivity/WorkoutType.md)
+- None detected.
 
 ## Used By
 
-- [BuildingManager](../BuildingManager.md)
-- [WorkoutPlan](../PlayerActivity/WorkoutPlan.md)
+- None detected.
 
 ## Notes
 

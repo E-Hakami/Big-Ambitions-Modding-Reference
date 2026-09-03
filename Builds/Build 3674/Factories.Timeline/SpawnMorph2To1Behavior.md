@@ -1,10 +1,6 @@
 # SpawnMorph2To1Behavior
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SpawnMorph2To1Behavior`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [PrefabHelper](../Helpers/PrefabHelper.md)
-- [SmartPhoneFrame](../Player.HUD.SmartphoneUI/SmartPhoneFrame.md)
-- [SpawnMorphPlayerData](SpawnMorphPlayerData.md)
+- None detected.
 
 ## Used By
 
-- [SpawnMorph2To1Clip](SpawnMorph2To1Clip.md)
+- None detected.
 
 ## Notes
 

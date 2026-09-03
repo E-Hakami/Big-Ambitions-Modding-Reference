@@ -1,10 +1,6 @@
 # CityMapSubwayStationEntry
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CityMapSubwayStationEntry`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CityManager](CityManager.md)
-- [GlobalReferences](GlobalReferences.md)
-- [SubwayStation](SubwayStation.md)
-- [SubwaySystem](SubwaySystem.md)
-- [UIs](UI/UIs.md)
+- None detected.
 
 ## Used By
 
-- [CityMapSubwayStations](CityMapSubwayStations.md)
+- None detected.
 
 ## Notes
 

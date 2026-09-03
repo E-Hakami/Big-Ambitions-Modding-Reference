@@ -1,10 +1,6 @@
 # BlueprintCreatorUI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BlueprintCreatorUI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,21 +8,11 @@
 
 ## Uses
 
-- [BlueprintCreatorManager](BlueprintCreatorManager.md)
-- [BlueprintCreatorSystem](BlueprintCreatorSystem.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingPreview](../UI/BuildingPreview.md)
-- [BuildingSizeHelper](../Buildings/BuildingSizeHelper.md)
-- [BuildingSizeInfo](../Blueprints/BuildingSizeInfo.md)
-- [BuildingTypeData](../BuildingTypeData.md)
-- [BuildingTypeHelper](../Buildings/BuildingTypeHelper.md)
-- [Dropdown](../UI.Elements/Dropdown.md)
-- [GameManager](../GameManager.md)
-- [LoadScene](../UI.Load/LoadScene.md)
+- None detected.
 
 ## Used By
 
-- [BlueprintCreatorSystem](BlueprintCreatorSystem.md)
+- None detected.
 
 ## Notes
 

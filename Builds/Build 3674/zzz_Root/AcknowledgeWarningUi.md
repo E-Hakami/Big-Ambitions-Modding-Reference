@@ -1,10 +1,6 @@
 # AcknowledgeWarningUi
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AcknowledgeWarningUi`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,7 +8,7 @@
 
 ## Uses
 
-- [AcknowledgeWarning](AcknowledgeWarning.md)
+- None detected.
 
 ## Used By
 

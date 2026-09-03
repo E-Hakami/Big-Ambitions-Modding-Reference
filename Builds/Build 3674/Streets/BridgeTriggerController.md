@@ -1,10 +1,6 @@
 # BridgeTriggerController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BridgeTriggerController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,19 +8,11 @@
 
 ## Uses
 
-- [AngleAssist](../AngleAssist.md)
-- [BridgeController](BridgeController.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CarFeatures](../CarFeatures.md)
-- [CityManager](../CityManager.md)
-- [SkipBridgeHelper](../Vehicles/SkipBridgeHelper.md)
-- [VehicleController](../VehicleController.md)
-- [VehicleHelper](../Helpers/VehicleHelper.md)
+- None detected.
 
 ## Used By
 
-- [SkipBridgeUi](../Player/SkipBridgeUi.md)
-- [VehicleController](../VehicleController.md)
+- None detected.
 
 ## Notes
 

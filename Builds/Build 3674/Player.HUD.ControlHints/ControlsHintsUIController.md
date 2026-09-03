@@ -1,10 +1,6 @@
 # ControlsHintsUIController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ControlsHintsUIController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,7 @@
 
 ## Uses
 
-- [ControlsHintController](ControlsHintController.md)
-- [ControlsHintRegistry](ControlsHintRegistry.md)
-- [ControlsHintsUI](ControlsHintsUI.md)
-- [PlayerPref](../PlayerPref.md)
-- [PlayerPrefs](../PlayerPrefs.md)
-- [PlayerPrefSettings](../PlayerPrefSettings.md)
+- None detected.
 
 ## Used By
 

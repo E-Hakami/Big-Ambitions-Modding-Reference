@@ -1,10 +1,6 @@
 # HamptonsPrivateFenceDoor
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HamptonsPrivateFenceDoor`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingRegistration](BuildingRegistration.md)
-- [FenceDoor](FenceDoor.md)
-- [Notification](UI.Notification/Notification.md)
-- [Notifications](UI.Notification/Notifications.md)
-- [SaveGameManager](SaveGameManager.md)
+- None detected.
 
 ## Used By
 

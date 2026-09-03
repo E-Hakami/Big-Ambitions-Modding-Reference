@@ -1,10 +1,6 @@
 # DataTrackingPopup
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DataTrackingPopup`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [MainMenuController](../MainMenuController.md)
-- [PlayerPrefSettings](../PlayerPrefSettings.md)
+- None detected.
 
 ## Used By
 

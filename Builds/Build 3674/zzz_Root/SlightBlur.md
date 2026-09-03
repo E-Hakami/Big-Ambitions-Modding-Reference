@@ -1,11 +1,6 @@
 # SlightBlur
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SlightBlur`
-- `ShaderID`
+**Type:** Source File
 
 ## Main Reference
 
@@ -13,7 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 

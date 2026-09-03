@@ -1,10 +1,6 @@
 # LowSkillComplaint
 
-**Type:** Class
-
-**Declared Types:**
-
-- `LowSkillComplaint`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Complaint](Complaint.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [HrManagerHelper](../Buildings.Office.Headquarters/HrManagerHelper.md)
-- [HrManagerPlan](../Buildings.Office.Headquarters/HrManagerPlan.md)
+- None detected.
 
 ## Used By
 
-- [ComplaintHelper](ComplaintHelper.md)
+- None detected.
 
 ## Notes
 

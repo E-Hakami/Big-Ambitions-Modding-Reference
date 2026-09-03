@@ -1,10 +1,6 @@
 # RivalLeaderboardButton
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RivalLeaderboardButton`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [RivalLeaderboard](RivalLeaderboard.md)
-- [RivalLeaderboardData](RivalLeaderboardData.md)
-- [RivalsApp](RivalsApp.md)
+- None detected.
 
 ## Used By
 
-- [RivalLeaderboard](RivalLeaderboard.md)
+- None detected.
 
 ## Notes
 

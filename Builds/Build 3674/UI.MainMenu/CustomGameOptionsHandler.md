@@ -1,10 +1,6 @@
 # CustomGameOptionsHandler
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CustomGameOptionsHandler`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CustomGameCheckboxOption](CustomGameCheckboxOption.md)
-- [CustomGameSliderOption](CustomGameSliderOption.md)
-- [GameVariables](../GameVariables.md)
-- [GlobalReferences](../GlobalReferences.md)
-- [InputField](../UI.Components/InputField.md)
+- None detected.
 
 ## Used By
 
-- [CustomGamePanel](CustomGamePanel.md)
-- [Options](../Scenes.MainMenu/Options.md)
+- None detected.
 
 ## Notes
 

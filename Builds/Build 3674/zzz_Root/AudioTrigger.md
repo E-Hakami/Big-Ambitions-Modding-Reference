@@ -1,10 +1,6 @@
 # AudioTrigger
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AudioTrigger`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [Options](Scenes.MainMenu/Options.md)
-- [SfxManager](SfxManager.md)
+- None detected.
 
 ## Used By
 

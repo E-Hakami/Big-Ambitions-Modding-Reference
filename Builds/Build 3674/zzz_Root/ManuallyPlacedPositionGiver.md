@@ -1,10 +1,6 @@
 # ManuallyPlacedPositionGiver
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ManuallyPlacedPositionGiver`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,7 +8,7 @@
 
 ## Uses
 
-- [NpcItemPositionGiver](NpcItemPositionGiver.md)
+- None detected.
 
 ## Used By
 

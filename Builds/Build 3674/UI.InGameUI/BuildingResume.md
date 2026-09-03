@@ -1,10 +1,6 @@
 # BuildingResume
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BuildingResume`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,28 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BusinessHelper](../Helpers/BusinessHelper.md)
-- [CityBuildingController](../CityBuildingController.md)
-- [CityManager](../CityManager.md)
-- [CityMap](../CityMap.md)
-- [DirectionGuiderType](../UI.Guiders/DirectionGuiderType.md)
-- [GameManager](../GameManager.md)
-- [GlobalEvents](../GlobalEvents.md)
-- [GlobalReferences](../GlobalReferences.md)
-- [GuidersManager](../UI.Guiders/GuidersManager.md)
-- [LoadScene](../UI.Load/LoadScene.md)
-- [OpeningHourSlot](../OpeningHourSlot.md)
-- [ScheduleDay](../ScheduleDay.md)
-- [TaxiSystem](../TaxiSystem.md)
-- [TimeHelper](../TimeHelper.md)
-- [UIs](../UI/UIs.md)
-- [VehicleHelper](../Helpers/VehicleHelper.md)
+- None detected.
 
 ## Used By
 
-- [UIs](../UI/UIs.md)
+- None detected.
 
 ## Notes
 

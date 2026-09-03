@@ -1,10 +1,6 @@
 # AccessoriesData
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AccessoriesData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Topbar](../UI.Topbar/Topbar.md)
+- None detected.
 
 ## Used By
 
-- [AccessoriesUI](AccessoriesUI.md)
-- [GameInstance](../GameInstance.md)
-- [InitializeAccessoriesUI](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA08/InitializeAccessoriesUI.md)
+- None detected.
 
 ## Notes
 

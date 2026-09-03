@@ -1,10 +1,6 @@
 # SubwayStationName
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `SubwayStationName`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,8 +12,7 @@
 
 ## Used By
 
-- [EnumHelpers](../EnumHelpers.md)
-- [SubwayStation](../SubwayStation.md)
+- None detected.
 
 ## Notes
 

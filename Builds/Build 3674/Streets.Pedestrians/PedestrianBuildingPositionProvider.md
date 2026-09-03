@@ -1,10 +1,6 @@
 # PedestrianBuildingPositionProvider
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PedestrianBuildingPositionProvider`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BuildingTypeHelper](../Buildings/BuildingTypeHelper.md)
-- [BusinessHelper](../Helpers/BusinessHelper.md)
-- [CityBuildingController](../CityBuildingController.md)
-- [CityManager](../CityManager.md)
+- None detected.
 
 ## Used By
 
-- [BuildingOutsidePedestrian](BuildingOutsidePedestrian.md)
-- [Pedestrian](Pedestrian.md)
+- None detected.
 
 ## Notes
 

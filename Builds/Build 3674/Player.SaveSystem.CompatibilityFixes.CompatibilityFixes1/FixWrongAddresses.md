@@ -1,10 +1,6 @@
 # FixWrongAddresses
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FixWrongAddresses`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingForSale](../BuildingForSale.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
-- [RealEstate](../Entities/RealEstate.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceTo1](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceTo1.md)
+- None detected.
 
 ## Notes
 

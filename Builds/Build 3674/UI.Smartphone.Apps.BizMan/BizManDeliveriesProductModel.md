@@ -1,10 +1,6 @@
 # BizManDeliveriesProductModel
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BizManDeliveriesProductModel`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BizMan](BizMan.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [DeliveryContractItem](../Entities/DeliveryContractItem.md)
-- [DeliveryHelper](../Entities/DeliveryHelper.md)
-- [ProductMarketHelper](../Helpers/ProductMarketHelper.md)
+- None detected.
 
 ## Used By
 
-- [BizManDeliveriesProductCellView](BizManDeliveriesProductCellView.md)
-- [BizManDeliveriesProductsScrollerController](BizManDeliveriesProductsScrollerController.md)
+- None detected.
 
 ## Notes
 

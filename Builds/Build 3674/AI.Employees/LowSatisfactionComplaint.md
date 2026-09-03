@@ -1,10 +1,6 @@
 # LowSatisfactionComplaint
 
-**Type:** Class
-
-**Declared Types:**
-
-- `LowSatisfactionComplaint`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Complaint](Complaint.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
+- None detected.
 
 ## Used By
 
-- [ComplaintHelper](ComplaintHelper.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
+- None detected.
 
 ## Notes
 

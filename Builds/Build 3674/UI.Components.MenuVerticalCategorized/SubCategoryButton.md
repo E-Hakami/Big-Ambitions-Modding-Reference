@@ -1,10 +1,6 @@
 # SubCategoryButton
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SubCategoryButton`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [MenuVertical](../MenuVertical.md)
-- [SelectableButton](SelectableButton.md)
+- None detected.
 
 ## Used By
 
-- [MenuVerticalSubMenu](../MenuVerticalSubMenu.md)
+- None detected.
 
 ## Notes
 

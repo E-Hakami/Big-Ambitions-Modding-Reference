@@ -1,10 +1,6 @@
 # GarageDoor
 
-**Type:** Class
-
-**Declared Types:**
-
-- `GarageDoor`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CarController](../CarController.md)
-- [SfxManager](../SfxManager.md)
-- [UIs](../UI/UIs.md)
-- [VehicleController](../VehicleController.md)
+- None detected.
 
 ## Used By
 
-- [DriveInEntrance](../DriveInEntrance.md)
-- [GasStationRepairGarageDoor](../GasStationRepairGarageDoor.md)
-- [PrivateDriverGarageDoor](../Buildings.BuildingTypes.Special.PrivateDriverService/PrivateDriverGarageDoor.md)
+- None detected.
 
 ## Notes
 

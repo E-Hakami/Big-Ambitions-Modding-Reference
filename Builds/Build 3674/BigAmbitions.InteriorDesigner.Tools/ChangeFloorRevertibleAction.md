@@ -1,10 +1,6 @@
 # ChangeFloorRevertibleAction
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ChangeFloorRevertibleAction`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [InteriorDesignerHelper](../Buildings.Indoors.InteriorDesign/InteriorDesignerHelper.md)
-- [MultipleHeightsBuildingController](../MultipleHeightsBuildingController.md)
-- [PlacementCam](../CameraControllers/PlacementCam.md)
+- None detected.
 
 ## Used By
 
-- [InteriorDesignerUI](../UI.InteriorDesigner/InteriorDesignerUI.md)
+- None detected.
 
 ## Notes
 

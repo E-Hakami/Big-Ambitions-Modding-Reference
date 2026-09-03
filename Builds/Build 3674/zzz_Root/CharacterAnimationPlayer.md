@@ -1,10 +1,6 @@
 # CharacterAnimationPlayer
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CharacterAnimationPlayer`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,7 +12,7 @@
 
 ## Used By
 
-- [BuildingManager](BuildingManager.md)
+- None detected.
 
 ## Notes
 

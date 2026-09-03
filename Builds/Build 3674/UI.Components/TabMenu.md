@@ -1,10 +1,6 @@
 # TabMenu
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TabMenu`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [GlobalReferences](../GlobalReferences.md)
-- [SplitterIndicator](../SplitterIndicator.md)
-- [TabMenuButton](TabMenuButton.md)
+- None detected.
 
 ## Used By
 

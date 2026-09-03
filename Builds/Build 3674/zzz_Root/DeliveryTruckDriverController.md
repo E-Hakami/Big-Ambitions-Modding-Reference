@@ -1,10 +1,6 @@
 # DeliveryTruckDriverController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DeliveryTruckDriverController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [AppearanceSetter](AppearanceSetter.md)
-- [BusinessTypeHelper](Helpers/BusinessTypeHelper.md)
-- [CarFeatures](CarFeatures.md)
-- [EmployeePreset](EmployeePreset.md)
-- [Gender](Character.Customization/Gender.md)
+- None detected.
 
 ## Used By
 

@@ -1,10 +1,6 @@
 # FoldingInfoPanelUI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FoldingInfoPanelUI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [InfoPanelUI](InfoPanelUI.md)
+- None detected.
 
 ## Used By
 
-- [BusinessRequirementsInfoPanelUI](../UI.InteriorDesigner.BusinessRequirements/BusinessRequirementsInfoPanelUI.md)
-- [BusinessTypeInfoPanelUI](BusinessTypeInfoPanelUI.md)
-- [CustomerCapacityInfoPanelUI](CustomerCapacityInfoPanelUI.md)
+- None detected.
 
 ## Notes
 

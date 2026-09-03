@@ -1,10 +1,6 @@
 # CompatibilityBlueprintValidator
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CompatibilityBlueprintValidator`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,19 +8,11 @@
 
 ## Uses
 
-- [Blueprint](../Blueprints/Blueprint.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BusinessLayoutSet](../BusinessLayoutSet.md)
-- [CompatibilityItemValidator](CompatibilityItemValidator.md)
-- [DataElement](../Blueprints/DataElement.md)
-- [Item](../BusinessLayoutSets/Item.md)
+- None detected.
 
 ## Used By
 
-- [Blueprint](../Blueprints/Blueprint.md)
-- [BlueprintGalleryController](../Blueprints/BlueprintGalleryController.md)
-- [InteriorInstallationFirmDesignSettings](../UI.Dialog/InteriorInstallationFirmDesignSettings.md)
-- [SelectedBlueprintUI](../BlueprintsUI/SelectedBlueprintUI.md)
+- None detected.
 
 ## Notes
 

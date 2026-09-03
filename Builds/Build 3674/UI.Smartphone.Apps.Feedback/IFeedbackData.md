@@ -1,10 +1,6 @@
 # IFeedbackData
 
-**Type:** Interface
-
-**Declared Types:**
-
-- `IFeedbackData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [Feedback](Feedback.md)
+- None detected.
 
 ## Used By
 
-- [Feedback](Feedback.md)
-- [LayoutFeedbackData](LayoutFeedbackData.md)
-- [SavegameFeedbackData](SavegameFeedbackData.md)
-- [ScreenshotFeedbackData](ScreenshotFeedbackData.md)
+- None detected.
 
 ## Notes
 

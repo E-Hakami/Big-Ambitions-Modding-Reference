@@ -1,10 +1,6 @@
 # HasImportPartnershipForProductionLine
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasImportPartnershipForProductionLine`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [FactoryWorkstationInstance](../FactoryWorkstationInstance.md)
-- [ImportPartnership](../Entities/ImportPartnership.md)
-- [ImportProduct](../Entities/ImportProduct.md)
-- [QuestRequirement](QuestRequirement.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 

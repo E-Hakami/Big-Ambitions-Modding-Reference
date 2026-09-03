@@ -1,10 +1,6 @@
 # InteriorInstallationFirmAgentDialog
 
-**Type:** Class
-
-**Declared Types:**
-
-- `InteriorInstallationFirmAgentDialog`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,29 +8,11 @@
 
 ## Uses
 
-- [Blueprint](../Blueprints/Blueprint.md)
-- [BlueprintDataElement](../Blueprints/BlueprintDataElement.md)
-- [BlueprintsFolderLoader](../Blueprints/BlueprintsFolderLoader.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [DataElement](../Blueprints/DataElement.md)
-- [Dialog](Dialog.md)
-- [DialogController](../DialogController.md)
-- [DialogEntry](../Entities/DialogEntry.md)
-- [DialogType](DialogType.md)
-- [GameEvent](../GameEvent.md)
-- [InteriorInstallationFirmContract](../Entities/InteriorInstallationFirmContract.md)
-- [InteriorInstallationFirmDesignSettings](../UI.Dialog/InteriorInstallationFirmDesignSettings.md)
-- [Notification](../UI.Notification/Notification.md)
-- [Notifications](../UI.Notification/Notifications.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [TextMessage](../Entities/TextMessage.md)
+- None detected.
 
 ## Used By
 
-- [CallDialogFactory](CallDialogFactory.md)
-- [InteriorInstallationContractsList](InteriorInstallationContractsList.md)
+- None detected.
 
 ## Notes
 

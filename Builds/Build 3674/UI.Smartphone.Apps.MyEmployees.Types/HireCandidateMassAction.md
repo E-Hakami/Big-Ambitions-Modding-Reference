@@ -1,10 +1,6 @@
 # HireCandidateMassAction
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HireCandidateMassAction`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,7 @@
 
 ## Uses
 
-- [EmployeeHelper](../Helpers/EmployeeHelper.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [EmployeeMassAction](../UI.Smartphone.Apps.MyEmployees/EmployeeMassAction.md)
-- [HudConfirm](../HudConfirm.md)
-- [MyEmployees](../UI.Smartphone.Apps.MyEmployees/MyEmployees.md)
-- [MyEmployeesMassActionsUI](../UI.Smartphone.Apps.MyEmployees/MyEmployeesMassActionsUI.md)
-- [UIs](../UI/UIs.md)
+- None detected.
 
 ## Used By
 

@@ -1,10 +1,6 @@
 # VehicleTarget
 
-**Type:** Class
-
-**Declared Types:**
-
-- `VehicleTarget`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [GlobalReferences](../GlobalReferences.md)
-- [GuidersManager](../UI.Guiders/GuidersManager.md)
-- [QuestEntryTarget](QuestEntryTarget.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [VehicleInstance](../VehicleInstance.md)
+- None detected.
 
 ## Used By
 

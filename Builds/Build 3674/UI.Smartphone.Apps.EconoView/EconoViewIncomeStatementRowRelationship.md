@@ -1,10 +1,6 @@
 # EconoViewIncomeStatementRowRelationship
 
-**Type:** Class
-
-**Declared Types:**
-
-- `EconoViewIncomeStatementRowRelationship`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [EconoView](EconoView.md)
-- [EconoViewIncomeStatementCellView](EconoViewIncomeStatementCellView.md)
+- None detected.
 
 ## Used By
 
-- [EconoViewIncomeStatementCellView](EconoViewIncomeStatementCellView.md)
+- None detected.
 
 ## Notes
 

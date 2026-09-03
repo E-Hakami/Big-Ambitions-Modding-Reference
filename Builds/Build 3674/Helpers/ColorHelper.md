@@ -1,10 +1,6 @@
 # ColorHelper
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ColorHelper`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](BuildingHelper.md)
-- [Colors](../Colors.md)
-- [GlobalReferences](../GlobalReferences.md)
+- None detected.
 
 ## Used By
 
-- [DiscoLight](../DiscoLight.md)
+- None detected.
 
 ## Notes
 

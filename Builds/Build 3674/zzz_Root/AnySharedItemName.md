@@ -1,10 +1,6 @@
 # AnySharedItemName
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AnySharedItemName`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [ItemController](ItemController.md)
-- [SharedItemTag](SharedItemTag.md)
+- None detected.
 
 ## Used By
 

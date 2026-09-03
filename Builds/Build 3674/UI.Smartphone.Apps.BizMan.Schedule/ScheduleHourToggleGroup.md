@@ -1,10 +1,6 @@
 # ScheduleHourToggleGroup
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ScheduleHourToggleGroup`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [OpeningHourSlot](../OpeningHourSlot.md)
-- [ScheduleDay](../ScheduleDay.md)
-- [ScheduleHelper](ScheduleHelper.md)
-- [ScheduleHourToggle](ScheduleHourToggle.md)
+- None detected.
 
 ## Used By
 
-- [ScheduleHeaderController](ScheduleHeaderController.md)
-- [ScheduleHourToggle](ScheduleHourToggle.md)
+- None detected.
 
 ## Notes
 

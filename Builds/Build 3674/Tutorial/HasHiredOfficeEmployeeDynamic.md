@@ -1,10 +1,6 @@
 # HasHiredOfficeEmployeeDynamic
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasHiredOfficeEmployeeDynamic`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BusinessTypeHelper](../Helpers/BusinessTypeHelper.md)
-- [CustomBuildingTarget](CustomBuildingTarget.md)
-- [EmployeeHelper](../Helpers/EmployeeHelper.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [EmployeeInstancesQueryInfo](../EmployeeInstancesQueryInfo.md)
-- [QuestRequirement](QuestRequirement.md)
+- None detected.
 
 ## Used By
 

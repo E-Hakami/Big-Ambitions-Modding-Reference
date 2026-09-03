@@ -1,10 +1,6 @@
 # CharacterEditorScene
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CharacterEditorScene`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [Rotate](Character.Customization/Rotate.md)
+- None detected.
 
 ## Used By
 

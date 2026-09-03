@@ -1,10 +1,6 @@
 # ArrivedWithSportClothes
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ArrivedWithSportClothes`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,7 +8,7 @@
 
 ## Uses
 
-- [SharedGymCustomer](SharedGymCustomer.md)
+- None detected.
 
 ## Used By
 

@@ -1,10 +1,6 @@
 # PaidActivityEnvironment
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PaidActivityEnvironment`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [PaidActivityEnvironmentConfig](PaidActivityEnvironmentConfig.md)
-- [PaidActivityType](PaidActivityType.md)
-- [PlayerActivityBalanceConfig](../PlayerActivity/PlayerActivityBalanceConfig.md)
-- [PlayerActivityEnvironment](../PlayerActivity/PlayerActivityEnvironment.md)
+- None detected.
 
 ## Used By
 
-- [PaidActivity](PaidActivity.md)
-- [TicketSeller](../Controllers/TicketSeller.md)
+- None detected.
 
 ## Notes
 

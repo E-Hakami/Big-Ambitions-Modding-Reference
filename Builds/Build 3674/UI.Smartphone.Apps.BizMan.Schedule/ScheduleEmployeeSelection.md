@@ -1,10 +1,6 @@
 # ScheduleEmployeeSelection
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ScheduleEmployeeSelection`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [OverlayHelper](../Player.HUD.ItemInfoOverlays/OverlayHelper.md)
-- [ScheduleEmployeeScrollerController](ScheduleEmployeeScrollerController.md)
-- [ScheduleHelper](ScheduleHelper.md)
+- None detected.
 
 ## Used By
 
-- [UIs](../UI/UIs.md)
+- None detected.
 
 ## Notes
 

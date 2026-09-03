@@ -1,10 +1,6 @@
 # Complaint
 
-**Type:** Class
-
-**Declared Types:**
-
-- `Complaint`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,23 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BuildingTypeHelper](../Buildings/BuildingTypeHelper.md)
-- [BusinessTypeHelper](../Helpers/BusinessTypeHelper.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [RivalData](../BigAmbitions.Rivals/RivalData.md)
-- [RivalsHelper](../BigAmbitions.Rivals/RivalsHelper.md)
+- None detected.
 
 ## Used By
 
-- [ComplaintHelper](ComplaintHelper.md)
-- [EmployeeComplaintData](../Entities/EmployeeComplaintData.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [LowSatisfactionComplaint](LowSatisfactionComplaint.md)
-- [LowSkillComplaint](LowSkillComplaint.md)
-- [NoTaskAssignedComplaint](NoTaskAssignedComplaint.md)
-- [UnfulfilledDemandsComplaint](UnfulfilledDemandsComplaint.md)
+- None detected.
 
 ## Notes
 

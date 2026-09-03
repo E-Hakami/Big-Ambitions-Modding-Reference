@@ -1,10 +1,6 @@
 # InitializeMovingServiceContracts
 
-**Type:** Class
-
-**Declared Types:**
-
-- `InitializeMovingServiceContracts`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
-- [MovingServiceContract](../Entities/MovingServiceContract.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA06](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA06.md)
+- None detected.
 
 ## Notes
 

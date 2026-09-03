@@ -1,10 +1,6 @@
 # EmployeeMassActionHelper
 
-**Type:** Class
-
-**Declared Types:**
-
-- `EmployeeMassActionHelper`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [EmployeeMassAction](EmployeeMassAction.md)
-- [MyEmployees](MyEmployees.md)
+- None detected.
 
 ## Used By
 
-- [AddressableLoader](../BigAmbitions.SaveSystem/AddressableLoader.md)
-- [MyEmployeesMassActionsUI](MyEmployeesMassActionsUI.md)
+- None detected.
 
 ## Notes
 

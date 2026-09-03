@@ -1,10 +1,6 @@
 # StreetPerformerData
 
-**Type:** Class
-
-**Declared Types:**
-
-- `StreetPerformerData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [PerformerObjectData](PerformerObjectData.md)
+- None detected.
 
 ## Used By
 
-- [StationaryAiSpawner](../StationaryAiSpawner.md)
-- [StreetPerformer](StreetPerformer.md)
-- [StreetPerformerDataHelper](StreetPerformerDataHelper.md)
+- None detected.
 
 ## Notes
 

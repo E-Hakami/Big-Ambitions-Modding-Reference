@@ -1,10 +1,6 @@
 # RivalRealEstateTable
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RivalRealEstateTable`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BaTable](../BaTable/BaTable.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [MarketInsider](../UI.Smartphone.Apps.MarketInsider/MarketInsider.md)
-- [RealEstateCellView](../UI.Smartphone.Apps.MarketInsider/RealEstateCellView.md)
-- [RivalsApp](../UI.Smartphone.Apps.Rivals/RivalsApp.md)
+- None detected.
 
 ## Used By
 
-- [RivalsApp](../UI.Smartphone.Apps.Rivals/RivalsApp.md)
+- None detected.
 
 ## Notes
 

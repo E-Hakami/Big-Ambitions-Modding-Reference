@@ -1,10 +1,6 @@
 # BaseSortToggle
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BaseSortToggle`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [StateButtonBehaviour](../UI.Components/StateButtonBehaviour.md)
+- None detected.
 
 ## Used By
 
-- [BaseFilterController](BaseFilterController.md)
-- [ScheduleEmployeeSortToggle](../UI.Smartphone.Apps.BizMan.Schedule/ScheduleEmployeeSortToggle.md)
+- None detected.
 
 ## Notes
 

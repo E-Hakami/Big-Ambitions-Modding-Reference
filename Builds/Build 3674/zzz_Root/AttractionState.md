@@ -1,10 +1,6 @@
 # AttractionState
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `AttractionState`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,7 +12,7 @@
 
 ## Used By
 
-- [AttractionStateManager](AttractionStateManager.md)
+- None detected.
 
 ## Notes
 

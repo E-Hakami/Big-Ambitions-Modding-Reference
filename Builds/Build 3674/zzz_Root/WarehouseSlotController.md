@@ -1,10 +1,6 @@
 # WarehouseSlotController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `WarehouseSlotController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [CarController](CarController.md)
-- [ExitZone](ExitZone.md)
-- [FixWarehouseSlotMismatch](Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA011/FixWarehouseSlotMismatch.md)
-- [MovingServiceHelper](Buildings.BuildingTypes.Special.MovingCompany/MovingServiceHelper.md)
-- [VehicleDeliveryHelper](Vehicles/VehicleDeliveryHelper.md)
+- None detected.
 
 ## Notes
 

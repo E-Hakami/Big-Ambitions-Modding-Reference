@@ -1,10 +1,6 @@
 # AiSpawnerZone
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AiSpawnerZone`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BoundsPositionGiver](BoundsPositionGiver.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CityManager](CityManager.md)
+- None detected.
 
 ## Used By
 
-- [AiSpawnerForBuildingOutsideHangoutZone](AiSpawnerForBuildingOutsideHangoutZone.md)
-- [StationaryAiSpawner](StationaryAiSpawner.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # CinemaTheaterParams
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CinemaTheaterParams`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,7 +12,7 @@
 
 ## Used By
 
-- [GlobalReferences](../GlobalReferences.md)
+- None detected.
 
 ## Notes
 

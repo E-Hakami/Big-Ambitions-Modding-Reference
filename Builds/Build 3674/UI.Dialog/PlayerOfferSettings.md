@@ -1,10 +1,6 @@
 # PlayerOfferSettings
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PlayerOfferSettings`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CultureHelper](../Extensions/CultureHelper.md)
-- [Dialog](../Dialogs/Dialog.md)
-- [InputField](../UI.Components/InputField.md)
-- [KeyboardInputHelper](../UI.Components/KeyboardInputHelper.md)
+- None detected.
 
 ## Used By
 
-- [HealthInsuranceNegotiationDialog](../Dialogs/HealthInsuranceNegotiationDialog.md)
-- [SalaryOfferSettings](../AI.Employees.SalaryNegotiation/SalaryOfferSettings.md)
+- None detected.
 
 ## Notes
 

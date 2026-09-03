@@ -1,10 +1,6 @@
 # IWorkStationFilter
 
-**Type:** Interface
-
-**Declared Types:**
-
-- `IWorkStationFilter`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [Employee](../Employee.md)
-- [WorkStationInfo](../Buildings.Schedule/WorkStationInfo.md)
+- None detected.
 
 ## Used By
 
-- [NoSpecificShift](NoSpecificShift.md)
-- [SchedulePartitioner](../Buildings.Schedule/SchedulePartitioner.md)
-- [WorksOnItem](WorksOnItem.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # FurnitureDeliveryContract
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FurnitureDeliveryContract`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [FurnitureDeliveryItem](FurnitureDeliveryItem.md)
+- None detected.
 
 ## Used By
 
-- [BizManPresentation](../BizManPresentation.md)
-- [BizManTransfer](../Buildings.BuildingTypes.Special.MovingCompany/BizManTransfer.md)
-- [FurnitureDeliveriesList](../Dialogs/FurnitureDeliveriesList.md)
-- [FurnitureDeliveryHelper](../Buildings.BuildingTypes.Special.FurnitureStore/FurnitureDeliveryHelper.md)
-- [FurnitureStoreManagerDialog](../Dialogs/FurnitureStoreManagerDialog.md)
-- [GameInstance](../GameInstance.md)
-- [UpdateSixthAndSeventhStreetAddresses](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA09/UpdateSixthAndSeventhStreetAddresses.md)
+- None detected.
 
 ## Notes
 

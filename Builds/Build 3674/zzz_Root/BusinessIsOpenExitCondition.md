@@ -1,10 +1,6 @@
 # BusinessIsOpenExitCondition
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BusinessIsOpenExitCondition`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [BusinessHelper](Helpers/BusinessHelper.md)
-- [ExitCondition](ExitCondition.md)
+- None detected.
 
 ## Used By
 

@@ -1,10 +1,6 @@
 # TennisPlayer
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TennisPlayer`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,20 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Rotate](../Character.Customization/Rotate.md)
-- [TennisBall](TennisBall.md)
-- [TennisController](TennisController.md)
-- [TennisCourt](TennisCourt.md)
-- [TennisCourtSide](TennisCourtSide.md)
-- [TennisHumanController](TennisHumanController.md)
+- None detected.
 
 ## Used By
 
-- [TennisController](TennisController.md)
-- [TennisCourt](TennisCourt.md)
-- [TennisCourtSide](TennisCourtSide.md)
-- [TennisPlayerAnimator](TennisPlayerAnimator.md)
+- None detected.
 
 ## Notes
 

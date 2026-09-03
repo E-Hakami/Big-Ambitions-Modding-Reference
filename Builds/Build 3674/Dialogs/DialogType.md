@@ -1,10 +1,6 @@
 # DialogType
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `DialogType`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,19 +12,7 @@
 
 ## Used By
 
-- [BankDialog](BankDialog.md)
-- [DialogController](../DialogController.md)
-- [FoodDeliveryDialog](FoodDeliveryDialog.md)
-- [FurnitureStoreManagerDialog](FurnitureStoreManagerDialog.md)
-- [HealthInsuranceManagerDialog](HealthInsuranceManagerDialog.md)
-- [ImportManagerDialog](ImportManagerDialog.md)
-- [InteriorInstallationFirmAgentDialog](InteriorInstallationFirmAgentDialog.md)
-- [MarketingAgencyDialog](MarketingAgencyDialog.md)
-- [MovingServiceDialog](MovingServiceDialog.md)
-- [RecruitmentAgencyDialog](RecruitmentAgencyDialog.md)
-- [VehicleContractSettings](../Buildings/VehicleContractSettings.md)
-- [VehicleStoreDialog](../Buildings/VehicleStoreDialog.md)
-- [WholesaleStoreManagerDialog](WholesaleStoreManagerDialog.md)
+- None detected.
 
 ## Notes
 

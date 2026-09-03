@@ -1,10 +1,6 @@
 # HasStockOfDynamicInventory
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasStockOfDynamicInventory`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [HasDynamicItemsInTarget](HasDynamicItemsInTarget.md)
-- [PointOfSale](../Buildings.Retail.Simulation/PointOfSale.md)
-- [TutorialDynamicItems](TutorialDynamicItems.md)
+- None detected.
 
 ## Used By
 
-- [TutorialPointerDataWorldDynamicItemsToSetStock](TutorialPointerDataWorldDynamicItemsToSetStock.md)
+- None detected.
 
 ## Notes
 

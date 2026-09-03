@@ -1,10 +1,6 @@
 # PaidLicensingFees
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PaidLicensingFees`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BusinessHelper](../Helpers/BusinessHelper.md)
-- [BusinessRequirement](BusinessRequirement.md)
-- [InteriorDesignerHelper](../Buildings.Indoors.InteriorDesign/InteriorDesignerHelper.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [TodoTaskType](../Entities/TodoTaskType.md)
+- None detected.
 
 ## Used By
 
-- [BizManBusiness](../BizManBusiness.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # CityMapFilterCategory
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CityMapFilterCategory`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CityMap](../CityMap.md)
-- [CityMapFilter](CityMapFilter.md)
-- [GameInstance](../GameInstance.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 
-- [CityMapFilter](CityMapFilter.md)
-- [CityMapFilters](../CityMapFilters.md)
+- None detected.
 
 ## Notes
 

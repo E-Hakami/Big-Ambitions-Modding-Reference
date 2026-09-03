@@ -1,10 +1,6 @@
 # HasAnyTypeOfDeliveriesOnTakenOverBusiness
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasAnyTypeOfDeliveriesOnTakenOverBusiness`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [DeliveryContract](../Entities/DeliveryContract.md)
-- [LogisticsManagerPlan](../Buildings.Office.Headquarters/LogisticsManagerPlan.md)
-- [LogisticsManagerPlanDestination](../Entities/LogisticsManagerPlanDestination.md)
-- [QuestRequirement](QuestRequirement.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 

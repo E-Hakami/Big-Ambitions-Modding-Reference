@@ -1,10 +1,6 @@
 # CharacterRunAnimation
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CharacterRunAnimation`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,20 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [ThirdPersonCharacter](ThirdPersonCharacter.md)
+- None detected.
 
 ## Used By
 
-- [GoGrabBasket](GoGrabBasket.md)
-- [GoPlayOnAGameSpot](GoPlayOnAGameSpot.md)
-- [NightclubCustomerLeave](NightclubCustomerLeave.md)
-- [SelfServiceCustomerTryUseScaleJustArrived](SelfServiceCustomerTryUseScaleJustArrived.md)
-- [SitInASlotMachine](SitInASlotMachine.md)
-- [SitInASlotMachineInstantly](SitInASlotMachineInstantly.md)
-- [TryGrabItemBase](TryGrabItemBase.md)
-- [TryToThrowTheTrash](TryToThrowTheTrash.md)
-- [TryUseToilet](TryUseToilet.md)
+- None detected.
 
 ## Notes
 

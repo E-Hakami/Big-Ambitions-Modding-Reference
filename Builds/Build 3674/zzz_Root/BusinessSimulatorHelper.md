@@ -1,10 +1,6 @@
 # BusinessSimulatorHelper
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BusinessSimulatorHelper`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,23 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [BuildingRegistration](BuildingRegistration.md)
-- [BusinessHelper](Helpers/BusinessHelper.md)
-- [BusinessType](BusinessType.md)
-- [BusinessTypeHelper](Helpers/BusinessTypeHelper.md)
-- [DistributedWork](Helpers/DistributedWork.md)
-- [GameEvent](GameEvent.md)
-- [GlobalEvents](GlobalEvents.md)
-- [SaveGameManager](SaveGameManager.md)
-- [UIs](UI/UIs.md)
+- None detected.
 
 ## Used By
 
-- [BuildingRegistration](BuildingRegistration.md)
-- [GameManager](GameManager.md)
-- [MovingServiceHelper](Buildings.BuildingTypes.Special.MovingCompany/MovingServiceHelper.md)
+- None detected.
 
 ## Notes
 

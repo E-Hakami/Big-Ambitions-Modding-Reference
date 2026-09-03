@@ -1,10 +1,6 @@
 # DestroyedSandCastleGoal
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DestroyedSandCastleGoal`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [GenericPersonalGoal](../GenericPersonalGoal.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 

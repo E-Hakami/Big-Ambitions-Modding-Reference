@@ -1,10 +1,6 @@
 # CustomerCapacitySimpleOverlay
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CustomerCapacitySimpleOverlay`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [EntityController](../EntityController.md)
-- [IOverlay](IOverlay.md)
-- [IsPlayerOwnedBusiness](../IsPlayerOwnedBusiness.md)
-- [Item](../BusinessLayoutSets/Item.md)
-- [ItemController](../ItemController.md)
-- [PlayerItemPurchaser](../Controllers/PlayerItemPurchaser.md)
+- None detected.
 
 ## Used By
 
-- [OverlayHelper](OverlayHelper.md)
+- None detected.
 
 ## Notes
 

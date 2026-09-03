@@ -1,10 +1,6 @@
 # ModOptionsButtonControl
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ModOptionsButtonControl`
+**Type:** Source File
 
 ## Main Reference
 

@@ -1,10 +1,6 @@
 # SleepEnvironmentConfig
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SleepEnvironmentConfig`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [PlayerActivityBalanceConfig](PlayerActivityBalanceConfig.md)
-- [PlayerActivityEnergyEnvironmentConfig](PlayerActivityEnergyEnvironmentConfig.md)
-- [SleepEnvironmentType](SleepEnvironmentType.md)
+- None detected.
 
 ## Used By
 
-- [SleepEnvironment](SleepEnvironment.md)
+- None detected.
 
 ## Notes
 

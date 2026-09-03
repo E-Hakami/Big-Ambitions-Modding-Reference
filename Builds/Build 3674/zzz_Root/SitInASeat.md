@@ -1,10 +1,6 @@
 # SitInASeat
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SitInASeat`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,7 @@
 
 ## Uses
 
-- [BuildingCleanlinessHelper](Buildings.BuildingTypes.Shared.Dirtiness/BuildingCleanlinessHelper.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [CharacterMoveToPosition](CharacterMoveToPosition.md)
-- [CharacterShowEmojiExpression](CharacterShowEmojiExpression.md)
-- [ItemController](ItemController.md)
-- [SeatSpot](SeatSpot.md)
-- [SharedCustomer](SharedCustomer.md)
-- [TimeHelper](TimeHelper.md)
+- None detected.
 
 ## Used By
 

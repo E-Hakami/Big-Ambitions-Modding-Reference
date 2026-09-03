@@ -1,10 +1,6 @@
 # IsPlacedAtHeight
 
-**Type:** Class
-
-**Declared Types:**
-
-- `IsPlacedAtHeight`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
+- None detected.
 
 ## Used By
 

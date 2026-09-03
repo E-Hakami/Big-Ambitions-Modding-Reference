@@ -1,10 +1,6 @@
 # VehicleGoal
 
-**Type:** Class
-
-**Declared Types:**
-
-- `VehicleGoal`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [IntBaseGoal](IntBaseGoal.md)
-- [SaveGameManager](SaveGameManager.md)
-- [VehicleInstance](VehicleInstance.md)
-- [VehicleType](Vehicles.VehicleTypes/VehicleType.md)
+- None detected.
 
 ## Used By
 

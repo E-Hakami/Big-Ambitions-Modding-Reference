@@ -1,10 +1,6 @@
 # ModdingAPI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ModdingAPI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingTypeHelper](../Buildings/BuildingTypeHelper.md)
-- [BusinessType](../BusinessType.md)
-- [BusinessTypeHelper](../Helpers/BusinessTypeHelper.md)
-- [VehicleType](../Vehicles.VehicleTypes/VehicleType.md)
-- [VehicleTypeHelper](../Vehicles.VehicleTypes/VehicleTypeHelper.md)
+- None detected.
 
 ## Used By
 

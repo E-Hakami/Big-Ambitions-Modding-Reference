@@ -1,10 +1,6 @@
 # RotateButtonUI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RotateButtonUI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [GameManager](../GameManager.md)
-- [Rotate](Rotate.md)
+- None detected.
 
 ## Used By
 

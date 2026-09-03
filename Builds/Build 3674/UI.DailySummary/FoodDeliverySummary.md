@@ -1,10 +1,6 @@
 # FoodDeliverySummary
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FoodDeliverySummary`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [DailySummary](DailySummary.md)
-- [GlobalReferences](../GlobalReferences.md)
-- [HappinessHelper](../Helpers/HappinessHelper.md)
-- [JobSummary](JobSummary.md)
+- None detected.
 
 ## Used By
 
-- [DailySummary](DailySummary.md)
+- None detected.
 
 ## Notes
 

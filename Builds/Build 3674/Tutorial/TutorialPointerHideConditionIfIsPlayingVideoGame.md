@@ -1,10 +1,6 @@
 # TutorialPointerHideConditionIfIsPlayingVideoGame
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TutorialPointerHideConditionIfIsPlayingVideoGame`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [TutorialPointerHideCondition](TutorialPointerHideCondition.md)
-- [VideoGameSetup](../Controllers/VideoGameSetup.md)
+- None detected.
 
 ## Used By
 

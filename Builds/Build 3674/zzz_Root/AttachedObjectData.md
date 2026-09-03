@@ -1,10 +1,6 @@
 # AttachedObjectData
 
-**Type:** Struct
-
-**Declared Types:**
-
-- `AttachedObjectData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,9 +12,7 @@
 
 ## Used By
 
-- [BaseHuman](BaseHuman.md)
-- [FoodDeliveryJobHelper](Player.FoodDeliveryJob/FoodDeliveryJobHelper.md)
-- [StreetPerformer](Entities/StreetPerformer.md)
+- None detected.
 
 ## Notes
 

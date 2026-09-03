@@ -1,10 +1,6 @@
 # ScheduleHour
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ScheduleHour`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [TimeHelper](TimeHelper.md)
+- None detected.
 
 ## Used By
 

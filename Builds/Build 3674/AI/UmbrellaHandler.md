@@ -1,10 +1,6 @@
 # UmbrellaHandler
 
-**Type:** Class
-
-**Declared Types:**
-
-- `UmbrellaHandler`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BaseHuman](../BaseHuman.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [PedestrianAnimationHandler](../PedestrianAnimationHandler.md)
-- [StationaryAiBehavior](../Entities/StationaryAiBehavior.md)
+- None detected.
 
 ## Notes
 

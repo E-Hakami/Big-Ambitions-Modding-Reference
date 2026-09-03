@@ -1,10 +1,6 @@
 # SetUpVehicleDeformationRandomness
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SetUpVehicleDeformationRandomness`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
-- [VehicleDeformationController](../VehicleDeformationController.md)
-- [VehicleInstance](../VehicleInstance.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA02](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA02.md)
+- None detected.
 
 ## Notes
 

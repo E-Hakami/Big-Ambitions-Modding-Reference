@@ -1,10 +1,6 @@
 # EntertainSeatingResult
 
-**Type:** Struct
-
-**Declared Types:**
-
-- `EntertainSeatingResult`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [SeatController](../Controllers/SeatController.md)
+- None detected.
 
 ## Used By
 
-- [EntertainActivity](EntertainActivity.md)
-- [EntertainSeatingResolver](EntertainSeatingResolver.md)
+- None detected.
 
 ## Notes
 

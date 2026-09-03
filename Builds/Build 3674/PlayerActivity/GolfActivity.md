@@ -1,10 +1,6 @@
 # GolfActivity
 
-**Type:** Class
-
-**Declared Types:**
-
-- `GolfActivity`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,27 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [ButtonInfo](../UI.Elements/ButtonInfo.md)
-- [EnergyHelper](../Helpers/EnergyHelper.md)
-- [EntityController](../EntityController.md)
-- [GameManager](../GameManager.md)
-- [GlobalReferences](../GlobalReferences.md)
-- [GolferNpc](../AI/GolferNpc.md)
-- [GolfPlatformController](../Items.SpecialItems/GolfPlatformController.md)
-- [IPlayerActivity](IPlayerActivity.md)
-- [LabelInfo](../UI.Elements/LabelInfo.md)
-- [NavigationBlocker](../NavigationBlocker.md)
-- [PlayerActivityState](../PlayerActivityState.md)
-- [PlayerController](../PlayerController.md)
-- [PlayerDefaults](../PlayerDefaults.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [ThirdPersonCharacter](../ThirdPersonCharacter.md)
-- [TimeHelper](../TimeHelper.md)
+- None detected.
 
 ## Used By
 
-- [GolfPlatformController](../Items.SpecialItems/GolfPlatformController.md)
+- None detected.
 
 ## Notes
 

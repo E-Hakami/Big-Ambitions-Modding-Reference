@@ -1,10 +1,6 @@
 # AngleAssist
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AngleAssist`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [AngleAssistSettings](Vehicles/AngleAssistSettings.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [VehicleController](VehicleController.md)
-- [VehicleHelper](Helpers/VehicleHelper.md)
+- None detected.
 
 ## Used By
 
-- [BridgeTriggerController](Streets/BridgeTriggerController.md)
-- [CarController](CarController.md)
-- [RoadWithCustomAngleAssist](Streets/RoadWithCustomAngleAssist.md)
-- [VehicleHelper](Helpers/VehicleHelper.md)
+- None detected.
 
 ## Notes
 

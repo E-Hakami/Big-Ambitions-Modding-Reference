@@ -1,10 +1,6 @@
 # InvestmentProgressEntry
 
-**Type:** Class
-
-**Declared Types:**
-
-- `InvestmentProgressEntry`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [EconoViewInvestments](../EconoViewInvestments.md)
-- [InvestmentFund](InvestmentFund.md)
-- [UpdateInvestmentFunds](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixes1/UpdateInvestmentFunds.md)
+- None detected.
 
 ## Notes
 

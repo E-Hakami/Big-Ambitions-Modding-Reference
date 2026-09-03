@@ -1,10 +1,6 @@
 # SetLastCasinoRandomAction
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SetLastCasinoRandomAction`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [CasinoRandomAction](CasinoRandomAction.md)
-- [SharedCasinoCustomer](SharedCasinoCustomer.md)
+- None detected.
 
 ## Used By
 

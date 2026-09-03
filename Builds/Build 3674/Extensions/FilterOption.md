@@ -1,10 +1,6 @@
 # FilterOption
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FilterOption`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,8 +12,7 @@
 
 ## Used By
 
-- [ChartController](ChartController.md)
-- [ChartFilterEntry](ChartFilterEntry.md)
+- None detected.
 
 ## Notes
 

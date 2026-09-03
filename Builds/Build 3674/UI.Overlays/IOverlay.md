@@ -1,10 +1,6 @@
 # IOverlay
 
-**Type:** Interface
-
-**Declared Types:**
-
-- `IOverlay`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [ButtonInfo](../UI.Elements/ButtonInfo.md)
-- [LabelInfo](../UI.Elements/LabelInfo.md)
+- None detected.
 
 ## Used By
 

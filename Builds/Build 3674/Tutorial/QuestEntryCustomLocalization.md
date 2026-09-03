@@ -1,10 +1,6 @@
 # QuestEntryCustomLocalization
 
-**Type:** Class
-
-**Declared Types:**
-
-- `QuestEntryCustomLocalization`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [QuestEntry](QuestEntry.md)
-- [QuestEntryCustomLocalizationFromDynamicPurchaseRequirement](QuestEntryCustomLocalizationFromDynamicPurchaseRequirement.md)
-- [QuestEntryCustomLocalizationFromSkillName](QuestEntryCustomLocalizationFromSkillName.md)
-- [QuestEntryCustomLocalizationFromTargetAddress](QuestEntryCustomLocalizationFromTargetAddress.md)
+- None detected.
 
 ## Notes
 

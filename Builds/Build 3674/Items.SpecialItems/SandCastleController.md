@@ -1,10 +1,6 @@
 # SandCastleController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SandCastleController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [GameEvent](../GameEvent.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 

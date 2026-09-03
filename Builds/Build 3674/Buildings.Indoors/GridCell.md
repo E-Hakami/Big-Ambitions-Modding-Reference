@@ -1,10 +1,6 @@
 # GridCell
 
-**Type:** Class
-
-**Declared Types:**
-
-- `GridCell`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [GridArray](GridArray.md)
-- [GridGenerator](GridGenerator.md)
-- [GridMatrix](GridMatrix.md)
-- [WallGridFiller](WallGridFiller.md)
+- None detected.
 
 ## Notes
 

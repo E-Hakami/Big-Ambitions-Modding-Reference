@@ -1,10 +1,6 @@
 # FontFace
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `FontFace`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,13 +12,7 @@
 
 ## Used By
 
-- [BusinessLogoGenerator](../BusinessLogoGenerator.md)
-- [EnumHelpers](../EnumHelpers.md)
-- [FixNullLogoShapes](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA010/FixNullLogoShapes.md)
-- [GlobalReferences](../GlobalReferences.md)
-- [LogoCustomizer](../UI.Smartphone.Apps.BizMan/LogoCustomizer.md)
-- [LogoHelper](../LogoHelper.md)
-- [LogoSettings](../LogoSettings.md)
+- None detected.
 
 ## Notes
 

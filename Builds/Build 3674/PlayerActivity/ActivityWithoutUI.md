@@ -1,10 +1,6 @@
 # ActivityWithoutUI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ActivityWithoutUI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [ButtonInfo](../UI.Elements/ButtonInfo.md)
-- [IPlayerActivity](IPlayerActivity.md)
-- [LabelInfo](../UI.Elements/LabelInfo.md)
-- [PlayerActivityState](../PlayerActivityState.md)
+- None detected.
 
 ## Used By
 
-- [GolfCourse](GolfCourse.md)
-- [TennisCourt](../PlayerActivity.Tennis/TennisCourt.md)
-- [VideoGameSetup](../Controllers/VideoGameSetup.md)
+- None detected.
 
 ## Notes
 

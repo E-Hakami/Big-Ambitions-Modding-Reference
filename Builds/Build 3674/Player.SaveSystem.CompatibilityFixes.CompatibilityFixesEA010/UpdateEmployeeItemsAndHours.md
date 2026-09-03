@@ -1,10 +1,6 @@
 # UpdateEmployeeItemsAndHours
 
-**Type:** Class
-
-**Declared Types:**
-
-- `UpdateEmployeeItemsAndHours`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA010](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA010.md)
+- None detected.
 
 ## Notes
 

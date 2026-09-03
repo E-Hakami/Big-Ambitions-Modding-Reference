@@ -1,10 +1,6 @@
 # InventoryProductsScrollerController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `InventoryProductsScrollerController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,22 +8,11 @@
 
 ## Uses
 
-- [BaTable](BaTable/BaTable.md)
-- [BizManBusiness](BizManBusiness.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BusinessTypeHelper](Helpers/BusinessTypeHelper.md)
-- [InventoryProductCellView](InventoryProductCellView.md)
-- [Item](BusinessLayoutSets/Item.md)
-- [ItemHelper](ItemHelper.md)
-- [ItemSoldPerPriceEntry](ItemSoldPerPriceEntry.md)
-- [OrderHistoryEntry](Entities/OrderHistoryEntry.md)
-- [ProductMarketHelper](Helpers/ProductMarketHelper.md)
-- [RetailPrice](RetailPrice.md)
-- [SaveGameManager](SaveGameManager.md)
+- None detected.
 
 ## Used By
 
-- [BizManInventoryPricing](UI.Smartphone.Apps.BizMan/BizManInventoryPricing.md)
+- None detected.
 
 ## Notes
 

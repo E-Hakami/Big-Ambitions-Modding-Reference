@@ -1,10 +1,6 @@
 # AttractionStateManager
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AttractionStateManager`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [Attraction](Controllers/Attraction.md)
-- [AttractionState](AttractionState.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CarnivalPedestrian](CarnivalPedestrian.md)
-- [PlayerHelper](Helpers/PlayerHelper.md)
+- None detected.
 
 ## Used By
 
-- [Attraction](Controllers/Attraction.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # GymCustomer
 
-**Type:** Class
-
-**Declared Types:**
-
-- `GymCustomer`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,20 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [CharacterData](CharacterData.md)
-- [Customer](Customer.md)
-- [CustomerTimeState](CustomerTimeState.md)
-- [CustomerType](CustomerType.md)
-- [EmployeeStationController](EmployeeStationController.md)
-- [GlobalEvents](GlobalEvents.md)
-- [IsPlayerOwnedBusiness](IsPlayerOwnedBusiness.md)
-- [TimeHelper](TimeHelper.md)
+- None detected.
 
 ## Used By
 
-- [SharedGymCustomer](SharedGymCustomer.md)
+- None detected.
 
 ## Notes
 

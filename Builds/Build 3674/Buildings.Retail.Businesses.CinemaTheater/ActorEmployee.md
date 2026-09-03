@@ -1,10 +1,6 @@
 # ActorEmployee
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ActorEmployee`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [ActorEmployeeAnimationEvents](../Buildings.BuildingTypes.Retail.Businesses.CinemaTheater/ActorEmployeeAnimationEvents.md)
-- [ActorEmployeeAnimationSet](ActorEmployeeAnimationSet.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Employee](../Employee.md)
-- [Gender](../Character.Customization/Gender.md)
-- [GlobalReferences](../GlobalReferences.md)
-- [TheaterStage](TheaterStage.md)
+- None detected.
 
 ## Used By
 
-- [CinemaTheaterBoothController](../Controllers/CinemaTheaterBoothController.md)
-- [TheaterStage](TheaterStage.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # VehicleLightsToggle
 
-**Type:** Class
-
-**Declared Types:**
-
-- `VehicleLightsToggle`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [GameManager](../GameManager.md)
-- [VehicleHelper](../Helpers/VehicleHelper.md)
+- None detected.
 
 ## Used By
 
-- [VehicleHelper](../Helpers/VehicleHelper.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # RoadWithCustomAngleAssist
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RoadWithCustomAngleAssist`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [AngleAssist](../AngleAssist.md)
-- [VehicleHelper](../Helpers/VehicleHelper.md)
+- None detected.
 
 ## Used By
 

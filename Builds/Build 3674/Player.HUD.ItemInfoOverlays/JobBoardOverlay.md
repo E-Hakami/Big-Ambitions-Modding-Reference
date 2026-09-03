@@ -1,10 +1,6 @@
 # JobBoardOverlay
 
-**Type:** Class
-
-**Declared Types:**
-
-- `JobBoardOverlay`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [EntityController](../EntityController.md)
-- [IOverlay](IOverlay.md)
-- [IsPlayerOwnedBusiness](../IsPlayerOwnedBusiness.md)
-- [JobBoardController](../JobBoardController.md)
-- [OverlayManager](OverlayManager.md)
+- None detected.
 
 ## Used By
 
-- [OverlayHelper](OverlayHelper.md)
+- None detected.
 
 ## Notes
 

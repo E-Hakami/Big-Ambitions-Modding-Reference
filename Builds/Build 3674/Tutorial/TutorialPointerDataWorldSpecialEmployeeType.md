@@ -1,10 +1,6 @@
 # TutorialPointerDataWorldSpecialEmployeeType
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TutorialPointerDataWorldSpecialEmployeeType`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [BuildingManager](../BuildingManager.md)
-- [ItemController](../ItemController.md)
-- [SpecialEmployeeController](../SpecialEmployeeController.md)
-- [TutorialPointerDataWorldItem](TutorialPointerDataWorldItem.md)
+- None detected.
 
 ## Used By
 

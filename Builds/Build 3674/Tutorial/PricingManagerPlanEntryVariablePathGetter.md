@@ -1,10 +1,6 @@
 # PricingManagerPlanEntryVariablePathGetter
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PricingManagerPlanEntryVariablePathGetter`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [PricingManagerPlan](../Buildings.Office.Headquarters/PricingManagerPlan.md)
-- [TutorialPointerHeadquartersPlanHelper](TutorialPointerHeadquartersPlanHelper.md)
-- [TutorialPointerVariablePathGetter](TutorialPointerVariablePathGetter.md)
+- None detected.
 
 ## Used By
 

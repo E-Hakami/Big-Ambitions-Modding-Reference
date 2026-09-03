@@ -1,10 +1,6 @@
 # BusinessWeeklyIncomeGoal
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BusinessWeeklyIncomeGoal`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [FinancialSummary](Entities/FinancialSummary.md)
-- [FloatBaseGoal](FloatBaseGoal.md)
-- [SaveGameManager](SaveGameManager.md)
-- [TimeHelper](TimeHelper.md)
+- None detected.
 
 ## Used By
 

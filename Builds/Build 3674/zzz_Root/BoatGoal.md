@@ -1,10 +1,6 @@
 # BoatGoal
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BoatGoal`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [BoatData](Boats/BoatData.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [IntBaseGoal](IntBaseGoal.md)
-- [SaveGameManager](SaveGameManager.md)
+- None detected.
 
 ## Used By
 

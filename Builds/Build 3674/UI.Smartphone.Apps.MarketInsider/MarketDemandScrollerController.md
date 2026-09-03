@@ -1,10 +1,6 @@
 # MarketDemandScrollerController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `MarketDemandScrollerController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,24 +8,11 @@
 
 ## Uses
 
-- [Badge](../UI.Elements/Badge.md)
-- [BaTable](../BaTable/BaTable.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [GameEvent](../GameEvent.md)
-- [ItemHelper](../ItemHelper.md)
-- [MarketDemandCellView](MarketDemandCellView.md)
-- [MarketDemandFilterController](MarketDemandFilterController.md)
-- [MarketEvent](../Entities/MarketEvent.md)
-- [MarketEventType](../Entities/MarketEventType.md)
-- [MarketInsider](MarketInsider.md)
-- [NeighborhoodDemand](../Entities/NeighborhoodDemand.md)
-- [ProductMarketEntry](../Entities/ProductMarketEntry.md)
-- [ProductMarketHelper](../Helpers/ProductMarketHelper.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 
-- [MarketInsider](MarketInsider.md)
+- None detected.
 
 ## Notes
 

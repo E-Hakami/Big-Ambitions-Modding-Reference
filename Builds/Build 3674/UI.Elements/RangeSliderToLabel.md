@@ -1,10 +1,6 @@
 # RangeSliderToLabel
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RangeSliderToLabel`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,7 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 

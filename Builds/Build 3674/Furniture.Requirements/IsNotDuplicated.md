@@ -1,10 +1,6 @@
 # IsNotDuplicated
 
-**Type:** Class
-
-**Declared Types:**
-
-- `IsNotDuplicated`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
+- None detected.
 
 ## Used By
 

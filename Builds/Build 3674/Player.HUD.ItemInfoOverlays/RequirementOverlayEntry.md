@@ -1,10 +1,6 @@
 # RequirementOverlayEntry
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RequirementOverlayEntry`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [RequirementsOverlay](RequirementsOverlay.md)
+- None detected.
 
 ## Notes
 

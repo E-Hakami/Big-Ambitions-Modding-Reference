@@ -1,10 +1,6 @@
 # GolferPool
 
-**Type:** Class
-
-**Declared Types:**
-
-- `GolferPool`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BaseHuman](BaseHuman.md)
-- [BaseHumanPool](BaseHumanPool.md)
-- [GolferNpc](AI/GolferNpc.md)
+- None detected.
 
 ## Used By
 
-- [GolferNpc](AI/GolferNpc.md)
-- [GolfPlatformController](Items.SpecialItems/GolfPlatformController.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # ReflectionProbesController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ReflectionProbesController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [GlobalEvents](GlobalEvents.md)
-- [ReflectionProbeEntity](ReflectionProbeEntity.md)
+- None detected.
 
 ## Used By
 
-- [ReflectionProbeEntity](ReflectionProbeEntity.md)
+- None detected.
 
 ## Notes
 

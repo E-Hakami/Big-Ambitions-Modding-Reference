@@ -1,10 +1,6 @@
 # StartBusinessInventorySourceEntry
 
-**Type:** Class
-
-**Declared Types:**
-
-- `StartBusinessInventorySourceEntry`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [StartBusinessTypeUI](StartBusinessTypeUI.md)
+- None detected.
 
 ## Notes
 

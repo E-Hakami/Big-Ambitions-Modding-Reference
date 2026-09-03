@@ -1,10 +1,6 @@
 # ApplyDirtToRandomWorkoutMachines
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ApplyDirtToRandomWorkoutMachines`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [BuildingCleanlinessHelper](Buildings.BuildingTypes.Shared.Dirtiness/BuildingCleanlinessHelper.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [Item](BusinessLayoutSets/Item.md)
-- [ItemController](ItemController.md)
+- None detected.
 
 ## Used By
 

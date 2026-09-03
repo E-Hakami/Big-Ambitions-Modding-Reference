@@ -1,10 +1,6 @@
 # WorkoutPlan
 
-**Type:** Class
-
-**Declared Types:**
-
-- `WorkoutPlan`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,23 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [GymBusinessHelper](../Buildings.Retail.Businesses.Gym/GymBusinessHelper.md)
-- [HappinessHelper](../Helpers/HappinessHelper.md)
-- [Notification](../UI.Notification/Notification.md)
-- [Notifications](../UI.Notification/Notifications.md)
-- [NotificationType](../UI.Notification/NotificationType.md)
-- [PlayerActivityBalanceConfig](PlayerActivityBalanceConfig.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [UIs](../UI/UIs.md)
-- [WorkoutGroupType](WorkoutGroupType.md)
-- [WorkoutType](WorkoutType.md)
+- None detected.
 
 ## Used By
 
-- [FitnessPlanningBoardController](../Controllers/FitnessPlanningBoardController.md)
-- [GameInstance](../GameInstance.md)
-- [PlayerActivityBalanceSource](PlayerActivityBalanceSource.md)
+- None detected.
 
 ## Notes
 

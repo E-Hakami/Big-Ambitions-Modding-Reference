@@ -1,10 +1,6 @@
 # UpdateContactsCategories
 
-**Type:** Class
-
-**Declared Types:**
-
-- `UpdateContactsCategories`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [Contact](../Entities/Contact.md)
-- [ContactCategoryName](../UI.Smartphone.Apps.Contacts/ContactCategoryName.md)
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA05](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA05.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # LocalizedListTooltip
 
-**Type:** Class
-
-**Declared Types:**
-
-- `LocalizedListTooltip`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BasicTooltip](../BasicTooltip.md)
-- [TooltipSystem](TooltipSystem.md)
+- None detected.
 
 ## Used By
 
-- [CargoItemUi](../UI.PlayerHUD/CargoItemUi.md)
-- [CurrentBuildingUI](../UI.CurrentBuilding/CurrentBuildingUI.md)
-- [PackageCargoItemUi](../UI.PlayerHUD/PackageCargoItemUi.md)
+- None detected.
 
 ## Notes
 

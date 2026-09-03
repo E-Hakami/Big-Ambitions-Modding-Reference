@@ -1,10 +1,6 @@
 # CustomerJoinQueue
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CustomerJoinQueue`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CharacterShowEmojiExpression](CharacterShowEmojiExpression.md)
-- [CustomerState](CustomerState.md)
-- [SharedCharacterEmojiName](SharedCharacterEmojiName.md)
-- [SharedCustomer](SharedCustomer.md)
-- [SharedItemTag](SharedItemTag.md)
-- [WaitingLinesHelper](WaitingLinesHelper.md)
+- None detected.
 
 ## Used By
 

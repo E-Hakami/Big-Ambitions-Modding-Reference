@@ -1,10 +1,6 @@
 # AppearanceAgeHelper
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AppearanceAgeHelper`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [AppearanceSetter](AppearanceSetter.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [SaveGameManager](SaveGameManager.md)
+- None detected.
 
 ## Used By
 
-- [CitizenHelper](AI.Citizens/CitizenHelper.md)
+- None detected.
 
 ## Notes
 

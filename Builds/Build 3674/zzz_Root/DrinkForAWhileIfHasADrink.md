@@ -1,10 +1,6 @@
 # DrinkForAWhileIfHasADrink
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DrinkForAWhileIfHasADrink`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [RemoveDrink](RemoveDrink.md)
-- [SharedCustomer](SharedCustomer.md)
-- [ThirdPersonCharacter](ThirdPersonCharacter.md)
-- [TimeHelper](TimeHelper.md)
+- None detected.
 
 ## Used By
 

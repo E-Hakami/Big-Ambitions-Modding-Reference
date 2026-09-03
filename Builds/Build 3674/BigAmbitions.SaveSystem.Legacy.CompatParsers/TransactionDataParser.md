@@ -1,10 +1,6 @@
 # TransactionDataParser
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TransactionDataParser`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BoatTypeName](../Entities/BoatTypeName.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [DiplomaName](../DiplomaName.md)
-- [Transaction](../Transaction.md)
+- None detected.
 
 ## Used By
 
-- [Transaction](../Transaction.md)
+- None detected.
 
 ## Notes
 

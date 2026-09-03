@@ -1,10 +1,6 @@
 # PrivateResidenceScrollerController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PrivateResidenceScrollerController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BaTable](../BaTable/BaTable.md)
-- [BizMan](BizMan.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [PrivateResidenceCellView](../PrivateResidenceCellView.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 
-- [BizManList](BizManList.md)
+- None detected.
 
 ## Notes
 

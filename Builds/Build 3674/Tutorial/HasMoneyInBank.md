@@ -1,10 +1,6 @@
 # HasMoneyInBank
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasMoneyInBank`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Loan](../Loan.md)
-- [QuestRequirement](QuestRequirement.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 

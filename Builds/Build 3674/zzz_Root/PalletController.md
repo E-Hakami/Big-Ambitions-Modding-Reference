@@ -1,10 +1,6 @@
 # PalletController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PalletController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,23 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [GameManager](GameManager.md)
-- [Item](BusinessLayoutSets/Item.md)
-- [Notification](UI.Notification/Notification.md)
-- [Notifications](UI.Notification/Notifications.md)
-- [NotificationType](UI.Notification/NotificationType.md)
-- [PlayerHelper](Helpers/PlayerHelper.md)
-- [PurchaseUI](UI.Purchase/PurchaseUI.md)
-- [ShelfController](ShelfController.md)
-- [UIs](UI/UIs.md)
+- None detected.
 
 ## Used By
 
-- [Producer](Producer.md)
-- [SecurityOverlay](Player.HUD.ItemInfoOverlays/SecurityOverlay.md)
-- [ShelfCtaBehavior](Player.HUD.ItemInfoOverlays/ShelfCtaBehavior.md)
-- [StockOverlay](Player.HUD.ItemInfoOverlays/StockOverlay.md)
+- None detected.
 
 ## Notes
 

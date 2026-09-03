@@ -1,10 +1,6 @@
 # BlueprintBuildingTypeFilterOption
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BlueprintBuildingTypeFilterOption`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [BlueprintFilterOption](BlueprintFilterOption.md)
+- None detected.
 
 ## Used By
 
-- [BlueprintFilterHelper](BlueprintFilterHelper.md)
+- None detected.
 
 ## Notes
 

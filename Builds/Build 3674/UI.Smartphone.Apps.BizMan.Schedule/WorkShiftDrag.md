@@ -1,10 +1,6 @@
 # WorkShiftDrag
 
-**Type:** Class
-
-**Declared Types:**
-
-- `WorkShiftDrag`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,25 +8,11 @@
 
 ## Uses
 
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CursorHoverChangeEvent](../UI/CursorHoverChangeEvent.md)
-- [Notification](../UI.Notification/Notification.md)
-- [Notifications](../UI.Notification/Notifications.md)
-- [OpeningHourSlot](../OpeningHourSlot.md)
-- [ScheduleCellHour](ScheduleCellHour.md)
-- [ScheduleCellView](ScheduleCellView.md)
-- [ScheduleHelper](ScheduleHelper.md)
-- [TooltipSystem](../Tooltip/TooltipSystem.md)
-- [WorkShift](../WorkShift.md)
-- [WorkShiftHelper](WorkShiftHelper.md)
-- [WorkShiftType](../WorkShiftType.md)
+- None detected.
 
 ## Used By
 
-- [BizManSchedule](BizManSchedule.md)
-- [ScheduleCellHour](ScheduleCellHour.md)
-- [WorkShiftSlider](WorkShiftSlider.md)
+- None detected.
 
 ## Notes
 

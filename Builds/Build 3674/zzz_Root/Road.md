@@ -1,10 +1,6 @@
 # Road
 
-**Type:** Class
-
-**Declared Types:**
-
-- `Road`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [AddressHelper](Streets/AddressHelper.md)
-- [Intersection](Intersection.md)
+- None detected.
 
 ## Used By
 
-- [RoadNameLabel](RoadNameLabel.md)
+- None detected.
 
 ## Notes
 

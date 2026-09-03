@@ -1,10 +1,6 @@
 # AddEyebrowsToPlayers
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AddEyebrowsToPlayers`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [CharacterData](../CharacterData.md)
-- [GameInstance](../GameInstance.md)
-- [Gender](../Character.Customization/Gender.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA09](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA09.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # InitializeHeadhunters
 
-**Type:** Class
-
-**Declared Types:**
-
-- `InitializeHeadhunters`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [GameInstance](../GameInstance.md)
-- [Headhunter](../Entities/Headhunter.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA03](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA03.md)
+- None detected.
 
 ## Notes
 

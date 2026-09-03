@@ -1,10 +1,6 @@
 # EaselController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `EaselController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,7 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 

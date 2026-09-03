@@ -1,10 +1,6 @@
 # AnyEntryPaid
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AnyEntryPaid`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [OrderEntry](Entities/OrderEntry.md)
-- [SharedCustomer](SharedCustomer.md)
+- None detected.
 
 ## Used By
 
-- [FullServiceOnEnterBuildingInAction](FullServiceOnEnterBuildingInAction.md)
+- None detected.
 
 ## Notes
 

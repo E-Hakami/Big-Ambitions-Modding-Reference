@@ -1,10 +1,6 @@
 # RadiusBasedPositionGiver
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RadiusBasedPositionGiver`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [NpcItemPositionGiver](NpcItemPositionGiver.md)
+- None detected.
 
 ## Used By
 

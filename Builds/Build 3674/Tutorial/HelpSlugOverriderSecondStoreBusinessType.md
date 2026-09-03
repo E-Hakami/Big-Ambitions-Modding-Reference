@@ -1,10 +1,6 @@
 # HelpSlugOverriderSecondStoreBusinessType
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HelpSlugOverriderSecondStoreBusinessType`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [BuildingRegistration](../BuildingRegistration.md)
-- [CustomBuildingTarget](CustomBuildingTarget.md)
-- [HelpSlugOverrider](HelpSlugOverrider.md)
+- None detected.
 
 ## Used By
 

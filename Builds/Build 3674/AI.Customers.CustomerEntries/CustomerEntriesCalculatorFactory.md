@@ -1,10 +1,6 @@
 # CustomerEntriesCalculatorFactory
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CustomerEntriesCalculatorFactory`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingRegistration](../BuildingRegistration.md)
-- [CustomerEntriesCalculator](CustomerEntriesCalculator.md)
-- [CustomerEntriesCalculatorCasino](CustomerEntriesCalculatorCasino.md)
-- [CustomerEntriesCalculatorCinemaTheater](CustomerEntriesCalculatorCinemaTheater.md)
-- [CustomerEntriesCalculatorOffice](CustomerEntriesCalculatorOffice.md)
-- [CustomerEntriesCalculatorRetail](CustomerEntriesCalculatorRetail.md)
+- None detected.
 
 ## Used By
 
-- [CustomerEntriesHelper](CustomerEntriesHelper.md)
-- [EstimatedWeeklyIncomeHelper](../Helpers/EstimatedWeeklyIncomeHelper.md)
+- None detected.
 
 ## Notes
 

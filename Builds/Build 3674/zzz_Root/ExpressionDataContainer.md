@@ -1,10 +1,6 @@
 # ExpressionDataContainer
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ExpressionDataContainer`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [LocalizationHelper](Helpers/LocalizationHelper.md)
+- None detected.
 
 ## Used By
 
-- [CharacterShowEmojiExpression](CharacterShowEmojiExpression.md)
-- [ComplainIfServiceExpensive](ComplainIfServiceExpensive.md)
-- [SelfServiceCustomerTryFindItem](SelfServiceCustomerTryFindItem.md)
-- [SelfServiceCustomerTryUseScaleJustArrived](SelfServiceCustomerTryUseScaleJustArrived.md)
-- [SharedExpressionDataContainer](SharedExpressionDataContainer.md)
-- [TryGrabItemBase](TryGrabItemBase.md)
+- None detected.
 
 ## Notes
 

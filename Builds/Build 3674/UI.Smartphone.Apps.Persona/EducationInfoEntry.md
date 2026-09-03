@@ -1,10 +1,6 @@
 # EducationInfoEntry
 
-**Type:** Class
-
-**Declared Types:**
-
-- `EducationInfoEntry`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Diploma](../Diploma.md)
-- [EducationHelper](../EducationHelper.md)
+- None detected.
 
 ## Used By
 
-- [EducationInfo](EducationInfo.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # ImportPartnershipSettings
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ImportPartnershipSettings`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,20 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Dialog](../Dialogs/Dialog.md)
-- [Dropdown](../UI.Elements/Dropdown.md)
-- [EmployeeHelper](../Helpers/EmployeeHelper.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [EmployeeInstancesQueryInfo](../EmployeeInstancesQueryInfo.md)
-- [ImportPartnership](../Entities/ImportPartnership.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 
-- [DialogEntry](../Entities/DialogEntry.md)
-- [EnumHelpers](../EnumHelpers.md)
-- [ImportManagerDialog](../Dialogs/ImportManagerDialog.md)
+- None detected.
 
 ## Notes
 

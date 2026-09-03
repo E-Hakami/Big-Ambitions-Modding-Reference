@@ -1,10 +1,6 @@
 # TowDestinationData
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TowDestinationData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [AddressableLoader](../BigAmbitions.SaveSystem/AddressableLoader.md)
-- [AutoTowServiceDialog](../Dialogs/AutoTowServiceDialog.md)
-- [AutoTowServiceSettings](../UI.Dialog/AutoTowServiceSettings.md)
-- [TowDestinationHelper](TowDestinationHelper.md)
+- None detected.
 
 ## Notes
 

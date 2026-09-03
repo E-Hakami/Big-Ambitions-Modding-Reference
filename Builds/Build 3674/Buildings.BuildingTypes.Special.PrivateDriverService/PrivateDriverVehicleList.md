@@ -1,10 +1,6 @@
 # PrivateDriverVehicleList
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PrivateDriverVehicleList`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [PrivateDriverVehicleListEntry](PrivateDriverVehicleListEntry.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [VehicleInstance](../VehicleInstance.md)
+- None detected.
 
 ## Used By
 
-- [PrivateDriverServiceDialog](../Buildings/PrivateDriverServiceDialog.md)
+- None detected.
 
 ## Notes
 

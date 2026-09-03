@@ -1,10 +1,6 @@
 # SmartphoneApp
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SmartphoneApp`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [AppName](../AppName.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [SmartphoneUI](../SmartphoneUI.md)
+- None detected.
 
 ## Used By
 
-- [FullMenu](../UI.Smartphone/FullMenu.md)
-- [SmartphoneApps](SmartphoneApps.md)
-- [SmartphoneUI](../SmartphoneUI.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # SetUpTheHamptonsNeighborhood
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SetUpTheHamptonsNeighborhood`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CityGenerator](../Helpers/CityGenerator.md)
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
-- [RealEstateHelper](../Helpers/RealEstateHelper.md)
-- [RivalsHelper](../BigAmbitions.Rivals/RivalsHelper.md)
-- [SpecialRivalState](../BigAmbitions.Rivals/SpecialRivalState.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceTo1](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceTo1.md)
+- None detected.
 
 ## Notes
 

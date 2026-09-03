@@ -1,10 +1,6 @@
 # ControlsHintBinding
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ControlsHintBinding`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [ControlsHint](ControlsHint.md)
-- [ControlsHintConfiguration](ControlsHintConfiguration.md)
-- [InlineControlsHintRenderer](InlineControlsHintRenderer.md)
+- None detected.
 
 ## Notes
 

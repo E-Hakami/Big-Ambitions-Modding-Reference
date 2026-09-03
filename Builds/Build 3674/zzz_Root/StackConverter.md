@@ -1,10 +1,6 @@
 # StackConverter
 
-**Type:** Class
-
-**Declared Types:**
-
-- `StackConverter`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [PurchaseUI](UI.Purchase/PurchaseUI.md)
+- None detected.
 
 ## Used By
 
-- [SaveGameSerializationHelper](SaveGameSerializationHelper.md)
+- None detected.
 
 ## Notes
 

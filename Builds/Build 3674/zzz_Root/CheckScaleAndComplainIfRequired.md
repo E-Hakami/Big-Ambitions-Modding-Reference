@@ -1,10 +1,6 @@
 # CheckScaleAndComplainIfRequired
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CheckScaleAndComplainIfRequired`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [CharacterShowEmojiExpression](CharacterShowEmojiExpression.md)
-- [SharedCustomer](SharedCustomer.md)
-- [SharedOrderEntry](SharedOrderEntry.md)
+- None detected.
 
 ## Used By
 

@@ -1,10 +1,6 @@
 # QueueToolSetup
 
-**Type:** Class
-
-**Declared Types:**
-
-- `QueueToolSetup`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,19 +8,11 @@
 
 ## Uses
 
-- [ActionPanelUI](../UI.InteriorDesigner/ActionPanelUI.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Item](../BusinessLayoutSets/Item.md)
-- [ItemController](../ItemController.md)
-- [IWaitingLineHolder](../EmployeeStations/IWaitingLineHolder.md)
-- [QueueActionPanelUi](../QueueActionPanelUi.md)
-- [QueueOverlay](../BigAmbitions.InteriorDesigner/QueueOverlay.md)
-- [ToolSetup](ToolSetup.md)
-- [WaitingLine](../EmployeeStations/WaitingLine.md)
+- None detected.
 
 ## Used By
 
-- [InteriorDesignerController](InteriorDesignerController.md)
+- None detected.
 
 ## Notes
 

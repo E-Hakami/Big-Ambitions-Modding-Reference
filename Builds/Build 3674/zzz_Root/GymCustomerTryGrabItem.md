@@ -1,10 +1,6 @@
 # GymCustomerTryGrabItem
 
-**Type:** Class
-
-**Declared Types:**
-
-- `GymCustomerTryGrabItem`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,7 @@
 
 ## Uses
 
-- [BuildingCleanlinessHelper](Buildings.BuildingTypes.Shared.Dirtiness/BuildingCleanlinessHelper.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [Customer](Customer.md)
-- [OrderEntry](Entities/OrderEntry.md)
-- [OrderHelper](OrderHelper.md)
-- [TryGrabItemBase](TryGrabItemBase.md)
+- None detected.
 
 ## Used By
 

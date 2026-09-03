@@ -1,10 +1,6 @@
 # CleanerEmployee
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CleanerEmployee`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BaseHuman](BaseHuman.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [DirtSpot](Entities/DirtSpot.md)
-- [Employee](Employee.md)
-- [EmployeeStationController](EmployeeStationController.md)
+- None detected.
 
 ## Used By
 
-- [CleaningStationController](CleaningStationController.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # FullMenuAppButton
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FullMenuAppButton`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [AppButton](AppButton.md)
+- None detected.
 
 ## Used By
 
-- [FullMenu](UI.Smartphone/FullMenu.md)
+- None detected.
 
 ## Notes
 

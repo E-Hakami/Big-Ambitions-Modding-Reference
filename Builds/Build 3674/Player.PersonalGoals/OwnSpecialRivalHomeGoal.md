@@ -1,10 +1,6 @@
 # OwnSpecialRivalHomeGoal
 
-**Type:** Class
-
-**Declared Types:**
-
-- `OwnSpecialRivalHomeGoal`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,7 @@
 
 ## Uses
 
-- [Building](../Buildings/Building.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [GenericPersonalGoal](../GenericPersonalGoal.md)
-- [RealEstate](../Entities/RealEstate.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 

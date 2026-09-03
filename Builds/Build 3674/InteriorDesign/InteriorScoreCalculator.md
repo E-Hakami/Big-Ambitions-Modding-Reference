@@ -1,10 +1,6 @@
 # InteriorScoreCalculator
 
-**Type:** Class
-
-**Declared Types:**
-
-- `InteriorScoreCalculator`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [BlueprintDataElementHelper](../Blueprints/BlueprintDataElementHelper.md)
-- [HasInteriorScore](../Tutorial/HasInteriorScore.md)
-- [InteriorDesignCustomerDemand](../Entities/InteriorDesignCustomerDemand.md)
-- [InteriorDesignerController](../Buildings.Indoors.InteriorDesign/InteriorDesignerController.md)
-- [TutorialPointerHideConditionInteriorScoreIsValue](../Tutorial/TutorialPointerHideConditionInteriorScoreIsValue.md)
+- None detected.
 
 ## Notes
 

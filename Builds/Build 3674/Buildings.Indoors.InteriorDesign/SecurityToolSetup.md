@@ -1,10 +1,6 @@
 # SecurityToolSetup
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SecurityToolSetup`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [ActionPanelUI](../UI.InteriorDesigner/ActionPanelUI.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [InteriorDesignerController](InteriorDesignerController.md)
-- [Item](../BusinessLayoutSets/Item.md)
-- [ItemController](../ItemController.md)
-- [ToolSetup](ToolSetup.md)
+- None detected.
 
 ## Used By
 
-- [InteriorDesignerController](InteriorDesignerController.md)
+- None detected.
 
 ## Notes
 

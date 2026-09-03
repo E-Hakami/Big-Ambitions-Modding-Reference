@@ -1,10 +1,6 @@
 # SecurityOverlay
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SecurityOverlay`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,20 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [DeliverySpot](../DeliverySpot.md)
-- [EntityController](../EntityController.md)
-- [GlobalReferences](../GlobalReferences.md)
-- [IOverlay](IOverlay.md)
-- [IsPlayerOwnedBusiness](../IsPlayerOwnedBusiness.md)
-- [PalletController](../PalletController.md)
-- [ShelfController](../ShelfController.md)
-- [StorageShelfController](../StorageShelfController.md)
+- None detected.
 
 ## Used By
 
-- [OverlayHelper](OverlayHelper.md)
+- None detected.
 
 ## Notes
 

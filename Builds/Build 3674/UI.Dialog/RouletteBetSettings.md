@@ -1,10 +1,6 @@
 # RouletteBetSettings
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RouletteBetSettings`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Dialog](../Dialogs/Dialog.md)
-- [Dropdown](../UI.Elements/Dropdown.md)
-- [RouletteDialog](../Dialogs/RouletteDialog.md)
+- None detected.
 
 ## Used By
 
-- [DialogEntry](../Entities/DialogEntry.md)
-- [EnumHelpers](../EnumHelpers.md)
-- [RouletteDialog](../Dialogs/RouletteDialog.md)
+- None detected.
 
 ## Notes
 

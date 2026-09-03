@@ -1,10 +1,6 @@
 # BuildingOutsidePedestrian
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BuildingOutsidePedestrian`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,19 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [CityManager](../CityManager.md)
-- [PedestrianBuildingPositionProvider](PedestrianBuildingPositionProvider.md)
-- [PedestrianPlayerRangeHandler](PedestrianPlayerRangeHandler.md)
-- [PedestrianStationaryBehavior](PedestrianStationaryBehavior.md)
-- [PedestrianWalkingAiBehavior](PedestrianWalkingAiBehavior.md)
-- [ThirdPersonCharacter](../ThirdPersonCharacter.md)
+- None detected.
 
 ## Used By
 
-- [AiSpawnerForBuildingOutsideHangoutZone](../AiSpawnerForBuildingOutsideHangoutZone.md)
-- [BuildingOutsidePedestrianPool](../BuildingOutsidePedestrianPool.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # BodyValues
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BodyValues`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [CharacterCustomizer](CharacterCustomizer.md)
+- None detected.
 
 ## Used By
 
-- [IntroCharacterCustomizer](../Intro/IntroCharacterCustomizer.md)
-- [PlasticSurgeryUI](PlasticSurgeryUI.md)
+- None detected.
 
 ## Notes
 

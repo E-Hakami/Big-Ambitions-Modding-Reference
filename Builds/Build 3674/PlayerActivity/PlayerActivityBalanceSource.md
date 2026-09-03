@@ -1,10 +1,6 @@
 # PlayerActivityBalanceSource
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `PlayerActivityBalanceSource`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [WorkoutPlan](WorkoutPlan.md)
+- None detected.
 
 ## Used By
 
-- [PlayerActivityBalanceConfig](PlayerActivityBalanceConfig.md)
+- None detected.
 
 ## Notes
 

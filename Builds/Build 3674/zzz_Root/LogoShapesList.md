@@ -1,10 +1,6 @@
 # LogoShapesList
 
-**Type:** Class
-
-**Declared Types:**
-
-- `LogoShapesList`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [LogoHelper](LogoHelper.md)
+- None detected.
 
 ## Used By
 
-- [LogoShapes](UI.Smartphone.Apps.BizMan/LogoShapes.md)
+- None detected.
 
 ## Notes
 

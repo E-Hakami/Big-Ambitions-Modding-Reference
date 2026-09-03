@@ -1,10 +1,6 @@
 # CarnivalPedestrianPool
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CarnivalPedestrianPool`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CarnivalPedestrian](CarnivalPedestrian.md)
-- [PrefabHelper](Helpers/PrefabHelper.md)
+- None detected.
 
 ## Used By
 
-- [PedestrianSpawnerForCarnival](Entities/PedestrianSpawnerForCarnival.md)
+- None detected.
 
 ## Notes
 

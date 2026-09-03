@@ -1,10 +1,6 @@
 # TutorialPointerDataEconoViewLoanPaymentButton
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TutorialPointerDataEconoViewLoanPaymentButton`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [LoanEntryUi](../LoanEntryUi.md)
-- [TutorialPointerDataUiElement](TutorialPointerDataUiElement.md)
+- None detected.
 
 ## Used By
 

@@ -1,10 +1,6 @@
 # FactoryEmployee
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FactoryEmployee`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,19 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [Employee](../Employee.md)
-- [EmployeeStationController](../EmployeeStationController.md)
-- [FactoryAssemblyMachineController](../Items.SpecialItems/FactoryAssemblyMachineController.md)
-- [FactoryProductionMachineController](../Items.SpecialItems/FactoryProductionMachineController.md)
-- [GlobalEvents](../GlobalEvents.md)
-- [ItemController](../ItemController.md)
+- None detected.
 
 ## Used By
 
-- [FactoryAssemblyMachineController](../Items.SpecialItems/FactoryAssemblyMachineController.md)
+- None detected.
 
 ## Notes
 

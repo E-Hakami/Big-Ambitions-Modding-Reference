@@ -1,10 +1,6 @@
 # BusinessDeliveryInfo
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BusinessDeliveryInfo`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [LogisticsManagerPlan](LogisticsManagerPlan.md)
-- [MessageDataParser](../BigAmbitions.SaveSystem.Legacy.CompatParsers/MessageDataParser.md)
-- [TextMessage](../Entities/TextMessage.md)
+- None detected.
 
 ## Notes
 

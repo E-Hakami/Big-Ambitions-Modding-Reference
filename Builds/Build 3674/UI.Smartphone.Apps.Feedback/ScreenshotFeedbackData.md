@@ -1,10 +1,6 @@
 # ScreenshotFeedbackData
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ScreenshotFeedbackData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Feedback](Feedback.md)
-- [IFeedbackData](IFeedbackData.md)
+- None detected.
 
 ## Used By
 
-- [Feedback](Feedback.md)
+- None detected.
 
 ## Notes
 

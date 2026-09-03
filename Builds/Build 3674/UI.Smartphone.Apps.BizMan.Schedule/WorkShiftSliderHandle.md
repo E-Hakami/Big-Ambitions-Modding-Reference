@@ -1,10 +1,6 @@
 # WorkShiftSliderHandle
 
-**Type:** Class
-
-**Declared Types:**
-
-- `WorkShiftSliderHandle`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,20 +8,11 @@
 
 ## Uses
 
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CursorHoverChangeEvent](../UI/CursorHoverChangeEvent.md)
-- [Notification](../UI.Notification/Notification.md)
-- [Notifications](../UI.Notification/Notifications.md)
-- [ScheduleHelper](ScheduleHelper.md)
-- [TooltipSystem](../Tooltip/TooltipSystem.md)
-- [WorkShift](../WorkShift.md)
-- [WorkShiftHelper](WorkShiftHelper.md)
-- [WorkShiftType](../WorkShiftType.md)
+- None detected.
 
 ## Used By
 
-- [WorkShiftSlider](WorkShiftSlider.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # RecruitmentCommands
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RecruitmentCommands`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [EmployeeHelper](EmployeeHelper.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [RecruitmentHelper](RecruitmentHelper.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 

@@ -1,10 +1,6 @@
 # CemeteryFuneralSetup
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CemeteryFuneralSetup`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [CemeteryDeadScenePlayer](CemeteryDeadScenePlayer.md)
+- None detected.
 
 ## Notes
 

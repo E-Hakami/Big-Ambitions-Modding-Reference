@@ -1,10 +1,6 @@
 # SelectorGroup
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SelectorGroup`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [ISelectable](ISelectable.md)
+- None detected.
 
 ## Used By
 
-- [BizManFactoryWorkstationGroupTemplate](../UI.Smartphone.Apps.BizMan.Factory/BizManFactoryWorkstationGroupTemplate.md)
-- [BizManFactoryWorkstationTemplate](../UI.Smartphone.Apps.BizMan.Factory/BizManFactoryWorkstationTemplate.md)
+- None detected.
 
 ## Notes
 

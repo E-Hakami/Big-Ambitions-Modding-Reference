@@ -1,10 +1,6 @@
 # SpawnMorphPlayerData
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SpawnMorphPlayerData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,12 +12,7 @@
 
 ## Used By
 
-- [FactoryAssemblyMachineController](../Items.SpecialItems/FactoryAssemblyMachineController.md)
-- [FactoryProductionMachineController](../Items.SpecialItems/FactoryProductionMachineController.md)
-- [FactoryTimelineHelper](FactoryTimelineHelper.md)
-- [SpawnMorph2To1Behavior](SpawnMorph2To1Behavior.md)
-- [SpawnMorphBehavior](SpawnMorphBehavior.md)
-- [SpawnMorphTrack](SpawnMorphTrack.md)
+- None detected.
 
 ## Notes
 

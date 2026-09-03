@@ -1,10 +1,6 @@
 # ApartmentValueGoal
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ApartmentValueGoal`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingRegistration](BuildingRegistration.md)
-- [FloatBaseGoal](FloatBaseGoal.md)
-- [SaveGameManager](SaveGameManager.md)
+- None detected.
 
 ## Used By
 

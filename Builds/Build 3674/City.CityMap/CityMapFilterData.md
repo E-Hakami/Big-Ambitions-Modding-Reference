@@ -1,10 +1,6 @@
 # CityMapFilterData
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CityMapFilterData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CityMap](../CityMap.md)
+- None detected.
 
 ## Used By
 
-- [CityMapFilter](CityMapFilter.md)
-- [CityMapFilters](../CityMapFilters.md)
+- None detected.
 
 ## Notes
 

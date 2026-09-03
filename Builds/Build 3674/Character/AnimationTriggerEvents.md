@@ -1,10 +1,6 @@
 # AnimationTriggerEvents
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AnimationTriggerEvents`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [GameManager](../GameManager.md)
+- None detected.
 
 ## Used By
 
-- [CasinoGameEmployeeController](../CasinoGameEmployeeController.md)
-- [GolfCourse](../PlayerActivity/GolfCourse.md)
-- [GolferNpc](../AI/GolferNpc.md)
+- None detected.
 
 ## Notes
 

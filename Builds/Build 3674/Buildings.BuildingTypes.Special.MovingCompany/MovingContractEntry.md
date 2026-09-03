@@ -1,10 +1,6 @@
 # MovingContractEntry
 
-**Type:** Class
-
-**Declared Types:**
-
-- `MovingContractEntry`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [DialogController](../DialogController.md)
-- [MovingServiceContract](../Entities/MovingServiceContract.md)
-- [MovingServiceDialog](../Dialogs/MovingServiceDialog.md)
-- [TimeHelper](../TimeHelper.md)
+- None detected.
 
 ## Used By
 
-- [MovingServiceContractList](MovingServiceContractList.md)
+- None detected.
 
 ## Notes
 

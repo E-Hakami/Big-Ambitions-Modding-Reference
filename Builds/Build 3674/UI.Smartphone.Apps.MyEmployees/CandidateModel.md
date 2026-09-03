@@ -1,10 +1,6 @@
 # CandidateModel
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CandidateModel`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,21 +8,11 @@
 
 ## Uses
 
-- [BaseEmployeeModel](../UI.Smartphone.Apps.Shared/BaseEmployeeModel.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Employee](../Employee.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [HoursWorkingPerWeek](../Entities.Employee.JobDemands.Requirements/HoursWorkingPerWeek.md)
-- [MyEmployees](MyEmployees.md)
+- None detected.
 
 ## Used By
 
-- [CandidateCellView](../CandidateCellView.md)
-- [CandidateFilterController](CandidateFilterController.md)
-- [CandidateFilterToggle](CandidateFilterToggle.md)
-- [CandidateScrollerController](CandidateScrollerController.md)
-- [MyEmployees](MyEmployees.md)
-- [MyEmployeesMassActionsUI](MyEmployeesMassActionsUI.md)
+- None detected.
 
 ## Notes
 

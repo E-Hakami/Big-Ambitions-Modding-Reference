@@ -1,10 +1,6 @@
 # EconoViewOverview
 
-**Type:** Class
-
-**Declared Types:**
-
-- `EconoViewOverview`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,23 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [EconoView](EconoView.md)
-- [EconoViewFullTransactions](EconoViewFullTransactions.md)
-- [EconoViewIncomeStatementScrollerController](EconoViewIncomeStatementScrollerController.md)
-- [EconoViewLastTransactionsScrollerController](EconoViewLastTransactionsScrollerController.md)
-- [FinancialSummary](../Entities/FinancialSummary.md)
-- [FinancialSummaryHelper](../Helpers/FinancialSummaryHelper.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [Transaction](../Transaction.md)
+- None detected.
 
 ## Used By
 
-- [EconoView](EconoView.md)
-- [EconoViewFullTransactions](EconoViewFullTransactions.md)
-- [EconoViewFullTransactionsScrollerController](EconoViewFullTransactionsScrollerController.md)
-- [EconoViewLastTransactionsScrollerController](EconoViewLastTransactionsScrollerController.md)
-- [EconoViewLoans](../EconoViewLoans.md)
+- None detected.
 
 ## Notes
 

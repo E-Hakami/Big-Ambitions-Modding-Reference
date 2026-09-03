@@ -1,12 +1,6 @@
 # VehicleDeformationController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `VehicleDeformationController`
-- `VehicleDeformation`
-- `VehicleDeformationPoint`
+**Type:** Source File
 
 ## Main Reference
 
@@ -14,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CarController](CarController.md)
+- None detected.
 
 ## Used By
 
-- [CarController](CarController.md)
-- [SetUpVehicleDeformationRandomness](Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA02/SetUpVehicleDeformationRandomness.md)
-- [VehicleInstance](VehicleInstance.md)
+- None detected.
 
 ## Notes
 

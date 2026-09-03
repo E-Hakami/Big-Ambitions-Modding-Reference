@@ -1,11 +1,6 @@
 # ActorEmployeeAnimationSet
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ActorEmployeeAnimationSet`
-- `AnimationInfo`
+**Type:** Source File
 
 ## Main Reference
 
@@ -13,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [ActorEmployee](ActorEmployee.md)
-- [GlobalReferences](../GlobalReferences.md)
+- None detected.
 
 ## Notes
 

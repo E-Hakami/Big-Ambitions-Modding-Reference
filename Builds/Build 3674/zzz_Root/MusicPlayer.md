@@ -1,10 +1,6 @@
 # MusicPlayer
 
-**Type:** Class
-
-**Declared Types:**
-
-- `MusicPlayer`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,20 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CityMap](CityMap.md)
-- [CorrespondingSongData](CorrespondingSongData.md)
-- [FullMenu](UI.Smartphone/FullMenu.md)
-- [GameManager](GameManager.md)
-- [GlobalEvents](GlobalEvents.md)
-- [RadioPlayer](RadioPlayer.md)
-- [RadioStation](RadioStation.md)
-- [UIs](UI/UIs.md)
+- None detected.
 
 ## Used By
 
-- [BuildingOutsideMusic](BuildingOutsideMusic.md)
-- [RadioPlayer](RadioPlayer.md)
+- None detected.
 
 ## Notes
 

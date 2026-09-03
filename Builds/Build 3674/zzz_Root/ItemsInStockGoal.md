@@ -1,10 +1,6 @@
 # ItemsInStockGoal
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ItemsInStockGoal`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingRegistration](BuildingRegistration.md)
-- [IntBaseGoal](IntBaseGoal.md)
-- [SaveGameManager](SaveGameManager.md)
+- None detected.
 
 ## Used By
 

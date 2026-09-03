@@ -1,10 +1,6 @@
 # FaintVignette
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FaintVignette`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,7 +12,7 @@
 
 ## Used By
 
-- [UIs](UIs.md)
+- None detected.
 
 ## Notes
 

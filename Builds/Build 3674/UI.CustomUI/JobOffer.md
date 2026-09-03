@@ -1,10 +1,6 @@
 # JobOffer
 
-**Type:** Class
-
-**Declared Types:**
-
-- `JobOffer`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,25 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [GameEvent](../GameEvent.md)
-- [GameManager](../GameManager.md)
-- [GlobalEvents](../GlobalEvents.md)
-- [HappinessHelper](../Helpers/HappinessHelper.md)
-- [Job](../Job.md)
-- [JobHelper](../JobHelper.md)
-- [JobInstance](../JobInstance.md)
-- [NavigationBlocker](../NavigationBlocker.md)
-- [Notification](../UI.Notification/Notification.md)
-- [Notifications](../UI.Notification/Notifications.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [ScheduleDay](../ScheduleDay.md)
+- None detected.
 
 ## Used By
 
-- [CancelButtonHandler](../CancelButtonHandler.md)
-- [PlayerHUD](../UI.PlayerHUD/PlayerHUD.md)
+- None detected.
 
 ## Notes
 

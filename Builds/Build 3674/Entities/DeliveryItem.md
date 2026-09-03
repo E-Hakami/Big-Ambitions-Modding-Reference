@@ -1,10 +1,6 @@
 # DeliveryItem
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DeliveryItem`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [DeliveryTransaction](DeliveryTransaction.md)
-- [ImportPartnership](ImportPartnership.md)
-- [LogisticsManagerPlanDestination](LogisticsManagerPlanDestination.md)
-- [Warehouse](Warehouse.md)
+- None detected.
 
 ## Notes
 

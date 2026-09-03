@@ -1,10 +1,6 @@
 # GradientSlider
 
-**Type:** Class
-
-**Declared Types:**
-
-- `GradientSlider`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [PurchaseUI](../UI.Purchase/PurchaseUI.md)
+- None detected.
 
 ## Used By
 
-- [BodyCustomization](../Character.Customization/BodyCustomization.md)
-- [EyesColorPicker](../Character.Customization/EyesColorPicker.md)
-- [GradientColorSetter](../Character.Customization/GradientColorSetter.md)
-- [IntroCharacterCustomizer](../Intro/IntroCharacterCustomizer.md)
-- [PlasticSurgeryUI](../Character.Customization/PlasticSurgeryUI.md)
+- None detected.
 
 ## Notes
 

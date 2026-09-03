@@ -1,10 +1,6 @@
 # BoatData
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BoatData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BoatTypeName](../Entities/BoatTypeName.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [Boat](Boat.md)
-- [BoatGoal](../BoatGoal.md)
-- [BoatManager](BoatManager.md)
-- [GameInstance](../GameInstance.md)
-- [PlayerHelper](../Helpers/PlayerHelper.md)
+- None detected.
 
 ## Notes
 

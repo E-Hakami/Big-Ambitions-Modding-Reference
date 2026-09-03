@@ -1,10 +1,6 @@
 # ScheduleEmployeeFilterToggle
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ScheduleEmployeeFilterToggle`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [EmployeeFilterToggleBase](../UI.Smartphone.Apps.Shared/EmployeeFilterToggleBase.md)
-- [ScheduleEmployeeModel](ScheduleEmployeeModel.md)
+- None detected.
 
 ## Used By
 
-- [ScheduleEmployeeFilterController](ScheduleEmployeeFilterController.md)
+- None detected.
 
 ## Notes
 

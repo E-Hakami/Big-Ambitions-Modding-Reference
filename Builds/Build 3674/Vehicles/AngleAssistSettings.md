@@ -1,10 +1,6 @@
 # AngleAssistSettings
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AngleAssistSettings`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,8 +12,7 @@
 
 ## Used By
 
-- [AngleAssist](../AngleAssist.md)
-- [VehicleHelper](../Helpers/VehicleHelper.md)
+- None detected.
 
 ## Notes
 

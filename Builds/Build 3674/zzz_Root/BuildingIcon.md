@@ -1,10 +1,6 @@
 # BuildingIcon
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BuildingIcon`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,7 +12,7 @@
 
 ## Used By
 
-- [PointOfInterest](PointOfInterest.md)
+- None detected.
 
 ## Notes
 

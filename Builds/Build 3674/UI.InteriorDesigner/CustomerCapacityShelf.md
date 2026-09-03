@@ -1,10 +1,6 @@
 # CustomerCapacityShelf
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CustomerCapacityShelf`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [Item](../BusinessLayoutSets/Item.md)
+- None detected.
 
 ## Used By
 
-- [CustomerCapacityEntry](CustomerCapacityEntry.md)
+- None detected.
 
 ## Notes
 

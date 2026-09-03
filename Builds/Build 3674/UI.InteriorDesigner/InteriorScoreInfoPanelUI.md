@@ -1,10 +1,6 @@
 # InteriorScoreInfoPanelUI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `InteriorScoreInfoPanelUI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [BuildingTypeHelper](../Buildings/BuildingTypeHelper.md)
-- [ColoredTextHelper](../Extensions/ColoredTextHelper.md)
-- [InfoPanelUI](InfoPanelUI.md)
-- [InteriorDesignerController](../Buildings.Indoors.InteriorDesign/InteriorDesignerController.md)
-- [InteriorDesignerInfoPanelEvents](InteriorDesignerInfoPanelEvents.md)
+- None detected.
 
 ## Used By
 

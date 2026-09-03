@@ -1,10 +1,6 @@
 # Loan
 
-**Type:** Class
-
-**Declared Types:**
-
-- `Loan`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [BankDialog](Dialogs/BankDialog.md)
-- [EconoViewLoans](EconoViewLoans.md)
-- [GameInstance](GameInstance.md)
-- [HasMoneyInBank](Tutorial/HasMoneyInBank.md)
-- [LoanEntryUi](LoanEntryUi.md)
-- [LoanHelper](Helpers/LoanHelper.md)
-- [PlayerHelper](Helpers/PlayerHelper.md)
+- None detected.
 
 ## Notes
 

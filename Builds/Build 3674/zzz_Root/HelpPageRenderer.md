@@ -1,12 +1,6 @@
 # HelpPageRenderer
 
-**Type:** Multiple
-
-**Declared Types:**
-
-- `HelpPageRenderer`
-- `UiEntry`
-- `UiType`
+**Type:** Source File
 
 ## Main Reference
 
@@ -14,13 +8,11 @@
 
 ## Uses
 
-- [HelpStructureGroupEntry](UnityEngine.UI.Extensions.HelpSystem/HelpStructureGroupEntry.md)
-- [HelpStructurePageEntry](UnityEngine.UI.Extensions.HelpSystem/HelpStructurePageEntry.md)
-- [HelpSystem](HelpSystem.md)
+- None detected.
 
 ## Used By
 
-- [HelpSystem](HelpSystem.md)
+- None detected.
 
 ## Notes
 

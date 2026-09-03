@@ -1,10 +1,6 @@
 # AddExportMultiplierGameVariable
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AddExportMultiplierGameVariable`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [DifficultySetting](../DifficultySetting.md)
-- [GameInstance](../GameInstance.md)
-- [GameVariables](../GameVariables.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA010](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA010.md)
+- None detected.
 
 ## Notes
 

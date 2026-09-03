@@ -1,10 +1,6 @@
 # SeatingCustomerDemand
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SeatingCustomerDemand`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [CustomerDemand](CustomerDemand.md)
-- [Item](../BusinessLayoutSets/Item.md)
+- None detected.
 
 ## Used By
 

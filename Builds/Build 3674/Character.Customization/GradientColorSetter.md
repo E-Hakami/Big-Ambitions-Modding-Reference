@@ -1,10 +1,6 @@
 # GradientColorSetter
 
-**Type:** Class
-
-**Declared Types:**
-
-- `GradientColorSetter`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [CharacterCustomizer](CharacterCustomizer.md)
-- [GradientSlider](../UI.Components/GradientSlider.md)
+- None detected.
 
 ## Used By
 

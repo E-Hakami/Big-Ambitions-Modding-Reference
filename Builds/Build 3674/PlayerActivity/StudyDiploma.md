@@ -1,10 +1,6 @@
 # StudyDiploma
 
-**Type:** Class
-
-**Declared Types:**
-
-- `StudyDiploma`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,19 +8,11 @@
 
 ## Uses
 
-- [DiplomaName](../DiplomaName.md)
-- [EntityController](../EntityController.md)
-- [IPlayerActivity](IPlayerActivity.md)
-- [IPlayerActivityType](IPlayerActivityType.md)
-- [ItemController](../ItemController.md)
-- [StudyActivity](StudyActivity.md)
+- None detected.
 
 ## Used By
 
-- [EducationDoorController](../EducationDoorController.md)
-- [OverlayHelper](../Player.HUD.ItemInfoOverlays/OverlayHelper.md)
-- [StudyActivity](StudyActivity.md)
-- [TutorialPointerDataWorldEducationDoor](../Tutorial/TutorialPointerDataWorldEducationDoor.md)
+- None detected.
 
 ## Notes
 

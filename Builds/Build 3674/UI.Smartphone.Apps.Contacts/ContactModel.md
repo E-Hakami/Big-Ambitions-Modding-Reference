@@ -1,10 +1,6 @@
 # ContactModel
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ContactModel`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Contact](../Entities/Contact.md)
+- None detected.
 
 ## Used By
 
-- [ContactCellView](ContactCellView.md)
-- [ContactsApp](ContactsApp.md)
-- [ContactScrollerController](ContactScrollerController.md)
+- None detected.
 
 ## Notes
 

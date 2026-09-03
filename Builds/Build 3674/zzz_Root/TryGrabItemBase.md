@@ -1,10 +1,6 @@
 # TryGrabItemBase
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TryGrabItemBase`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,22 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CharacterMoveToPosition](CharacterMoveToPosition.md)
-- [CharacterRotateTowards](CharacterRotateTowards.md)
-- [CharacterRunAnimation](CharacterRunAnimation.md)
-- [CharacterShowEmojiExpression](CharacterShowEmojiExpression.md)
-- [ExpressionDataContainer](ExpressionDataContainer.md)
-- [Gender](Character.Customization/Gender.md)
-- [SfxManager](SfxManager.md)
-- [SharedCustomer](SharedCustomer.md)
-- [SharedItemController](SharedItemController.md)
-- [SharedOrderEntry](SharedOrderEntry.md)
+- None detected.
 
 ## Used By
 
-- [GymCustomerTryGrabItem](GymCustomerTryGrabItem.md)
-- [SelfServiceCustomerTryGrabItem](SelfServiceCustomerTryGrabItem.md)
+- None detected.
 
 ## Notes
 

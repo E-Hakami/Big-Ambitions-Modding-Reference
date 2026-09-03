@@ -1,10 +1,6 @@
 # BuildingStationaryAiData
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BuildingStationaryAiData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [VideoClipData](../VideoClipData.md)
+- None detected.
 
 ## Used By
 
-- [BuildingStationaryAiBehavior](BuildingStationaryAiBehavior.md)
-- [NpcSpawnSettings](../Buildings/NpcSpawnSettings.md)
+- None detected.
 
 ## Notes
 

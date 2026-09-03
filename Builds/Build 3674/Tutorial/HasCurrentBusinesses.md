@@ -1,10 +1,6 @@
 # HasCurrentBusinesses
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasCurrentBusinesses`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BusinessType](../BusinessType.md)
-- [BusinessTypeHelper](../Helpers/BusinessTypeHelper.md)
-- [QuestRequirement](QuestRequirement.md)
+- None detected.
 
 ## Used By
 

@@ -1,10 +1,6 @@
 # HasDeliveryContract
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasDeliveryContract`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CustomBuildingTarget](CustomBuildingTarget.md)
-- [DeliveryContract](../Entities/DeliveryContract.md)
-- [QuestRequirement](QuestRequirement.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 

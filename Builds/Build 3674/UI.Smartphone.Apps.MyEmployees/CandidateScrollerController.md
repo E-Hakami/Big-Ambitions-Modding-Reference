@@ -1,10 +1,6 @@
 # CandidateScrollerController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CandidateScrollerController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BaseFilterController](../UI.Smartphone.Apps.Shared/BaseFilterController.md)
-- [BaseFilteredScrollerController](../UI.Smartphone.Apps.Shared/BaseFilteredScrollerController.md)
-- [CandidateCellView](../CandidateCellView.md)
-- [CandidateFilterController](CandidateFilterController.md)
-- [CandidateModel](CandidateModel.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [MyEmployees](MyEmployees.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 
-- [MyEmployees](MyEmployees.md)
+- None detected.
 
 ## Notes
 

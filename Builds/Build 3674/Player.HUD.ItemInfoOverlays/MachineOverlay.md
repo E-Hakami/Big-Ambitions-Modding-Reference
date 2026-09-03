@@ -1,10 +1,6 @@
 # MachineOverlay
 
-**Type:** Class
-
-**Declared Types:**
-
-- `MachineOverlay`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,21 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [Colors](../Colors.md)
-- [Dropdown](../UI.Elements/Dropdown.md)
-- [EntityController](../EntityController.md)
-- [FactoryAssemblyMachineController](../Items.SpecialItems/FactoryAssemblyMachineController.md)
-- [FactoryWorkstationInstance](../FactoryWorkstationInstance.md)
-- [GameEvent](../GameEvent.md)
-- [GlobalReferences](../GlobalReferences.md)
-- [IOverlay](IOverlay.md)
+- None detected.
 
 ## Used By
 
-- [FactoryMachineProducerOverlay](../BigAmbitions.InteriorDesigner/FactoryMachineProducerOverlay.md)
-- [OverlayHelper](OverlayHelper.md)
+- None detected.
 
 ## Notes
 

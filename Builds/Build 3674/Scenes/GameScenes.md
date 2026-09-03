@@ -1,10 +1,6 @@
 # GameScenes
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `GameScenes`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [TransitionToSave](../TransitionToSave.md)
+- None detected.
 
 ## Used By
 
-- [GameManager](../GameManager.md)
-- [GameScenesHelper](GameScenesHelper.md)
-- [LoadingScreen](../UI.Load/LoadingScreen.md)
-- [LoadScene](../UI.Load/LoadScene.md)
-- [SceneLoader](../UI.Load/SceneLoader.md)
+- None detected.
 
 ## Notes
 

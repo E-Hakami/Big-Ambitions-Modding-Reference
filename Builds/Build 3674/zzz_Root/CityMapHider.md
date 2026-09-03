@@ -1,10 +1,6 @@
 # CityMapHider
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CityMapHider`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [CityMap](CityMap.md)
-- [DistributedWork](Helpers/DistributedWork.md)
-- [GlobalEvents](GlobalEvents.md)
-- [PlayerPrefSettings](PlayerPrefSettings.md)
+- None detected.
 
 ## Used By
 
-- [GameManager](GameManager.md)
+- None detected.
 
 ## Notes
 

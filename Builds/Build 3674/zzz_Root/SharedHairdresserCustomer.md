@@ -1,10 +1,6 @@
 # SharedHairdresserCustomer
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SharedHairdresserCustomer`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [HairdresserCustomer](HairdresserCustomer.md)
+- None detected.
 
 ## Used By
 
-- [HasAnyHairChangeEntry](HasAnyHairChangeEntry.md)
-- [HasHairShampooing](HasHairShampooing.md)
-- [ProcessHaircutEntriesAlmostLeaving](ProcessHaircutEntriesAlmostLeaving.md)
+- None detected.
 
 ## Notes
 

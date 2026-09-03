@@ -1,10 +1,6 @@
 # FullServiceOnEnterBuildingInAction
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FullServiceOnEnterBuildingInAction`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,7 @@
 
 ## Uses
 
-- [AnyEntryPaid](AnyEntryPaid.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [IsPlayerOwnedBusiness](IsPlayerOwnedBusiness.md)
-- [ItemController](ItemController.md)
-- [OrderEntry](Entities/OrderEntry.md)
-- [OrderHelper](OrderHelper.md)
-- [SharedCustomer](SharedCustomer.md)
-- [WaitingLinesHelper](WaitingLinesHelper.md)
+- None detected.
 
 ## Used By
 

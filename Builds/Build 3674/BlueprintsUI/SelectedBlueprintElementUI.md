@@ -1,10 +1,6 @@
 # SelectedBlueprintElementUI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SelectedBlueprintElementUI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,7 +12,7 @@
 
 ## Used By
 
-- [SelectedBlueprintUI](SelectedBlueprintUI.md)
+- None detected.
 
 ## Notes
 

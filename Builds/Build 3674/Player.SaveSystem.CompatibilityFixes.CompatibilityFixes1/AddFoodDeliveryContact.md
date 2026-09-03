@@ -1,10 +1,6 @@
 # AddFoodDeliveryContact
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AddFoodDeliveryContact`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingRegistration](../BuildingRegistration.md)
-- [FoodDeliveryHelper](../Buildings.BuildingTypes.Special.FoodDelivery/FoodDeliveryHelper.md)
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceTo1](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceTo1.md)
+- None detected.
 
 ## Notes
 

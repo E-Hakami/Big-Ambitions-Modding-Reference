@@ -1,10 +1,6 @@
 # SharedCasinoGameType
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SharedCasinoGameType`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [CasinoGameType](Buildings.BuildingTypes.Special/CasinoGameType.md)
+- None detected.
 
 ## Used By
 
-- [GoPlayOnAGameSpot](GoPlayOnAGameSpot.md)
-- [GoPlayOnAGameSpotInstantly](GoPlayOnAGameSpotInstantly.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # EconoViewIncomeStatementModel
 
-**Type:** Class
-
-**Declared Types:**
-
-- `EconoViewIncomeStatementModel`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [EconoView](EconoView.md)
-- [EconoViewRowType](EconoViewRowType.md)
+- None detected.
 
 ## Used By
 
-- [EconoViewIncomeStatementCellView](EconoViewIncomeStatementCellView.md)
-- [EconoViewIncomeStatementScrollerController](EconoViewIncomeStatementScrollerController.md)
+- None detected.
 
 ## Notes
 

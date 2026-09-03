@@ -1,10 +1,6 @@
 # NpcSpawnerItem
 
-**Type:** Class
-
-**Declared Types:**
-
-- `NpcSpawnerItem`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BaseHuman](../BaseHuman.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [EntityController](../EntityController.md)
-- [ItemController](../ItemController.md)
-- [ThirdPersonCharacter](../ThirdPersonCharacter.md)
+- None detected.
 
 ## Used By
 
-- [NpcSpawnerItemWithRandomAnimationOnHuman](NpcSpawnerItemWithRandomAnimationOnHuman.md)
-- [NpcSpawnerItemWithTimeline](NpcSpawnerItemWithTimeline.md)
-- [PedestrianSpawnerForOutsideInteractableItems](../Entities/PedestrianSpawnerForOutsideInteractableItems.md)
-- [WorkoutMachineNpcSpawnerItem](WorkoutMachineNpcSpawnerItem.md)
+- None detected.
 
 ## Notes
 

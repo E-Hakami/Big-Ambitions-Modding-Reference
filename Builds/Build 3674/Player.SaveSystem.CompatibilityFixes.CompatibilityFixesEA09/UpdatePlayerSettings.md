@@ -1,11 +1,6 @@
 # UpdatePlayerSettings
 
-**Type:** Class
-
-**Declared Types:**
-
-- `UpdatePlayerSettings`
-- `DraggableWindowDataWrapper`
+**Type:** Source File
 
 ## Main Reference
 
@@ -13,15 +8,11 @@
 
 ## Uses
 
-- [DraggableWindowData](../UI.DraggableWindows/DraggableWindowData.md)
-- [DraggableWindows](../UI.DraggableWindows/DraggableWindows.md)
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
-- [PlayerSettingsHelper](../Helpers/PlayerSettingsHelper.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA09](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA09.md)
+- None detected.
 
 ## Notes
 

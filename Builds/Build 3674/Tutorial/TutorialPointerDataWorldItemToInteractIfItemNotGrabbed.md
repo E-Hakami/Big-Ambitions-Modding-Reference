@@ -1,10 +1,6 @@
 # TutorialPointerDataWorldItemToInteractIfItemNotGrabbed
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TutorialPointerDataWorldItemToInteractIfItemNotGrabbed`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [ItemController](../ItemController.md)
-- [PlayerHelper](../Helpers/PlayerHelper.md)
-- [TutorialPointerDataWorldItemToInteract](TutorialPointerDataWorldItemToInteract.md)
+- None detected.
 
 ## Used By
 

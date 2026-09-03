@@ -1,10 +1,6 @@
 # Boat
 
-**Type:** Class
-
-**Declared Types:**
-
-- `Boat`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,23 +8,11 @@
 
 ## Uses
 
-- [BoatColor](../Data.VehicleColors/BoatColor.md)
-- [BoatColorSetter](BoatColorSetter.md)
-- [BoatController](BoatController.md)
-- [BoatData](BoatData.md)
-- [BoatTypeName](../Entities/BoatTypeName.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [DraggableWindows](../UI.DraggableWindows/DraggableWindows.md)
-- [GlobalReferences](../GlobalReferences.md)
+- None detected.
 
 ## Used By
 
-- [BoatController](BoatController.md)
-- [BoatManager](BoatManager.md)
-- [EnumHelpers](../EnumHelpers.md)
-- [SleepActivity](../PlayerActivity/SleepActivity.md)
-- [SleepEnvironment](../PlayerActivity/SleepEnvironment.md)
-- [SleepEnvironmentType](../PlayerActivity/SleepEnvironmentType.md)
+- None detected.
 
 ## Notes
 

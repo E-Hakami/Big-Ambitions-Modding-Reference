@@ -1,10 +1,6 @@
 # HealthInsuranceNegotiationParams
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HealthInsuranceNegotiationParams`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [GlobalReferences](../GlobalReferences.md)
-- [HealthInsuranceHelper](../Helpers/HealthInsuranceHelper.md)
-- [HealthInsurancePlanOffer](HealthInsurancePlanOffer.md)
-- [Negotiator](Negotiator.md)
+- None detected.
 
 ## Notes
 

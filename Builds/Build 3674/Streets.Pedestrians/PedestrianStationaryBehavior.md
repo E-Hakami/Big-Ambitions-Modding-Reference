@@ -1,10 +1,6 @@
 # PedestrianStationaryBehavior
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PedestrianStationaryBehavior`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [StationaryAiBehavior](../Entities/StationaryAiBehavior.md)
-- [ThirdPersonCharacter](../ThirdPersonCharacter.md)
+- None detected.
 
 ## Used By
 
-- [BuildingOutsidePedestrian](BuildingOutsidePedestrian.md)
-- [Pedestrian](Pedestrian.md)
+- None detected.
 
 ## Notes
 

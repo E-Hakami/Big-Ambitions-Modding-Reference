@@ -1,10 +1,6 @@
 # TennisActivity
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TennisActivity`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,25 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [ButtonInfo](../UI.Elements/ButtonInfo.md)
-- [EnergyHelper](../Helpers/EnergyHelper.md)
-- [GameManager](../GameManager.md)
-- [GlobalReferences](../GlobalReferences.md)
-- [IPlayerActivity](IPlayerActivity.md)
-- [LabelInfo](../UI.Elements/LabelInfo.md)
-- [PlayerActivityBalanceConfig](PlayerActivityBalanceConfig.md)
-- [PlayerActivityState](../PlayerActivityState.md)
-- [PlayerController](../PlayerController.md)
-- [PlayerDefaults](../PlayerDefaults.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [TennisInteractionNpc](../PlayerActivity.Tennis/TennisInteractionNpc.md)
-- [ThirdPersonCharacter](../ThirdPersonCharacter.md)
-- [TimeHelper](../TimeHelper.md)
+- None detected.
 
 ## Used By
 
-- [TennisCourt](../PlayerActivity.Tennis/TennisCourt.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # DesktopWorkstationController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DesktopWorkstationController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Employee](../Employee.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [EmployeeStationController](../EmployeeStationController.md)
-- [EnergyConsumption](../EnergyConsumption.md)
-- [SeatController](SeatController.md)
-- [ThirdPersonCharacter](../ThirdPersonCharacter.md)
+- None detected.
 
 ## Used By
 
-- [WorkstationController](WorkstationController.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # BuildingStationaryAiPool
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BuildingStationaryAiPool`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingStationaryAiBehavior](Entities/BuildingStationaryAiBehavior.md)
-- [PrefabHelper](Helpers/PrefabHelper.md)
+- None detected.
 
 ## Used By
 
-- [PedestrianSpawner](PedestrianSpawner.md)
+- None detected.
 
 ## Notes
 

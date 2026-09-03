@@ -1,10 +1,6 @@
 # ForceUpdatePersonalGoals
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ForceUpdatePersonalGoals`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [GameInstance](../GameInstance.md)
-- [GameManager](../GameManager.md)
-- [GenericPersonalGoal](../GenericPersonalGoal.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceTo1](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceTo1.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # FixLegacyJobDemandMessageData
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FixLegacyJobDemandMessageData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [Contact](../Entities/Contact.md)
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
-- [TextMessage](../Entities/TextMessage.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceTo1](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceTo1.md)
+- None detected.
 
 ## Notes
 

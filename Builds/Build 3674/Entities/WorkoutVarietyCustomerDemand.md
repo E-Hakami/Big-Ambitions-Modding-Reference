@@ -1,10 +1,6 @@
 # WorkoutVarietyCustomerDemand
 
-**Type:** Class
-
-**Declared Types:**
-
-- `WorkoutVarietyCustomerDemand`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [CustomerDemand](CustomerDemand.md)
-- [Item](../BusinessLayoutSets/Item.md)
-- [PrefabHelper](../Helpers/PrefabHelper.md)
-- [WorkoutExercise](../PlayerActivity/WorkoutExercise.md)
-- [WorkoutMachineController](../WorkoutMachineController.md)
-- [WorkoutType](../PlayerActivity/WorkoutType.md)
+- None detected.
 
 ## Used By
 

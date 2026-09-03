@@ -1,10 +1,6 @@
 # AutoHideMonitor
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AutoHideMonitor`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [AutoHide](AutoHide.md)
-- [AutoHideBase](UI.Components.AutoHide/AutoHideBase.md)
+- None detected.
 
 ## Used By
 
-- [AutoHideBase](UI.Components.AutoHide/AutoHideBase.md)
+- None detected.
 
 ## Notes
 

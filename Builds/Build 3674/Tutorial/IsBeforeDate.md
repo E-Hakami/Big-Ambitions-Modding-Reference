@@ -1,10 +1,6 @@
 # IsBeforeDate
 
-**Type:** Class
-
-**Declared Types:**
-
-- `IsBeforeDate`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [QuestRequirement](QuestRequirement.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [TimeHelper](../TimeHelper.md)
+- None detected.
 
 ## Used By
 

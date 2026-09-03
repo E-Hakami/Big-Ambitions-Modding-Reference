@@ -1,10 +1,6 @@
 # StoryDifficultyOption
 
-**Type:** Class
-
-**Declared Types:**
-
-- `StoryDifficultyOption`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [DifficultyIndicator](../Player.DifficultySettings/DifficultyIndicator.md)
-- [DifficultyIndicatorTemplate](DifficultyIndicatorTemplate.md)
-- [DifficultySetting](../DifficultySetting.md)
+- None detected.
 
 ## Used By
 
-- [StoryPanel](StoryPanel.md)
+- None detected.
 
 ## Notes
 

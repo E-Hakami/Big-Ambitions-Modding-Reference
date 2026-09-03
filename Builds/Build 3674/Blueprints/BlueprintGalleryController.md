@@ -1,10 +1,6 @@
 # BlueprintGalleryController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BlueprintGalleryController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,19 +8,11 @@
 
 ## Uses
 
-- [Blueprint](Blueprint.md)
-- [BlueprintController](BlueprintController.md)
-- [BlueprintParser](BlueprintParser.md)
-- [BlueprintSortInfo](../BlueprintsUI/BlueprintSortInfo.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CompatibilityBlueprintValidator](../Player.SaveSystem.CompatibilityFixes/CompatibilityBlueprintValidator.md)
-- [GameVersion](../GameVersion.md)
-- [Item](../BusinessLayoutSets/Item.md)
-- [SteamWorkshopBlueprint](../Steam/SteamWorkshopBlueprint.md)
+- None detected.
 
 ## Used By
 
-- [BlueprintsListUI](../BlueprintsUI/BlueprintsListUI.md)
+- None detected.
 
 ## Notes
 

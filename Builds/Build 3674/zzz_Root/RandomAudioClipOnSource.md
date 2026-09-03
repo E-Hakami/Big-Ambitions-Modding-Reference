@@ -1,10 +1,6 @@
 # RandomAudioClipOnSource
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RandomAudioClipOnSource`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [PersonalGoalOverlay](PersonalGoalOverlay.md)
+- None detected.
 
 ## Notes
 

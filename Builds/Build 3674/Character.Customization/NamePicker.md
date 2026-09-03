@@ -1,10 +1,6 @@
 # NamePicker
 
-**Type:** Class
-
-**Declared Types:**
-
-- `NamePicker`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CharacterCustomizer](CharacterCustomizer.md)
-- [Gender](Gender.md)
+- None detected.
 
 ## Used By
 
-- [IntroCharacterCustomizer](../Intro/IntroCharacterCustomizer.md)
+- None detected.
 
 ## Notes
 

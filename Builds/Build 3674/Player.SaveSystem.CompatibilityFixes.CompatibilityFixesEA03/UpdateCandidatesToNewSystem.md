@@ -1,10 +1,6 @@
 # UpdateCandidatesToNewSystem
 
-**Type:** Class
-
-**Declared Types:**
-
-- `UpdateCandidatesToNewSystem`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [CandidateInfo](../Entities/CandidateInfo.md)
-- [Contact](../Entities/Contact.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
-- [TextMessage](../Entities/TextMessage.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA03](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA03.md)
+- None detected.
 
 ## Notes
 

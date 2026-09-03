@@ -1,10 +1,6 @@
 # VehicleDeliveryContractEntry
 
-**Type:** Class
-
-**Declared Types:**
-
-- `VehicleDeliveryContractEntry`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [DialogController](../DialogController.md)
-- [TimeHelper](../TimeHelper.md)
-- [VehicleDeliveryContract](../Vehicles/VehicleDeliveryContract.md)
-- [VehicleHelper](../Helpers/VehicleHelper.md)
-- [VehicleStoreDialog](VehicleStoreDialog.md)
+- None detected.
 
 ## Used By
 
-- [VehicleDeliveryContractList](VehicleDeliveryContractList.md)
+- None detected.
 
 ## Notes
 

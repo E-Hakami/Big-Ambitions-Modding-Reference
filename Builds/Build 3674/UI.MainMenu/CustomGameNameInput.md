@@ -1,10 +1,6 @@
 # CustomGameNameInput
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CustomGameNameInput`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CustomGamePresetsHandler](CustomGamePresetsHandler.md)
-- [HudConfirm](../HudConfirm.md)
+- None detected.
 
 ## Used By
 
-- [CustomGamePanel](CustomGamePanel.md)
+- None detected.
 
 ## Notes
 

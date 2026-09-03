@@ -1,10 +1,6 @@
 # HeadhunterEmployeeModel
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HeadhunterEmployeeModel`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [ReplacementReason](../Entities/ReplacementReason.md)
+- None detected.
 
 ## Used By
 
-- [HeadhunterEmployeeCellView](HeadhunterEmployeeCellView.md)
-- [HeadhunterEmployeesScrollerController](HeadhunterEmployeesScrollerController.md)
+- None detected.
 
 ## Notes
 

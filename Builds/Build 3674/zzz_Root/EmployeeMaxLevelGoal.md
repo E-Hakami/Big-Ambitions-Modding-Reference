@@ -1,10 +1,6 @@
 # EmployeeMaxLevelGoal
 
-**Type:** Class
-
-**Declared Types:**
-
-- `EmployeeMaxLevelGoal`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [EmployeeHelper](Helpers/EmployeeHelper.md)
-- [EmployeeInstance](Entities/EmployeeInstance.md)
-- [FloatBaseGoal](FloatBaseGoal.md)
+- None detected.
 
 ## Used By
 

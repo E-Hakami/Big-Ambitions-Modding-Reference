@@ -1,10 +1,6 @@
 # StateButtonBehaviour
 
-**Type:** Class
-
-**Declared Types:**
-
-- `StateButtonBehaviour`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [BaseSortToggle](../UI.Smartphone.Apps.Shared/BaseSortToggle.md)
+- None detected.
 
 ## Notes
 

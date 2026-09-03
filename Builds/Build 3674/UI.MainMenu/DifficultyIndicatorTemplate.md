@@ -1,10 +1,6 @@
 # DifficultyIndicatorTemplate
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DifficultyIndicatorTemplate`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [DifficultyIndicator](../Player.DifficultySettings/DifficultyIndicator.md)
+- None detected.
 
 ## Used By
 
-- [StoryDifficultyOption](StoryDifficultyOption.md)
+- None detected.
 
 ## Notes
 

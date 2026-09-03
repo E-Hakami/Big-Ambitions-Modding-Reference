@@ -1,10 +1,6 @@
 # SelfServiceBusinessSimulator
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SelfServiceBusinessSimulator`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BuildingCleanlinessHelper](../Buildings.BuildingTypes.Shared.Dirtiness/BuildingCleanlinessHelper.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [CitizenData](../AI.Citizens/CitizenData.md)
-- [CustomerEntry](../AI.Customers.CustomerEntries/CustomerEntry.md)
-- [OrderEntry](../Entities/OrderEntry.md)
-- [PointOfSale](PointOfSale.md)
-- [RetailBusinessSimulator](RetailBusinessSimulator.md)
+- None detected.
 
 ## Used By
 
-- [CinemaTheaterBusinessSimulator](CinemaTheaterBusinessSimulator.md)
+- None detected.
 
 ## Notes
 

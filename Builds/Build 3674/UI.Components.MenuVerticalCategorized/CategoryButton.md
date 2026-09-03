@@ -1,10 +1,6 @@
 # CategoryButton
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CategoryButton`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [MenuVertical](../MenuVertical.md)
-- [SelectableButton](SelectableButton.md)
+- None detected.
 
 ## Used By
 
-- [MenuVertical](../MenuVertical.md)
+- None detected.
 
 ## Notes
 

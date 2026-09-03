@@ -1,10 +1,6 @@
 # BoatTypeName
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `BoatTypeName`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,14 +12,7 @@
 
 ## Used By
 
-- [Boat](../Boats/Boat.md)
-- [BoatData](../Boats/BoatData.md)
-- [BoatType](BoatType.md)
-- [BoatTypes](BoatTypes.md)
-- [EnumHelpers](../EnumHelpers.md)
-- [LocalizationHelper](../Helpers/LocalizationHelper.md)
-- [Transaction](../Transaction.md)
-- [TransactionDataParser](../BigAmbitions.SaveSystem.Legacy.CompatParsers/TransactionDataParser.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # TMP_InputFileNameValidator
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TMP_InputFileNameValidator`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,7 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 

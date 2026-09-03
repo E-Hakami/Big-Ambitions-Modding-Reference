@@ -1,10 +1,6 @@
 # ControlsHint
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ControlsHint`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [ControlsHintBinding](ControlsHintBinding.md)
+- None detected.
 
 ## Used By
 
-- [ConfigurableControlsHintProvider](ConfigurableControlsHintProvider.md)
-- [ControllersHintProviderEntry](ControllersHintProviderEntry.md)
-- [ControlsHintConfiguration](ControlsHintConfiguration.md)
-- [IControlsHintProvider](IControlsHintProvider.md)
-- [SingleControlHintEntry](SingleControlHintEntry.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # HeadhunterEmployeeCellView
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HeadhunterEmployeeCellView`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BaTable](../BaTable/BaTable.md)
-- [BaTableCellView](../BaTable/BaTableCellView.md)
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [HeadhunterEmployeeModel](HeadhunterEmployeeModel.md)
-- [ReplacementReason](../Entities/ReplacementReason.md)
+- None detected.
 
 ## Used By
 
-- [HeadhunterEmployeesScrollerController](HeadhunterEmployeesScrollerController.md)
+- None detected.
 
 ## Notes
 

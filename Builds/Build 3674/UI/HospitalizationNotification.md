@@ -1,10 +1,6 @@
 # HospitalizationNotification
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HospitalizationNotification`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CityMap](../CityMap.md)
-- [MiniMenu](../UI.MiniMenu/MiniMenu.md)
-- [UIs](UIs.md)
+- None detected.
 
 ## Used By
 
-- [UIs](UIs.md)
+- None detected.
 
 ## Notes
 

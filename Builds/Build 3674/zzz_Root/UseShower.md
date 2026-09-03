@@ -1,10 +1,6 @@
 # UseShower
 
-**Type:** Class
-
-**Declared Types:**
-
-- `UseShower`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,7 @@
 
 ## Uses
 
-- [BuildingCleanlinessHelper](Buildings.BuildingTypes.Shared.Dirtiness/BuildingCleanlinessHelper.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [PublicShowerController](PublicShowerController.md)
-- [SharedGymCustomer](SharedGymCustomer.md)
-- [SharedItemController](SharedItemController.md)
-- [TimeHelper](TimeHelper.md)
+- None detected.
 
 ## Used By
 

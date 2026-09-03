@@ -1,10 +1,6 @@
 # RaycastTarget
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RaycastTarget`
+**Type:** Source File
 
 ## Main Reference
 

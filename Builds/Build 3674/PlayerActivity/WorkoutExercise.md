@@ -1,10 +1,6 @@
 # WorkoutExercise
 
-**Type:** Class
-
-**Declared Types:**
-
-- `WorkoutExercise`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,22 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [PlayerActivityBalanceConfig](PlayerActivityBalanceConfig.md)
-- [PlayerDefaults](../PlayerDefaults.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [WorkoutType](WorkoutType.md)
+- None detected.
 
 ## Used By
 
-- [IWorkoutMachine](../Controllers/IWorkoutMachine.md)
-- [WorkoutActivity](WorkoutActivity.md)
-- [WorkoutAnimatorController](WorkoutAnimatorController.md)
-- [WorkoutMachineController](../WorkoutMachineController.md)
-- [WorkoutMachineNpcSpawnerItem](../Controllers/WorkoutMachineNpcSpawnerItem.md)
-- [WorkoutMachineOutsideInteractableItem](../Controllers/WorkoutMachineOutsideInteractableItem.md)
-- [WorkoutMachineOutsideInteractableItemWithTimeline](../Controllers/WorkoutMachineOutsideInteractableItemWithTimeline.md)
-- [WorkoutVarietyCustomerDemand](../Entities/WorkoutVarietyCustomerDemand.md)
+- None detected.
 
 ## Notes
 

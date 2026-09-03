@@ -1,10 +1,6 @@
 # AddressableChecksHelper
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AddressableChecksHelper`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [AdManager](../AdManager.md)
-- [LogoHelper](../LogoHelper.md)
+- None detected.
 
 ## Notes
 

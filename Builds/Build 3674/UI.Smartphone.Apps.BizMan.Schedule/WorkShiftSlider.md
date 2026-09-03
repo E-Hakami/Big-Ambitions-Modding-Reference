@@ -1,10 +1,6 @@
 # WorkShiftSlider
 
-**Type:** Class
-
-**Declared Types:**
-
-- `WorkShiftSlider`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,27 +8,11 @@
 
 ## Uses
 
-- [AppName](../AppName.md)
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Employee](../Employee.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [EmployeeTooltip](../EmployeeTooltip.md)
-- [GlobalReferences](../GlobalReferences.md)
-- [IScheduleDemand](../Entities.Employee.JobDemands.Requirements/IScheduleDemand.md)
-- [JobDemand](../Entities.Employee.JobDemands/JobDemand.md)
-- [JobDemandHelper](../Entities.Employee.JobDemands/JobDemandHelper.md)
-- [MyEmployees](../UI.Smartphone.Apps.MyEmployees/MyEmployees.md)
-- [ScheduleHelper](ScheduleHelper.md)
-- [UIs](../UI/UIs.md)
-- [WorkShift](../WorkShift.md)
-- [WorkShiftDrag](WorkShiftDrag.md)
-- [WorkShiftHelper](WorkShiftHelper.md)
-- [WorkShiftSliderHandle](WorkShiftSliderHandle.md)
+- None detected.
 
 ## Used By
 
-- [ScheduleCellView](ScheduleCellView.md)
+- None detected.
 
 ## Notes
 

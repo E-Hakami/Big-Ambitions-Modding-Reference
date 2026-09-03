@@ -1,10 +1,6 @@
 # ScreenVideoController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ScreenVideoController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [GlobalReferences](GlobalReferences.md)
-- [VideoClipData](VideoClipData.md)
+- None detected.
 
 ## Used By
 
-- [ItemController](ItemController.md)
-- [VideoGameSetup](Controllers/VideoGameSetup.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # RadioStationClips
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RadioStationClips`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [RadioClip](../RadioClip.md)
-- [RadioStation](../RadioStation.md)
+- None detected.
 
 ## Used By
 
-- [GlobalReferences](../GlobalReferences.md)
-- [RadioPlayer](../RadioPlayer.md)
+- None detected.
 
 ## Notes
 

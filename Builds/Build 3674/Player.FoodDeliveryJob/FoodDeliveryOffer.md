@@ -1,10 +1,6 @@
 # FoodDeliveryOffer
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FoodDeliveryOffer`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [FoodDeliveryJobHelper](FoodDeliveryJobHelper.md)
-- [GameInstance](../GameInstance.md)
+- None detected.
 
 ## Notes
 

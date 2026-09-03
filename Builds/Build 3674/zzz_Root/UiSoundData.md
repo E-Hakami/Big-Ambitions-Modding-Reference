@@ -1,10 +1,6 @@
 # UiSoundData
 
-**Type:** Class
-
-**Declared Types:**
-
-- `UiSoundData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [UiSound](UiSound.md)
+- None detected.
 
 ## Used By
 
-- [UiSoundManager](UiSoundManager.md)
+- None detected.
 
 ## Notes
 

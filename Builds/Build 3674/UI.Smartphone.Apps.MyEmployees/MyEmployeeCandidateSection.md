@@ -1,10 +1,6 @@
 # MyEmployeeCandidateSection
 
-**Type:** Class
-
-**Declared Types:**
-
-- `MyEmployeeCandidateSection`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [CandidateInfo](../Entities/CandidateInfo.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [HeadhunterHelper](../Buildings.Office.Headquarters/HeadhunterHelper.md)
-- [MyEmployees](MyEmployees.md)
+- None detected.
 
 ## Used By
 
-- [MyEmployees](MyEmployees.md)
+- None detected.
 
 ## Notes
 

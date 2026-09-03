@@ -1,10 +1,6 @@
 # TimelineEntry
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TimelineEntry`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [DefensiveMechanic](DefensiveMechanic.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [SpecialRivalState](SpecialRivalState.md)
+- None detected.
 
 ## Used By
 
-- [RivalTimeline](RivalTimeline.md)
-- [SetRivalProgressCompatibility](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA05/SetRivalProgressCompatibility.md)
+- None detected.
 
 ## Notes
 

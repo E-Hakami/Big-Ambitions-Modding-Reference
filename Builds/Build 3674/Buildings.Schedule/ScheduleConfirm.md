@@ -1,10 +1,6 @@
 # ScheduleConfirm
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ScheduleConfirm`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [PlayerDefaults](../PlayerDefaults.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 
-- [BizManSchedule](../UI.Smartphone.Apps.BizMan.Schedule/BizManSchedule.md)
+- None detected.
 
 ## Notes
 

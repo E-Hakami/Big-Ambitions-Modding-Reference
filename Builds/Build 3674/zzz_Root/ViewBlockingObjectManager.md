@@ -1,10 +1,6 @@
 # ViewBlockingObjectManager
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ViewBlockingObjectManager`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,26 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [CityMap](CityMap.md)
-- [GameManager](GameManager.md)
-- [GlobalEvents](GlobalEvents.md)
-- [LoadScene](UI.Load/LoadScene.md)
-- [ParkingLaneGenerator](ParkingLaneGenerator.md)
-- [PurchaseVehicleUI](UI.PurchaseVehicle/PurchaseVehicleUI.md)
-- [ScreenshotController](ScreenshotController.md)
-- [SubwaySystem](SubwaySystem.md)
-- [UiFader](UI/UiFader.md)
-- [VehicleController](VehicleController.md)
-- [ViewBlockingEntity](ViewBlockingEntity.md)
-- [ViewBlockingEntityExtension](ViewBlockingEntityExtension.md)
+- None detected.
 
 ## Used By
 
-- [CityBuildingController](CityBuildingController.md)
-- [ParkingBuildingWithDifferentHeightsManager](ParkingBuildingWithDifferentHeightsManager.md)
-- [ViewBlockingEntity](ViewBlockingEntity.md)
+- None detected.
 
 ## Notes
 

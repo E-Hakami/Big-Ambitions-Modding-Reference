@@ -1,10 +1,6 @@
 # TogglePanel
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TogglePanel`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [BizManList](../UI.Smartphone.Apps.BizMan/BizManList.md)
-- [MarketInsider](../UI.Smartphone.Apps.MarketInsider/MarketInsider.md)
-- [MyEmployees](../UI.Smartphone.Apps.MyEmployees/MyEmployees.md)
-- [PricingManagersPlanList](../UI.Smartphone.Apps.BizMan.PricingManagers/PricingManagersPlanList.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # VehicleNavigationBlocker
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `VehicleNavigationBlocker`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,8 +12,7 @@
 
 ## Used By
 
-- [CarController](CarController.md)
-- [PlayerController](PlayerController.md)
+- None detected.
 
 ## Notes
 

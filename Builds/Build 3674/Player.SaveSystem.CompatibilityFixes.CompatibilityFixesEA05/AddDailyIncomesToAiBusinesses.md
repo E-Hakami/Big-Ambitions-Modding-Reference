@@ -1,10 +1,6 @@
 # AddDailyIncomesToAiBusinesses
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AddDailyIncomesToAiBusinesses`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingRegistration](../BuildingRegistration.md)
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
+- None detected.
 
 ## Used By
 
-- [FixRivalsNotInitiated](FixRivalsNotInitiated.md)
-- [UpdateGameInstanceToEA05](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA05.md)
+- None detected.
 
 ## Notes
 

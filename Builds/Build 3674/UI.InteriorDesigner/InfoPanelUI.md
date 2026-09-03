@@ -1,10 +1,6 @@
 # InfoPanelUI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `InfoPanelUI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [CostInfoPanelUI](CostInfoPanelUI.md)
-- [FoldingInfoPanelUI](FoldingInfoPanelUI.md)
-- [InteriorDesignerInfoPanelUI](InteriorDesignerInfoPanelUI.md)
-- [InteriorScoreInfoPanelUI](InteriorScoreInfoPanelUI.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # LoanEntryUi
 
-**Type:** Class
-
-**Declared Types:**
-
-- `LoanEntryUi`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,25 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingRegistration](BuildingRegistration.md)
-- [Colors](Colors.md)
-- [GameEvent](GameEvent.md)
-- [GameManager](GameManager.md)
-- [HudConfirm](HudConfirm.md)
-- [InputField](UI.Components/InputField.md)
-- [Loan](Loan.md)
-- [LoanHelper](Helpers/LoanHelper.md)
-- [Notification](UI.Notification/Notification.md)
-- [Notifications](UI.Notification/Notifications.md)
-- [SaveGameManager](SaveGameManager.md)
-- [TimeHelper](TimeHelper.md)
-- [TransactionInfo](TransactionInfo.md)
+- None detected.
 
 ## Used By
 
-- [EconoViewLoans](EconoViewLoans.md)
-- [TutorialPointerDataEconoViewLoanPaymentButton](Tutorial/TutorialPointerDataEconoViewLoanPaymentButton.md)
+- None detected.
 
 ## Notes
 

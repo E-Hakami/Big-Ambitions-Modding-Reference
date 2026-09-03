@@ -1,10 +1,6 @@
 # FixRivalsNotInitiated
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FixRivalsNotInitiated`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [AddDailyIncomesToAiBusinesses](AddDailyIncomesToAiBusinesses.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
-- [PopulateRivals](PopulateRivals.md)
-- [RivalsHelper](../BigAmbitions.Rivals/RivalsHelper.md)
-- [RivalState](../BigAmbitions.Rivals/RivalState.md)
-- [SpecialRivalState](../BigAmbitions.Rivals/SpecialRivalState.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA05](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA05.md)
+- None detected.
 
 ## Notes
 

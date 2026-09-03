@@ -1,10 +1,6 @@
 # IWorkoutMachine
 
-**Type:** Interface
-
-**Declared Types:**
-
-- `IWorkoutMachine`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [HandObjectData](HandObjectData.md)
-- [WorkoutExercise](../PlayerActivity/WorkoutExercise.md)
+- None detected.
 
 ## Used By
 
-- [WorkoutActivity](../PlayerActivity/WorkoutActivity.md)
-- [WorkoutAnimatorController](../PlayerActivity/WorkoutAnimatorController.md)
-- [WorkoutMachineController](../WorkoutMachineController.md)
-- [WorkoutMachineNpcSpawnerItem](WorkoutMachineNpcSpawnerItem.md)
-- [WorkoutMachineOutsideInteractableItem](WorkoutMachineOutsideInteractableItem.md)
+- None detected.
 
 ## Notes
 

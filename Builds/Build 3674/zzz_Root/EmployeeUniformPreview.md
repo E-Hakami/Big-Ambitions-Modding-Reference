@@ -1,10 +1,6 @@
 # EmployeeUniformPreview
 
-**Type:** Class
-
-**Declared Types:**
-
-- `EmployeeUniformPreview`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [AppearanceSetter](AppearanceSetter.md)
-- [CharacterZoom](CharacterZoom.md)
+- None detected.
 
 ## Used By
 
-- [GameManager](GameManager.md)
-- [PlasticSurgeryUI](Character.Customization/PlasticSurgeryUI.md)
+- None detected.
 
 ## Notes
 

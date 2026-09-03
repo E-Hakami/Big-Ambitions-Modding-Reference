@@ -1,10 +1,6 @@
 # SharedCharacterEmojiName
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SharedCharacterEmojiName`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,9 +12,7 @@
 
 ## Used By
 
-- [CustomerJoinQueue](CustomerJoinQueue.md)
-- [WanderAndLeave](WanderAndLeave.md)
-- [WarpAndLeave](WarpAndLeave.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # DialogActionType
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `DialogActionType`
+**Type:** Source File
 
 ## Main Reference
 

@@ -1,10 +1,6 @@
 # AmountSoldBreakdownTooltip
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AmountSoldBreakdownTooltip`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BasicTooltip](../BasicTooltip.md)
-- [BizMan](BizMan.md)
-- [TooltipSystem](../Tooltip/TooltipSystem.md)
+- None detected.
 
 ## Used By
 
-- [InventoryProductCellView](../InventoryProductCellView.md)
+- None detected.
 
 ## Notes
 

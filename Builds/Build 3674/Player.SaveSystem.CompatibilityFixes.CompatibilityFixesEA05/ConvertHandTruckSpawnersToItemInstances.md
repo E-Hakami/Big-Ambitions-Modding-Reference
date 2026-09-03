@@ -1,10 +1,6 @@
 # ConvertHandTruckSpawnersToItemInstances
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ConvertHandTruckSpawnersToItemInstances`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingManager](../BuildingManager.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BuildingSizeInfo](../Blueprints/BuildingSizeInfo.md)
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
-- [ItemHelper](../ItemHelper.md)
-- [VehicleSpawnerController](../VehicleSpawnerController.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA05](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA05.md)
+- None detected.
 
 ## Notes
 

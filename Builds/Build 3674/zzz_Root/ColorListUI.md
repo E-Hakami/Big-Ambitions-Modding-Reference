@@ -1,10 +1,6 @@
 # ColorListUI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ColorListUI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CustomColorPicker](CustomColorPicker.md)
-- [HudConfirm](HudConfirm.md)
-- [PlayerColor](PlayerColor.md)
-- [PlayerSettingsHelper](Helpers/PlayerSettingsHelper.md)
+- None detected.
 
 ## Used By
 
-- [ColorOverlay](BigAmbitions.InteriorDesigner/ColorOverlay.md)
-- [LogoCustomizer](UI.Smartphone.Apps.BizMan/LogoCustomizer.md)
-- [SignAppearance](SignAppearance.md)
+- None detected.
 
 ## Notes
 

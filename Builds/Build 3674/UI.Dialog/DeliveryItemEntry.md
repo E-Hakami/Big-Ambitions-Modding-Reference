@@ -1,10 +1,6 @@
 # DeliveryItemEntry
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DeliveryItemEntry`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [AmountSelector](../UI/AmountSelector.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Dialog](../Dialogs/Dialog.md)
-- [ItemsListEntry](../ItemsListEntry.md)
+- None detected.
 
 ## Used By
 
-- [DeliveryContractSettingsBase](DeliveryContractSettingsBase.md)
+- None detected.
 
 ## Notes
 

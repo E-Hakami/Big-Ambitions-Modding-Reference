@@ -1,10 +1,6 @@
 # PlayerSettingsData
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PlayerSettingsData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [DraggableWindowData](../UI.DraggableWindows/DraggableWindowData.md)
-- [DraggableWindows](../UI.DraggableWindows/DraggableWindows.md)
+- None detected.
 
 ## Used By
 
-- [PlayerSettingsHelper](PlayerSettingsHelper.md)
+- None detected.
 
 ## Notes
 

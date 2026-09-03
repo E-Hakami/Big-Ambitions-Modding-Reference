@@ -1,10 +1,6 @@
 # BlueprintCategory
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `BlueprintCategory`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [Feedback](../UI.Smartphone.Apps.Feedback/Feedback.md)
+- None detected.
 
 ## Used By
 
-- [BlueprintFilterUI](BlueprintFilterUI.md)
-- [BlueprintsListUI](BlueprintsListUI.md)
-- [BlueprintsPanel](BlueprintsPanel.md)
-- [EnumHelpers](../EnumHelpers.md)
-- [LocalizationHelper](../Helpers/LocalizationHelper.md)
-- [MainMenuController](../MainMenuController.md)
+- None detected.
 
 ## Notes
 

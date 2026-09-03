@@ -1,10 +1,6 @@
 # SignType
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `SignType`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,11 +12,7 @@
 
 ## Used By
 
-- [BuildingSignController](../BuildingSignController.md)
-- [EnumHelpers](../EnumHelpers.md)
-- [SignAppearance](../SignAppearance.md)
-- [SignAppearanceSettings](../SignAppearanceSettings.md)
-- [WideSignType](../Buildings.Outdoors/WideSignType.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # FerrisWheelCabin
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FerrisWheelCabin`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CarnivalPedestrian](../CarnivalPedestrian.md)
+- None detected.
 
 ## Used By
 
-- [FerrisWheel](FerrisWheel.md)
-- [FerrisWheelViewBlockingEntity](FerrisWheelViewBlockingEntity.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # HasLogisticsManagerDestination
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasLogisticsManagerDestination`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BusinessTypeHelper](../Helpers/BusinessTypeHelper.md)
-- [LogisticsManagerPlan](../Buildings.Office.Headquarters/LogisticsManagerPlan.md)
-- [LogisticsManagerPlanDestination](../Entities/LogisticsManagerPlanDestination.md)
-- [QuestEntryTarget](QuestEntryTarget.md)
-- [QuestRequirement](QuestRequirement.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 

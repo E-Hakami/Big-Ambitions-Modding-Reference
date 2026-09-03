@@ -1,10 +1,6 @@
 # NegotiationOptions
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `NegotiationOptions`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,10 +12,7 @@
 
 ## Used By
 
-- [CandidateSalaryNegotiationDialog](../AI.Employees.SalaryNegotiation/CandidateSalaryNegotiationDialog.md)
-- [CandidateSalaryNegotiator](../AI.Employees.SalaryNegotiation/CandidateSalaryNegotiator.md)
-- [HealthInsuranceNegotiationDialog](../Dialogs/HealthInsuranceNegotiationDialog.md)
-- [Negotiator](Negotiator.md)
+- None detected.
 
 ## Notes
 

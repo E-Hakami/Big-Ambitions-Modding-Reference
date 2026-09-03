@@ -1,10 +1,6 @@
 # RotateButton
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RotateButton`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Rotate](Rotate.md)
+- None detected.
 
 ## Used By
 

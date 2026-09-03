@@ -1,10 +1,6 @@
 # GenericPersonalGoal
 
-**Type:** Class
-
-**Declared Types:**
-
-- `GenericPersonalGoal`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,30 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [DraggableWindows](UI.DraggableWindows/DraggableWindows.md)
-- [Floor](Parking.UndergroundParking/Floor.md)
-- [HappinessHelper](Helpers/HappinessHelper.md)
-- [PersonalGoalOverlay](PersonalGoalOverlay.md)
-- [Reward](Reward.md)
-- [SaveGameManager](SaveGameManager.md)
+- None detected.
 
 ## Used By
 
-- [BuildingManager](BuildingManager.md)
-- [CityBuildingController](CityBuildingController.md)
-- [DestroyedSandCastleGoal](Player.PersonalGoals/DestroyedSandCastleGoal.md)
-- [FloatBaseGoal](FloatBaseGoal.md)
-- [ForceUpdatePersonalGoals](Player.SaveSystem.CompatibilityFixes.CompatibilityFixes1/ForceUpdatePersonalGoals.md)
-- [GameManager](GameManager.md)
-- [GolfCartHitGoal](Player.PersonalGoals/GolfCartHitGoal.md)
-- [IntBaseGoal](IntBaseGoal.md)
-- [OwnSpecialRivalHomeGoal](Player.PersonalGoals/OwnSpecialRivalHomeGoal.md)
-- [PersonalGoalEntry](UI.Smartphone.Apps.Persona/PersonalGoalEntry.md)
-- [PersonalGoalOverlay](PersonalGoalOverlay.md)
-- [PersonalGoalProgressBoxData](UI.Smartphone.Apps.Persona/PersonalGoalProgressBoxData.md)
-- [PersonalGoalsUI](UI.Smartphone.Apps.Persona/PersonalGoalsUI.md)
-- [PersonalGoalTierGroup](UI.Smartphone.Apps.Persona/PersonalGoalTierGroup.md)
+- None detected.
 
 ## Notes
 

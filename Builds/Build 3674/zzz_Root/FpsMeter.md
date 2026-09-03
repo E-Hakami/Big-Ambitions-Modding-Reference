@@ -1,10 +1,6 @@
 # FpsMeter
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FpsMeter`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [PlayerPrefSettings](PlayerPrefSettings.md)
+- None detected.
 
 ## Used By
 
-- [Options](Scenes.MainMenu/Options.md)
+- None detected.
 
 ## Notes
 

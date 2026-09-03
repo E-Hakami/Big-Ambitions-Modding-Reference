@@ -1,10 +1,6 @@
 # DJBoothMusicPlayer
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DJBoothMusicPlayer`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [GameManager](GameManager.md)
-- [GlobalReferences](GlobalReferences.md)
-- [LoudspeakerController](LoudspeakerController.md)
-- [LoudSpeakersManager](Player.Sound.Radio/LoudSpeakersManager.md)
-- [PlayerHelper](Helpers/PlayerHelper.md)
-- [UIs](UI/UIs.md)
+- None detected.
 
 ## Used By
 
-- [EntertainActivity](PlayerActivity/EntertainActivity.md)
+- None detected.
 
 ## Notes
 

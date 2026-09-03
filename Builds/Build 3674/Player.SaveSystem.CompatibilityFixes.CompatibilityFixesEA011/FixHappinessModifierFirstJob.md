@@ -1,10 +1,6 @@
 # FixHappinessModifierFirstJob
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FixHappinessModifierFirstJob`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [GameInstance](../GameInstance.md)
-- [HappinessModifierData](../Helpers/HappinessModifierData.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA011](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA011.md)
+- None detected.
 
 ## Notes
 

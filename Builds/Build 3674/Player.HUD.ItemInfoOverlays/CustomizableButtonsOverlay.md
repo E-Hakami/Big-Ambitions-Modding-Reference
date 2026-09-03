@@ -1,10 +1,6 @@
 # CustomizableButtonsOverlay
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CustomizableButtonsOverlay`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,26 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [ComputerController](../ComputerController.md)
-- [EntityController](../EntityController.md)
-- [GolfPlatformController](../Items.SpecialItems/GolfPlatformController.md)
-- [IOverlay](IOverlay.md)
-- [IsPlayerOwnedBusiness](../IsPlayerOwnedBusiness.md)
-- [ItemHelper](../ItemHelper.md)
-- [Notification](../UI.Notification/Notification.md)
-- [Notifications](../UI.Notification/Notifications.md)
-- [OverlayManager](OverlayManager.md)
-- [PlayerActivityUI](../PlayerActivity/PlayerActivityUI.md)
-- [TennisCourt](../PlayerActivity.Tennis/TennisCourt.md)
-- [TennisInteractionNpc](../PlayerActivity.Tennis/TennisInteractionNpc.md)
-- [UIs](../UI/UIs.md)
-- [UniformLockerController](../UniformLockerController.md)
+- None detected.
 
 ## Used By
 
-- [OverlayHelper](OverlayHelper.md)
+- None detected.
 
 ## Notes
 

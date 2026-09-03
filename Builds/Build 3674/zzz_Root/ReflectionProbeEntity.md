@@ -1,10 +1,6 @@
 # ReflectionProbeEntity
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ReflectionProbeEntity`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [ReflectionProbesController](ReflectionProbesController.md)
+- None detected.
 
 ## Used By
 
-- [ReflectionProbesController](ReflectionProbesController.md)
+- None detected.
 
 ## Notes
 

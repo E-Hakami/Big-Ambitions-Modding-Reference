@@ -1,10 +1,6 @@
 # SlotMachineSoundsPlayer
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SlotMachineSoundsPlayer`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [PlaySlotMachineSounds](PlaySlotMachineSounds.md)
-- [SfxManager](SfxManager.md)
-- [SlotMachineController](SlotMachineController.md)
+- None detected.
 
 ## Used By
 
-- [SlotMachineController](SlotMachineController.md)
+- None detected.
 
 ## Notes
 

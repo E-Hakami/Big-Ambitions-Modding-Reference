@@ -1,10 +1,6 @@
 # ChartController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ChartController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [BizManInsight](../UI.Smartphone.Apps.BizMan/BizManInsight.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [ChartFilterEntry](ChartFilterEntry.md)
-- [FilterOption](FilterOption.md)
-- [SelectedRivalUI](../UI.Smartphone.Apps.Rivals/SelectedRivalUI.md)
+- None detected.
 
 ## Used By
 
-- [BizManInsight](../UI.Smartphone.Apps.BizMan/BizManInsight.md)
-- [SelectedRivalUI](../UI.Smartphone.Apps.Rivals/SelectedRivalUI.md)
+- None detected.
 
 ## Notes
 

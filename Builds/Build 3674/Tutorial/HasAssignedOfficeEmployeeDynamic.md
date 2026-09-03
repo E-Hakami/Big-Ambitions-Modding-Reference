@@ -1,10 +1,6 @@
 # HasAssignedOfficeEmployeeDynamic
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasAssignedOfficeEmployeeDynamic`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BusinessTypeHelper](../Helpers/BusinessTypeHelper.md)
-- [CustomBuildingTarget](CustomBuildingTarget.md)
-- [EmployeeHelper](../Helpers/EmployeeHelper.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [QuestRequirement](QuestRequirement.md)
-- [ScheduleDay](../ScheduleDay.md)
-- [WorkShift](../WorkShift.md)
+- None detected.
 
 ## Used By
 

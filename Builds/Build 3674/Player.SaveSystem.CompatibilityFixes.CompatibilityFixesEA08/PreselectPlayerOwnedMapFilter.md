@@ -1,10 +1,6 @@
 # PreselectPlayerOwnedMapFilter
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PreselectPlayerOwnedMapFilter`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA08](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA08.md)
+- None detected.
 
 ## Notes
 

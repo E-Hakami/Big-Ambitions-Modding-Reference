@@ -1,10 +1,6 @@
 # CarnivalPedestrian
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CarnivalPedestrian`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,23 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [ICarnivalNpcItem](Controllers/ICarnivalNpcItem.md)
-- [ThirdPersonCharacter](ThirdPersonCharacter.md)
+- None detected.
 
 ## Used By
 
-- [Attraction](Controllers/Attraction.md)
-- [AttractionStateManager](AttractionStateManager.md)
-- [AttractionViewBlockingEntity](Controllers/AttractionViewBlockingEntity.md)
-- [BigStrikers](Controllers/BigStrikers.md)
-- [BigStrikersUnit](Controllers/BigStrikersUnit.md)
-- [CarnivalPedestrianPool](CarnivalPedestrianPool.md)
-- [FerrisWheel](Controllers/FerrisWheel.md)
-- [FerrisWheelCabin](Controllers/FerrisWheelCabin.md)
-- [FerrisWheelViewBlockingEntity](Controllers/FerrisWheelViewBlockingEntity.md)
-- [ICarnivalNpcItem](Controllers/ICarnivalNpcItem.md)
-- [PedestrianSpawnerForCarnival](Entities/PedestrianSpawnerForCarnival.md)
+- None detected.
 
 ## Notes
 

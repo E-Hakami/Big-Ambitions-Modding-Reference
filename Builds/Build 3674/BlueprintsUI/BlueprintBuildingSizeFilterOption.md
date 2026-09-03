@@ -1,10 +1,6 @@
 # BlueprintBuildingSizeFilterOption
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BlueprintBuildingSizeFilterOption`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BlueprintFilterOption](BlueprintFilterOption.md)
-- [BuildingSizeInfo](../Blueprints/BuildingSizeInfo.md)
+- None detected.
 
 ## Used By
 
-- [BlueprintFilterHelper](BlueprintFilterHelper.md)
+- None detected.
 
 ## Notes
 

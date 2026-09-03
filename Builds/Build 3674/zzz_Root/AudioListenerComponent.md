@@ -1,10 +1,6 @@
 # AudioListenerComponent
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AudioListenerComponent`
+**Type:** Source File
 
 ## Main Reference
 

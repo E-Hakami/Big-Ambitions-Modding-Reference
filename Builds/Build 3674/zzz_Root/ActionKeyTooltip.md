@@ -1,10 +1,6 @@
 # ActionKeyTooltip
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ActionKeyTooltip`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [TooltipSystem](Tooltip/TooltipSystem.md)
-- [TooltipTarget](TooltipTarget.md)
+- None detected.
 
 ## Used By
 

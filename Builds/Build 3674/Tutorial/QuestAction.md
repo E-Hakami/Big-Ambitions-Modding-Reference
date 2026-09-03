@@ -1,10 +1,6 @@
 # QuestAction
 
-**Type:** Class
-
-**Declared Types:**
-
-- `QuestAction`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,13 +12,7 @@
 
 ## Used By
 
-- [ChangeHappinessModifier](../UI.Tutorial/ChangeHappinessModifier.md)
-- [PlaceVehicleAtPosition](../UI.Tutorial/PlaceVehicleAtPosition.md)
-- [Quest](Quest.md)
-- [QuestActionCompleteObjectives](../Tutorial.Tutorial2GetSomeFood/QuestActionCompleteObjectives.md)
-- [QuestActionHypeRandomWholesaleProducts](../UI.Tutorial/QuestActionHypeRandomWholesaleProducts.md)
-- [QuestEntry](QuestEntry.md)
-- [TutorialHelper](../Helpers/TutorialHelper.md)
+- None detected.
 
 ## Notes
 

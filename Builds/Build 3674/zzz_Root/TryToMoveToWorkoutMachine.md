@@ -1,10 +1,6 @@
 # TryToMoveToWorkoutMachine
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TryToMoveToWorkoutMachine`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CharacterMoveToPosition](CharacterMoveToPosition.md)
-- [CustomerTimeState](CustomerTimeState.md)
-- [SharedCustomer](SharedCustomer.md)
-- [SharedItemController](SharedItemController.md)
+- None detected.
 
 ## Used By
 

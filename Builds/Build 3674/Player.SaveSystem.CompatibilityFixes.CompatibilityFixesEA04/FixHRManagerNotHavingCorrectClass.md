@@ -1,10 +1,6 @@
 # FixHRManagerNotHavingCorrectClass
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FixHRManagerNotHavingCorrectClass`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [GameInstance](../GameInstance.md)
-- [HRManager](../Entities/HRManager.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA04](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA04.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # RivalData
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RivalData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,22 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [Gender](../Character.Customization/Gender.md)
+- None detected.
 
 ## Used By
 
-- [BalanceToolsHelper](../BalanceToolsHelper.md)
-- [CityGenerator](../Helpers/CityGenerator.md)
-- [CityMapFilters](../CityMapFilters.md)
-- [Complaint](../AI.Employees/Complaint.md)
-- [RivalLeaderboard](../UI.Smartphone.Apps.Rivals/RivalLeaderboard.md)
-- [RivalPortraitHelper](RivalPortraitHelper.md)
-- [RivalsHelper](RivalsHelper.md)
-- [RivalTimeline](RivalTimeline.md)
-- [SelectedRivalUI](../UI.Smartphone.Apps.Rivals/SelectedRivalUI.md)
-- [SpecialRival](SpecialRival.md)
+- None detected.
 
 ## Notes
 

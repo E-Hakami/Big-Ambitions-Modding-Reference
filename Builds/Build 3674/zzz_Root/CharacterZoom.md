@@ -1,10 +1,6 @@
 # CharacterZoom
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CharacterZoom`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [GameManager](GameManager.md)
-- [UiHoverTarget](Character.Customization/UiHoverTarget.md)
+- None detected.
 
 ## Used By
 
-- [EmployeePresetCustomizer](UI/EmployeePresetCustomizer.md)
-- [EmployeeUniformPreview](EmployeeUniformPreview.md)
-- [IntroCharacterCustomizer](Intro/IntroCharacterCustomizer.md)
-- [PlasticSurgeryUI](Character.Customization/PlasticSurgeryUI.md)
+- None detected.
 
 ## Notes
 

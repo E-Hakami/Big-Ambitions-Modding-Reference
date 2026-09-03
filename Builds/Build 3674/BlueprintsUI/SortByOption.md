@@ -1,10 +1,6 @@
 # SortByOption
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `SortByOption`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [Rating](../UI.Elements/Rating.md)
+- None detected.
 
 ## Used By
 
-- [BlueprintFilterUI](BlueprintFilterUI.md)
-- [BlueprintSortInfo](BlueprintSortInfo.md)
-- [EnumHelpers](../EnumHelpers.md)
-- [LocalizationHelper](../Helpers/LocalizationHelper.md)
-- [SteamWorkshopBlueprint](../Steam/SteamWorkshopBlueprint.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # NegotiationOffer
 
-**Type:** Class
-
-**Declared Types:**
-
-- `NegotiationOffer`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [HealthInsurancePlanOffer](HealthInsurancePlanOffer.md)
-- [Negotiator](Negotiator.md)
+- None detected.
 
 ## Notes
 

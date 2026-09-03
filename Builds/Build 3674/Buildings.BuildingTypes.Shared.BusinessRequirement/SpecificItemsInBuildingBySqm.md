@@ -1,10 +1,6 @@
 # SpecificItemsInBuildingBySqm
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SpecificItemsInBuildingBySqm`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BuildingSizeHelper](../Buildings/BuildingSizeHelper.md)
-- [BusinessRequirement](BusinessRequirement.md)
-- [SpecificItemsInBuilding](SpecificItemsInBuilding.md)
-- [TodoTaskType](../Entities/TodoTaskType.md)
+- None detected.
 
 ## Used By
 
-- [AddRequiredBathroomItemsAndChangingRoomsToDeliverySpots](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA08/AddRequiredBathroomItemsAndChangingRoomsToDeliverySpots.md)
-- [BizManBusiness](../BizManBusiness.md)
-- [TasksUI](../UI.Tasks/TasksUI.md)
+- None detected.
 
 ## Notes
 

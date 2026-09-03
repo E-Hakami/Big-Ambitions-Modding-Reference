@@ -1,10 +1,6 @@
 # DeliveryJobStartLocation
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DeliveryJobStartLocation`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [DeliveryJobTipsConfig](DeliveryJobTipsConfig.md)
-- [DraggableWindows](../UI.DraggableWindows/DraggableWindows.md)
-- [VehicleColor](../Data.VehicleColors/VehicleColor.md)
+- None detected.
 
 ## Used By
 
-- [Building](../Buildings/Building.md)
-- [DeliveryDriverMission](../Player.PlayerMissions/DeliveryDriverMission.md)
-- [DeliveryJobHelper](DeliveryJobHelper.md)
-- [DeliveryJobStartController](DeliveryJobStartController.md)
-- [ParkingLaneGenerator](../ParkingLaneGenerator.md)
+- None detected.
 
 ## Notes
 

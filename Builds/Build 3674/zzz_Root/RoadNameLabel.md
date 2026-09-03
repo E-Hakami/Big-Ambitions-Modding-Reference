@@ -1,10 +1,6 @@
 # RoadNameLabel
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RoadNameLabel`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [AddressHelper](Streets/AddressHelper.md)
-- [Road](Road.md)
+- None detected.
 
 ## Used By
 

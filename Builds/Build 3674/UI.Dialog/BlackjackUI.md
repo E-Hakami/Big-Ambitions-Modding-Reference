@@ -1,10 +1,6 @@
 # BlackjackUI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BlackjackUI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Card](Card.md)
-- [CasinoGameController](../CasinoGameController.md)
-- [Dialog](../Dialogs/Dialog.md)
-- [GameManager](../GameManager.md)
-- [SfxManager](../SfxManager.md)
-- [TransactionInfo](../TransactionInfo.md)
+- None detected.
 
 ## Used By
 
-- [BlackjackDialog](../Dialogs/BlackjackDialog.md)
+- None detected.
 
 ## Notes
 

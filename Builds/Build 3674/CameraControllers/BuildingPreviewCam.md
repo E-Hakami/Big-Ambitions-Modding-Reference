@@ -1,10 +1,6 @@
 # BuildingPreviewCam
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BuildingPreviewCam`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingPreview](../UI/BuildingPreview.md)
-- [LoadScene](../UI.Load/LoadScene.md)
-- [PedestrianCam](PedestrianCam.md)
+- None detected.
 
 ## Used By
 
-- [BlueprintCreatorCamera](../BigAmbitions.BlueprintCreator/BlueprintCreatorCamera.md)
-- [BuildingPreview](../UI/BuildingPreview.md)
+- None detected.
 
 ## Notes
 

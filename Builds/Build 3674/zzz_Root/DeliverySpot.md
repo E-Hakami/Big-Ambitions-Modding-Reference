@@ -1,10 +1,6 @@
 # DeliverySpot
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DeliverySpot`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,20 +8,11 @@
 
 ## Uses
 
-- [BuildingContext](BuildingContext.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingRegistration](BuildingRegistration.md)
-- [GameManager](GameManager.md)
-- [ShelfController](ShelfController.md)
-- [UIs](UI/UIs.md)
+- None detected.
 
 ## Used By
 
-- [FurnitureDeliveryHelper](Buildings.BuildingTypes.Special.FurnitureStore/FurnitureDeliveryHelper.md)
-- [Producer](Producer.md)
-- [SecurityOverlay](Player.HUD.ItemInfoOverlays/SecurityOverlay.md)
-- [ShelfCtaBehavior](Player.HUD.ItemInfoOverlays/ShelfCtaBehavior.md)
-- [StockOverlay](Player.HUD.ItemInfoOverlays/StockOverlay.md)
+- None detected.
 
 ## Notes
 

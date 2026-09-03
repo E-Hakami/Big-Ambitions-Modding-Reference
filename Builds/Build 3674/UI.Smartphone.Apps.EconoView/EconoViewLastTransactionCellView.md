@@ -1,10 +1,6 @@
 # EconoViewLastTransactionCellView
 
-**Type:** Class
-
-**Declared Types:**
-
-- `EconoViewLastTransactionCellView`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BaTable](../BaTable/BaTable.md)
-- [BaTableCellView](../BaTable/BaTableCellView.md)
-- [EconoView](EconoView.md)
-- [EconoViewLastTransactionModel](EconoViewLastTransactionModel.md)
-- [GlobalReferences](../GlobalReferences.md)
+- None detected.
 
 ## Used By
 
-- [EconoViewLastTransactionsScrollerController](EconoViewLastTransactionsScrollerController.md)
+- None detected.
 
 ## Notes
 

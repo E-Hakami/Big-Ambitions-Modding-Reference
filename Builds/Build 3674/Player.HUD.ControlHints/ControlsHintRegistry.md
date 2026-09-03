@@ -1,10 +1,6 @@
 # ControlsHintRegistry
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ControlsHintRegistry`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [IControlsHintProvider](IControlsHintProvider.md)
+- None detected.
 
 ## Used By
 
-- [ConfigurableControlsHintProvider](ConfigurableControlsHintProvider.md)
-- [ControlsHintController](ControlsHintController.md)
-- [ControlsHintsUIController](ControlsHintsUIController.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # SetUpUniformsWindow
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SetUpUniformsWindow`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,22 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [BuildingRegistration](BuildingRegistration.md)
-- [BuildingTypeHelper](Buildings/BuildingTypeHelper.md)
-- [BusinessTypeHelper](Helpers/BusinessTypeHelper.md)
-- [CustomerDemandHelper](Entities/CustomerDemandHelper.md)
-- [Dropdown](UI.Elements/Dropdown.md)
-- [EmployeePreset](EmployeePreset.md)
-- [GameEvent](GameEvent.md)
-- [Gender](Character.Customization/Gender.md)
-- [SaveGameManager](SaveGameManager.md)
-- [UIs](UI/UIs.md)
+- None detected.
 
 ## Used By
 
-- [BizManSettings](BizManSettings.md)
+- None detected.
 
 ## Notes
 

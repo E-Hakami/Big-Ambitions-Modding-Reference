@@ -1,10 +1,6 @@
 # SliderWithHeader
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SliderWithHeader`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,7 +12,7 @@
 
 ## Used By
 
-- [AppearanceBlendshapeOptions](AppearanceBlendshapeOptions.md)
+- None detected.
 
 ## Notes
 

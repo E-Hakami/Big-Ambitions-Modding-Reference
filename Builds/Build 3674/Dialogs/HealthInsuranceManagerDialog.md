@@ -1,10 +1,6 @@
 # HealthInsuranceManagerDialog
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HealthInsuranceManagerDialog`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,25 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Dialog](Dialog.md)
-- [DialogController](../DialogController.md)
-- [DialogEntry](../Entities/DialogEntry.md)
-- [DialogType](DialogType.md)
-- [GameEvent](../GameEvent.md)
-- [HealthInsurancePartnershipSettings](../UI.Dialog/HealthInsurancePartnershipSettings.md)
-- [HealthInsurancePlanOffer](../Entities/HealthInsurancePlanOffer.md)
-- [HrManagerPlan](../Buildings.Office.Headquarters/HrManagerPlan.md)
-- [Notification](../UI.Notification/Notification.md)
-- [Notifications](../UI.Notification/Notifications.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [TextMessage](../Entities/TextMessage.md)
+- None detected.
 
 ## Used By
 
-- [CallDialogFactory](CallDialogFactory.md)
-- [CallDialogType](CallDialogType.md)
-- [ContactsApp](../UI.Smartphone.Apps.Contacts/ContactsApp.md)
+- None detected.
 
 ## Notes
 

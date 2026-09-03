@@ -1,10 +1,6 @@
 # TextInputOverlay
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TextInputOverlay`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [EntityController](../EntityController.md)
-- [IOverlay](IOverlay.md)
-- [ItemWithTextController](../Controllers/ItemWithTextController.md)
+- None detected.
 
 ## Used By
 
-- [OverlayHelper](OverlayHelper.md)
+- None detected.
 
 ## Notes
 

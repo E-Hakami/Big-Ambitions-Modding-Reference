@@ -1,10 +1,6 @@
 # VehicleInstance
 
-**Type:** Class
-
-**Declared Types:**
-
-- `VehicleInstance`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,106 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [ItemHelper](ItemHelper.md)
-- [Notification](UI.Notification/Notification.md)
-- [Notifications](UI.Notification/Notifications.md)
-- [NotificationType](UI.Notification/NotificationType.md)
-- [ParkingState](Helpers/ParkingState.md)
-- [VehicleDeformationController](VehicleDeformationController.md)
-- [VehicleSlot](Entities/VehicleSlot.md)
-- [VehicleType](Vehicles.VehicleTypes/VehicleType.md)
-- [VehicleTypeHelper](Vehicles.VehicleTypes/VehicleTypeHelper.md)
-- [Warehouse](Entities/Warehouse.md)
+- None detected.
 
 ## Used By
 
-- [AutoDestroyVehicle](AutoDestroyVehicle.md)
-- [AutoTowServiceDialog](Dialogs/AutoTowServiceDialog.md)
-- [BedController](BedController.md)
-- [BizManPresentation](BizManPresentation.md)
-- [BuildingEntranceOverlay](UI.Overlays/BuildingEntranceOverlay.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BusinessEmployeeController](BusinessEmployeeController.md)
-- [CarController](CarController.md)
-- [CargoItemUi](UI.PlayerHUD/CargoItemUi.md)
-- [CashRegisterController](Controllers/CashRegisterController.md)
-- [CityManager](CityManager.md)
-- [CompatibilityItemValidator](Player.SaveSystem.CompatibilityFixes/CompatibilityItemValidator.md)
-- [ContractVehicleForSale](Buildings/ContractVehicleForSale.md)
-- [CurrentBuildingUI](UI.CurrentBuilding/CurrentBuildingUI.md)
-- [DecorativeItemHolderController](DecorativeItemHolderController.md)
-- [DecorativeItemHolderCtaBehavior](Player.HUD.ItemInfoOverlays/DecorativeItemHolderCtaBehavior.md)
-- [DecorativeItemHolderOverlay](Player.HUD.ItemInfoOverlays/DecorativeItemHolderOverlay.md)
-- [DeliveryJobUI](Vehicles.DeliveryDriverJob/DeliveryJobUI.md)
-- [DeliveryVehicleInstance](Vehicles.DeliveryDriverJob/DeliveryVehicleInstance.md)
-- [Drivers](UI.Smartphone.Apps.BizMan.Warehouse/Drivers.md)
-- [DriverStation](UI.Smartphone.Apps.BizMan.Warehouse/DriverStation.md)
-- [EmployeeInstance](Entities/EmployeeInstance.md)
-- [EmployeeStationController](EmployeeStationController.md)
-- [FixDrivingRemovedForklift](Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA07/FixDrivingRemovedForklift.md)
-- [FixDuplicatedVehicleSlots](Player.SaveSystem.CompatibilityFixes/FixDuplicatedVehicleSlots.md)
-- [FixVehiclesFalling](Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA03/FixVehiclesFalling.md)
-- [FixWarehouseSlotMismatch](Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA011/FixWarehouseSlotMismatch.md)
-- [FridgeController](FridgeController.md)
-- [GameInstance](GameInstance.md)
-- [GameManager](GameManager.md)
-- [GasStationOverlay](UI.Overlays/GasStationOverlay.md)
-- [HairdresserChairController](Controllers/HairdresserChairController.md)
-- [HasAssignedVehicleToWarehouse](Tutorial/HasAssignedVehicleToWarehouse.md)
-- [HasPurchasedDynamicItems](Tutorial/HasPurchasedDynamicItems.md)
-- [HasPurchasedItem](Tutorial/HasPurchasedItem.md)
-- [HasPurchasedVehicle](Tutorial/HasPurchasedVehicle.md)
-- [IRSStationController](Controllers/IRSStationController.md)
-- [IsDrivingCar](Tutorial/IsDrivingCar.md)
-- [ItemHelper](ItemHelper.md)
-- [ManageCtaBehavior](Player.HUD.ItemInfoOverlays/ManageCtaBehavior.md)
-- [MovingServiceDialog](Dialogs/MovingServiceDialog.md)
-- [MovingServiceHelper](Buildings.BuildingTypes.Special.MovingCompany/MovingServiceHelper.md)
-- [OverlayManager](Player.HUD.ItemInfoOverlays/OverlayManager.md)
-- [ParkingSimulator](Helpers/ParkingSimulator.md)
-- [PlaceVehicleAtPosition](UI.Tutorial/PlaceVehicleAtPosition.md)
-- [PlayerHelper](Helpers/PlayerHelper.md)
-- [PlayerItemPurchaser](Controllers/PlayerItemPurchaser.md)
-- [PrivateDriverGarageTrigger](Buildings.BuildingTypes.Special.PrivateDriverService/PrivateDriverGarageTrigger.md)
-- [PrivateDriverHelpers](Helpers/PrivateDriverHelpers.md)
-- [PrivateDriverServiceDialog](Buildings/PrivateDriverServiceDialog.md)
-- [PrivateDriverVehicle](Helpers/PrivateDriverVehicle.md)
-- [PrivateDriverVehicleList](Buildings.BuildingTypes.Special.PrivateDriverService/PrivateDriverVehicleList.md)
-- [PrivateDriverVehicleListEntry](Buildings.BuildingTypes.Special.PrivateDriverService/PrivateDriverVehicleListEntry.md)
-- [PurchaseUI](UI.Purchase/PurchaseUI.md)
-- [RemoveForkliftsFromSavedVehicles](Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA06/RemoveForkliftsFromSavedVehicles.md)
-- [RescueMissingVehiclesWithWrongAddress](Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA04/RescueMissingVehiclesWithWrongAddress.md)
-- [RescueVehiclesInOldIkaParking](Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA07/RescueVehiclesInOldIkaParking.md)
-- [RescueVehiclesOnRoofTopsAndPark](Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA08/RescueVehiclesOnRoofTopsAndPark.md)
-- [RescueVehiclesUnderStockCo](Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA010/RescueVehiclesUnderStockCo.md)
-- [ResetVehicleInstanceDeformations](Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA03/ResetVehicleInstanceDeformations.md)
-- [ReStockingHelper](ReStockingHelper.md)
-- [SaveGameManager](SaveGameManager.md)
-- [SellerStandCtaBehavior](Player.HUD.ItemInfoOverlays/SellerStandCtaBehavior.md)
-- [SetUpVehicleDeformationRandomness](Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA02/SetUpVehicleDeformationRandomness.md)
-- [ShelfCtaBehavior](Player.HUD.ItemInfoOverlays/ShelfCtaBehavior.md)
-- [ShowcaseVehicleController](Controllers/ShowcaseVehicleController.md)
-- [SmartphonePrivateDriverUI](Player.HUD.SmartphoneUI/SmartphonePrivateDriverUI.md)
-- [SmartphonePrivateDriverUiButton](Player.HUD.SmartphoneUI/SmartphonePrivateDriverUiButton.md)
-- [SmartphoneUI](SmartphoneUI.md)
-- [TaxHelper](Helpers/TaxHelper.md)
-- [TaxiCtaBehavior](Player.HUD.ItemInfoOverlays/TaxiCtaBehavior.md)
-- [TicketBoothController](Controllers/TicketBoothController.md)
-- [UndergroundParkingEntrance](Parking.UndergroundParking/UndergroundParkingEntrance.md)
-- [UpdateItemInstancesToNewSystem](Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA08/UpdateItemInstancesToNewSystem.md)
-- [UpdateSixthAndSeventhStreetAddresses](Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA09/UpdateSixthAndSeventhStreetAddresses.md)
-- [VehicleController](VehicleController.md)
-- [VehicleCtaBehavior](Player.HUD.ItemInfoOverlays/VehicleCtaBehavior.md)
-- [VehicleDeliveryHelper](Vehicles/VehicleDeliveryHelper.md)
-- [VehicleGoal](VehicleGoal.md)
-- [VehicleHelper](Helpers/VehicleHelper.md)
-- [VehicleOverlay](Player.HUD.ItemInfoOverlays/VehicleOverlay.md)
-- [VehicleSlot](Entities/VehicleSlot.md)
-- [VehicleSpawnerController](VehicleSpawnerController.md)
-- [VehicleTarget](Tutorial/VehicleTarget.md)
-- [Warehouse](Entities/Warehouse.md)
-- [WarehouseList](UI.Smartphone.Apps.BizMan/WarehouseList.md)
+- None detected.
 
 ## Notes
 

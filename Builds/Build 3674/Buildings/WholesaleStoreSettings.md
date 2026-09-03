@@ -1,10 +1,6 @@
 # WholesaleStoreSettings
 
-**Type:** Class
-
-**Declared Types:**
-
-- `WholesaleStoreSettings`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [SpecialServiceSettings](SpecialServiceSettings.md)
+- None detected.
 
 ## Used By
 
-- [DeliveryContractSettings](../UI.Dialog/DeliveryContractSettings.md)
-- [PlayerItemPurchaser](../Controllers/PlayerItemPurchaser.md)
-- [WholesaleStoreManagerDialog](../Dialogs/WholesaleStoreManagerDialog.md)
+- None detected.
 
 ## Notes
 

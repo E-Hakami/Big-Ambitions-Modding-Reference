@@ -1,10 +1,6 @@
 # SubwaySoundSource
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SubwaySoundSource`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,7 +12,7 @@
 
 ## Used By
 
-- [SubwayAmbienceSound](SubwayAmbienceSound.md)
+- None detected.
 
 ## Notes
 

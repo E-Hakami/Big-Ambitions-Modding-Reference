@@ -1,10 +1,6 @@
 # StreetPerformerPool
 
-**Type:** Class
-
-**Declared Types:**
-
-- `StreetPerformerPool`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [PrefabHelper](Helpers/PrefabHelper.md)
-- [StreetPerformer](Entities/StreetPerformer.md)
+- None detected.
 
 ## Used By
 
-- [StationaryAiSpawner](StationaryAiSpawner.md)
+- None detected.
 
 ## Notes
 

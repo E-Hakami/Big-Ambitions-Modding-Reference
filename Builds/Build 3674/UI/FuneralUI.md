@@ -1,10 +1,6 @@
 # FuneralUI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FuneralUI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [GameInstance](../GameInstance.md)
-- [GlobalEvents](../GlobalEvents.md)
-- [LoadScene](../UI.Load/LoadScene.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [SaveGamePathHelper](../SaveGamePathHelper.md)
-- [SaveGameSerializationHelper](../SaveGameSerializationHelper.md)
-- [TransitionToSave](../TransitionToSave.md)
+- None detected.
 
 ## Used By
 
-- [UIs](UIs.md)
+- None detected.
 
 ## Notes
 

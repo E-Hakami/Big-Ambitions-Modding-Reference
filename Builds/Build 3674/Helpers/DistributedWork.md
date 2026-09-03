@@ -1,10 +1,6 @@
 # DistributedWork
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DistributedWork`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [BusinessSimulatorHelper](../BusinessSimulatorHelper.md)
-- [CityMapHider](../CityMapHider.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [LogisticsManagerHelper](../Buildings.Office.Headquarters/LogisticsManagerHelper.md)
+- None detected.
 
 ## Notes
 

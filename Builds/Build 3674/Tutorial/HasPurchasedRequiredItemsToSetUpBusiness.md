@@ -1,10 +1,6 @@
 # HasPurchasedRequiredItemsToSetUpBusiness
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasPurchasedRequiredItemsToSetUpBusiness`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BusinessRequirement](../Buildings.BuildingTypes.Shared.BusinessRequirement/BusinessRequirement.md)
-- [BusinessTypeHelper](../Helpers/BusinessTypeHelper.md)
-- [HasPurchasedDynamicItems](HasPurchasedDynamicItems.md)
+- None detected.
 
 ## Used By
 

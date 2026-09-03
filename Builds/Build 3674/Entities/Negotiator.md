@@ -1,10 +1,6 @@
 # Negotiator
 
-**Type:** Class
-
-**Declared Types:**
-
-- `Negotiator`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [GlobalReferences](../GlobalReferences.md)
-- [HealthInsuranceNegotiationParams](HealthInsuranceNegotiationParams.md)
-- [NegotiationOffer](NegotiationOffer.md)
-- [NegotiationOptions](NegotiationOptions.md)
+- None detected.
 
 ## Used By
 
-- [HealthInsuranceNegotiationDialog](../Dialogs/HealthInsuranceNegotiationDialog.md)
-- [NegotiationHelper](NegotiationHelper.md)
+- None detected.
 
 ## Notes
 

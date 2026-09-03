@@ -1,10 +1,6 @@
 # TutorialPointerHideConditionInteriorScoreIsValue
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TutorialPointerHideConditionInteriorScoreIsValue`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [CustomBuildingTarget](CustomBuildingTarget.md)
-- [InteriorDesignerUI](../UI.InteriorDesigner/InteriorDesignerUI.md)
-- [InteriorScoreCalculator](../InteriorDesign/InteriorScoreCalculator.md)
-- [TutorialPointerHideCondition](TutorialPointerHideCondition.md)
+- None detected.
 
 ## Used By
 

@@ -1,10 +1,6 @@
 # IDItemTemplateBase
 
-**Type:** Class
-
-**Declared Types:**
-
-- `IDItemTemplateBase`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,19 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [IDItemUiTemplateData](IDItemUiTemplateData.md)
+- None detected.
 
 ## Used By
 
-- [FurnitureActionPanelUi](FurnitureActionPanelUi.md)
-- [FurnitureItemSearch](FurnitureItemSearch.md)
-- [IDFurnitureItemTemplate](IDFurnitureItemTemplate.md)
-- [IDItemTemplateCellView](IDItemTemplateCellView.md)
-- [IDItemTemplateScrollingController](IDItemTemplateScrollingController.md)
-- [IDItemUiTemplateData](IDItemUiTemplateData.md)
-- [IDOtherItemTemplate](IDOtherItemTemplate.md)
-- [ItemActionPanelUI](ItemActionPanelUI.md)
+- None detected.
 
 ## Notes
 

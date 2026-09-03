@@ -1,10 +1,6 @@
 # ImageTooltip
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ImageTooltip`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [TooltipSystem](TooltipSystem.md)
-- [TooltipTarget](../TooltipTarget.md)
+- None detected.
 
 ## Used By
 
-- [LoadGameSaveEntryView](../Scenes.MainMenu/LoadGameSaveEntryView.md)
+- None detected.
 
 ## Notes
 

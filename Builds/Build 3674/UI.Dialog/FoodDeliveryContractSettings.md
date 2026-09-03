@@ -1,10 +1,6 @@
 # FoodDeliveryContractSettings
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FoodDeliveryContractSettings`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [DeliveryContractSettingsBase](DeliveryContractSettingsBase.md)
-- [Dialog](../Dialogs/Dialog.md)
-- [FoodDeliverySettings](../Buildings.BuildingTypes.Special.FoodDelivery/FoodDeliverySettings.md)
-- [GlobalReferences](../GlobalReferences.md)
-- [TimeHelper](../TimeHelper.md)
+- None detected.
 
 ## Used By
 
-- [FoodDeliveryDialog](../Dialogs/FoodDeliveryDialog.md)
+- None detected.
 
 ## Notes
 

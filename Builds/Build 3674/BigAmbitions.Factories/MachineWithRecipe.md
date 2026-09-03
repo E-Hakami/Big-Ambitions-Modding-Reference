@@ -1,10 +1,6 @@
 # MachineWithRecipe
 
-**Type:** Class
-
-**Declared Types:**
-
-- `MachineWithRecipe`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,7 +12,7 @@
 
 ## Used By
 
-- [ReplaceOldFactoryMachines](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA010/ReplaceOldFactoryMachines.md)
+- None detected.
 
 ## Notes
 

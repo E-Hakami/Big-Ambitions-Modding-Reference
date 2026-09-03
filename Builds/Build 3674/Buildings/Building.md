@@ -1,10 +1,6 @@
 # Building
 
-**Type:** Class
-
-**Declared Types:**
-
-- `Building`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,94 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BuildingSizeHelper](BuildingSizeHelper.md)
-- [BuildingTypeData](../BuildingTypeData.md)
-- [BuildingTypeHelper](BuildingTypeHelper.md)
-- [BuildingVersion](../BuildingVersion.md)
-- [DeliveryJobStartLocation](../Vehicles.DeliveryDriverJob/DeliveryJobStartLocation.md)
-- [NeighborhoodHelper](../NeighborhoodHelper.md)
-- [SpecialService](SpecialService.md)
+- None detected.
 
 ## Used By
 
-- [AddressableLoader](../BigAmbitions.SaveSystem/AddressableLoader.md)
-- [BankDialog](../Dialogs/BankDialog.md)
-- [BizManBusiness](../BizManBusiness.md)
-- [BizManInsight](../UI.Smartphone.Apps.BizMan/BizManInsight.md)
-- [BizManPresentation](../BizManPresentation.md)
-- [BlueprintCreatorSystem](../BigAmbitions.BlueprintCreator/BlueprintCreatorSystem.md)
-- [BlueprintDataElementHelper](../Blueprints/BlueprintDataElementHelper.md)
-- [BuildingCleanlinessHelper](../Buildings.BuildingTypes.Shared.Dirtiness/BuildingCleanlinessHelper.md)
-- [BuildingCommands](BuildingCommands.md)
-- [BuildingContext](../BuildingContext.md)
-- [BuildingForSale](../BuildingForSale.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [BuildingPreview](../UI/BuildingPreview.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BuildingSizeHelper](BuildingSizeHelper.md)
-- [BuildingSizeInfo](../Blueprints/BuildingSizeInfo.md)
-- [BuildingTypeHelper](BuildingTypeHelper.md)
-- [BusinessHelper](../Helpers/BusinessHelper.md)
-- [BusinessTypeHelper](../Helpers/BusinessTypeHelper.md)
-- [CarController](../CarController.md)
-- [CashRegisterController](../Controllers/CashRegisterController.md)
-- [CasinoBoatManager](../CasinoBoatManager.md)
-- [CityBuildingController](../CityBuildingController.md)
-- [CityGenerator](../Helpers/CityGenerator.md)
-- [CityManager](../CityManager.md)
-- [ClosestBuildingFromPlayer](ClosestBuildingFromPlayer.md)
-- [CoatCheckController](../Controllers/CoatCheckController.md)
-- [CompetitionHelper](../Helpers/CompetitionHelper.md)
-- [ContactsHelper](../Entities/ContactsHelper.md)
-- [CustomerCapacityInfoPanelUI](../UI.InteriorDesigner/CustomerCapacityInfoPanelUI.md)
-- [DeliveryDriverMission](../Player.PlayerMissions/DeliveryDriverMission.md)
-- [DeliveryJobStartController](../Vehicles.DeliveryDriverJob/DeliveryJobStartController.md)
-- [ElevatorOverlay](../UI.Overlays/ElevatorOverlay.md)
-- [EnumHelpers](../EnumHelpers.md)
-- [EstimatedWeeklyIncomeHelper](../Helpers/EstimatedWeeklyIncomeHelper.md)
-- [FinancialSummaryHelper](../Helpers/FinancialSummaryHelper.md)
-- [FixInteriorInstallationFirmsFromEA03NotInitializedCorrectly](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA07/FixInteriorInstallationFirmsFromEA03NotInitializedCorrectly.md)
-- [Floor](../Parking.UndergroundParking/Floor.md)
-- [FoodDeliveryJobHelper](../Player.FoodDeliveryJob/FoodDeliveryJobHelper.md)
-- [FurnitureDeliveryContractSettings](../UI.Dialog/FurnitureDeliveryContractSettings.md)
-- [GameManager](../GameManager.md)
-- [HamptonsHouse](../HamptonsHouse.md)
-- [HamptonsPurchaseBoxUI](../UI.Smartphone.Apps.BizMan/HamptonsPurchaseBoxUI.md)
-- [HelpSystem](../HelpSystem.md)
-- [InteriorInstallationFirmDesignSettings](../UI.Dialog/InteriorInstallationFirmDesignSettings.md)
-- [InteriorInstallationFirmHelper](InteriorInstallationFirmHelper.md)
-- [ItemController](../ItemController.md)
-- [ManageCtaBehavior](../Player.HUD.ItemInfoOverlays/ManageCtaBehavior.md)
-- [MarketEvent](../Entities/MarketEvent.md)
-- [MovingServiceContractSettings](../UI.Dialog/MovingServiceContractSettings.md)
-- [MovingServiceHelper](../Buildings.BuildingTypes.Special.MovingCompany/MovingServiceHelper.md)
-- [NeighborhoodHelper](../NeighborhoodHelper.md)
-- [OwnSpecialRivalHomeGoal](../Player.PersonalGoals/OwnSpecialRivalHomeGoal.md)
-- [ParkingLaneGenerator](../ParkingLaneGenerator.md)
-- [PlayerHUD](../UI.PlayerHUD/PlayerHUD.md)
-- [PopulateRivals](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA05/PopulateRivals.md)
-- [Producer](../Producer.md)
-- [ProductMarketHelper](../Helpers/ProductMarketHelper.md)
-- [RealEstate](../Entities/RealEstate.md)
-- [RealEstateHelper](../Helpers/RealEstateHelper.md)
-- [RealEstateSettings](../UI.Smartphone.Apps.BizMan/RealEstateSettings.md)
-- [RecruitmentSettings](../UI.Dialog/RecruitmentSettings.md)
-- [RegenerateWronglyGeneratedAIBusinessEmployees](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA05/RegenerateWronglyGeneratedAIBusinessEmployees.md)
-- [RemoveInexistentBuildingsFromBuildingForSale](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA09/RemoveInexistentBuildingsFromBuildingForSale.md)
-- [RivalsHelper](../BigAmbitions.Rivals/RivalsHelper.md)
-- [SaveBlueprintUI](../UI.InteriorDesigner/SaveBlueprintUI.md)
-- [ScreenCinemaController](../ScreenCinemaController.md)
-- [SeatController](../Controllers/SeatController.md)
-- [SpecialRival](../BigAmbitions.Rivals/SpecialRival.md)
-- [TaxHelper](../Helpers/TaxHelper.md)
-- [TicketKioskController](../Controllers/TicketKioskController.md)
-- [TimeOfDayController](../TimeOfDayController.md)
-- [TutorialPointerHideConditionSelectedBizManBuildingHasNoCharacteristics](../Tutorial/TutorialPointerHideConditionSelectedBizManBuildingHasNoCharacteristics.md)
-- [UpdateRealStateRentValues](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA09/UpdateRealStateRentValues.md)
-- [VehicleController](../VehicleController.md)
+- None detected.
 
 ## Notes
 

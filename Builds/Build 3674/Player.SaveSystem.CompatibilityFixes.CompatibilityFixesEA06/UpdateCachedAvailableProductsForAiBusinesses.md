@@ -1,10 +1,6 @@
 # UpdateCachedAvailableProductsForAiBusinesses
 
-**Type:** Class
-
-**Declared Types:**
-
-- `UpdateCachedAvailableProductsForAiBusinesses`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BusinessLayoutSetHelper](../BusinessLayoutSets/BusinessLayoutSetHelper.md)
-- [GameInstance](../GameInstance.md)
-- [GameManager](../GameManager.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
-- [UpdateCachedAvailableProducts](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA010/UpdateCachedAvailableProducts.md)
-- [UpdateMarketDemands](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA04/UpdateMarketDemands.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA08](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA08.md)
+- None detected.
 
 ## Notes
 

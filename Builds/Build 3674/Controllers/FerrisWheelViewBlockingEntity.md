@@ -1,10 +1,6 @@
 # FerrisWheelViewBlockingEntity
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FerrisWheelViewBlockingEntity`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CarnivalPedestrian](../CarnivalPedestrian.md)
-- [FerrisWheel](FerrisWheel.md)
-- [FerrisWheelCabin](FerrisWheelCabin.md)
-- [ViewBlockingEntity](../ViewBlockingEntity.md)
+- None detected.
 
 ## Used By
 

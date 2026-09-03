@@ -1,10 +1,6 @@
 # SellerStandCtaBehavior
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SellerStandCtaBehavior`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [EntityController](../EntityController.md)
-- [ICtaBehavior](ICtaBehavior.md)
-- [SellerStandController](../SellerStandController.md)
-- [VehicleHelper](../Helpers/VehicleHelper.md)
-- [VehicleInstance](../VehicleInstance.md)
-- [VehicleType](../Vehicles.VehicleTypes/VehicleType.md)
+- None detected.
 
 ## Used By
 
-- [CtaManager](CtaManager.md)
+- None detected.
 
 ## Notes
 

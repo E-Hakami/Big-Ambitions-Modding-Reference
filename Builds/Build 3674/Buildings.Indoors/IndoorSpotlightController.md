@@ -1,10 +1,6 @@
 # IndoorSpotlightController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `IndoorSpotlightController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [IndoorLightController](../IndoorLightController.md)
+- None detected.
 
 ## Used By
 

@@ -1,10 +1,6 @@
 # IconSwapper
 
-**Type:** Class
-
-**Declared Types:**
-
-- `IconSwapper`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [BizManFactoryWorkstationGroupTemplate](../UI.Smartphone.Apps.BizMan.Factory/BizManFactoryWorkstationGroupTemplate.md)
-- [BizManFactoryWorkstationPanel](../UI.Smartphone.Apps.BizMan.Factory/BizManFactoryWorkstationPanel.md)
-- [BizManFactoryWorkstationTemplate](../UI.Smartphone.Apps.BizMan.Factory/BizManFactoryWorkstationTemplate.md)
+- None detected.
 
 ## Notes
 

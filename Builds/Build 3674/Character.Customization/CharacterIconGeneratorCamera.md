@@ -1,10 +1,6 @@
 # CharacterIconGeneratorCamera
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CharacterIconGeneratorCamera`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Gender](Gender.md)
+- None detected.
 
 ## Used By
 

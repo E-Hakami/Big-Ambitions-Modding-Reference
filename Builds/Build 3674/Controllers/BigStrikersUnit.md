@@ -1,10 +1,6 @@
 # BigStrikersUnit
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BigStrikersUnit`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BigStrikers](BigStrikers.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CarnivalPedestrian](../CarnivalPedestrian.md)
-- [HandObjectData](HandObjectData.md)
-- [PlayerHelper](../Helpers/PlayerHelper.md)
-- [ThirdPersonCharacter](../ThirdPersonCharacter.md)
+- None detected.
 
 ## Used By
 
-- [BigStrikers](BigStrikers.md)
+- None detected.
 
 ## Notes
 

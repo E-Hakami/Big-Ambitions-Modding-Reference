@@ -1,10 +1,6 @@
 # TimeOfDayToolSetup
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TimeOfDayToolSetup`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [ActionPanelUI](../UI.InteriorDesigner/ActionPanelUI.md)
-- [GlobalEvents](../GlobalEvents.md)
-- [InteriorDesignerHelper](InteriorDesignerHelper.md)
-- [TimeOfDayController](../TimeOfDayController.md)
-- [ToolSetup](ToolSetup.md)
+- None detected.
 
 ## Used By
 
-- [InteriorDesignerController](InteriorDesignerController.md)
+- None detected.
 
 ## Notes
 

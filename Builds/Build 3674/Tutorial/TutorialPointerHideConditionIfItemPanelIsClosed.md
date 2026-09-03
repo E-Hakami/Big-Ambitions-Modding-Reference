@@ -1,10 +1,6 @@
 # TutorialPointerHideConditionIfItemPanelIsClosed
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TutorialPointerHideConditionIfItemPanelIsClosed`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [ItemPanelUI](../UI.ItemPanel/ItemPanelUI.md)
-- [TutorialPointerHideCondition](TutorialPointerHideCondition.md)
+- None detected.
 
 ## Used By
 

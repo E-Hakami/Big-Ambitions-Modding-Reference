@@ -1,10 +1,6 @@
 # PermanentTaxiController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PermanentTaxiController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [CityManager](CityManager.md)
-- [EntityController](EntityController.md)
-- [GameManager](GameManager.md)
-- [ITaxi](Vehicles.Taxis/ITaxi.md)
-- [VehicleHelper](Helpers/VehicleHelper.md)
+- None detected.
 
 ## Used By
 
-- [TaxiCtaBehavior](Player.HUD.ItemInfoOverlays/TaxiCtaBehavior.md)
-- [TaxiSystem](TaxiSystem.md)
+- None detected.
 
 ## Notes
 

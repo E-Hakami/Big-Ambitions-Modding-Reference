@@ -1,10 +1,6 @@
 # Job
 
-**Type:** Class
-
-**Declared Types:**
-
-- `Job`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,20 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [DiplomaName](DiplomaName.md)
-- [ScheduleDay](ScheduleDay.md)
+- None detected.
 
 ## Used By
 
-- [CityMapFilters](CityMapFilters.md)
-- [CurrentJob](UI.CurrentJob/CurrentJob.md)
-- [JobBoardController](JobBoardController.md)
-- [JobHelper](JobHelper.md)
-- [JobOffer](UI.CustomUI/JobOffer.md)
-- [PlayerHUD](UI.PlayerHUD/PlayerHUD.md)
-- [SpecialService](Buildings/SpecialService.md)
-- [WorkActivity](PlayerActivity/WorkActivity.md)
+- None detected.
 
 ## Notes
 

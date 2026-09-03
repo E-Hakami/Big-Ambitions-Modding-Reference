@@ -1,10 +1,6 @@
 # CityMapSubwayStations
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CityMapSubwayStations`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingRegistration](BuildingRegistration.md)
-- [CityBuildingController](CityBuildingController.md)
-- [CityManager](CityManager.md)
-- [CityMap](CityMap.md)
-- [CityMapSubwayStationEntry](CityMapSubwayStationEntry.md)
-- [KeyboardInputHelper](UI.Components/KeyboardInputHelper.md)
-- [SubwayStation](SubwayStation.md)
+- None detected.
 
 ## Used By
 
-- [UIs](UI/UIs.md)
+- None detected.
 
 ## Notes
 

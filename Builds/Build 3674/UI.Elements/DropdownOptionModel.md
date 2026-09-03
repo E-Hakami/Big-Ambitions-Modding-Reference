@@ -1,10 +1,6 @@
 # DropdownOptionModel
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DropdownOptionModel`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [Dropdown](Dropdown.md)
-- [DropdownOptionCellView](DropdownOptionCellView.md)
-- [DropdownOptionScrollerController](DropdownOptionScrollerController.md)
+- None detected.
 
 ## Notes
 

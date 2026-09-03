@@ -1,10 +1,6 @@
 # EyedropperPickerCursorChangeEvent
 
-**Type:** Class
-
-**Declared Types:**
-
-- `EyedropperPickerCursorChangeEvent`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CursorType](../CursorType.md)
-- [ICursorHoverEvent](../ICursorHoverEvent.md)
-- [MouseController](../MouseController.md)
+- None detected.
 
 ## Used By
 
-- [EyedropperToolSetup](../Buildings.Indoors.InteriorDesign/EyedropperToolSetup.md)
+- None detected.
 
 ## Notes
 

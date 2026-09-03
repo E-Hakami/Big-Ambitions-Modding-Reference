@@ -1,10 +1,6 @@
 # BuildingOutsidePedestrianPool
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BuildingOutsidePedestrianPool`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingOutsidePedestrian](Streets.Pedestrians/BuildingOutsidePedestrian.md)
-- [PrefabHelper](Helpers/PrefabHelper.md)
+- None detected.
 
 ## Used By
 
-- [AiSpawnerForBuildingOutsideHangoutZone](AiSpawnerForBuildingOutsideHangoutZone.md)
-- [BusinessType](BusinessType.md)
+- None detected.
 
 ## Notes
 

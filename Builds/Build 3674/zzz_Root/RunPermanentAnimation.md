@@ -1,10 +1,6 @@
 # RunPermanentAnimation
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RunPermanentAnimation`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [BaseHuman](BaseHuman.md)
-- [SharedCustomer](SharedCustomer.md)
-- [SharedPermanentAnimationType](SharedPermanentAnimationType.md)
-- [TimeHelper](TimeHelper.md)
+- None detected.
 
 ## Used By
 

@@ -1,10 +1,6 @@
 # CrashFileChecker
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CrashFileChecker`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [PlayerPrefSettings](../PlayerPrefSettings.md)
+- None detected.
 
 ## Used By
 
-- [MainMenuController](../MainMenuController.md)
+- None detected.
 
 ## Notes
 

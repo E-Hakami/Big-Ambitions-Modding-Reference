@@ -1,10 +1,6 @@
 # SharedCasinoCustomer
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SharedCasinoCustomer`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [CasinoCustomer](CasinoCustomer.md)
+- None detected.
 
 ## Used By
 
-- [IsLastCasinoRandomAction](IsLastCasinoRandomAction.md)
-- [SetLastCasinoRandomAction](SetLastCasinoRandomAction.md)
+- None detected.
 
 ## Notes
 

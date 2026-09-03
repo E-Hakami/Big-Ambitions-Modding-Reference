@@ -1,10 +1,6 @@
 # BlueprintElementUI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BlueprintElementUI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BasicTooltip](../BasicTooltip.md)
-- [Blueprint](../Blueprints/Blueprint.md)
-- [BlueprintType](BlueprintType.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [DataElement](../Blueprints/DataElement.md)
-- [GameVersion](../GameVersion.md)
+- None detected.
 
 ## Used By
 
-- [BlueprintsListUI](BlueprintsListUI.md)
+- None detected.
 
 ## Notes
 

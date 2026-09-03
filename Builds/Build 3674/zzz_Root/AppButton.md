@@ -1,10 +1,6 @@
 # AppButton
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AppButton`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [AppName](AppName.md)
+- None detected.
 
 ## Used By
 
-- [FullMenuAppButton](FullMenuAppButton.md)
-- [SmartphoneAppButton](SmartphoneAppButton.md)
+- None detected.
 
 ## Notes
 

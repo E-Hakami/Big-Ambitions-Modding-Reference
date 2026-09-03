@@ -1,10 +1,6 @@
 # BizManFactoryWorkstationGroupTemplate
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BizManFactoryWorkstationGroupTemplate`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,23 +8,11 @@
 
 ## Uses
 
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [BizManFactory](BizManFactory.md)
-- [BizManFactoryWorkstationTemplate](BizManFactoryWorkstationTemplate.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [CustomGameFoldout](../UI.MainMenu/CustomGameFoldout.md)
-- [FactoryWorkstationInstance](../FactoryWorkstationInstance.md)
-- [IconSwapper](../UI.Components/IconSwapper.md)
-- [ISelectable](../UI.Components/ISelectable.md)
-- [ReorderableList](../UI.Components/ReorderableList.md)
-- [SelectorGroup](../UI.Components/SelectorGroup.md)
+- None detected.
 
 ## Used By
 
-- [BizManFactory](BizManFactory.md)
-- [BizManFactoryMachineList](BizManFactoryMachineList.md)
-- [BizManFactoryWorkstationTemplate](BizManFactoryWorkstationTemplate.md)
+- None detected.
 
 ## Notes
 

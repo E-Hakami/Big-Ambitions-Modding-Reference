@@ -1,10 +1,6 @@
 # GoGrabBasketInAction
 
-**Type:** Class
-
-**Declared Types:**
-
-- `GoGrabBasketInAction`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [ItemController](ItemController.md)
-- [SharedCustomer](SharedCustomer.md)
+- None detected.
 
 ## Used By
 

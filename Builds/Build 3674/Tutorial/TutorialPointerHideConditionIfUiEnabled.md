@@ -1,10 +1,6 @@
 # TutorialPointerHideConditionIfUiEnabled
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TutorialPointerHideConditionIfUiEnabled`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [TutorialPointerHideCondition](TutorialPointerHideCondition.md)
-- [TutorialPointersManager](TutorialPointersManager.md)
+- None detected.
 
 ## Used By
 

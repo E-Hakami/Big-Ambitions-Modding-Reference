@@ -1,10 +1,6 @@
 # StopSlotMachineSounds
 
-**Type:** Class
-
-**Declared Types:**
-
-- `StopSlotMachineSounds`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [SharedItemController](SharedItemController.md)
-- [SlotMachineController](SlotMachineController.md)
+- None detected.
 
 ## Used By
 
-- [SitInASlotMachine](SitInASlotMachine.md)
-- [SitInASlotMachineInstantly](SitInASlotMachineInstantly.md)
-- [SlotMachineController](SlotMachineController.md)
+- None detected.
 
 ## Notes
 

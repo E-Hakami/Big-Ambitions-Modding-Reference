@@ -1,10 +1,6 @@
 # SelfServiceCustomerTryUseScaleInAction
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SelfServiceCustomerTryUseScaleInAction`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [BuildingCleanlinessHelper](Buildings.BuildingTypes.Shared.Dirtiness/BuildingCleanlinessHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [Item](BusinessLayoutSets/Item.md)
-- [ItemController](ItemController.md)
-- [SharedCustomer](SharedCustomer.md)
+- None detected.
 
 ## Used By
 

@@ -1,10 +1,6 @@
 # PedestrianSpawnerPositionProvider
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PedestrianSpawnerPositionProvider`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [StationaryAiSpawner](../StationaryAiSpawner.md)
+- None detected.
 
 ## Used By
 
-- [Pedestrian](Pedestrian.md)
+- None detected.
 
 ## Notes
 

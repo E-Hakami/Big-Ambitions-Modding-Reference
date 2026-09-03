@@ -1,10 +1,6 @@
 # SetUpLowerManhattanNeighborhood
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SetUpLowerManhattanNeighborhood`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [CityGenerator](../Helpers/CityGenerator.md)
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA05](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA05.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # NegotiationHelper
 
-**Type:** Class
-
-**Declared Types:**
-
-- `NegotiationHelper`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [CandidateSalaryNegotiator](../AI.Employees.SalaryNegotiation/CandidateSalaryNegotiator.md)
-- [CharacterEmojiSystem](../Characters.EmojiSystem/CharacterEmojiSystem.md)
-- [Negotiator](Negotiator.md)
+- None detected.
 
 ## Used By
 
-- [CandidateSalaryNegotiationDialog](../AI.Employees.SalaryNegotiation/CandidateSalaryNegotiationDialog.md)
-- [HealthInsuranceNegotiationDialog](../Dialogs/HealthInsuranceNegotiationDialog.md)
+- None detected.
 
 ## Notes
 

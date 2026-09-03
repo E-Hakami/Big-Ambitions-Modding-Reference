@@ -1,10 +1,6 @@
 # TutorialPointerHideConditionHasSupervisedNeighborhood
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TutorialPointerHideConditionHasSupervisedNeighborhood`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [PricingManagerPlan](../Buildings.Office.Headquarters/PricingManagerPlan.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [TutorialPointerHideCondition](TutorialPointerHideCondition.md)
-- [UIs](../UI/UIs.md)
+- None detected.
 
 ## Used By
 

@@ -1,10 +1,6 @@
 # ExitZone
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ExitZone`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,22 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [ExitZoneDespawner](ExitZoneDespawner.md)
-- [SfxManager](SfxManager.md)
-- [WarehouseSlotController](WarehouseSlotController.md)
+- None detected.
 
 ## Used By
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [BusinessSecurityHelper](Helpers/BusinessSecurityHelper.md)
-- [Customer](Customer.md)
-- [IndoorCustomerSpawner](IndoorCustomerSpawner.md)
-- [InteriorInstallationFirmContract](Entities/InteriorInstallationFirmContract.md)
-- [IWaitingLineHolder](EmployeeStations/IWaitingLineHolder.md)
-- [MovingServiceHelper](Buildings.BuildingTypes.Special.MovingCompany/MovingServiceHelper.md)
-- [UndergroundParkingManager](Parking.UndergroundParking/UndergroundParkingManager.md)
+- None detected.
 
 ## Notes
 

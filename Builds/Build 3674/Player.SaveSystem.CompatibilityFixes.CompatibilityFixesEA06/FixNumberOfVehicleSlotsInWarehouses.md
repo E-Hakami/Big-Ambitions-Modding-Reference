@@ -1,10 +1,6 @@
 # FixNumberOfVehicleSlotsInWarehouses
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FixNumberOfVehicleSlotsInWarehouses`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,19 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BuildingSizeHelper](../Buildings/BuildingSizeHelper.md)
-- [EmployeeHelper](../Helpers/EmployeeHelper.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
-- [VehicleSlot](../Entities/VehicleSlot.md)
-- [Warehouse](../Entities/Warehouse.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA06](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA06.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # PlayerActivityEnvironment
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PlayerActivityEnvironment`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [PlayerActivityEnvironmentConfig](PlayerActivityEnvironmentConfig.md)
+- None detected.
 
 ## Used By
 
-- [HygieneEnvironment](HygieneEnvironment.md)
-- [PaidActivityEnvironment](../PlayerActivity.Activities.Paid/PaidActivityEnvironment.md)
-- [RestEnvironment](RestEnvironment.md)
-- [SleepEnvironment](SleepEnvironment.md)
+- None detected.
 
 ## Notes
 

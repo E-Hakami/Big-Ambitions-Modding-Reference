@@ -1,10 +1,6 @@
 # UploadModPanel
 
-**Type:** Class
-
-**Declared Types:**
-
-- `UploadModPanel`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,19 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Dropdown](../UI.Elements/Dropdown.md)
-- [GameVersion](../GameVersion.md)
-- [InputField](../UI.Components/InputField.md)
-- [ModsView](ModsView.md)
-- [Notification](../UI.Notification/Notification.md)
-- [Notifications](../UI.Notification/Notifications.md)
-- [NotificationType](../UI.Notification/NotificationType.md)
-- [ProgressBar](../UI.Elements/ProgressBar.md)
+- None detected.
 
 ## Used By
 
-- [ModCreatorUI](ModCreatorUI.md)
+- None detected.
 
 ## Notes
 

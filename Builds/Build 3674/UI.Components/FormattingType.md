@@ -1,10 +1,6 @@
 # FormattingType
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `FormattingType`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,7 +12,7 @@
 
 ## Used By
 
-- [InputField](InputField.md)
+- None detected.
 
 ## Notes
 

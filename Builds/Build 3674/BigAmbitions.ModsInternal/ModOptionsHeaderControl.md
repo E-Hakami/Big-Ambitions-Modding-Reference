@@ -1,10 +1,6 @@
 # ModOptionsHeaderControl
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ModOptionsHeaderControl`
+**Type:** Source File
 
 ## Main Reference
 

@@ -1,10 +1,6 @@
 # CinemaTheaterBusinessSimulator
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CinemaTheaterBusinessSimulator`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,7 @@
 
 ## Uses
 
-- [BuildingCleanlinessHelper](../Buildings.BuildingTypes.Shared.Dirtiness/BuildingCleanlinessHelper.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CitizenData](../AI.Citizens/CitizenData.md)
-- [CitizenHelper](../AI.Citizens/CitizenHelper.md)
-- [CustomerEntry](../AI.Customers.CustomerEntries/CustomerEntry.md)
-- [Order](../Order.md)
-- [OrderEntry](../Entities/OrderEntry.md)
-- [PointOfSale](PointOfSale.md)
-- [SelfServiceBusinessSimulator](SelfServiceBusinessSimulator.md)
-- [TimeHelper](../TimeHelper.md)
+- None detected.
 
 ## Used By
 

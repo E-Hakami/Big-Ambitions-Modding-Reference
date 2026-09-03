@@ -1,10 +1,6 @@
 # QuestActionCompleteObjectives
 
-**Type:** Class
-
-**Declared Types:**
-
-- `QuestActionCompleteObjectives`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [QuestAction](../Tutorial/QuestAction.md)
-- [QuestEntry](../Tutorial/QuestEntry.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [TutorialHelper](../Helpers/TutorialHelper.md)
+- None detected.
 
 ## Used By
 

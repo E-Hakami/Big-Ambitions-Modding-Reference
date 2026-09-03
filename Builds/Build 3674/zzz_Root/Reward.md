@@ -1,10 +1,6 @@
 # Reward
 
-**Type:** Class
-
-**Declared Types:**
-
-- `Reward`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,11 +12,7 @@
 
 ## Used By
 
-- [BuildingManager](BuildingManager.md)
-- [CityBuildingController](CityBuildingController.md)
-- [CreateMarketEvent](UI.Tutorial/CreateMarketEvent.md)
-- [GenericPersonalGoal](GenericPersonalGoal.md)
-- [UnlockBuilding](UnlockBuilding.md)
+- None detected.
 
 ## Notes
 

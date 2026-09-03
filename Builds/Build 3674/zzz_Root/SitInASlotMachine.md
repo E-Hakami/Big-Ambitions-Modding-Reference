@@ -1,10 +1,6 @@
 # SitInASlotMachine
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SitInASlotMachine`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CasinoBusinessHelper](Buildings/CasinoBusinessHelper.md)
-- [CharacterMoveToPosition](CharacterMoveToPosition.md)
-- [CharacterRunAnimation](CharacterRunAnimation.md)
-- [ItemController](ItemController.md)
-- [PlaySlotMachineSounds](PlaySlotMachineSounds.md)
-- [SharedCustomer](SharedCustomer.md)
-- [SlotMachineController](SlotMachineController.md)
-- [StopSlotMachineSounds](StopSlotMachineSounds.md)
-- [TimeHelper](TimeHelper.md)
+- None detected.
 
 ## Used By
 

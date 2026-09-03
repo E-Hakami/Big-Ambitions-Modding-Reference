@@ -1,10 +1,6 @@
 # SelfServiceCustomerTryFindItem
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SelfServiceCustomerTryFindItem`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [CharacterMoveToPosition](CharacterMoveToPosition.md)
-- [CharacterShowEmojiExpression](CharacterShowEmojiExpression.md)
-- [ExpressionDataContainer](ExpressionDataContainer.md)
-- [IsPlayerOwnedBusiness](IsPlayerOwnedBusiness.md)
-- [Item](BusinessLayoutSets/Item.md)
-- [SharedCustomer](SharedCustomer.md)
-- [SharedItemController](SharedItemController.md)
-- [SharedOrderEntry](SharedOrderEntry.md)
-- [ShelfController](ShelfController.md)
+- None detected.
 
 ## Used By
 

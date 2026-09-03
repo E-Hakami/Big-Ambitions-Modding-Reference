@@ -1,10 +1,6 @@
 # SelfServiceCustomerReturnBasket
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SelfServiceCustomerReturnBasket`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CharacterMoveToPosition](CharacterMoveToPosition.md)
-- [CharacterRotateTowards](CharacterRotateTowards.md)
-- [ItemController](ItemController.md)
-- [SharedCustomer](SharedCustomer.md)
+- None detected.
 
 ## Used By
 

@@ -1,10 +1,6 @@
 # PrivateDriverContractSettings
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PrivateDriverContractSettings`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Dropdown](../UI.Elements/Dropdown.md)
-- [PrivateDriverContract](PrivateDriverContract.md)
-- [PrivateDriverHelpers](../Helpers/PrivateDriverHelpers.md)
+- None detected.
 
 ## Used By
 
-- [PrivateDriverServiceDialog](../Buildings/PrivateDriverServiceDialog.md)
+- None detected.
 
 ## Notes
 

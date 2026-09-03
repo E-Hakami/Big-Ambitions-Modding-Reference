@@ -1,10 +1,6 @@
 # HeadhunterEmployeesScrollerController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HeadhunterEmployeesScrollerController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BaTable](../BaTable/BaTable.md)
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [EmployeeHelper](../Helpers/EmployeeHelper.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [HeadhunterEmployeeCellView](HeadhunterEmployeeCellView.md)
-- [HeadhunterEmployeeModel](HeadhunterEmployeeModel.md)
-- [HeadhunterPlan](../Buildings.Office.Headquarters/HeadhunterPlan.md)
+- None detected.
 
 ## Used By
 
-- [HeadhuntersAutomaticReplacementTab](../HeadhuntersAutomaticReplacementTab.md)
+- None detected.
 
 ## Notes
 

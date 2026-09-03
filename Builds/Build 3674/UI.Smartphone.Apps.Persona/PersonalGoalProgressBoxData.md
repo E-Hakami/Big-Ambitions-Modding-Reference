@@ -1,10 +1,6 @@
 # PersonalGoalProgressBoxData
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PersonalGoalProgressBoxData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BasicTooltip](../BasicTooltip.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [GenericPersonalGoal](../GenericPersonalGoal.md)
-- [PersonalGoalTierGroup](PersonalGoalTierGroup.md)
+- None detected.
 
 ## Used By
 
-- [PersonalGoalEntry](PersonalGoalEntry.md)
+- None detected.
 
 ## Notes
 

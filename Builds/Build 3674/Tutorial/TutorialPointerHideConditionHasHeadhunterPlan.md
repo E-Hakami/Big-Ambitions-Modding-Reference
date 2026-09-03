@@ -1,10 +1,6 @@
 # TutorialPointerHideConditionHasHeadhunterPlan
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TutorialPointerHideConditionHasHeadhunterPlan`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [HeadhunterPlan](../Buildings.Office.Headquarters/HeadhunterPlan.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [TutorialPointerHideCondition](TutorialPointerHideCondition.md)
-- [UIs](../UI/UIs.md)
+- None detected.
 
 ## Used By
 

@@ -1,10 +1,6 @@
 # FoodDeliveryMission
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FoodDeliveryMission`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [FoodDeliveryJobHelper](../Player.FoodDeliveryJob/FoodDeliveryJobHelper.md)
-- [PlayerMission](PlayerMission.md)
+- None detected.
 
 ## Used By
 
-- [FoodDeliveryJobHelper](../Player.FoodDeliveryJob/FoodDeliveryJobHelper.md)
-- [FoodDeliveryJobUI](../Player.FoodDeliveryJob/FoodDeliveryJobUI.md)
+- None detected.
 
 ## Notes
 

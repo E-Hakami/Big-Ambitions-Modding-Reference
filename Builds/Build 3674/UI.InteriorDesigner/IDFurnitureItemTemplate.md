@@ -1,10 +1,6 @@
 # IDFurnitureItemTemplate
 
-**Type:** Class
-
-**Declared Types:**
-
-- `IDFurnitureItemTemplate`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [GlobalReferences](../GlobalReferences.md)
-- [IDItemTemplateBase](IDItemTemplateBase.md)
-- [IDItemUiTemplateData](IDItemUiTemplateData.md)
-- [ItemHelper](../ItemHelper.md)
-- [ItemInfoTooltip](../Tooltip/ItemInfoTooltip.md)
-- [PlayerSettingsHelper](../Helpers/PlayerSettingsHelper.md)
+- None detected.
 
 ## Used By
 

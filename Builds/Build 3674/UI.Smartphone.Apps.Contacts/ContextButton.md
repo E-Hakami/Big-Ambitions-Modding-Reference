@@ -1,11 +1,6 @@
 # ContextButton
 
-**Type:** Multiple
-
-**Declared Types:**
-
-- `ContextButton`
-- `BackgroundColor`
+**Type:** Source File
 
 ## Main Reference
 
@@ -13,17 +8,11 @@
 
 ## Uses
 
-- [AdditionalMessageData](../Entities/AdditionalMessageData.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [ContactsApp](ContactsApp.md)
-- [TextMessage](../Entities/TextMessage.md)
+- None detected.
 
 ## Used By
 
-- [ContactsApp](ContactsApp.md)
-- [DialogController](../DialogController.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [TextMessage](../Entities/TextMessage.md)
+- None detected.
 
 ## Notes
 

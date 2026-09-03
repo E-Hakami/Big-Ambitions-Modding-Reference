@@ -1,10 +1,6 @@
 # TryToThrowTheTrash
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TryToThrowTheTrash`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,7 @@
 
 ## Uses
 
-- [BuildingCleanlinessHelper](Buildings.BuildingTypes.Shared.Dirtiness/BuildingCleanlinessHelper.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [CharacterMoveToPosition](CharacterMoveToPosition.md)
-- [CharacterRotateTowards](CharacterRotateTowards.md)
-- [CharacterRunAnimation](CharacterRunAnimation.md)
-- [Item](BusinessLayoutSets/Item.md)
-- [ItemController](ItemController.md)
-- [SharedCustomer](SharedCustomer.md)
+- None detected.
 
 ## Used By
 

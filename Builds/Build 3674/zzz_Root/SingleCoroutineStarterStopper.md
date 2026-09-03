@@ -1,10 +1,6 @@
 # SingleCoroutineStarterStopper
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SingleCoroutineStarterStopper`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,7 +12,7 @@
 
 ## Used By
 
-- [ThirdPersonCharacter](ThirdPersonCharacter.md)
+- None detected.
 
 ## Notes
 

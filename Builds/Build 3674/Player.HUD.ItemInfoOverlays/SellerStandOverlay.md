@@ -1,10 +1,6 @@
 # SellerStandOverlay
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SellerStandOverlay`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [EntityController](../EntityController.md)
-- [IOverlay](IOverlay.md)
-- [ItemHelper](../ItemHelper.md)
-- [SellerStandController](../SellerStandController.md)
+- None detected.
 
 ## Used By
 
-- [OverlayHelper](OverlayHelper.md)
+- None detected.
 
 ## Notes
 

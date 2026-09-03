@@ -1,10 +1,6 @@
 # UpdatePricePerUnitOnPurchaseTimePrices
 
-**Type:** Class
-
-**Declared Types:**
-
-- `UpdatePricePerUnitOnPurchaseTimePrices`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
-- [Item](../BusinessLayoutSets/Item.md)
-- [ItemHelper](../ItemHelper.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA03](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA03.md)
+- None detected.
 
 ## Notes
 

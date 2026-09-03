@@ -1,10 +1,6 @@
 # TutorialPointerHideConditionSelectedBizManBuildingHasNoCharacteristics
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TutorialPointerHideConditionSelectedBizManBuildingHasNoCharacteristics`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [Building](../Buildings/Building.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingVersion](../BuildingVersion.md)
-- [TutorialPointerHideCondition](TutorialPointerHideCondition.md)
-- [UIs](../UI/UIs.md)
+- None detected.
 
 ## Used By
 

@@ -1,10 +1,6 @@
 # SpawnMorphBehavior
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SpawnMorphBehavior`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [PrefabHelper](../Helpers/PrefabHelper.md)
-- [SmartPhoneFrame](../Player.HUD.SmartphoneUI/SmartPhoneFrame.md)
-- [SpawnMorphPlayerData](SpawnMorphPlayerData.md)
-- [VisibilityProbe](../VisibilityProbe.md)
+- None detected.
 
 ## Used By
 
-- [SpawnMorphClip](SpawnMorphClip.md)
+- None detected.
 
 ## Notes
 

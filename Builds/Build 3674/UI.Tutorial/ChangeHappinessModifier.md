@@ -1,10 +1,6 @@
 # ChangeHappinessModifier
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ChangeHappinessModifier`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [HappinessHelper](../Helpers/HappinessHelper.md)
-- [QuestAction](../Tutorial/QuestAction.md)
+- None detected.
 
 ## Used By
 

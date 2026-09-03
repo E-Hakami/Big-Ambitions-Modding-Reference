@@ -1,10 +1,6 @@
 # InteriorDesignerInfoPanelEvents
 
-**Type:** Class
-
-**Declared Types:**
-
-- `InteriorDesignerInfoPanelEvents`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,13 +12,7 @@
 
 ## Used By
 
-- [BusinessRequirementsInfoPanelUI](../UI.InteriorDesigner.BusinessRequirements/BusinessRequirementsInfoPanelUI.md)
-- [BusinessTypeInfoPanelUI](BusinessTypeInfoPanelUI.md)
-- [CostInfoPanelUI](CostInfoPanelUI.md)
-- [CustomerCapacityInfoPanelUI](CustomerCapacityInfoPanelUI.md)
-- [InteriorDesignerController](../Buildings.Indoors.InteriorDesign/InteriorDesignerController.md)
-- [InteriorScoreInfoPanelUI](InteriorScoreInfoPanelUI.md)
-- [ItemController](../ItemController.md)
+- None detected.
 
 ## Notes
 

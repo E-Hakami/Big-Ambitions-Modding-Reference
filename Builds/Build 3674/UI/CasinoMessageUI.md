@@ -1,11 +1,6 @@
 # CasinoMessageUI
 
-**Type:** Multiple
-
-**Declared Types:**
-
-- `CasinoMessageUI`
-- `CasinoMessage`
+**Type:** Source File
 
 ## Main Reference
 
@@ -17,9 +12,7 @@
 
 ## Used By
 
-- [CasinoBoatManager](../CasinoBoatManager.md)
-- [EnumHelpers](../EnumHelpers.md)
-- [UIs](UIs.md)
+- None detected.
 
 ## Notes
 

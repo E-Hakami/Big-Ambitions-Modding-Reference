@@ -1,10 +1,6 @@
 # FullServiceBusinessSimulator
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FullServiceBusinessSimulator`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingCleanlinessHelper](../Buildings.BuildingTypes.Shared.Dirtiness/BuildingCleanlinessHelper.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [CustomerEntry](../AI.Customers.CustomerEntries/CustomerEntry.md)
-- [OrderEntry](../Entities/OrderEntry.md)
-- [RetailBusinessSimulator](RetailBusinessSimulator.md)
+- None detected.
 
 ## Used By
 
-- [HairdresserBusinessSimulator](../Buildings.Retail.Businesses.Hairdresser/HairdresserBusinessSimulator.md)
-- [NightclubBusinessSimulator](../Buildings/NightclubBusinessSimulator.md)
+- None detected.
 
 ## Notes
 

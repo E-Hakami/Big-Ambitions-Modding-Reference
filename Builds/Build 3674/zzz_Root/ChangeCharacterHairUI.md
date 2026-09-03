@@ -1,10 +1,6 @@
 # ChangeCharacterHairUI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ChangeCharacterHairUI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,23 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CharacterCustomizer](Character.Customization/CharacterCustomizer.md)
-- [GameManager](GameManager.md)
-- [HairdresserChairController](Controllers/HairdresserChairController.md)
-- [HudConfirm](HudConfirm.md)
-- [NavigationBlocker](NavigationBlocker.md)
-- [PedestrianCam](CameraControllers/PedestrianCam.md)
-- [PortraitGenerator](Character.Customization/PortraitGenerator.md)
-- [PurchaseUI](UI.Purchase/PurchaseUI.md)
-- [SaveGameManager](SaveGameManager.md)
-- [UIs](UI/UIs.md)
+- None detected.
 
 ## Used By
 
-- [CancelButtonHandler](CancelButtonHandler.md)
-- [HairdresserChairController](Controllers/HairdresserChairController.md)
-- [UIs](UI/UIs.md)
+- None detected.
 
 ## Notes
 

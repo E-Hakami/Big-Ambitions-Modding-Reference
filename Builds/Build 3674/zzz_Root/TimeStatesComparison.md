@@ -1,10 +1,6 @@
 # TimeStatesComparison
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TimeStatesComparison`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CustomerTimeState](CustomerTimeState.md)
-- [SharedCustomer](SharedCustomer.md)
+- None detected.
 
 ## Used By
 

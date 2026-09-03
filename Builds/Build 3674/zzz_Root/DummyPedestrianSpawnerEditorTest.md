@@ -1,10 +1,6 @@
 # DummyPedestrianSpawnerEditorTest
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DummyPedestrianSpawnerEditorTest`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [BaseHuman](BaseHuman.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [PrefabHelper](Helpers/PrefabHelper.md)
+- None detected.
 
 ## Used By
 

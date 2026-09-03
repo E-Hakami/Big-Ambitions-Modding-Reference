@@ -1,10 +1,6 @@
 # DropdownOptionScrollerController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DropdownOptionScrollerController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BaTable](../BaTable/BaTable.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [DropdownOptionCellView](DropdownOptionCellView.md)
-- [DropdownOptionModel](DropdownOptionModel.md)
+- None detected.
 
 ## Used By
 
-- [Dropdown](Dropdown.md)
+- None detected.
 
 ## Notes
 

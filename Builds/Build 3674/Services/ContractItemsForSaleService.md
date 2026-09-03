@@ -1,10 +1,6 @@
 # ContractItemsForSaleService
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ContractItemsForSaleService`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [BuildingRegistration](../BuildingRegistration.md)
-- [FurnitureDeliveryContractSettings](../UI.Dialog/FurnitureDeliveryContractSettings.md)
-- [FurnitureDeliveryHelper](../Buildings.BuildingTypes.Special.FurnitureStore/FurnitureDeliveryHelper.md)
-- [VehicleContractSettings](../Buildings/VehicleContractSettings.md)
+- None detected.
 
 ## Notes
 

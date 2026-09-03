@@ -1,10 +1,6 @@
 # NewsAndUpdates
 
-**Type:** Class
-
-**Declared Types:**
-
-- `NewsAndUpdates`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BusinessNameGenerator](../UI.Smartphone.Apps.BizMan/BusinessNameGenerator.md)
-- [Post](Post.md)
+- None detected.
 
 ## Used By
 
-- [MainMenuController](../MainMenuController.md)
+- None detected.
 
 ## Notes
 

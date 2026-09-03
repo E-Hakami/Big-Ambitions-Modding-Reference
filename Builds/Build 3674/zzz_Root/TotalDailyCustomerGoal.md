@@ -1,10 +1,6 @@
 # TotalDailyCustomerGoal
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TotalDailyCustomerGoal`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [IntBaseGoal](IntBaseGoal.md)
-- [OrderHistoryEntry](Entities/OrderHistoryEntry.md)
-- [SaveGameManager](SaveGameManager.md)
+- None detected.
 
 ## Used By
 

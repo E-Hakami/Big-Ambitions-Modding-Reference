@@ -1,10 +1,6 @@
 # ResetScheduleDaysOnAddressesWhereMovingServiceFailed
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ResetScheduleDaysOnAddressesWhereMovingServiceFailed`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [EmployeeHelper](../Helpers/EmployeeHelper.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [EmployeeInstancesQueryInfo](../EmployeeInstancesQueryInfo.md)
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
-- [MovingServiceContract](../Entities/MovingServiceContract.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA07](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA07.md)
+- None detected.
 
 ## Notes
 

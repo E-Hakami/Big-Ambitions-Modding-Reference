@@ -1,10 +1,6 @@
 # QueueActionPanelUi
 
-**Type:** Class
-
-**Declared Types:**
-
-- `QueueActionPanelUi`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [InteriorDesignerController](Buildings.Indoors.InteriorDesign/InteriorDesignerController.md)
-- [ItemActionPanelUI](UI.InteriorDesigner/ItemActionPanelUI.md)
+- None detected.
 
 ## Used By
 
-- [InteriorDesignerController](Buildings.Indoors.InteriorDesign/InteriorDesignerController.md)
-- [QueueToolSetup](Buildings.Indoors.InteriorDesign/QueueToolSetup.md)
+- None detected.
 
 ## Notes
 

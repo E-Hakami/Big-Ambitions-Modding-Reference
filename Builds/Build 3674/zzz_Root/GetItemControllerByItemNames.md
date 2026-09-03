@@ -1,10 +1,6 @@
 # GetItemControllerByItemNames
 
-**Type:** Class
-
-**Declared Types:**
-
-- `GetItemControllerByItemNames`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [BuildingManager](BuildingManager.md)
-- [ItemController](ItemController.md)
-- [SharedItemController](SharedItemController.md)
-- [SharedItemTag](SharedItemTag.md)
+- None detected.
 
 ## Used By
 

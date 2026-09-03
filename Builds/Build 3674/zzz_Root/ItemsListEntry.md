@@ -1,10 +1,6 @@
 # ItemsListEntry
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ItemsListEntry`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,10 +12,7 @@
 
 ## Used By
 
-- [BizManPresentation](BizManPresentation.md)
-- [DeliveryContractSettingsBase](UI.Dialog/DeliveryContractSettingsBase.md)
-- [DeliveryItemEntry](UI.Dialog/DeliveryItemEntry.md)
-- [ItemsList](ItemsList.md)
+- None detected.
 
 ## Notes
 

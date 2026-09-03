@@ -1,10 +1,6 @@
 # GolfUI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `GolfUI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [GolfCourse](GolfCourse.md)
+- None detected.
 
 ## Notes
 

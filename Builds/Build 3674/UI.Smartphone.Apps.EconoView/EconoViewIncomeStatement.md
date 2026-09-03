@@ -1,12 +1,6 @@
 # EconoViewIncomeStatement
 
-**Type:** Multiple
-
-**Declared Types:**
-
-- `EconoViewIncomeStatement`
-- `RowType`
-- `RowRelationship`
+**Type:** Source File
 
 ## Main Reference
 
@@ -14,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [EconoView](EconoView.md)
-- [GlobalReferences](../GlobalReferences.md)
+- None detected.
 
 ## Used By
 
-- [EconoViewBusinessDetails](../EconoViewBusinessDetails.md)
+- None detected.
 
 ## Notes
 

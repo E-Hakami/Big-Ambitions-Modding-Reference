@@ -1,10 +1,6 @@
 # FenceDoorMode
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `FenceDoorMode`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,7 +12,7 @@
 
 ## Used By
 
-- [FenceDoor](FenceDoor.md)
+- None detected.
 
 ## Notes
 

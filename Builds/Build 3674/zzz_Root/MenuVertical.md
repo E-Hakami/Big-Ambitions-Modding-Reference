@@ -1,12 +1,6 @@
 # MenuVertical
 
-**Type:** Class
-
-**Declared Types:**
-
-- `MenuVertical`
-- `Category`
-- `SubCategory`
+**Type:** Source File
 
 ## Main Reference
 
@@ -14,19 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CategoryButton](UI.Components.MenuVerticalCategorized/CategoryButton.md)
-- [MenuVerticalSubMenu](MenuVerticalSubMenu.md)
+- None detected.
 
 ## Used By
 
-- [CategoryButton](UI.Components.MenuVerticalCategorized/CategoryButton.md)
-- [ChangeCharacterClothesUI](ChangeCharacterClothesUI.md)
-- [CharacterCustomizer](Character.Customization/CharacterCustomizer.md)
-- [IntroCharacterCustomizer](Intro/IntroCharacterCustomizer.md)
-- [MenuVerticalSubMenu](MenuVerticalSubMenu.md)
-- [PlasticSurgeryUI](Character.Customization/PlasticSurgeryUI.md)
-- [SubCategoryButton](UI.Components.MenuVerticalCategorized/SubCategoryButton.md)
+- None detected.
 
 ## Notes
 

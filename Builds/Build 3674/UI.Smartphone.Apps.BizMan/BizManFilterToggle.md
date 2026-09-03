@@ -1,10 +1,6 @@
 # BizManFilterToggle
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BizManFilterToggle`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BaseFilterToggle](../UI.Smartphone.Apps.Shared/BaseFilterToggle.md)
-- [BizMan](BizMan.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BusinessCellView](../BusinessCellView.md)
-- [BusinessType](../BusinessType.md)
+- None detected.
 
 ## Used By
 
-- [BizManFilterController](BizManFilterController.md)
+- None detected.
 
 ## Notes
 

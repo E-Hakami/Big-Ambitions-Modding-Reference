@@ -1,10 +1,6 @@
 # WorkoutAnimatorController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `WorkoutAnimatorController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [AppearanceSetter](../AppearanceSetter.md)
-- [BaseHuman](../BaseHuman.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [IWorkoutMachine](../Controllers/IWorkoutMachine.md)
-- [WorkoutExercise](WorkoutExercise.md)
+- None detected.
 
 ## Used By
 
-- [UseWorkoutMachine](../UseWorkoutMachine.md)
-- [WorkoutActivity](WorkoutActivity.md)
-- [WorkoutMachineNpcSpawnerItem](../Controllers/WorkoutMachineNpcSpawnerItem.md)
-- [WorkoutMachineOutsideInteractableItem](../Controllers/WorkoutMachineOutsideInteractableItem.md)
+- None detected.
 
 ## Notes
 

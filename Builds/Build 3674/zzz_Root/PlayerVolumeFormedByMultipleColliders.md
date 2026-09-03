@@ -1,10 +1,6 @@
 # PlayerVolumeFormedByMultipleColliders
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PlayerVolumeFormedByMultipleColliders`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CarController](CarController.md)
-- [PlayerHelper](Helpers/PlayerHelper.md)
-- [VehicleController](VehicleController.md)
-- [VehicleHelper](Helpers/VehicleHelper.md)
+- None detected.
 
 ## Used By
 
-- [HamptonsHouse](HamptonsHouse.md)
+- None detected.
 
 ## Notes
 

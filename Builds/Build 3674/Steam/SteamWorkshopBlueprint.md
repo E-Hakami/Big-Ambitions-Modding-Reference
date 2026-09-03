@@ -1,10 +1,6 @@
 # SteamWorkshopBlueprint
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SteamWorkshopBlueprint`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,25 +8,11 @@
 
 ## Uses
 
-- [Blueprint](../Blueprints/Blueprint.md)
-- [BlueprintParser](../Blueprints/BlueprintParser.md)
-- [BlueprintsFolderLoader](../Blueprints/BlueprintsFolderLoader.md)
-- [BlueprintSortInfo](../BlueprintsUI/BlueprintSortInfo.md)
-- [BlueprintsPanel](../BlueprintsUI/BlueprintsPanel.md)
-- [BlueprintType](../BlueprintsUI/BlueprintType.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [DataElement](../Blueprints/DataElement.md)
-- [FileSystemHelper](../Blueprints/FileSystemHelper.md)
-- [Item](../BusinessLayoutSets/Item.md)
-- [Rating](../UI.Elements/Rating.md)
-- [SortByOption](../BlueprintsUI/SortByOption.md)
+- None detected.
 
 ## Used By
 
-- [BlueprintGalleryController](../Blueprints/BlueprintGalleryController.md)
-- [BlueprintLibraryController](../Blueprints/BlueprintLibraryController.md)
-- [BlueprintsFolderLoader](../Blueprints/BlueprintsFolderLoader.md)
-- [WorkshopBlueprints](../Blueprints/WorkshopBlueprints.md)
+- None detected.
 
 ## Notes
 

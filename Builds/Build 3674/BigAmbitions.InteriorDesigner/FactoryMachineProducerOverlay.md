@@ -1,10 +1,6 @@
 # FactoryMachineProducerOverlay
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FactoryMachineProducerOverlay`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [FactoryAssemblyMachineController](../Items.SpecialItems/FactoryAssemblyMachineController.md)
-- [FactoryWorkstationInstance](../FactoryWorkstationInstance.md)
-- [IProducerOverlay](IProducerOverlay.md)
-- [ItemController](../ItemController.md)
-- [MachineInfoOverlay](../Player.HUD.ItemInfoOverlays/MachineInfoOverlay.md)
-- [MachineOverlay](../Player.HUD.ItemInfoOverlays/MachineOverlay.md)
+- None detected.
 
 ## Used By
 

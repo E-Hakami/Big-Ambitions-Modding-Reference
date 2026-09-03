@@ -1,10 +1,6 @@
 # ScheduleEmployeeSortToggle
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ScheduleEmployeeSortToggle`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,7 @@
 
 ## Uses
 
-- [BaseSortToggle](../UI.Smartphone.Apps.Shared/BaseSortToggle.md)
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Employee](../Employee.md)
-- [JobDemandHelper](../Entities.Employee.JobDemands/JobDemandHelper.md)
-- [Satisfaction](../Satisfaction.md)
-- [ScheduleEmployeeModel](ScheduleEmployeeModel.md)
-- [ScheduleEmployeeSortingMethod](ScheduleEmployeeSortingMethod.md)
-- [ScheduleHelper](ScheduleHelper.md)
+- None detected.
 
 ## Used By
 

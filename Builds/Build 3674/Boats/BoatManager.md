@@ -1,10 +1,6 @@
 # BoatManager
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BoatManager`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,20 +8,11 @@
 
 ## Uses
 
-- [Boat](Boat.md)
-- [BoatData](BoatData.md)
-- [BoatType](../Entities/BoatType.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [GameManager](../GameManager.md)
-- [GlobalEvents](../GlobalEvents.md)
-- [ItemHelper](../ItemHelper.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [TransactionInfo](../TransactionInfo.md)
+- None detected.
 
 ## Used By
 
-- [BoatController](BoatController.md)
-- [CityManager](../CityManager.md)
+- None detected.
 
 ## Notes
 

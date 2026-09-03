@@ -1,10 +1,6 @@
 # WideSignTypes
 
-**Type:** Class
-
-**Declared Types:**
-
-- `WideSignTypes`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [WideSignType](WideSignType.md)
+- None detected.
 
 ## Used By
 
-- [BuildingSignController](../BuildingSignController.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # DetailedOverlayType
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `DetailedOverlayType`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [Dropdown](../UI.Elements/Dropdown.md)
-- [Employee](../Employee.md)
+- None detected.
 
 ## Used By
 
-- [DetailedOverlay](DetailedOverlay.md)
-- [EntityController](../EntityController.md)
-- [OverlayHelper](OverlayHelper.md)
-- [OverlayManager](OverlayManager.md)
-- [PrivateDriverVehicle](../Helpers/PrivateDriverVehicle.md)
-- [UniformLockerController](../UniformLockerController.md)
+- None detected.
 
 ## Notes
 

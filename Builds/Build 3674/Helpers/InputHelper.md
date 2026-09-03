@@ -1,10 +1,6 @@
 # InputHelper
 
-**Type:** Class
-
-**Declared Types:**
-
-- `InputHelper`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,22 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](BuildingHelper.md)
-- [GameManager](../GameManager.md)
-- [GlobalEvents](../GlobalEvents.md)
-- [PlayerPrefSettings](../PlayerPrefSettings.md)
+- None detected.
 
 ## Used By
 
-- [BlueprintCreatorManager](../BigAmbitions.BlueprintCreator/BlueprintCreatorManager.md)
-- [BuildingManager](../BuildingManager.md)
-- [GameManager](../GameManager.md)
-- [InteriorDesignerController](../Buildings.Indoors.InteriorDesign/InteriorDesignerController.md)
-- [IntroCharacterCustomizer](../Intro/IntroCharacterCustomizer.md)
-- [MouseController](../MouseController.md)
-- [Options](../Scenes.MainMenu/Options.md)
-- [PlayerController](../PlayerController.md)
-- [TennisCourt](../PlayerActivity.Tennis/TennisCourt.md)
+- None detected.
 
 ## Notes
 

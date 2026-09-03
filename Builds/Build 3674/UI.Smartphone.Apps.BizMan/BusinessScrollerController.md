@@ -1,10 +1,6 @@
 # BusinessScrollerController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BusinessScrollerController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,20 +8,11 @@
 
 ## Uses
 
-- [BaseFilterController](../UI.Smartphone.Apps.Shared/BaseFilterController.md)
-- [BaseFilteredScrollerController](../UI.Smartphone.Apps.Shared/BaseFilteredScrollerController.md)
-- [BizMan](BizMan.md)
-- [BizManFilterController](BizManFilterController.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BuildingTypeHelper](../Buildings/BuildingTypeHelper.md)
-- [BusinessCellView](../BusinessCellView.md)
-- [BusinessTypeHelper](../Helpers/BusinessTypeHelper.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 
-- [BizManList](BizManList.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # InteriorInstallationContractsList
 
-**Type:** Class
-
-**Declared Types:**
-
-- `InteriorInstallationContractsList`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [DialogController](../DialogController.md)
-- [InteriorInstallationFirmAgentDialog](InteriorInstallationFirmAgentDialog.md)
-- [InteriorInstallationFirmContract](../Entities/InteriorInstallationFirmContract.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [TimeHelper](../TimeHelper.md)
+- None detected.
 
 ## Used By
 

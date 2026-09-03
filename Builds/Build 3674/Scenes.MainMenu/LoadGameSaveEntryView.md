@@ -1,10 +1,6 @@
 # LoadGameSaveEntryView
 
-**Type:** Class
-
-**Declared Types:**
-
-- `LoadGameSaveEntryView`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [ImageTooltip](../Tooltip/ImageTooltip.md)
-- [ModTooltip](../UI.Components/ModTooltip.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 
-- [LoadGameCharacterEntryView](LoadGameCharacterEntryView.md)
+- None detected.
 
 ## Notes
 

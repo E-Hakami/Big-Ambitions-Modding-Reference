@@ -1,11 +1,6 @@
 # RealEstateCellView
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RealEstateCellView`
-- `RealEstateModel`
+**Type:** Source File
 
 ## Main Reference
 
@@ -13,18 +8,11 @@
 
 ## Uses
 
-- [BaTable](../BaTable/BaTable.md)
-- [BaTableCellView](../BaTable/BaTableCellView.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [MarketInsider](MarketInsider.md)
-- [UIs](../UI/UIs.md)
+- None detected.
 
 ## Used By
 
-- [RealEstateFilterController](RealEstateFilterController.md)
-- [RealEstateFilterToggle](RealEstateFilterToggle.md)
-- [RealEstateScrollerController](RealEstateScrollerController.md)
-- [RivalRealEstateTable](../UI.Smartphone.Apps.Rivals.Tables/RivalRealEstateTable.md)
+- None detected.
 
 ## Notes
 

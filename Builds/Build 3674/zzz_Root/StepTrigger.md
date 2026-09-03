@@ -1,10 +1,6 @@
 # StepTrigger
 
-**Type:** Class
-
-**Declared Types:**
-
-- `StepTrigger`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [GameManager](GameManager.md)
-- [PlayerController](PlayerController.md)
-- [SfxManager](SfxManager.md)
-- [ThirdPersonCharacter](ThirdPersonCharacter.md)
+- None detected.
 
 ## Used By
 

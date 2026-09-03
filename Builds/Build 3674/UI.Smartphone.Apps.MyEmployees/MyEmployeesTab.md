@@ -1,10 +1,6 @@
 # MyEmployeesTab
 
-**Type:** Class
-
-**Declared Types:**
-
-- `MyEmployeesTab`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,7 +8,7 @@
 
 ## Uses
 
-- [MyEmployees](MyEmployees.md)
+- None detected.
 
 ## Used By
 

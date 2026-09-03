@@ -1,10 +1,6 @@
 # BizManBuildingInfo
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BizManBuildingInfo`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BizManBusiness](BizManBusiness.md)
-- [CityBuildingController](CityBuildingController.md)
-- [CityManager](CityManager.md)
-- [RealEstate](Entities/RealEstate.md)
-- [SaveGameManager](SaveGameManager.md)
+- None detected.
 
 ## Used By
 
-- [BizManBusiness](BizManBusiness.md)
+- None detected.
 
 ## Notes
 

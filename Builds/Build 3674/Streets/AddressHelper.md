@@ -1,10 +1,6 @@
 # AddressHelper
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AddressHelper`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [GameManager](../GameManager.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 
-- [AddressableLoader](../BigAmbitions.SaveSystem/AddressableLoader.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Road](../Road.md)
-- [RoadNameLabel](../RoadNameLabel.md)
-- [UndergroundParkingManager](../Parking.UndergroundParking/UndergroundParkingManager.md)
+- None detected.
 
 ## Notes
 

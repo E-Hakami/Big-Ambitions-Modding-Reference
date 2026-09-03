@@ -1,10 +1,6 @@
 # AddRequiredBathroomItemsAndChangingRoomsToDeliverySpots
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AddRequiredBathroomItemsAndChangingRoomsToDeliverySpots`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BusinessRequirement](../Buildings.BuildingTypes.Shared.BusinessRequirement/BusinessRequirement.md)
-- [BusinessTypeHelper](../Helpers/BusinessTypeHelper.md)
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
-- [ItemsOfTypeInBuildingBySqm](../Buildings.BuildingTypes.Shared.BusinessRequirement/ItemsOfTypeInBuildingBySqm.md)
-- [SpecificItemsInBuildingBySqm](../Buildings.BuildingTypes.Shared.BusinessRequirement/SpecificItemsInBuildingBySqm.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA09](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA09.md)
+- None detected.
 
 ## Notes
 

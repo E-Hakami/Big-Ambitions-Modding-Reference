@@ -1,10 +1,6 @@
 # CustomGameSliderOption
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CustomGameSliderOption`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CustomGameOption](CustomGameOption.md)
-- [HoldRepeatButton](../UI.Components/HoldRepeatButton.md)
+- None detected.
 
 ## Used By
 
-- [CustomGameOptionsHandler](CustomGameOptionsHandler.md)
+- None detected.
 
 ## Notes
 

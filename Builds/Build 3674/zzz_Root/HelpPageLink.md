@@ -1,10 +1,6 @@
 # HelpPageLink
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HelpPageLink`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [HelpCategory](HelpCategory.md)
-- [HelpSystem](HelpSystem.md)
+- None detected.
 
 ## Notes
 

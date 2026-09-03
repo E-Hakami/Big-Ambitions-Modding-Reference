@@ -1,10 +1,6 @@
 # AttractionViewBlockingEntity
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AttractionViewBlockingEntity`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [Attraction](Attraction.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CarnivalPedestrian](../CarnivalPedestrian.md)
-- [ViewBlockingEntity](../ViewBlockingEntity.md)
+- None detected.
 
 ## Used By
 

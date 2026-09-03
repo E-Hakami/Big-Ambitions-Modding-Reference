@@ -1,10 +1,6 @@
 # TicketBoothCtaBehavior
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TicketBoothCtaBehavior`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,19 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [EntityController](../EntityController.md)
-- [GameManager](../GameManager.md)
-- [ICtaBehavior](ICtaBehavior.md)
-- [IsPlayerOwnedBusiness](../IsPlayerOwnedBusiness.md)
-- [JobInstance](../JobInstance.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [TicketBoothController](../Controllers/TicketBoothController.md)
+- None detected.
 
 ## Used By
 
-- [CtaManager](CtaManager.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # TutorialPointerDataWorldItemToInteractIfItemsToPurchaseGrabbed
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TutorialPointerDataWorldItemToInteractIfItemsToPurchaseGrabbed`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [HasPurchasedItem](HasPurchasedItem.md)
-- [ItemController](../ItemController.md)
-- [PlayerHelper](../Helpers/PlayerHelper.md)
-- [TutorialPointerDataWorldItemToInteract](TutorialPointerDataWorldItemToInteract.md)
+- None detected.
 
 ## Used By
 

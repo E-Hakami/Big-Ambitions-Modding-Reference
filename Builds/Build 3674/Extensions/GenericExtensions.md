@@ -1,10 +1,6 @@
 # GenericExtensions
 
-**Type:** Class
-
-**Declared Types:**
-
-- `GenericExtensions`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CultureHelper](CultureHelper.md)
-- [Dropdown](../UI.Elements/Dropdown.md)
-- [Floor](../Parking.UndergroundParking/Floor.md)
-- [GlobalReferences](../GlobalReferences.md)
-- [InputField](../UI.Components/InputField.md)
+- None detected.
 
 ## Used By
 
-- [Customer](../Customer.md)
-- [Feedback](../UI.Smartphone.Apps.Feedback/Feedback.md)
-- [IndoorCustomerSpawner](../IndoorCustomerSpawner.md)
+- None detected.
 
 ## Notes
 

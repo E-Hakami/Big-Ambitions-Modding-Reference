@@ -1,10 +1,6 @@
 # TrashBinController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TrashBinController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [HudConfirm](HudConfirm.md)
-- [ItemController](ItemController.md)
-- [PlayerHelper](Helpers/PlayerHelper.md)
+- None detected.
 
 ## Used By
 
-- [ManageCtaBehavior](Player.HUD.ItemInfoOverlays/ManageCtaBehavior.md)
+- None detected.
 
 ## Notes
 

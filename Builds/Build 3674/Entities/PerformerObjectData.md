@@ -1,10 +1,6 @@
 # PerformerObjectData
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PerformerObjectData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [StreetPerformer](StreetPerformer.md)
-- [StreetPerformerData](StreetPerformerData.md)
+- None detected.
 
 ## Notes
 

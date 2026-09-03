@@ -1,10 +1,6 @@
 # DrivingControlsHintProvider
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DrivingControlsHintProvider`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [ConfigurableControlsHintProvider](ConfigurableControlsHintProvider.md)
-- [GlobalEvents](../GlobalEvents.md)
-- [VehicleController](../VehicleController.md)
+- None detected.
 
 ## Used By
 

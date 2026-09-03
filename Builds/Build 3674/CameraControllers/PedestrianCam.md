@@ -1,10 +1,6 @@
 # PedestrianCam
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PedestrianCam`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,33 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingPreview](../UI/BuildingPreview.md)
-- [CityMap](../CityMap.md)
-- [FullMenu](../UI.Smartphone/FullMenu.md)
-- [GameManager](../GameManager.md)
-- [LoadScene](../UI.Load/LoadScene.md)
-- [MiniMenu](../UI.MiniMenu/MiniMenu.md)
-- [PlayerPrefSettings](../PlayerPrefSettings.md)
+- None detected.
 
 ## Used By
 
-- [BlueprintCreatorCamera](../BigAmbitions.BlueprintCreator/BlueprintCreatorCamera.md)
-- [BlueprintsPanel](../BlueprintsUI/BlueprintsPanel.md)
-- [BuildingPreviewCam](BuildingPreviewCam.md)
-- [CarController](../CarController.md)
-- [ChangeCharacterClothesUI](../ChangeCharacterClothesUI.md)
-- [ChangeCharacterHairUI](../ChangeCharacterHairUI.md)
-- [CityMapCam](../CityMapCam.md)
-- [DialogUI](../UI.Dialog/DialogUI.md)
-- [DoctorDialog](../Dialogs/DoctorDialog.md)
-- [GameManager](../GameManager.md)
-- [InteriorDesignerUI](../UI.InteriorDesigner/InteriorDesignerUI.md)
-- [Options](../Scenes.MainMenu/Options.md)
-- [PlacementCam](PlacementCam.md)
-- [PlacementHelper](../Buildings.Indoors.InteriorDesign/PlacementHelper.md)
-- [PlasticSurgeryUI](../Character.Customization/PlasticSurgeryUI.md)
-- [PurchaseUI](../UI.Purchase/PurchaseUI.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # IScheduleConstraint
 
-**Type:** Interface
-
-**Declared Types:**
-
-- `IScheduleConstraint`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [Employee](../Employee.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [ScheduleAutoFiller](../Buildings.Schedule/ScheduleAutoFiller.md)
-- [WorkStationInfo](../Buildings.Schedule/WorkStationInfo.md)
+- None detected.
 
 ## Used By
 
-- [DaysWorkingPerWeek](DaysWorkingPerWeek.md)
-- [FreeOnDays](FreeOnDays.md)
-- [HasNoShiftBetweenHours](HasNoShiftBetweenHours.md)
-- [HoursWorkingPerWeek](HoursWorkingPerWeek.md)
-- [ScheduleAutoFiller](../Buildings.Schedule/ScheduleAutoFiller.md)
+- None detected.
 
 ## Notes
 

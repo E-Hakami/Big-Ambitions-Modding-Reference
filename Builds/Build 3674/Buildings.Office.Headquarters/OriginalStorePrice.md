@@ -1,10 +1,6 @@
 # OriginalStorePrice
 
-**Type:** Class
-
-**Declared Types:**
-
-- `OriginalStorePrice`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [PricingManagerPlan](PricingManagerPlan.md)
+- None detected.
 
 ## Notes
 

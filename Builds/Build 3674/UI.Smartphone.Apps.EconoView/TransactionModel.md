@@ -1,10 +1,6 @@
 # TransactionModel
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TransactionModel`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [EconoView](EconoView.md)
-- [PurchaseUI](../UI.Purchase/PurchaseUI.md)
+- None detected.
 
 ## Used By
 
-- [EconoViewFullTransactionsScrollerController](EconoViewFullTransactionsScrollerController.md)
-- [EconoViewTransactionCellView](EconoViewTransactionCellView.md)
+- None detected.
 
 ## Notes
 

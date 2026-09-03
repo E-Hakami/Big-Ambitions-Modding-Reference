@@ -1,10 +1,6 @@
 # EconoViewBusinessDetails
 
-**Type:** Class
-
-**Declared Types:**
-
-- `EconoViewBusinessDetails`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BusinessType](BusinessType.md)
-- [BusinessTypeHelper](Helpers/BusinessTypeHelper.md)
-- [EconoView](UI.Smartphone.Apps.EconoView/EconoView.md)
-- [EconoViewIncomeStatement](UI.Smartphone.Apps.EconoView/EconoViewIncomeStatement.md)
-- [FinancialSummary](Entities/FinancialSummary.md)
-- [SaveGameManager](SaveGameManager.md)
-- [UIs](UI/UIs.md)
+- None detected.
 
 ## Used By
 
-- [EconoView](UI.Smartphone.Apps.EconoView/EconoView.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # BehaviorGameGUI2
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BehaviorGameGUI2`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [GameManager](GameManager.md)
-- [PhysicsGizmos](PhysicsGizmos.md)
+- None detected.
 
 ## Used By
 

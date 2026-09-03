@@ -1,10 +1,6 @@
 # CharacterEmojiSystem
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CharacterEmojiSystem`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CharacterEmojiExpression](CharacterEmojiExpression.md)
-- [ItemWarningIconManager](../Player.HUD.ItemWarningIcons/ItemWarningIconManager.md)
+- None detected.
 
 ## Used By
 
-- [CharacterEmojiExpression](CharacterEmojiExpression.md)
-- [NegotiationHelper](../Entities/NegotiationHelper.md)
-- [ThirdPersonCharacter](../ThirdPersonCharacter.md)
+- None detected.
 
 ## Notes
 

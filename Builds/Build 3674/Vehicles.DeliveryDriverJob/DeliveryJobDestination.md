@@ -1,10 +1,6 @@
 # DeliveryJobDestination
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DeliveryJobDestination`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [DeliveryDriverMission](../Player.PlayerMissions/DeliveryDriverMission.md)
-- [DeliveryJobHelper](DeliveryJobHelper.md)
-- [DeliveryJobStartController](DeliveryJobStartController.md)
-- [DeliveryJobUI](DeliveryJobUI.md)
+- None detected.
 
 ## Notes
 

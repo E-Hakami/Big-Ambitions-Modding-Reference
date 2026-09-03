@@ -1,10 +1,6 @@
 # EconoViewFullTransactions
 
-**Type:** Class
-
-**Declared Types:**
-
-- `EconoViewFullTransactions`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Dropdown](../UI.Elements/Dropdown.md)
-- [EconoView](EconoView.md)
-- [EconoViewFullTransactionsScrollerController](EconoViewFullTransactionsScrollerController.md)
-- [EconoViewOverview](EconoViewOverview.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [SaveGamePathHelper](../SaveGamePathHelper.md)
-- [Transaction](../Transaction.md)
+- None detected.
 
 ## Used By
 
-- [EconoViewOverview](EconoViewOverview.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # BuildingOutsideMusicController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BuildingOutsideMusicController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingOutsideMusic](../BuildingOutsideMusic.md)
-- [BusinessTypeHelper](../Helpers/BusinessTypeHelper.md)
-- [CityBuildingController](../CityBuildingController.md)
-- [CityManager](../CityManager.md)
-- [CullingManager](../Culling/CullingManager.md)
-- [ICullable](../Culling/ICullable.md)
+- None detected.
 
 ## Used By
 
-- [CityBuildingController](../CityBuildingController.md)
+- None detected.
 
 ## Notes
 

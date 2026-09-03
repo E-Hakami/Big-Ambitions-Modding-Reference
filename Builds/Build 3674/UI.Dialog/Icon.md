@@ -1,10 +1,6 @@
 # Icon
 
-**Type:** Class
-
-**Declared Types:**
-
-- `Icon`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [Dialog](../Dialogs/Dialog.md)
+- None detected.
 
 ## Used By
 
-- [CandidateSalaryNegotiationDialog](../AI.Employees.SalaryNegotiation/CandidateSalaryNegotiationDialog.md)
-- [DialogController](../DialogController.md)
-- [DialogEntry](../Entities/DialogEntry.md)
-- [HealthInsuranceNegotiationDialog](../Dialogs/HealthInsuranceNegotiationDialog.md)
-- [SlotMachineUI](SlotMachineUI.md)
+- None detected.
 
 ## Notes
 

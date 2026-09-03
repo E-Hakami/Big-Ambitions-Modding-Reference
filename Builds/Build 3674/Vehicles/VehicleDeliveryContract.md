@@ -1,10 +1,6 @@
 # VehicleDeliveryContract
 
-**Type:** Class
-
-**Declared Types:**
-
-- `VehicleDeliveryContract`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,19 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [BuildingManager](../BuildingManager.md)
-- [ContractVehicleForSale](../Buildings/ContractVehicleForSale.md)
-- [GameInstance](../GameInstance.md)
-- [InitVehicleDeliveryContracts](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA010/InitVehicleDeliveryContracts.md)
-- [ShowcaseVehicleController](../Controllers/ShowcaseVehicleController.md)
-- [VehicleDeliveryContractEntry](../Buildings/VehicleDeliveryContractEntry.md)
-- [VehicleDeliveryContractList](../Buildings/VehicleDeliveryContractList.md)
-- [VehicleDeliveryHelper](VehicleDeliveryHelper.md)
-- [VehicleStoreDialog](../Buildings/VehicleStoreDialog.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # PercentageGroup
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PercentageGroup`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [PercentageGroupEntry](PercentageGroupEntry.md)
+- None detected.
 
 ## Used By
 
-- [BizManInventoryPricing](../UI.Smartphone.Apps.BizMan/BizManInventoryPricing.md)
+- None detected.
 
 ## Notes
 

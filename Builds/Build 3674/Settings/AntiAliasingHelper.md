@@ -1,10 +1,6 @@
 # AntiAliasingHelper
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AntiAliasingHelper`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [AntiAliasingSetting](AntiAliasingSetting.md)
-- [PlayerPref](../PlayerPref.md)
-- [PlayerPrefs](../PlayerPrefs.md)
-- [PlayerPrefSettings](../PlayerPrefSettings.md)
+- None detected.
 
 ## Used By
 
-- [GameManager](../GameManager.md)
-- [IntroCharacterCustomizer](../Intro/IntroCharacterCustomizer.md)
-- [Options](../Scenes.MainMenu/Options.md)
+- None detected.
 
 ## Notes
 

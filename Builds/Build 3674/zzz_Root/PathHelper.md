@@ -1,10 +1,6 @@
 # PathHelper
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PathHelper`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [CinemaTheaterBoothController](Controllers/CinemaTheaterBoothController.md)
-- [EntityController](EntityController.md)
-- [PlaySpotsManager](Buildings.BuildingTypes.Special/PlaySpotsManager.md)
-- [RandomAvailableNavMeshPositionGetter](Controllers/RandomAvailableNavMeshPositionGetter.md)
+- None detected.
 
 ## Notes
 

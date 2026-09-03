@@ -1,10 +1,6 @@
 # GolferNpc
 
-**Type:** Class
-
-**Declared Types:**
-
-- `GolferNpc`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,19 +8,11 @@
 
 ## Uses
 
-- [AnimationTriggerEvents](../Character/AnimationTriggerEvents.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [GameManager](../GameManager.md)
-- [GlobalReferences](../GlobalReferences.md)
-- [GolferPool](../GolferPool.md)
-- [GolfPlatformController](../Items.SpecialItems/GolfPlatformController.md)
-- [SfxManager](../SfxManager.md)
+- None detected.
 
 ## Used By
 
-- [GolfActivity](../PlayerActivity/GolfActivity.md)
-- [GolfCourse](../PlayerActivity/GolfCourse.md)
-- [GolferPool](../GolferPool.md)
+- None detected.
 
 ## Notes
 

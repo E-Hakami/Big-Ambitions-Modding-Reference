@@ -1,10 +1,6 @@
 # HasPurchasedRequiredInventoryForSecondProductInBusiness
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasPurchasedRequiredInventoryForSecondProductInBusiness`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BusinessTypeHelper](../Helpers/BusinessTypeHelper.md)
-- [HasPurchasedDynamicItems](HasPurchasedDynamicItems.md)
-- [QuestEntryTarget](QuestEntryTarget.md)
+- None detected.
 
 ## Used By
 

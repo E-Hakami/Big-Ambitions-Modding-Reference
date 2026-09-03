@@ -1,10 +1,6 @@
 # BuildingForSale
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BuildingForSale`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,24 +8,11 @@
 
 ## Uses
 
-- [Building](Buildings/Building.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingRegistration](BuildingRegistration.md)
+- None detected.
 
 ## Used By
 
-- [BizManPresentation](BizManPresentation.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CityMapFilters](CityMapFilters.md)
-- [FixWrongAddresses](Player.SaveSystem.CompatibilityFixes.CompatibilityFixes1/FixWrongAddresses.md)
-- [GameInstance](GameInstance.md)
-- [InitializeSpecialBusinesses](Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA010/InitializeSpecialBusinesses.md)
-- [RealEstateHelper](Helpers/RealEstateHelper.md)
-- [RealEstateScrollerController](UI.Smartphone.Apps.MarketInsider/RealEstateScrollerController.md)
-- [RealEstateSettings](UI.Smartphone.Apps.BizMan/RealEstateSettings.md)
-- [RemoveInexistentBuildings](Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA09/RemoveInexistentBuildings.md)
-- [RemoveInexistentBuildingsFromBuildingForSale](Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA09/RemoveInexistentBuildingsFromBuildingForSale.md)
-- [UpdateSixthAndSeventhStreetAddresses](Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA09/UpdateSixthAndSeventhStreetAddresses.md)
+- None detected.
 
 ## Notes
 

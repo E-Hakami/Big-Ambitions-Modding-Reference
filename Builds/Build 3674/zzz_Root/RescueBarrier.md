@@ -1,10 +1,6 @@
 # RescueBarrier
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RescueBarrier`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,7 @@
 
 ## Uses
 
-- [Feedback](UI.Smartphone.Apps.Feedback/Feedback.md)
-- [GameManager](GameManager.md)
-- [GlobalReferences](GlobalReferences.md)
-- [Notification](UI.Notification/Notification.md)
-- [Notifications](UI.Notification/Notifications.md)
-- [NotificationType](UI.Notification/NotificationType.md)
-- [VehicleController](VehicleController.md)
-- [VehicleHelper](Helpers/VehicleHelper.md)
+- None detected.
 
 ## Used By
 

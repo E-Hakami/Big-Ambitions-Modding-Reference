@@ -1,10 +1,6 @@
 # CustomGamePanel
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CustomGamePanel`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,25 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CustomGameNameInput](CustomGameNameInput.md)
-- [CustomGameOptionsHandler](CustomGameOptionsHandler.md)
-- [CustomGamePresetsHandler](CustomGamePresetsHandler.md)
-- [DifficultySetting](../DifficultySetting.md)
-- [Dropdown](../UI.Elements/Dropdown.md)
-- [GameVariables](../GameVariables.md)
-- [GlobalReferences](../GlobalReferences.md)
-- [HudConfirm](../HudConfirm.md)
-- [MainMenuController](../MainMenuController.md)
-- [NewGamePanel](NewGamePanel.md)
-- [Notification](../UI.Notification/Notification.md)
-- [Notifications](../UI.Notification/Notifications.md)
-- [NotificationType](../UI.Notification/NotificationType.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 
-- [Options](../Scenes.MainMenu/Options.md)
+- None detected.
 
 ## Notes
 

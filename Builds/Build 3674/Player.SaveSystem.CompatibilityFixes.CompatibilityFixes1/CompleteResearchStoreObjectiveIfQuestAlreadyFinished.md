@@ -1,10 +1,6 @@
 # CompleteResearchStoreObjectiveIfQuestAlreadyFinished
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CompleteResearchStoreObjectiveIfQuestAlreadyFinished`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceTo1](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceTo1.md)
+- None detected.
 
 ## Notes
 

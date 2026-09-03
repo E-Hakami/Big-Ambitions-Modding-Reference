@@ -1,10 +1,6 @@
 # RandomVehicleDirtiness
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RandomVehicleDirtiness`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CarFeatures](CarFeatures.md)
-- [UndergroundParkingManager](Parking.UndergroundParking/UndergroundParkingManager.md)
+- None detected.
 
 ## Used By
 

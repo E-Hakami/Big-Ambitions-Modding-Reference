@@ -1,10 +1,6 @@
 # TaxPaymentType
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `TaxPaymentType`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,9 +12,7 @@
 
 ## Used By
 
-- [IRSEmployee](../IRSEmployee.md)
-- [IRSStationController](../Controllers/IRSStationController.md)
-- [PurchaseUI](../UI.Purchase/PurchaseUI.md)
+- None detected.
 
 ## Notes
 

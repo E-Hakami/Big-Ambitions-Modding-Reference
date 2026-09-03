@@ -1,10 +1,6 @@
 # SleepEnvironmentType
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `SleepEnvironmentType`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [Boat](../Boats/Boat.md)
+- None detected.
 
 ## Used By
 
-- [EnumHelpers](../EnumHelpers.md)
-- [PlayerActivityUI](PlayerActivityUI.md)
-- [SleepActivity](SleepActivity.md)
-- [SleepEnvironment](SleepEnvironment.md)
-- [SleepEnvironmentConfig](SleepEnvironmentConfig.md)
+- None detected.
 
 ## Notes
 

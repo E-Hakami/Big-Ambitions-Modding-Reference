@@ -1,10 +1,6 @@
 # UpdateDeliveryContracts
 
-**Type:** Class
-
-**Declared Types:**
-
-- `UpdateDeliveryContracts`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](ICompatibilityFix.md)
+- None detected.
 
 ## Used By
 
-- [BizManTransfer](../Buildings.BuildingTypes.Special.MovingCompany/BizManTransfer.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # DifficultySetting
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DifficultySetting`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,22 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [DifficultyIndicator](Player.DifficultySettings/DifficultyIndicator.md)
-- [GameVariables](GameVariables.md)
-- [GlobalReferences](GlobalReferences.md)
+- None detected.
 
 ## Used By
 
-- [AddExportMultiplierGameVariable](Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA010/AddExportMultiplierGameVariable.md)
-- [CustomGamePanel](UI.MainMenu/CustomGamePanel.md)
-- [GenerateRivals](Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA05/GenerateRivals.md)
-- [GlobalReferences](GlobalReferences.md)
-- [ItemHelper](ItemHelper.md)
-- [Options](Scenes.MainMenu/Options.md)
-- [SetUpBaseCustomerPromotionMultiplier](Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA09/SetUpBaseCustomerPromotionMultiplier.md)
-- [SetUpUrgentFeesMultiplier](Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA09/SetUpUrgentFeesMultiplier.md)
-- [StoryDifficultyOption](UI.MainMenu/StoryDifficultyOption.md)
+- None detected.
 
 ## Notes
 

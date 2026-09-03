@@ -1,10 +1,6 @@
 # OutsideInteractableItemToRest
 
-**Type:** Class
-
-**Declared Types:**
-
-- `OutsideInteractableItemToRest`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [EntityController](../EntityController.md)
-- [IPlayerActivity](../PlayerActivity/IPlayerActivity.md)
-- [ItemPanelUI](../UI.ItemPanel/ItemPanelUI.md)
-- [OutsideInteractableItem](OutsideInteractableItem.md)
-- [PlayerActivityUI](../PlayerActivity/PlayerActivityUI.md)
-- [RestEnvironment](../PlayerActivity/RestEnvironment.md)
+- None detected.
 
 ## Used By
 
-- [RestActivity](../PlayerActivity.Activities.Rest/RestActivity.md)
+- None detected.
 
 ## Notes
 

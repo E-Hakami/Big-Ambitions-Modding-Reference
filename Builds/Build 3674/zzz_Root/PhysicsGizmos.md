@@ -1,11 +1,6 @@
 # PhysicsGizmos
 
-**Type:** Multiple
-
-**Declared Types:**
-
-- `PhysicsGizmos`
-- `Box`
+**Type:** Source File
 
 ## Main Reference
 
@@ -13,12 +8,11 @@
 
 ## Uses
 
-- [Rotate](Character.Customization/Rotate.md)
+- None detected.
 
 ## Used By
 
-- [BehaviorGameGUI2](BehaviorGameGUI2.md)
-- [RadioPlayerDebug](RadioPlayerDebug.md)
+- None detected.
 
 ## Notes
 

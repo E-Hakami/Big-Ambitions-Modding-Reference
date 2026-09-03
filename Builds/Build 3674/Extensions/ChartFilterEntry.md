@@ -1,10 +1,6 @@
 # ChartFilterEntry
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ChartFilterEntry`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [FilterOption](FilterOption.md)
+- None detected.
 
 ## Used By
 
-- [ChartController](ChartController.md)
+- None detected.
 
 ## Notes
 

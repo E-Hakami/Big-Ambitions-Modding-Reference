@@ -1,10 +1,6 @@
 # MarketInsiderNeighborhoodData
 
-**Type:** Class
-
-**Declared Types:**
-
-- `MarketInsiderNeighborhoodData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [CityManager](../CityManager.md)
-- [CityMap](../CityMap.md)
-- [CityMapNeighborhoodZones](../CityMapNeighborhoodZones.md)
-- [GameManager](../GameManager.md)
-- [MarketInsider](MarketInsider.md)
-- [NeighborhoodHelper](../NeighborhoodHelper.md)
-- [UIs](../UI/UIs.md)
-- [UnitHelper](../UnitHelper.md)
+- None detected.
 
 ## Used By
 
-- [MarketInsider](MarketInsider.md)
+- None detected.
 
 ## Notes
 

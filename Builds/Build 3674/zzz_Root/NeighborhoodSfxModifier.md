@@ -1,13 +1,6 @@
 # NeighborhoodSfxModifier
 
-**Type:** Class
-
-**Declared Types:**
-
-- `NeighborhoodSfxModifier`
-- `MixerParameterModifier`
-- `NeighborhoodModifier`
-- `MixerParameterState`
+**Type:** Source File
 
 ## Main Reference
 
@@ -15,16 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [CityBuildingController](CityBuildingController.md)
-- [CityManager](CityManager.md)
-- [ClosestBuildingFromPlayer](Buildings/ClosestBuildingFromPlayer.md)
-- [GameManager](GameManager.md)
-- [LoadScene](UI.Load/LoadScene.md)
-- [SaveGameManager](SaveGameManager.md)
-- [SfxManager](SfxManager.md)
-- [UndergroundParkingManager](Parking.UndergroundParking/UndergroundParkingManager.md)
+- None detected.
 
 ## Used By
 

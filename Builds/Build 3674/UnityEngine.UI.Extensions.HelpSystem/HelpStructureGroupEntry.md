@@ -1,10 +1,6 @@
 # HelpStructureGroupEntry
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HelpStructureGroupEntry`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [HelpStructurePageEntry](HelpStructurePageEntry.md)
-- [HelpSystem](../HelpSystem.md)
+- None detected.
 
 ## Used By
 
-- [HelpPageRenderer](../HelpPageRenderer.md)
-- [HelpSystem](../HelpSystem.md)
+- None detected.
 
 ## Notes
 

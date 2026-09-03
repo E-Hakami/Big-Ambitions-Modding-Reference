@@ -1,10 +1,6 @@
 # SharedAnimationType
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SharedAnimationType`
+**Type:** Source File
 
 ## Main Reference
 

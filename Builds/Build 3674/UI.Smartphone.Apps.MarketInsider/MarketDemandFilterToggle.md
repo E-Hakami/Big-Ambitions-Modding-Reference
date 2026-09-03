@@ -1,10 +1,6 @@
 # MarketDemandFilterToggle
 
-**Type:** Class
-
-**Declared Types:**
-
-- `MarketDemandFilterToggle`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BaseFilterToggle](../UI.Smartphone.Apps.Shared/BaseFilterToggle.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [MarketDemandCellView](MarketDemandCellView.md)
-- [MarketInsider](MarketInsider.md)
+- None detected.
 
 ## Used By
 
-- [MarketDemandFilterController](MarketDemandFilterController.md)
+- None detected.
 
 ## Notes
 

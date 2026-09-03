@@ -1,10 +1,6 @@
 # ShaderTrack
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ShaderTrack`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,7 +8,7 @@
 
 ## Uses
 
-- [ShaderFloatClip](ShaderFloatClip.md)
+- None detected.
 
 ## Used By
 

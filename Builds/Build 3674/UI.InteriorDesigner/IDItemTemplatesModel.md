@@ -1,10 +1,6 @@
 # IDItemTemplatesModel
 
-**Type:** Class
-
-**Declared Types:**
-
-- `IDItemTemplatesModel`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [IDItemUiTemplateData](IDItemUiTemplateData.md)
+- None detected.
 
 ## Used By
 
-- [IDItemTemplateCellView](IDItemTemplateCellView.md)
-- [IDItemTemplateScrollingController](IDItemTemplateScrollingController.md)
+- None detected.
 
 ## Notes
 

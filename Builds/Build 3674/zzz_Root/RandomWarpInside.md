@@ -1,10 +1,6 @@
 # RandomWarpInside
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RandomWarpInside`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [IndoorCustomerSpawner](IndoorCustomerSpawner.md)
-- [SharedCustomer](SharedCustomer.md)
+- None detected.
 
 ## Used By
 

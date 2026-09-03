@@ -1,10 +1,6 @@
 # TicketKioskCtaBehavior
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TicketKioskCtaBehavior`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [EntityController](../EntityController.md)
-- [GameManager](../GameManager.md)
-- [ICtaBehavior](ICtaBehavior.md)
-- [TicketKioskController](../Controllers/TicketKioskController.md)
+- None detected.
 
 ## Used By
 
-- [CtaManager](CtaManager.md)
+- None detected.
 
 ## Notes
 

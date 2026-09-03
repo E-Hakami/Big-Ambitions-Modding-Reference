@@ -1,10 +1,6 @@
 # FixNextRecruitDayFromHeadhunterPlans
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FixNextRecruitDayFromHeadhunterPlans`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [GameInstance](../GameInstance.md)
-- [HeadhunterPlan](../Buildings.Office.Headquarters/HeadhunterPlan.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
-- [TimeHelper](../TimeHelper.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA07](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA07.md)
+- None detected.
 
 ## Notes
 

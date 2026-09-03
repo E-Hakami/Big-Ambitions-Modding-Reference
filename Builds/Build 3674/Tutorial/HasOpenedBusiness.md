@@ -1,10 +1,6 @@
 # HasOpenedBusiness
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasOpenedBusiness`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [CustomBuildingTarget](CustomBuildingTarget.md)
-- [QuestRequirement](QuestRequirement.md)
-- [ScheduleDay](../ScheduleDay.md)
+- None detected.
 
 ## Used By
 

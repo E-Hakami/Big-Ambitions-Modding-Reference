@@ -1,10 +1,6 @@
 # PlayerActivityEnergyEnvironmentConfig
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PlayerActivityEnergyEnvironmentConfig`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [EnergyRegen](../EnergyRegen.md)
-- [PlayerActivityBalanceConfig](PlayerActivityBalanceConfig.md)
-- [PlayerActivityEnvironmentConfig](PlayerActivityEnvironmentConfig.md)
+- None detected.
 
 ## Used By
 
-- [RestEnvironmentConfig](RestEnvironmentConfig.md)
-- [SleepEnvironmentConfig](SleepEnvironmentConfig.md)
+- None detected.
 
 ## Notes
 

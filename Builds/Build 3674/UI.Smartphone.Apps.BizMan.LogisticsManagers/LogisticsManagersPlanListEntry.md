@@ -1,10 +1,6 @@
 # LogisticsManagersPlanListEntry
 
-**Type:** Class
-
-**Declared Types:**
-
-- `LogisticsManagersPlanListEntry`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Dropdown](../UI.Elements/Dropdown.md)
-- [LogisticsManagerPlan](../Buildings.Office.Headquarters/LogisticsManagerPlan.md)
+- None detected.
 
 ## Used By
 
-- [LogisticsManagersPlanList](LogisticsManagersPlanList.md)
+- None detected.
 
 ## Notes
 

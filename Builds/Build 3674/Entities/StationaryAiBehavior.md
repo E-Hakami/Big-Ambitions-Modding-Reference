@@ -1,10 +1,6 @@
 # StationaryAiBehavior
 
-**Type:** Class
-
-**Declared Types:**
-
-- `StationaryAiBehavior`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BaseHuman](../BaseHuman.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [CombinedAnimation](CombinedAnimation.md)
-- [StationaryAiData](StationaryAiData.md)
-- [UmbrellaHandler](../AI/UmbrellaHandler.md)
+- None detected.
 
 ## Used By
 
-- [PedestrianStationaryBehavior](../Streets.Pedestrians/PedestrianStationaryBehavior.md)
-- [StationaryAiPool](../StationaryAiPool.md)
-- [StationaryAiSpawner](../StationaryAiSpawner.md)
+- None detected.
 
 ## Notes
 

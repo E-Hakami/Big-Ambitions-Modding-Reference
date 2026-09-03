@@ -1,10 +1,6 @@
 # NumberFormatSetup
 
-**Type:** Class
-
-**Declared Types:**
-
-- `NumberFormatSetup`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,7 +12,7 @@
 
 ## Used By
 
-- [Options](Options.md)
+- None detected.
 
 ## Notes
 

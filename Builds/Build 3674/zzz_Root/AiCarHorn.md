@@ -1,10 +1,6 @@
 # AiCarHorn
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AiCarHorn`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [GameManager](GameManager.md)
+- None detected.
 
 ## Used By
 
-- [PrivateDriverVehicle](Helpers/PrivateDriverVehicle.md)
+- None detected.
 
 ## Notes
 

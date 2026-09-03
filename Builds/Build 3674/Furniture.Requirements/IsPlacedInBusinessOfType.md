@@ -1,10 +1,6 @@
 # IsPlacedInBusinessOfType
 
-**Type:** Class
-
-**Declared Types:**
-
-- `IsPlacedInBusinessOfType`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [BuildingRegistration](../BuildingRegistration.md)
+- None detected.
 
 ## Used By
 

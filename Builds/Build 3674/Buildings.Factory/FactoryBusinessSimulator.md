@@ -1,10 +1,6 @@
 # FactoryBusinessSimulator
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FactoryBusinessSimulator`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BusinessSimulator](../Helpers.BusinessSimulation/BusinessSimulator.md)
-- [EmployeeHelper](../Helpers/EmployeeHelper.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [FactoryExport](FactoryExport.md)
-- [FactoryWorkstationInstance](../FactoryWorkstationInstance.md)
-- [Item](../BusinessLayoutSets/Item.md)
-- [ItemHelper](../ItemHelper.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 

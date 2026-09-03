@@ -1,10 +1,6 @@
 # DirtSpotObject
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DirtSpotObject`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [DirtSpot](Entities/DirtSpot.md)
-- [EntityController](EntityController.md)
-- [PlayerHelper](Helpers/PlayerHelper.md)
+- None detected.
 
 ## Used By
 
-- [BuildingManager](BuildingManager.md)
-- [MopController](MopController.md)
-- [MouseController](MouseController.md)
+- None detected.
 
 ## Notes
 

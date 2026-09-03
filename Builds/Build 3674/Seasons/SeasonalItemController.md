@@ -1,10 +1,6 @@
 # SeasonalItemController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SeasonalItemController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [ItemController](../ItemController.md)
-- [PlayerPrefSettings](../PlayerPrefSettings.md)
+- None detected.
 
 ## Used By
 

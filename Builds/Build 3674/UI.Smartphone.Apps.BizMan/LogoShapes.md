@@ -1,10 +1,6 @@
 # LogoShapes
 
-**Type:** Class
-
-**Declared Types:**
-
-- `LogoShapes`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BizMan](BizMan.md)
-- [LogoHelper](../LogoHelper.md)
-- [LogoShapesList](../LogoShapesList.md)
+- None detected.
 
 ## Used By
 
-- [LogoCustomizer](LogoCustomizer.md)
+- None detected.
 
 ## Notes
 

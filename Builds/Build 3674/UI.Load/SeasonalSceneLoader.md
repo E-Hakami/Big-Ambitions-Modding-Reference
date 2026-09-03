@@ -1,10 +1,6 @@
 # SeasonalSceneLoader
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SeasonalSceneLoader`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [LoadingSpinner](../LoadingSpinner.md)
+- None detected.
 
 ## Used By
 

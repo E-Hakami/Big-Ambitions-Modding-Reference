@@ -1,10 +1,6 @@
 # GoGrabBasketRecentlyArrived
 
-**Type:** Class
-
-**Declared Types:**
-
-- `GoGrabBasketRecentlyArrived`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CharacterShowEmojiExpression](CharacterShowEmojiExpression.md)
-- [ItemController](ItemController.md)
-- [SharedCustomer](SharedCustomer.md)
+- None detected.
 
 ## Used By
 

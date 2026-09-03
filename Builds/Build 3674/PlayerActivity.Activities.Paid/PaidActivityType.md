@@ -1,10 +1,6 @@
 # PaidActivityType
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `PaidActivityType`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BigStrikers](../Controllers/BigStrikers.md)
-- [FerrisWheel](../Controllers/FerrisWheel.md)
+- None detected.
 
 ## Used By
 
-- [EnumHelpers](../EnumHelpers.md)
-- [PaidActivityEnvironment](PaidActivityEnvironment.md)
-- [PaidActivityEnvironmentConfig](PaidActivityEnvironmentConfig.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # TutorialPointerDataWorldPosition
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TutorialPointerDataWorldPosition`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [GameManager](../GameManager.md)
-- [QuestEntryTarget](QuestEntryTarget.md)
-- [TutorialPointer](TutorialPointer.md)
-- [TutorialPointerData](TutorialPointerData.md)
-- [TutorialPointerType](TutorialPointerType.md)
+- None detected.
 
 ## Used By
 

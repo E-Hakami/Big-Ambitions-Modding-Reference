@@ -1,10 +1,6 @@
 # FactoryItem
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FactoryItem`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Item](Item.md)
+- None detected.
 
 ## Used By
 
-- [BusinessLayoutSetHelper](BusinessLayoutSetHelper.md)
-- [UpdateWorkstationLegacyIds](../Blueprints.Compatibility.BlueprintFixesEA11/UpdateWorkstationLegacyIds.md)
+- None detected.
 
 ## Notes
 

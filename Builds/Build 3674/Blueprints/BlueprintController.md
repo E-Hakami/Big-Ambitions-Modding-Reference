@@ -1,10 +1,6 @@
 # BlueprintController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BlueprintController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [Blueprint](Blueprint.md)
-- [BlueprintSortInfo](../BlueprintsUI/BlueprintSortInfo.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [BlueprintDevController](BlueprintDevController.md)
-- [BlueprintGalleryController](BlueprintGalleryController.md)
-- [BlueprintLibraryController](BlueprintLibraryController.md)
-- [BlueprintsListUI](../BlueprintsUI/BlueprintsListUI.md)
+- None detected.
 
 ## Notes
 

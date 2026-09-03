@@ -1,10 +1,6 @@
 # ScheduleScrollerController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ScheduleScrollerController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BaTable](../BaTable/BaTable.md)
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [ScheduleCellView](ScheduleCellView.md)
-- [ScheduleHelper](ScheduleHelper.md)
-- [ScheduleWorkstationModel](ScheduleWorkstationModel.md)
-- [WorkShiftHelper](WorkShiftHelper.md)
-- [WorkShiftType](../WorkShiftType.md)
+- None detected.
 
 ## Used By
 
-- [BizManSchedule](BizManSchedule.md)
+- None detected.
 
 ## Notes
 

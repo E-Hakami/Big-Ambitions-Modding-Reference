@@ -1,10 +1,6 @@
 # GenderButton
 
-**Type:** Class
-
-**Declared Types:**
-
-- `GenderButton`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [Gender](Gender.md)
+- None detected.
 
 ## Used By
 
-- [Gender](Gender.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # PercentageGroupEntry
 
-**Type:** Struct
-
-**Declared Types:**
-
-- `PercentageGroupEntry`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [BizManInventoryPricing](../UI.Smartphone.Apps.BizMan/BizManInventoryPricing.md)
-- [PercentageGroup](PercentageGroup.md)
+- None detected.
 
 ## Notes
 

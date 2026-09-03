@@ -1,10 +1,6 @@
 # GasStationController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `GasStationController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [GameManager](GameManager.md)
-- [GasStationOverlay](UI.Overlays/GasStationOverlay.md)
-- [GasStationRepairGarageDoor](GasStationRepairGarageDoor.md)
-- [GasStationTrigger](GasStationTrigger.md)
-- [GlobalEvents](GlobalEvents.md)
-- [VehicleController](VehicleController.md)
+- None detected.
 
 ## Used By
 
-- [VehicleHelper](Helpers/VehicleHelper.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # SpecialServiceSettings
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SpecialServiceSettings`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,21 +8,11 @@
 
 ## Uses
 
-- [NpcSpawnSettings](NpcSpawnSettings.md)
+- None detected.
 
 ## Used By
 
-- [BankSettings](../SpecialServices.Bank/BankSettings.md)
-- [FurnitureStoreSettings](../FurnitureStoreSettings.md)
-- [GasStationSettings](GasStationSettings.md)
-- [ImportExportSettings](ImportExportSettings.md)
-- [InteriorInstallationFirmSettings](InteriorInstallationFirmSettings.md)
-- [MarketingAgencySettings](MarketingAgencySettings.md)
-- [MovingServiceSettings](MovingServiceSettings.md)
-- [RecruitmentAgencySettings](RecruitmentAgencySettings.md)
-- [SpecialService](SpecialService.md)
-- [VehicleStoreSettings](VehicleStoreSettings.md)
-- [WholesaleStoreSettings](WholesaleStoreSettings.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # BoatTypes
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BoatTypes`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [BoatType](BoatType.md)
-- [BoatTypeName](BoatTypeName.md)
+- None detected.
 
 ## Used By
 

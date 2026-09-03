@@ -1,10 +1,6 @@
 # BuildingOutsideMusicSpawner
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BuildingOutsideMusicSpawner`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingOutsideMusic](../BuildingOutsideMusic.md)
-- [GameManager](../GameManager.md)
-- [PrefabHelper](../Helpers/PrefabHelper.md)
+- None detected.
 
 ## Used By
 
-- [CityManager](../CityManager.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # BusinessRequirementTemplate
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BusinessRequirementTemplate`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [HelpSystem](../HelpSystem.md)
+- None detected.
 
 ## Used By
 
-- [BusinessRequirementsInfoPanelUI](BusinessRequirementsInfoPanelUI.md)
+- None detected.
 
 ## Notes
 

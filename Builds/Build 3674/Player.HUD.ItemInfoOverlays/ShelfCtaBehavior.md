@@ -1,10 +1,6 @@
 # ShelfCtaBehavior
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ShelfCtaBehavior`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,26 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [DeliverySpot](../DeliverySpot.md)
-- [EntityController](../EntityController.md)
-- [GameManager](../GameManager.md)
-- [ICtaBehavior](ICtaBehavior.md)
-- [IsPlayerOwnedBusiness](../IsPlayerOwnedBusiness.md)
-- [ItemHelper](../ItemHelper.md)
-- [PalletController](../PalletController.md)
-- [PlayerHelper](../Helpers/PlayerHelper.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [ShelfController](../ShelfController.md)
-- [StorageShelfController](../StorageShelfController.md)
-- [VehicleHelper](../Helpers/VehicleHelper.md)
-- [VehicleInstance](../VehicleInstance.md)
-- [VehicleType](../Vehicles.VehicleTypes/VehicleType.md)
+- None detected.
 
 ## Used By
 
-- [CtaManager](CtaManager.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # BizManFilterController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BizManFilterController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,21 +8,11 @@
 
 ## Uses
 
-- [BaseFilterController](../UI.Smartphone.Apps.Shared/BaseFilterController.md)
-- [BizMan](BizMan.md)
-- [BizManFilterToggle](BizManFilterToggle.md)
-- [BuildingTypeData](../BuildingTypeData.md)
-- [BuildingTypeHelper](../Buildings/BuildingTypeHelper.md)
-- [BusinessCellView](../BusinessCellView.md)
-- [BusinessStatusFilter](BusinessStatusFilter.md)
-- [BusinessType](../BusinessType.md)
-- [BusinessTypeHelper](../Helpers/BusinessTypeHelper.md)
-- [FilterToggleGroup](../UI.Smartphone.Apps.Shared/FilterToggleGroup.md)
-- [NeighborhoodHelper](../NeighborhoodHelper.md)
+- None detected.
 
 ## Used By
 
-- [BusinessScrollerController](BusinessScrollerController.md)
+- None detected.
 
 ## Notes
 

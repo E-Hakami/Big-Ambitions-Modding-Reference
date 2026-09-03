@@ -1,10 +1,6 @@
 # PricingManagerFilterController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PricingManagerFilterController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BaseFilterController](../UI.Smartphone.Apps.Shared/BaseFilterController.md)
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [BusinessType](../BusinessType.md)
-- [BusinessTypeHelper](../Helpers/BusinessTypeHelper.md)
-- [FilterToggleGroup](../UI.Smartphone.Apps.Shared/FilterToggleGroup.md)
-- [PricingManagerFilterToggle](PricingManagerFilterToggle.md)
-- [PricingManagerProductModel](PricingManagerProductModel.md)
+- None detected.
 
 ## Used By
 
-- [PricingManagerProductsScrollerController](PricingManagerProductsScrollerController.md)
+- None detected.
 
 ## Notes
 

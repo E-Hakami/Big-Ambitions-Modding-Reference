@@ -1,10 +1,6 @@
 # DecorativeItemHolderOverlay
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DecorativeItemHolderOverlay`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,23 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [DecorativeItemHolderController](../DecorativeItemHolderController.md)
-- [EntityController](../EntityController.md)
-- [FridgeController](../FridgeController.md)
-- [IOverlay](IOverlay.md)
-- [IsPlayerOwnedBusiness](../IsPlayerOwnedBusiness.md)
-- [ItemController](../ItemController.md)
-- [OverlayManager](OverlayManager.md)
-- [PlayerHelper](../Helpers/PlayerHelper.md)
-- [VehicleHelper](../Helpers/VehicleHelper.md)
-- [VehicleInstance](../VehicleInstance.md)
-- [VehicleType](../Vehicles.VehicleTypes/VehicleType.md)
+- None detected.
 
 ## Used By
 
-- [OverlayHelper](OverlayHelper.md)
+- None detected.
 
 ## Notes
 

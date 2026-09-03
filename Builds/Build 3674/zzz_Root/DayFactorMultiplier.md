@@ -1,10 +1,6 @@
 # DayFactorMultiplier
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DayFactorMultiplier`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,8 +12,7 @@
 
 ## Used By
 
-- [BusinessType](BusinessType.md)
-- [CustomerEntriesCalculator](AI.Customers.CustomerEntries/CustomerEntriesCalculator.md)
+- None detected.
 
 ## Notes
 

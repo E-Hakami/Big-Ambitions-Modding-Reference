@@ -1,10 +1,6 @@
 # ViewBlockingEntityExtension
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ViewBlockingEntityExtension`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [ViewBlockingEntity](ViewBlockingEntity.md)
+- None detected.
 
 ## Used By
 
-- [ViewBlockingObjectManager](ViewBlockingObjectManager.md)
+- None detected.
 
 ## Notes
 

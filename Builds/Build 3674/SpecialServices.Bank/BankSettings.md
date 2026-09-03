@@ -1,10 +1,6 @@
 # BankSettings
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BankSettings`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [SpecialServiceSettings](../Buildings/SpecialServiceSettings.md)
+- None detected.
 
 ## Used By
 
-- [BankDialog](../Dialogs/BankDialog.md)
-- [BankLoanSettings](../UI.Dialog/BankLoanSettings.md)
-- [LoanHelper](../Helpers/LoanHelper.md)
+- None detected.
 
 ## Notes
 

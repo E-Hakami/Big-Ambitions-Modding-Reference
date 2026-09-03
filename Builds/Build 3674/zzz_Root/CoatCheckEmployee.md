@@ -1,10 +1,6 @@
 # CoatCheckEmployee
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CoatCheckEmployee`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,24 +8,11 @@
 
 ## Uses
 
-- [BuildingCleanlinessHelper](Buildings.BuildingTypes.Shared.Dirtiness/BuildingCleanlinessHelper.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [CoatCheckController](Controllers/CoatCheckController.md)
-- [CustomerState](CustomerState.md)
-- [Employee](Employee.md)
-- [EmployeeStationController](EmployeeStationController.md)
-- [IsPlayerOwnedBusiness](IsPlayerOwnedBusiness.md)
-- [ItemHelper](ItemHelper.md)
-- [LocalizationHelper](Helpers/LocalizationHelper.md)
-- [NightclubCustomer](NightclubCustomer.md)
-- [OrderEntry](Entities/OrderEntry.md)
-- [SfxManager](SfxManager.md)
-- [ThirdPersonCharacter](ThirdPersonCharacter.md)
+- None detected.
 
 ## Used By
 
-- [CoatCheckController](Controllers/CoatCheckController.md)
+- None detected.
 
 ## Notes
 

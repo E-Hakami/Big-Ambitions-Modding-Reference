@@ -1,10 +1,6 @@
 # EmployeeFilterToggleBase
 
-**Type:** Class
-
-**Declared Types:**
-
-- `EmployeeFilterToggleBase`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BaseEmployeeModel](BaseEmployeeModel.md)
-- [BaseFilterToggle](BaseFilterToggle.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [CandidateFilterToggle](../UI.Smartphone.Apps.MyEmployees/CandidateFilterToggle.md)
-- [EmployeeFilterToggle](../UI.Smartphone.Apps.MyEmployees/EmployeeFilterToggle.md)
-- [ScheduleEmployeeFilterToggle](../UI.Smartphone.Apps.BizMan.Schedule/ScheduleEmployeeFilterToggle.md)
+- None detected.
 
 ## Notes
 

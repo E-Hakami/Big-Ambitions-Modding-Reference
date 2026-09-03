@@ -1,10 +1,6 @@
 # PrivateDriverParkingLot
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PrivateDriverParkingLot`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [ParkingLaneGenerator](../ParkingLaneGenerator.md)
+- None detected.
 
 ## Used By
 
-- [PrivateDriverServiceDialog](../Buildings/PrivateDriverServiceDialog.md)
+- None detected.
 
 ## Notes
 

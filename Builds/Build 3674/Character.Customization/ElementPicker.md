@@ -1,10 +1,6 @@
 # ElementPicker
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ElementPicker`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [CharacterCustomizer](CharacterCustomizer.md)
-- [IntroCharacterCustomizer](../Intro/IntroCharacterCustomizer.md)
+- None detected.
 
 ## Notes
 

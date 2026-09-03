@@ -1,10 +1,6 @@
 # SetUpGameInstanceSeed
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SetUpGameInstanceSeed`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA07](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA07.md)
+- None detected.
 
 ## Notes
 

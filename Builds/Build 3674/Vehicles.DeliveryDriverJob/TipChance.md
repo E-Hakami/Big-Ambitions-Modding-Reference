@@ -1,10 +1,6 @@
 # TipChance
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TipChance`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,7 +12,7 @@
 
 ## Used By
 
-- [DeliveryJobTipsConfig](DeliveryJobTipsConfig.md)
+- None detected.
 
 ## Notes
 

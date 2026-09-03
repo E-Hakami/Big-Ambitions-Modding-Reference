@@ -1,10 +1,6 @@
 # Card
 
-**Type:** Class
-
-**Declared Types:**
-
-- `Card`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Dialog](../Dialogs/Dialog.md)
+- None detected.
 
 ## Used By
 
-- [BlackjackUI](BlackjackUI.md)
+- None detected.
 
 ## Notes
 

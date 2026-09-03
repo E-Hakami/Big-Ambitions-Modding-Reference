@@ -1,10 +1,6 @@
 # LogoSettings
 
-**Type:** Class
-
-**Declared Types:**
-
-- `LogoSettings`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,19 +8,11 @@
 
 ## Uses
 
-- [FontFace](Enums/FontFace.md)
-- [LogoHelper](LogoHelper.md)
+- None detected.
 
 ## Used By
 
-- [AiBusinessDefault](AiBusinessDefault.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingRegistration](BuildingRegistration.md)
-- [BusinessLogoGenerator](BusinessLogoGenerator.md)
-- [CityBuildingController](CityBuildingController.md)
-- [FixNullLogoShapes](Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA010/FixNullLogoShapes.md)
-- [LogoHelper](LogoHelper.md)
-- [SpecialService](Buildings/SpecialService.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # AiSpawnerForBuildingOutsideHangoutZone
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AiSpawnerForBuildingOutsideHangoutZone`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [AiSpawnerZone](AiSpawnerZone.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingOutsidePedestrian](Streets.Pedestrians/BuildingOutsidePedestrian.md)
-- [BuildingOutsidePedestrianPool](BuildingOutsidePedestrianPool.md)
-- [CityMap](CityMap.md)
+- None detected.
 
 ## Used By
 
-- [BuildingOutsideHangoutZone](BuildingOutsideHangoutZone.md)
+- None detected.
 
 ## Notes
 

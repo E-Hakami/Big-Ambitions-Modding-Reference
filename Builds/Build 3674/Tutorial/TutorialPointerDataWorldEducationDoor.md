@@ -1,10 +1,6 @@
 # TutorialPointerDataWorldEducationDoor
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TutorialPointerDataWorldEducationDoor`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,7 @@
 
 ## Uses
 
-- [BuildingManager](../BuildingManager.md)
-- [DiplomaName](../DiplomaName.md)
-- [EducationDoorController](../EducationDoorController.md)
-- [ItemController](../ItemController.md)
-- [StudyDiploma](../PlayerActivity/StudyDiploma.md)
-- [TutorialPointer](TutorialPointer.md)
-- [TutorialPointerDataWorldItem](TutorialPointerDataWorldItem.md)
+- None detected.
 
 ## Used By
 

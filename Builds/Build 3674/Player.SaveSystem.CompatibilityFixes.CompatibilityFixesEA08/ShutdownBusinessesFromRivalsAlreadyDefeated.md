@@ -1,10 +1,6 @@
 # ShutdownBusinessesFromRivalsAlreadyDefeated
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ShutdownBusinessesFromRivalsAlreadyDefeated`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
-- [RivalsHelper](../BigAmbitions.Rivals/RivalsHelper.md)
-- [RivalState](../BigAmbitions.Rivals/RivalState.md)
-- [SpecialRival](../BigAmbitions.Rivals/SpecialRival.md)
-- [SpecialRivalState](../BigAmbitions.Rivals/SpecialRivalState.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA08](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA08.md)
+- None detected.
 
 ## Notes
 

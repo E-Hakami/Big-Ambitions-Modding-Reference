@@ -1,10 +1,6 @@
 # LoadingScreen
 
-**Type:** Class
-
-**Declared Types:**
-
-- `LoadingScreen`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,19 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [GameManager](../GameManager.md)
-- [GameScenes](../Scenes/GameScenes.md)
-- [GlobalEvents](../GlobalEvents.md)
-- [LoadingAsyncTaskManager](LoadingAsyncTaskManager.md)
-- [LoadScene](LoadScene.md)
-- [Options](../Scenes.MainMenu/Options.md)
-- [ProgressBar](../UI.Elements/ProgressBar.md)
-- [SceneLoader](SceneLoader.md)
+- None detected.
 
 ## Used By
 
-- [LoadScene](LoadScene.md)
+- None detected.
 
 ## Notes
 

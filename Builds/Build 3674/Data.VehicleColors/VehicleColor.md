@@ -1,10 +1,6 @@
 # VehicleColor
 
-**Type:** Class
-
-**Declared Types:**
-
-- `VehicleColor`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [DraggableWindows](../UI.DraggableWindows/DraggableWindows.md)
+- None detected.
 
 ## Used By
 
-- [CarFeatures](../CarFeatures.md)
-- [ContractVehicleForSale](../Buildings/ContractVehicleForSale.md)
-- [DeliveryJobStartLocation](../Vehicles.DeliveryDriverJob/DeliveryJobStartLocation.md)
-- [GlobalReferences](../GlobalReferences.md)
-- [ShowcaseVehicleController](../Controllers/ShowcaseVehicleController.md)
-- [VehicleHelper](../Helpers/VehicleHelper.md)
+- None detected.
 
 ## Notes
 

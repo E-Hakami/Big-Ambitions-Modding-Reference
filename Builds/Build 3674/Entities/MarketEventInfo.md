@@ -1,10 +1,6 @@
 # MarketEventInfo
 
-**Type:** Class
-
-**Declared Types:**
-
-- `MarketEventInfo`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [MarketEventType](MarketEventType.md)
+- None detected.
 
 ## Used By
 
-- [MarketEventCellView](../UI.Smartphone.Apps.MarketInsider/MarketEventCellView.md)
-- [ProductMarketHelper](../Helpers/ProductMarketHelper.md)
+- None detected.
 
 ## Notes
 

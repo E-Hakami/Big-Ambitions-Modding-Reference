@@ -1,10 +1,6 @@
 # NpcSpawnSettings
 
-**Type:** Class
-
-**Declared Types:**
-
-- `NpcSpawnSettings`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingStationaryAiData](../Entities/BuildingStationaryAiData.md)
+- None detected.
 
 ## Used By
 
-- [SpecialServiceSettings](SpecialServiceSettings.md)
+- None detected.
 
 ## Notes
 

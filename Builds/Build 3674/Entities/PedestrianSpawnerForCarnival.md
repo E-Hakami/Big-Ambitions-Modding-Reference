@@ -1,10 +1,6 @@
 # PedestrianSpawnerForCarnival
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PedestrianSpawnerForCarnival`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CarnivalPedestrian](../CarnivalPedestrian.md)
-- [CarnivalPedestrianPool](../CarnivalPedestrianPool.md)
-- [CullingManager](../Culling/CullingManager.md)
-- [ICarnivalNpcItem](../Controllers/ICarnivalNpcItem.md)
-- [ICullable](../Culling/ICullable.md)
+- None detected.
 
 ## Used By
 

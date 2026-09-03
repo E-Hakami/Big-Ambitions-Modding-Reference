@@ -1,10 +1,6 @@
 # FoodDeliveryContract
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FoodDeliveryContract`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [FurnitureDeliveryItem](FurnitureDeliveryItem.md)
+- None detected.
 
 ## Used By
 
-- [FoodDeliveriesList](../Dialogs/FoodDeliveriesList.md)
-- [FoodDeliveryDialog](../Dialogs/FoodDeliveryDialog.md)
-- [FoodDeliveryHelper](../Buildings.BuildingTypes.Special.FoodDelivery/FoodDeliveryHelper.md)
-- [GameInstance](../GameInstance.md)
-- [InitializeFoodDeliveryContracts](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA011/InitializeFoodDeliveryContracts.md)
+- None detected.
 
 ## Notes
 

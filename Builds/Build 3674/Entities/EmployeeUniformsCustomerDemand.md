@@ -1,10 +1,6 @@
 # EmployeeUniformsCustomerDemand
 
-**Type:** Class
-
-**Declared Types:**
-
-- `EmployeeUniformsCustomerDemand`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [CustomerDemand](CustomerDemand.md)
-- [EmployeeHelper](../Helpers/EmployeeHelper.md)
-- [EmployeeInstance](EmployeeInstance.md)
-- [EmployeeInstancesQueryInfo](../EmployeeInstancesQueryInfo.md)
-- [Item](../BusinessLayoutSets/Item.md)
-- [WorkShift](../WorkShift.md)
+- None detected.
 
 ## Used By
 

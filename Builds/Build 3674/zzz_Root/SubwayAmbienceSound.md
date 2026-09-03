@@ -1,10 +1,6 @@
 # SubwayAmbienceSound
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SubwayAmbienceSound`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,7 @@
 
 ## Uses
 
-- [BuildingManager](BuildingManager.md)
-- [CityManager](CityManager.md)
-- [GameManager](GameManager.md)
-- [SfxManager](SfxManager.md)
-- [SubwaySoundSource](SubwaySoundSource.md)
-- [UndergroundParkingManager](Parking.UndergroundParking/UndergroundParkingManager.md)
+- None detected.
 
 ## Used By
 

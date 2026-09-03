@@ -1,10 +1,6 @@
 # NpcSpawnerItemWithTimeline
 
-**Type:** Class
-
-**Declared Types:**
-
-- `NpcSpawnerItemWithTimeline`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [BaseHuman](../BaseHuman.md)
-- [NpcSpawnerItem](NpcSpawnerItem.md)
+- None detected.
 
 ## Used By
 

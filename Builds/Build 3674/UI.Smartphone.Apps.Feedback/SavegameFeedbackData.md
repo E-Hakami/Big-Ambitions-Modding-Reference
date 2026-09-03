@@ -1,10 +1,6 @@
 # SavegameFeedbackData
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SavegameFeedbackData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [Feedback](Feedback.md)
-- [GameVersion](../GameVersion.md)
-- [IFeedbackData](IFeedbackData.md)
-- [PlayerHelper](../Helpers/PlayerHelper.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [SaveGamePathHelper](../SaveGamePathHelper.md)
-- [SaveGameSerializationHelper](../SaveGameSerializationHelper.md)
-- [VehicleHelper](../Helpers/VehicleHelper.md)
+- None detected.
 
 ## Used By
 
-- [Feedback](Feedback.md)
+- None detected.
 
 ## Notes
 

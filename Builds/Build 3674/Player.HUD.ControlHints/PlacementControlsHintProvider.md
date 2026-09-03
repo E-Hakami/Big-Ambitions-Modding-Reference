@@ -1,10 +1,6 @@
 # PlacementControlsHintProvider
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PlacementControlsHintProvider`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,7 +8,7 @@
 
 ## Uses
 
-- [ConfigurableControlsHintProvider](ConfigurableControlsHintProvider.md)
+- None detected.
 
 ## Used By
 

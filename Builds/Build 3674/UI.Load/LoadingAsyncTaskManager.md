@@ -1,10 +1,6 @@
 # LoadingAsyncTaskManager
 
-**Type:** Class
-
-**Declared Types:**
-
-- `LoadingAsyncTaskManager`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [BlueprintCreatorManager](../BigAmbitions.BlueprintCreator/BlueprintCreatorManager.md)
-- [GameManager](../GameManager.md)
-- [LoadingScreen](LoadingScreen.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # SimpleOverlayType
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `SimpleOverlayType`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [CustomerCapacity](../CustomerCapacity.md)
-- [Employee](../Employee.md)
+- None detected.
 
 ## Used By
 
-- [EntityController](../EntityController.md)
-- [OverlayHelper](OverlayHelper.md)
-- [PrivateDriverVehicle](../Helpers/PrivateDriverVehicle.md)
-- [SimpleOverlay](SimpleOverlay.md)
+- None detected.
 
 ## Notes
 

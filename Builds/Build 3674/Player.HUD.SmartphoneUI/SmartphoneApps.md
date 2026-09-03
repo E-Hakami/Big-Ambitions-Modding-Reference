@@ -1,10 +1,6 @@
 # SmartphoneApps
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SmartphoneApps`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [SmartphoneApp](SmartphoneApp.md)
-- [SmartphoneUI](../SmartphoneUI.md)
+- None detected.
 
 ## Used By
 
-- [FullMenu](../UI.Smartphone/FullMenu.md)
-- [SmartphoneUI](../SmartphoneUI.md)
+- None detected.
 
 ## Notes
 

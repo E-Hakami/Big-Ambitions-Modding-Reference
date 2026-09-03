@@ -1,10 +1,6 @@
 # SmartphoneAppButton
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SmartphoneAppButton`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [AppButton](AppButton.md)
-- [Badge](UI.Elements/Badge.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [SmartphoneUI](SmartphoneUI.md)
+- None detected.
 
 ## Notes
 

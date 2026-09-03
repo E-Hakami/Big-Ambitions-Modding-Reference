@@ -1,10 +1,6 @@
 # BoatMusic
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BoatMusic`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CasinoBoatManager](CasinoBoatManager.md)
-- [GameManager](GameManager.md)
-- [Options](Scenes.MainMenu/Options.md)
-- [PlayerPrefSettings](PlayerPrefSettings.md)
+- None detected.
 
 ## Used By
 
-- [CasinoBoatManager](CasinoBoatManager.md)
+- None detected.
 
 ## Notes
 

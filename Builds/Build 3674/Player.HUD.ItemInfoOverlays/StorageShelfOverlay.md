@@ -1,10 +1,6 @@
 # StorageShelfOverlay
 
-**Type:** Class
-
-**Declared Types:**
-
-- `StorageShelfOverlay`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CtaManager](CtaManager.md)
-- [EntityController](../EntityController.md)
-- [IOverlay](IOverlay.md)
-- [OverlayManager](OverlayManager.md)
-- [StorageShelfController](../StorageShelfController.md)
+- None detected.
 
 ## Used By
 
-- [OverlayHelper](OverlayHelper.md)
+- None detected.
 
 ## Notes
 

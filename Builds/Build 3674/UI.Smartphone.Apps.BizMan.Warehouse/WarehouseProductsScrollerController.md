@@ -1,10 +1,6 @@
 # WarehouseProductsScrollerController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `WarehouseProductsScrollerController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BaTable](../BaTable/BaTable.md)
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Warehouse](../Entities/Warehouse.md)
-- [WarehouseProductCellView](WarehouseProductCellView.md)
-- [WarehouseProductModel](WarehouseProductModel.md)
+- None detected.
 
 ## Used By
 
-- [Inventory](Inventory.md)
+- None detected.
 
 ## Notes
 

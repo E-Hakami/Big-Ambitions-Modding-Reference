@@ -1,10 +1,6 @@
 # RadioStationSource
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RadioStationSource`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CorrespondingSongData](CorrespondingSongData.md)
-- [GameManager](GameManager.md)
-- [GlobalEvents](GlobalEvents.md)
-- [RadioPlayer](RadioPlayer.md)
-- [RadioStation](RadioStation.md)
-- [RadioStationData](RadioStationData.md)
+- None detected.
 
 ## Used By
 

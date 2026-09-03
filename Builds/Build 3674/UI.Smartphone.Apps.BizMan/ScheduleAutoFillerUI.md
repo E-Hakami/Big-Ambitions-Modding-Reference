@@ -1,10 +1,6 @@
 # ScheduleAutoFillerUI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ScheduleAutoFillerUI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BizMan](BizMan.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [HudConfirm](../HudConfirm.md)
-- [ProgressBar](../UI.Elements/ProgressBar.md)
-- [ScheduleAutoFiller](../Buildings.Schedule/ScheduleAutoFiller.md)
+- None detected.
 
 ## Used By
 
-- [BizManSchedule](../UI.Smartphone.Apps.BizMan.Schedule/BizManSchedule.md)
+- None detected.
 
 ## Notes
 

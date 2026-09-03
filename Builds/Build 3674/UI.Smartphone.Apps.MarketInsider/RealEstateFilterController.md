@@ -1,10 +1,6 @@
 # RealEstateFilterController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RealEstateFilterController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BaseFilterController](../UI.Smartphone.Apps.Shared/BaseFilterController.md)
-- [BuildingTypeData](../BuildingTypeData.md)
-- [BuildingTypeHelper](../Buildings/BuildingTypeHelper.md)
-- [FilterToggleGroup](../UI.Smartphone.Apps.Shared/FilterToggleGroup.md)
-- [MarketInsider](MarketInsider.md)
-- [RealEstateCellView](RealEstateCellView.md)
-- [RealEstateFilterToggle](RealEstateFilterToggle.md)
+- None detected.
 
 ## Used By
 
-- [RealEstateScrollerController](RealEstateScrollerController.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # Diploma
 
-**Type:** Class
-
-**Declared Types:**
-
-- `Diploma`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,20 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [DiplomaName](DiplomaName.md)
+- None detected.
 
 ## Used By
 
-- [EducationHelper](EducationHelper.md)
-- [EducationInfo](UI.Smartphone.Apps.Persona/EducationInfo.md)
-- [EducationInfoEntry](UI.Smartphone.Apps.Persona/EducationInfoEntry.md)
-- [GameInstance](GameInstance.md)
-- [HasCompletedCourse](Tutorial/HasCompletedCourse.md)
-- [RecruitmentAgencyDialog](Dialogs/RecruitmentAgencyDialog.md)
-- [StudyActivity](PlayerActivity/StudyActivity.md)
-- [UpdateCompletedQuestForNewTutorial](Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA09/UpdateCompletedQuestForNewTutorial.md)
-- [UpdateDiplomas](Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA09/UpdateDiplomas.md)
+- None detected.
 
 ## Notes
 

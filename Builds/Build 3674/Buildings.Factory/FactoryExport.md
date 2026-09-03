@@ -1,10 +1,6 @@
 # FactoryExport
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FactoryExport`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [AddFactoryExportsList](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA010/AddFactoryExportsList.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BusinessHelper](../Helpers/BusinessHelper.md)
-- [FactoryBusinessSimulator](FactoryBusinessSimulator.md)
-- [LogisticsManagerPlanDestination](../Entities/LogisticsManagerPlanDestination.md)
-- [ProductMarketHelper](../Helpers/ProductMarketHelper.md)
+- None detected.
 
 ## Notes
 

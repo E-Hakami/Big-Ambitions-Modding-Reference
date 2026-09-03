@@ -1,10 +1,6 @@
 # TypeJsonConverter
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TypeJsonConverter`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [Item](BusinessLayoutSets/Item.md)
-- [PurchaseUI](UI.Purchase/PurchaseUI.md)
+- None detected.
 
 ## Used By
 
-- [BusinessLayoutSetHelper](BusinessLayoutSets/BusinessLayoutSetHelper.md)
+- None detected.
 
 ## Notes
 

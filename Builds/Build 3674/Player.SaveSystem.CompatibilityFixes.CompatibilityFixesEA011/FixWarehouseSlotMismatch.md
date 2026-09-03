@@ -1,10 +1,6 @@
 # FixWarehouseSlotMismatch
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FixWarehouseSlotMismatch`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,20 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BuildingSizeInfo](../Blueprints/BuildingSizeInfo.md)
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
-- [VehicleInstance](../VehicleInstance.md)
-- [VehicleSlot](../Entities/VehicleSlot.md)
-- [Warehouse](../Entities/Warehouse.md)
-- [WarehouseSlotController](../WarehouseSlotController.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA011](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA011.md)
+- None detected.
 
 ## Notes
 

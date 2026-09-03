@@ -1,10 +1,6 @@
 # TutorialPointerHideConditionIfSelectedEmployeeHasBusinessAssignedStatus
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TutorialPointerHideConditionIfSelectedEmployeeHasBusinessAssignedStatus`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [TutorialPointerHideCondition](TutorialPointerHideCondition.md)
-- [UIs](../UI/UIs.md)
+- None detected.
 
 ## Used By
 

@@ -1,10 +1,6 @@
 # PurchasingAgentProductModel
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PurchasingAgentProductModel`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [DeliveryHelper](../Entities/DeliveryHelper.md)
-- [ImportPartnership](../Entities/ImportPartnership.md)
-- [ImportProduct](../Entities/ImportProduct.md)
+- None detected.
 
 ## Used By
 
-- [PurchasingAgentProductCellView](PurchasingAgentProductCellView.md)
-- [PurchasingAgentProductsMassActionsUI](PurchasingAgentProductsMassActionsUI.md)
-- [PurchasingAgentProductsScrollerController](PurchasingAgentProductsScrollerController.md)
+- None detected.
 
 ## Notes
 

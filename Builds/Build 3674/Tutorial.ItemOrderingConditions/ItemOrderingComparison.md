@@ -1,10 +1,6 @@
 # ItemOrderingComparison
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ItemOrderingComparison`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [OrderByAttachableSurface](OrderByAttachableSurface.md)
-- [TutorialPointerDataUiElementDynamicItems](../Tutorial/TutorialPointerDataUiElementDynamicItems.md)
+- None detected.
 
 ## Notes
 

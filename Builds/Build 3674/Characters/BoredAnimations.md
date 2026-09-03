@@ -1,10 +1,6 @@
 # BoredAnimations
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BoredAnimations`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [IntroCharacterCustomizer](../Intro/IntroCharacterCustomizer.md)
-- [ThirdPersonCharacter](../ThirdPersonCharacter.md)
+- None detected.
 
 ## Notes
 

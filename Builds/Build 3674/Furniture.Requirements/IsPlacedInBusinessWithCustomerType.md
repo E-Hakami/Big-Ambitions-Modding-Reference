@@ -1,10 +1,6 @@
 # IsPlacedInBusinessWithCustomerType
 
-**Type:** Class
-
-**Declared Types:**
-
-- `IsPlacedInBusinessWithCustomerType`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BusinessTypeHelper](../Helpers/BusinessTypeHelper.md)
-- [CustomerType](../CustomerType.md)
+- None detected.
 
 ## Used By
 

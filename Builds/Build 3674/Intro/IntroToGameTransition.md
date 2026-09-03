@@ -1,10 +1,6 @@
 # IntroToGameTransition
 
-**Type:** Class
-
-**Declared Types:**
-
-- `IntroToGameTransition`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [GlobalEvents](../GlobalEvents.md)
-- [LoadGame](../Scenes.MainMenu/LoadGame.md)
-- [LoadScene](../UI.Load/LoadScene.md)
-- [TutorialHelper](../Helpers/TutorialHelper.md)
+- None detected.
 
 ## Used By
 

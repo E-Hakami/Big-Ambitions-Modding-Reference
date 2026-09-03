@@ -1,11 +1,6 @@
 # SpecialEmployeeController
 
-**Type:** Multiple
-
-**Declared Types:**
-
-- `SpecialEmployeeController`
-- `SpecialEmployeeType`
+**Type:** Source File
 
 ## Main Reference
 
@@ -13,19 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [BusinessEmployeeController](BusinessEmployeeController.md)
-- [CallDialogType](Dialogs/CallDialogType.md)
-- [Contact](Entities/Contact.md)
-- [DoctorDialog](Dialogs/DoctorDialog.md)
-- [LoadScene](UI.Load/LoadScene.md)
-- [NavigationBlocker](NavigationBlocker.md)
-- [UIs](UI/UIs.md)
+- None detected.
 
 ## Used By
 
-- [TutorialPointerDataWorldSpecialEmployeeType](Tutorial/TutorialPointerDataWorldSpecialEmployeeType.md)
+- None detected.
 
 ## Notes
 

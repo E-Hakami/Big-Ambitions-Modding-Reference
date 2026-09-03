@@ -1,10 +1,6 @@
 # TutorialPointerHideConditionIfThereIsAPlayerVehicle
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TutorialPointerHideConditionIfThereIsAPlayerVehicle`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [TutorialPointerHideCondition](TutorialPointerHideCondition.md)
-- [VehicleController](../VehicleController.md)
-- [VehicleHelper](../Helpers/VehicleHelper.md)
+- None detected.
 
 ## Used By
 

@@ -1,10 +1,6 @@
 # HelpSlugOverrider
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HelpSlugOverrider`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,9 +12,7 @@
 
 ## Used By
 
-- [HasViewedHelpPageForTargetBusiness](HasViewedHelpPageForTargetBusiness.md)
-- [HelpSlugOverriderSecondStoreBusinessType](HelpSlugOverriderSecondStoreBusinessType.md)
-- [QuestEntry](QuestEntry.md)
+- None detected.
 
 ## Notes
 

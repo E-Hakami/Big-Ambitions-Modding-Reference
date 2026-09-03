@@ -1,10 +1,6 @@
 # ModBackupWarningUi
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ModBackupWarningUi`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [FileSystemHelper](Blueprints/FileSystemHelper.md)
-- [InputField](UI.Components/InputField.md)
+- None detected.
 
 ## Used By
 
-- [LoadGame](Scenes.MainMenu/LoadGame.md)
+- None detected.
 
 ## Notes
 

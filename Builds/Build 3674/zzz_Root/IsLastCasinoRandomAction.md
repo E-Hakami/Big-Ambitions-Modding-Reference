@@ -1,10 +1,6 @@
 # IsLastCasinoRandomAction
 
-**Type:** Class
-
-**Declared Types:**
-
-- `IsLastCasinoRandomAction`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [CasinoRandomAction](CasinoRandomAction.md)
-- [SharedCasinoCustomer](SharedCasinoCustomer.md)
+- None detected.
 
 ## Used By
 

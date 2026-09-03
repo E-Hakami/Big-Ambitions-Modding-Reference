@@ -1,10 +1,6 @@
 # FurnitureDeliveryContractSettings
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FurnitureDeliveryContractSettings`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,20 +8,11 @@
 
 ## Uses
 
-- [Building](../Buildings/Building.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [ContractItemsForSaleService](../Services/ContractItemsForSaleService.md)
-- [DeliveryContractSettingsBase](DeliveryContractSettingsBase.md)
-- [Dialog](../Dialogs/Dialog.md)
-- [DialogController](../DialogController.md)
-- [FurnitureStoreSettings](../FurnitureStoreSettings.md)
-- [SpecialService](../Buildings/SpecialService.md)
-- [TimeHelper](../TimeHelper.md)
+- None detected.
 
 ## Used By
 
-- [FurnitureStoreManagerDialog](../Dialogs/FurnitureStoreManagerDialog.md)
+- None detected.
 
 ## Notes
 

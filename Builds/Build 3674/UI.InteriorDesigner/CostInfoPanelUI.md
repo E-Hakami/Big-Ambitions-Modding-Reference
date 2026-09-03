@@ -1,10 +1,6 @@
 # CostInfoPanelUI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CostInfoPanelUI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [ColoredTextHelper](../Extensions/ColoredTextHelper.md)
-- [InfoPanelUI](InfoPanelUI.md)
-- [InteriorDesignerController](../Buildings.Indoors.InteriorDesign/InteriorDesignerController.md)
-- [InteriorDesignerHelper](../Buildings.Indoors.InteriorDesign/InteriorDesignerHelper.md)
-- [InteriorDesignerInfoPanelEvents](InteriorDesignerInfoPanelEvents.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 

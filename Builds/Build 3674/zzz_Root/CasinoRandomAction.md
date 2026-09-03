@@ -1,10 +1,6 @@
 # CasinoRandomAction
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `CasinoRandomAction`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,11 +12,7 @@
 
 ## Used By
 
-- [CasinoCustomer](CasinoCustomer.md)
-- [CasinoCustomerPool](CasinoCustomerPool.md)
-- [IsLastCasinoRandomAction](IsLastCasinoRandomAction.md)
-- [SetLastCasinoRandomAction](SetLastCasinoRandomAction.md)
-- [SharedCasinoRandomAction](SharedCasinoRandomAction.md)
+- None detected.
 
 ## Notes
 

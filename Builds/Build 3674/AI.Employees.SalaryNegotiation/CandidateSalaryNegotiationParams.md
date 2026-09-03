@@ -1,10 +1,6 @@
 # CandidateSalaryNegotiationParams
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CandidateSalaryNegotiationParams`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [CandidateSalaryNegotiation](CandidateSalaryNegotiation.md)
-- [CandidateSalaryNegotiator](CandidateSalaryNegotiator.md)
-- [GlobalReferences](../GlobalReferences.md)
+- None detected.
 
 ## Notes
 

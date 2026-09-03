@@ -1,10 +1,6 @@
 # InteriorDesignerInput
 
-**Type:** Class
-
-**Declared Types:**
-
-- `InteriorDesignerInput`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [InteriorDesignerController](InteriorDesignerController.md)
+- None detected.
 
 ## Used By
 
-- [InteriorDesignerUI](../UI.InteriorDesigner/InteriorDesignerUI.md)
+- None detected.
 
 ## Notes
 

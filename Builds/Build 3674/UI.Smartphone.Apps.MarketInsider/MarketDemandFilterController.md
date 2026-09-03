@@ -1,10 +1,6 @@
 # MarketDemandFilterController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `MarketDemandFilterController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BaseFilterController](../UI.Smartphone.Apps.Shared/BaseFilterController.md)
-- [BusinessType](../BusinessType.md)
-- [BusinessTypeHelper](../Helpers/BusinessTypeHelper.md)
-- [FilterToggleGroup](../UI.Smartphone.Apps.Shared/FilterToggleGroup.md)
-- [MarketDemandCellView](MarketDemandCellView.md)
-- [MarketDemandFilterToggle](MarketDemandFilterToggle.md)
-- [MarketInsider](MarketInsider.md)
+- None detected.
 
 ## Used By
 
-- [MarketDemandScrollerController](MarketDemandScrollerController.md)
+- None detected.
 
 ## Notes
 

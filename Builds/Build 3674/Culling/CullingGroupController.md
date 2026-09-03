@@ -1,10 +1,6 @@
 # CullingGroupController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CullingGroupController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [GameManager](../GameManager.md)
-- [GlobalEvents](../GlobalEvents.md)
-- [ICullable](ICullable.md)
+- None detected.
 
 ## Used By
 
-- [CullingManager](CullingManager.md)
+- None detected.
 
 ## Notes
 

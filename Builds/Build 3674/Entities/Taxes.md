@@ -1,10 +1,6 @@
 # Taxes
 
-**Type:** Class
-
-**Declared Types:**
-
-- `Taxes`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [AdditionalMessageData](AdditionalMessageData.md)
-- [GameInstance](../GameInstance.md)
-- [TaxesMessage](../UI.Smartphone.Apps.Contacts/TaxesMessage.md)
-- [TaxHelper](../Helpers/TaxHelper.md)
-- [TextMessage](TextMessage.md)
+- None detected.
 
 ## Notes
 

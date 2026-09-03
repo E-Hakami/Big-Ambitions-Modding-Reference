@@ -1,10 +1,6 @@
 # FixCorruptedBuildings
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FixCorruptedBuildings`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
-- [SaveGameCompatibilityFixes](../Player.SaveSystem.CompatibilityFixes/SaveGameCompatibilityFixes.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [Warehouse](../Entities/Warehouse.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA02](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA02.md)
+- None detected.
 
 ## Notes
 

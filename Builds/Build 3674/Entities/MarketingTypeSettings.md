@@ -1,10 +1,6 @@
 # MarketingTypeSettings
 
-**Type:** Class
-
-**Declared Types:**
-
-- `MarketingTypeSettings`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [MarketingTypeName](MarketingTypeName.md)
+- None detected.
 
 ## Used By
 
-- [BizManMarketing](../UI.Smartphone.Apps.BizMan/BizManMarketing.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [MarketingCampaignSettings](../UI.Dialog/MarketingCampaignSettings.md)
+- None detected.
 
 ## Notes
 

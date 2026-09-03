@@ -1,10 +1,6 @@
 # UseWorkoutMachine
 
-**Type:** Class
-
-**Declared Types:**
-
-- `UseWorkoutMachine`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,7 @@
 
 ## Uses
 
-- [BuildingCleanlinessHelper](Buildings.BuildingTypes.Shared.Dirtiness/BuildingCleanlinessHelper.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [SharedCustomer](SharedCustomer.md)
-- [SharedWorkoutMachineController](SharedWorkoutMachineController.md)
-- [SharedWorkoutTypes](SharedWorkoutTypes.md)
-- [TimeHelper](TimeHelper.md)
-- [WorkoutAnimatorController](PlayerActivity/WorkoutAnimatorController.md)
+- None detected.
 
 ## Used By
 

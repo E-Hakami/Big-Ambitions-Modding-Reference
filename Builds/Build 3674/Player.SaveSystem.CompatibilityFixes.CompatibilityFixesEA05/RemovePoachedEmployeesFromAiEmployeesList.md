@@ -1,10 +1,6 @@
 # RemovePoachedEmployeesFromAiEmployeesList
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RemovePoachedEmployeesFromAiEmployeesList`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [AiBusinessEmployeeData](../Buildings.BuildingTypes.Shared/AiBusinessEmployeeData.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA05](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA05.md)
+- None detected.
 
 ## Notes
 

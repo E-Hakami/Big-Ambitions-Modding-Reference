@@ -1,10 +1,6 @@
 # IDItemTemplateCellView
 
-**Type:** Class
-
-**Declared Types:**
-
-- `IDItemTemplateCellView`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BaTable](../BaTable/BaTable.md)
-- [BaTableCellView](../BaTable/BaTableCellView.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [IDItemTemplateBase](IDItemTemplateBase.md)
-- [IDItemTemplatesModel](IDItemTemplatesModel.md)
+- None detected.
 
 ## Used By
 
-- [IDItemTemplateScrollingController](IDItemTemplateScrollingController.md)
+- None detected.
 
 ## Notes
 

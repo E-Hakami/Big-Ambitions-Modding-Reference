@@ -1,10 +1,6 @@
 # BizManFactoryWorkstationGroupPanel
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BizManFactoryWorkstationGroupPanel`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [BizManFactoryWorkstationGroupScrollerController](../UI.Smartphone.Apps.BizMan.Factory.Table/BizManFactoryWorkstationGroupScrollerController.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [FactoryWorkstationInstance](../FactoryWorkstationInstance.md)
+- None detected.
 
 ## Used By
 
-- [BizManFactory](BizManFactory.md)
+- None detected.
 
 ## Notes
 

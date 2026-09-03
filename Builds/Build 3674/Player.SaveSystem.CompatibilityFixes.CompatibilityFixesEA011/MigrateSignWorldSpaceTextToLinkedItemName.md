@@ -1,10 +1,6 @@
 # MigrateSignWorldSpaceTextToLinkedItemName
 
-**Type:** Class
-
-**Declared Types:**
-
-- `MigrateSignWorldSpaceTextToLinkedItemName`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
-- [ItemNameLegacyMap](../BigAmbitions.SaveSystem.Legacy/ItemNameLegacyMap.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA011](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA011.md)
+- None detected.
 
 ## Notes
 

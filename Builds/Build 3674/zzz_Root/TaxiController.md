@@ -1,10 +1,6 @@
 # TaxiController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TaxiController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CityManager](CityManager.md)
-- [EntityController](EntityController.md)
-- [GameManager](GameManager.md)
-- [ITaxi](Vehicles.Taxis/ITaxi.md)
-- [UIs](UI/UIs.md)
-- [VehicleHelper](Helpers/VehicleHelper.md)
+- None detected.
 
 ## Used By
 
-- [TaxiCtaBehavior](Player.HUD.ItemInfoOverlays/TaxiCtaBehavior.md)
-- [TaxiSystem](TaxiSystem.md)
+- None detected.
 
 ## Notes
 

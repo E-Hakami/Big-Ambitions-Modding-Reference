@@ -1,10 +1,6 @@
 # RemoveAFreshStartHappinessModifier
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RemoveAFreshStartHappinessModifier`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [GameInstance](../GameInstance.md)
-- [HappinessHelper](../Helpers/HappinessHelper.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
-- [TutorialHelper](../Helpers/TutorialHelper.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA09](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA09.md)
+- None detected.
 
 ## Notes
 

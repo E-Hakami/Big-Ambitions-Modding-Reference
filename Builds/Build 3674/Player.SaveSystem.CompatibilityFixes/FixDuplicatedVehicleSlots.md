@@ -1,10 +1,6 @@
 # FixDuplicatedVehicleSlots
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FixDuplicatedVehicleSlots`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingRegistration](../BuildingRegistration.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](ICompatibilityFix.md)
-- [VehicleInstance](../VehicleInstance.md)
-- [VehicleSlot](../Entities/VehicleSlot.md)
-- [Warehouse](../Entities/Warehouse.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA010](UpdateGameInstanceToEA010.md)
+- None detected.
 
 ## Notes
 

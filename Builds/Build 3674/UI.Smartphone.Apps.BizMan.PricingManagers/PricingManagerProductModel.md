@@ -1,10 +1,6 @@
 # PricingManagerProductModel
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PricingManagerProductModel`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [PriceSuggestion](../Buildings.Office.Headquarters/PriceSuggestion.md)
-- [PricingManagerPlan](../Buildings.Office.Headquarters/PricingManagerPlan.md)
+- None detected.
 
 ## Used By
 
-- [PricingManagerFilterController](PricingManagerFilterController.md)
-- [PricingManagerFilterToggle](PricingManagerFilterToggle.md)
-- [PricingManagerProductCellView](PricingManagerProductCellView.md)
-- [PricingManagerProductsScrollerController](PricingManagerProductsScrollerController.md)
+- None detected.
 
 ## Notes
 

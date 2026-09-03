@@ -1,10 +1,6 @@
 # NpcSpawnerItemWithRandomAnimationOnHuman
 
-**Type:** Class
-
-**Declared Types:**
-
-- `NpcSpawnerItemWithRandomAnimationOnHuman`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [BaseHuman](../BaseHuman.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [NpcSpawnerItem](NpcSpawnerItem.md)
+- None detected.
 
 ## Used By
 

@@ -1,11 +1,6 @@
 # Credits
 
-**Type:** Class
-
-**Declared Types:**
-
-- `Credits`
-- `CreditsEntry`
+**Type:** Source File
 
 ## Main Reference
 
@@ -13,7 +8,7 @@
 
 ## Uses
 
-- [MainMenuController](MainMenuController.md)
+- None detected.
 
 ## Used By
 

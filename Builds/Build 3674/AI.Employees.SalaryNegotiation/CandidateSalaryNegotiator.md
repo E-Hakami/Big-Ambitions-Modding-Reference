@@ -1,10 +1,6 @@
 # CandidateSalaryNegotiator
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CandidateSalaryNegotiator`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CandidateSalaryNegotiation](CandidateSalaryNegotiation.md)
-- [CandidateSalaryNegotiationParams](CandidateSalaryNegotiationParams.md)
-- [CandidateSalaryOffer](CandidateSalaryOffer.md)
-- [GlobalReferences](../GlobalReferences.md)
-- [NegotiationOptions](../Entities/NegotiationOptions.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 
-- [CandidateSalaryNegotiationDialog](CandidateSalaryNegotiationDialog.md)
-- [NegotiationHelper](../Entities/NegotiationHelper.md)
+- None detected.
 
 ## Notes
 

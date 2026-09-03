@@ -1,10 +1,6 @@
 # DynamicImportTarget
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DynamicImportTarget`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,7 @@
 
 ## Uses
 
-- [BuildingRegistration](../BuildingRegistration.md)
-- [CustomBuildingTarget](CustomBuildingTarget.md)
-- [ImportExportSettings](../Buildings/ImportExportSettings.md)
-- [QuestEntryTarget](QuestEntryTarget.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [SpecialService](../Buildings/SpecialService.md)
+- None detected.
 
 ## Used By
 

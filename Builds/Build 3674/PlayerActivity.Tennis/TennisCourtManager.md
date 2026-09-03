@@ -1,10 +1,6 @@
 # TennisCourtManager
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TennisCourtManager`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [CullingManager](../Culling/CullingManager.md)
-- [GameManager](../GameManager.md)
-- [GlobalEvents](../GlobalEvents.md)
-- [ICullable](../Culling/ICullable.md)
-- [TennisCourt](TennisCourt.md)
+- None detected.
 
 ## Used By
 

@@ -1,10 +1,6 @@
 # JobBoardCandidateGenerator
 
-**Type:** Class
-
-**Declared Types:**
-
-- `JobBoardCandidateGenerator`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,20 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BuildingTypeHelper](../Buildings/BuildingTypeHelper.md)
-- [BusinessHelper](../Helpers/BusinessHelper.md)
-- [BusinessTypeHelper](../Helpers/BusinessTypeHelper.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [MyEmployees](MyEmployees.md)
-- [RecruitmentHelper](../Helpers/RecruitmentHelper.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [TimeHelper](../TimeHelper.md)
+- None detected.
 
 ## Used By
 
-- [BusinessHelper](../Helpers/BusinessHelper.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # SpawnMorph2To1Clip
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SpawnMorph2To1Clip`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [SpawnMorph2To1Behavior](SpawnMorph2To1Behavior.md)
+- None detected.
 
 ## Used By
 
-- [SpawnMorphTrack](SpawnMorphTrack.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # TennisScoreLine
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TennisScoreLine`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [TennisSideScore](TennisSideScore.md)
+- None detected.
 
 ## Used By
 
-- [TennisUI](TennisUI.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # CorrespondingSongData
 
-**Type:** Struct
-
-**Declared Types:**
-
-- `CorrespondingSongData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,11 +12,7 @@
 
 ## Used By
 
-- [BuildingOutsideMusic](BuildingOutsideMusic.md)
-- [LoudSpeakersManager](Player.Sound.Radio/LoudSpeakersManager.md)
-- [MusicPlayer](MusicPlayer.md)
-- [RadioPlayer](RadioPlayer.md)
-- [RadioStationSource](RadioStationSource.md)
+- None detected.
 
 ## Notes
 

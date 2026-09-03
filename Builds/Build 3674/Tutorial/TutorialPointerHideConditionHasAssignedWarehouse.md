@@ -1,10 +1,6 @@
 # TutorialPointerHideConditionHasAssignedWarehouse
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TutorialPointerHideConditionHasAssignedWarehouse`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [LogisticsManagerPlan](../Buildings.Office.Headquarters/LogisticsManagerPlan.md)
-- [TutorialPointerHeadquartersPlanHelper](TutorialPointerHeadquartersPlanHelper.md)
-- [TutorialPointerHideCondition](TutorialPointerHideCondition.md)
+- None detected.
 
 ## Used By
 

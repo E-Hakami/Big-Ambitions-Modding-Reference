@@ -1,10 +1,6 @@
 # HasPlacedItemInTarget
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasPlacedItemInTarget`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [CustomBuildingTarget](CustomBuildingTarget.md)
-- [QuestRequirement](QuestRequirement.md)
+- None detected.
 
 ## Used By
 

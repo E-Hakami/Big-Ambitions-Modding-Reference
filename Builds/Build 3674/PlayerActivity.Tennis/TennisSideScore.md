@@ -1,10 +1,6 @@
 # TennisSideScore
 
-**Type:** Struct
-
-**Declared Types:**
-
-- `TennisSideScore`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [TennisCourt](TennisCourt.md)
-- [TennisScoreLine](TennisScoreLine.md)
+- None detected.
 
 ## Notes
 

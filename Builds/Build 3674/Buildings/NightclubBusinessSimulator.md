@@ -1,10 +1,6 @@
 # NightclubBusinessSimulator
 
-**Type:** Class
-
-**Declared Types:**
-
-- `NightclubBusinessSimulator`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,21 +8,11 @@
 
 ## Uses
 
-- [BuildingCleanlinessHelper](../Buildings.BuildingTypes.Shared.Dirtiness/BuildingCleanlinessHelper.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [CitizenData](../AI.Citizens/CitizenData.md)
-- [CustomerEntry](../AI.Customers.CustomerEntries/CustomerEntry.md)
-- [EmployeeHelper](../Helpers/EmployeeHelper.md)
-- [FullServiceBusinessSimulator](../Buildings.Retail.Simulation/FullServiceBusinessSimulator.md)
-- [NightclubBusinessHelper](NightclubBusinessHelper.md)
-- [OrderEntry](../Entities/OrderEntry.md)
-- [PlayerActivityBalanceConfig](../PlayerActivity/PlayerActivityBalanceConfig.md)
-- [PointOfSale](../Buildings.Retail.Simulation/PointOfSale.md)
+- None detected.
 
 ## Used By
 
-- [NightclubBusinessHelper](NightclubBusinessHelper.md)
+- None detected.
 
 ## Notes
 

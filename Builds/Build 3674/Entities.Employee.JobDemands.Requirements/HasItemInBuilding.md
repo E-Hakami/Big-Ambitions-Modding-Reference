@@ -1,10 +1,6 @@
 # HasItemInBuilding
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasItemInBuilding`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Employee](../Employee.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [IEquipmentDemand](IEquipmentDemand.md)
-- [ItemHelper](../ItemHelper.md)
-- [JobDemand](../Entities.Employee.JobDemands/JobDemand.md)
-- [ScheduleDay](../ScheduleDay.md)
+- None detected.
 
 ## Used By
 

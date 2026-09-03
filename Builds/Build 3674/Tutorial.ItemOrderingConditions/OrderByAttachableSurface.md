@@ -1,10 +1,6 @@
 # OrderByAttachableSurface
 
-**Type:** Class
-
-**Declared Types:**
-
-- `OrderByAttachableSurface`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [ItemOrderingComparison](ItemOrderingComparison.md)
+- None detected.
 
 ## Used By
 

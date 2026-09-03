@@ -1,10 +1,6 @@
 # UpdateEvictedAddressOwnership
 
-**Type:** Class
-
-**Declared Types:**
-
-- `UpdateEvictedAddressOwnership`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,20 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [CompatibilityHelper](../Player.SaveSystem.CompatibilityFixes/CompatibilityHelper.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
-- [LogisticsManagerPlan](../Buildings.Office.Headquarters/LogisticsManagerPlan.md)
-- [LogisticsManagerPlanDestination](../Entities/LogisticsManagerPlanDestination.md)
-- [TodoTask](../Entities/TodoTask.md)
-- [UpdateTodoTasks](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA07/UpdateTodoTasks.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceTo1](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceTo1.md)
+- None detected.
 
 ## Notes
 

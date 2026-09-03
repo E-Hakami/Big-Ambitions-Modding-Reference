@@ -1,10 +1,6 @@
 # SingleModUI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SingleModUI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,8 +12,7 @@
 
 ## Used By
 
-- [MyModUI](MyModUI.md)
-- [SubscribedModUI](SubscribedModUI.md)
+- None detected.
 
 ## Notes
 

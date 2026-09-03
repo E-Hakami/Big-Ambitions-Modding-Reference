@@ -1,10 +1,6 @@
 # CustomColorPicker
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CustomColorPicker`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [InteriorDesignerUI](UI.InteriorDesigner/InteriorDesignerUI.md)
-- [PlayerSettingsHelper](Helpers/PlayerSettingsHelper.md)
+- None detected.
 
 ## Used By
 
-- [CancelButtonHandler](CancelButtonHandler.md)
-- [ColorListUI](ColorListUI.md)
-- [PlacementCam](CameraControllers/PlacementCam.md)
-- [SignAppearance](SignAppearance.md)
-- [UIs](UI/UIs.md)
+- None detected.
 
 ## Notes
 

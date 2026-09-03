@@ -1,10 +1,6 @@
 # PricingManagerProductCellView
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PricingManagerProductCellView`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,22 +8,11 @@
 
 ## Uses
 
-- [BaTable](../BaTable/BaTable.md)
-- [BaTableCellView](../BaTable/BaTableCellView.md)
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CultureHelper](../Extensions/CultureHelper.md)
-- [InputField](../UI.Components/InputField.md)
-- [ItemHelper](../ItemHelper.md)
-- [Notification](../UI.Notification/Notification.md)
-- [Notifications](../UI.Notification/Notifications.md)
-- [PriceSuggestion](../Buildings.Office.Headquarters/PriceSuggestion.md)
-- [PricingManagerProductModel](PricingManagerProductModel.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 
-- [PricingManagerProductsScrollerController](PricingManagerProductsScrollerController.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # OnCoatCheckQueueFinished
 
-**Type:** Class
-
-**Declared Types:**
-
-- `OnCoatCheckQueueFinished`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [NightclubCustomer](NightclubCustomer.md)
-- [OrderEntry](Entities/OrderEntry.md)
-- [SharedNightclubCustomer](SharedNightclubCustomer.md)
+- None detected.
 
 ## Used By
 

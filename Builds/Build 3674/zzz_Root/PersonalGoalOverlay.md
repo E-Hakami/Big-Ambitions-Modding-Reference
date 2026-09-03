@@ -1,10 +1,6 @@
 # PersonalGoalOverlay
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PersonalGoalOverlay`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [GenericPersonalGoal](GenericPersonalGoal.md)
-- [PersonalGoalsUI](UI.Smartphone.Apps.Persona/PersonalGoalsUI.md)
-- [RandomAudioClipOnSource](RandomAudioClipOnSource.md)
+- None detected.
 
 ## Used By
 
-- [GenericPersonalGoal](GenericPersonalGoal.md)
-- [PersonalGoalsUI](UI.Smartphone.Apps.Persona/PersonalGoalsUI.md)
+- None detected.
 
 ## Notes
 

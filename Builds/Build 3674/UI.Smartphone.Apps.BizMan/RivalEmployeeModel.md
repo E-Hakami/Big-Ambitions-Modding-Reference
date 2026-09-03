@@ -1,10 +1,6 @@
 # RivalEmployeeModel
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RivalEmployeeModel`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [AiBusinessEmployeeData](../Buildings.BuildingTypes.Shared/AiBusinessEmployeeData.md)
-- [BizMan](BizMan.md)
+- None detected.
 
 ## Used By
 
-- [RivalEmployeeCellView](RivalEmployeeCellView.md)
-- [RivalEmployeeScrollerController](RivalEmployeeScrollerController.md)
+- None detected.
 
 ## Notes
 

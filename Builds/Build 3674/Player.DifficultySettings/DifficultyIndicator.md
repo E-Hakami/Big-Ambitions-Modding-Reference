@@ -1,10 +1,6 @@
 # DifficultyIndicator
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DifficultyIndicator`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [DifficultyIndicatorTemplate](../UI.MainMenu/DifficultyIndicatorTemplate.md)
-- [DifficultySetting](../DifficultySetting.md)
-- [StoryDifficultyOption](../UI.MainMenu/StoryDifficultyOption.md)
+- None detected.
 
 ## Notes
 

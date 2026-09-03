@@ -1,10 +1,6 @@
 # TutorialPointerVariablePathGetter
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TutorialPointerVariablePathGetter`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,13 +12,7 @@
 
 ## Used By
 
-- [LogisticsManagerPlanEntryVariablePathGetter](LogisticsManagerPlanEntryVariablePathGetter.md)
-- [PricingManagerPlanEntryVariablePathGetter](PricingManagerPlanEntryVariablePathGetter.md)
-- [RivalButtonVariablePathGetter](RivalButtonVariablePathGetter.md)
-- [RivalNameVariablePathGetter](RivalNameVariablePathGetter.md)
-- [TutorialPointerDataUiElementWithVariablePath](TutorialPointerDataUiElementWithVariablePath.md)
-- [TutorialPointerHideConditionIfTextEquals](TutorialPointerHideConditionIfTextEquals.md)
-- [TutorialPointerHideConditionIfUiNotVisibleInScrollView](TutorialPointerHideConditionIfUiNotVisibleInScrollView.md)
+- None detected.
 
 ## Notes
 

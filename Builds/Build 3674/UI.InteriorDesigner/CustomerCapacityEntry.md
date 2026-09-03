@@ -1,10 +1,6 @@
 # CustomerCapacityEntry
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CustomerCapacityEntry`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CustomerCapacityShelf](CustomerCapacityShelf.md)
-- [GlobalReferences](../GlobalReferences.md)
-- [Item](../BusinessLayoutSets/Item.md)
+- None detected.
 
 ## Used By
 
-- [CustomerCapacityInfoPanelUI](CustomerCapacityInfoPanelUI.md)
+- None detected.
 
 ## Notes
 

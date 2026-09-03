@@ -1,10 +1,6 @@
 # CharacterRotateTowards
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CharacterRotateTowards`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,20 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [ThirdPersonCharacter](ThirdPersonCharacter.md)
+- None detected.
 
 ## Used By
 
-- [GoPlayOnAGameSpot](GoPlayOnAGameSpot.md)
-- [NightclubCustomerLeave](NightclubCustomerLeave.md)
-- [NightclubDance](NightclubDance.md)
-- [SelfServiceCustomerReturnBasket](SelfServiceCustomerReturnBasket.md)
-- [SelfServiceCustomerTryUseScaleJustArrived](SelfServiceCustomerTryUseScaleJustArrived.md)
-- [TryGoChangeGymClothes](TryGoChangeGymClothes.md)
-- [TryGrabItemBase](TryGrabItemBase.md)
-- [TryToThrowTheTrash](TryToThrowTheTrash.md)
-- [TryUseToilet](TryUseToilet.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # UpdateEarlyTriggeredSideQuests
 
-**Type:** Class
-
-**Declared Types:**
-
-- `UpdateEarlyTriggeredSideQuests`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [GameEvent](../GameEvent.md)
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
-- [SideQuest](../Tutorial.SideQuests/SideQuest.md)
-- [SideQuestHelper](../Tutorial.SideQuests/SideQuestHelper.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA09](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA09.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # MoveMetroWholesaleToHellsKitchen
 
-**Type:** Class
-
-**Declared Types:**
-
-- `MoveMetroWholesaleToHellsKitchen`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BuildingSizeHelper](../Buildings/BuildingSizeHelper.md)
-- [BuildingSizeInfo](../Blueprints/BuildingSizeInfo.md)
-- [BusinessTypeHelper](../Helpers/BusinessTypeHelper.md)
-- [CompatibilityHelper](../Player.SaveSystem.CompatibilityFixes/CompatibilityHelper.md)
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA09](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA09.md)
+- None detected.
 
 ## Notes
 

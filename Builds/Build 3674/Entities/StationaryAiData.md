@@ -1,10 +1,6 @@
 # StationaryAiData
 
-**Type:** Class
-
-**Declared Types:**
-
-- `StationaryAiData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CombinedAnimation](CombinedAnimation.md)
+- None detected.
 
 ## Used By
 
-- [StationaryAiBehavior](StationaryAiBehavior.md)
+- None detected.
 
 ## Notes
 

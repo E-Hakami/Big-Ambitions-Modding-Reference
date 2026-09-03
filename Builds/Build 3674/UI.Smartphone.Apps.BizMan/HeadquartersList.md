@@ -1,10 +1,6 @@
 # HeadquartersList
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HeadquartersList`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,21 +8,11 @@
 
 ## Uses
 
-- [BizMan](BizMan.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BusinessLogoGenerator](../BusinessLogoGenerator.md)
-- [EmployeeHelper](../Helpers/EmployeeHelper.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [EmployeeInstancesQueryInfo](../EmployeeInstancesQueryInfo.md)
-- [LogoHelper](../LogoHelper.md)
-- [LogoSize](../LogoSize.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [UIs](../UI/UIs.md)
+- None detected.
 
 ## Used By
 
-- [BizManList](BizManList.md)
+- None detected.
 
 ## Notes
 

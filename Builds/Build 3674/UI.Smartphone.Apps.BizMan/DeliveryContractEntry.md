@@ -1,10 +1,6 @@
 # DeliveryContractEntry
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DeliveryContractEntry`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BizMan](BizMan.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [DeliveryContract](../Entities/DeliveryContract.md)
-- [LogoHelper](../LogoHelper.md)
-- [LogoSize](../LogoSize.md)
+- None detected.
 
 ## Used By
 
-- [BizManDeliveries](BizManDeliveries.md)
+- None detected.
 
 ## Notes
 

@@ -1,11 +1,6 @@
 # PedestrianPool
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PedestrianPool`
-- `AnimatorOverride`
+**Type:** Source File
 
 ## Main Reference
 
@@ -13,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CityManager](CityManager.md)
-- [Pedestrian](Streets.Pedestrians/Pedestrian.md)
-- [PrefabHelper](Helpers/PrefabHelper.md)
+- None detected.
 
 ## Used By
 
-- [PedestrianSpawner](PedestrianSpawner.md)
+- None detected.
 
 ## Notes
 

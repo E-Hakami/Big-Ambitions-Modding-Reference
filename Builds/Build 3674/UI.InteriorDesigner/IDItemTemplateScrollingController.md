@@ -1,10 +1,6 @@
 # IDItemTemplateScrollingController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `IDItemTemplateScrollingController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BaTable](../BaTable/BaTable.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [FurnitureItemSearch](FurnitureItemSearch.md)
-- [IDItemTemplateBase](IDItemTemplateBase.md)
-- [IDItemTemplateCellView](IDItemTemplateCellView.md)
-- [IDItemTemplatesModel](IDItemTemplatesModel.md)
-- [IDItemUiTemplateData](IDItemUiTemplateData.md)
+- None detected.
 
 ## Used By
 
-- [FurnitureActionPanelUi](FurnitureActionPanelUi.md)
+- None detected.
 
 ## Notes
 

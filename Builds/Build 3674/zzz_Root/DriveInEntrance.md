@@ -1,10 +1,6 @@
 # DriveInEntrance
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DriveInEntrance`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,22 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [BusinessHelper](Helpers/BusinessHelper.md)
-- [CarController](CarController.md)
-- [CityBuildingController](CityBuildingController.md)
-- [GarageDoor](Vehicles.Components/GarageDoor.md)
-- [GlobalEvents](GlobalEvents.md)
-- [ScooterController](ScooterController.md)
-- [VehicleController](VehicleController.md)
-- [VehicleHelper](Helpers/VehicleHelper.md)
+- None detected.
 
 ## Used By
 
-- [BuildingManager](BuildingManager.md)
-- [CityBuildingController](CityBuildingController.md)
-- [DriveInEntranceEnterTrigger](DriveInEntranceEnterTrigger.md)
+- None detected.
 
 ## Notes
 

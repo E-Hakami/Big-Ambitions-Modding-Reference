@@ -1,10 +1,6 @@
 # AmountSelector
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AmountSelector`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [BizManFactoryValidWorkstationPanel](../UI.Smartphone.Apps.BizMan.Factory/BizManFactoryValidWorkstationPanel.md)
-- [DeliveryContractSettingsBase](../UI.Dialog/DeliveryContractSettingsBase.md)
-- [DeliveryItemEntry](../UI.Dialog/DeliveryItemEntry.md)
-- [ItemToDeliver](../UI.Dialog/ItemToDeliver.md)
-- [PurchaseUiItem](../UI.Purchase/PurchaseUiItem.md)
+- None detected.
 
 ## Notes
 

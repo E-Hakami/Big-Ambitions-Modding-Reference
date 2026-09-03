@@ -1,10 +1,6 @@
 # CarFeatures
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CarFeatures`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,25 +8,11 @@
 
 ## Uses
 
-- [BridgeController](Streets/BridgeController.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [DraggableWindows](UI.DraggableWindows/DraggableWindows.md)
-- [VehicleColor](Data.VehicleColors/VehicleColor.md)
-- [ViewBlockingEntity](ViewBlockingEntity.md)
+- None detected.
 
 ## Used By
 
-- [BridgeController](Streets/BridgeController.md)
-- [BridgeTriggerController](Streets/BridgeTriggerController.md)
-- [CarController](CarController.md)
-- [DeliveryJobStartController](Vehicles.DeliveryDriverJob/DeliveryJobStartController.md)
-- [DeliveryTruckDriverController](DeliveryTruckDriverController.md)
-- [PrivateDriverHelpers](Helpers/PrivateDriverHelpers.md)
-- [RandomVehicleColor](RandomVehicleColor.md)
-- [RandomVehicleDirtiness](RandomVehicleDirtiness.md)
-- [ShowcaseVehicleController](Controllers/ShowcaseVehicleController.md)
-- [VehicleBlinker](Vehicles.Components/VehicleBlinker.md)
-- [VehicleController](VehicleController.md)
+- None detected.
 
 ## Notes
 

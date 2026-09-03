@@ -1,10 +1,6 @@
 # UIVariables
 
-**Type:** Class
-
-**Declared Types:**
-
-- `UIVariables`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [GameInstance](GameInstance.md)
+- None detected.
 
 ## Notes
 

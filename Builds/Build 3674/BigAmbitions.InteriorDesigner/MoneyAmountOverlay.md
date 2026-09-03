@@ -1,10 +1,6 @@
 # MoneyAmountOverlay
 
-**Type:** Class
-
-**Declared Types:**
-
-- `MoneyAmountOverlay`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [InteriorDesignerController](../Buildings.Indoors.InteriorDesign/InteriorDesignerController.md)
+- None detected.
 
 ## Notes
 

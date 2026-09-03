@@ -1,10 +1,6 @@
 # BlueprintsLayoutHelper
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BlueprintsLayoutHelper`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,19 +8,11 @@
 
 ## Uses
 
-- [Blueprint](Blueprint.md)
-- [BlueprintsFolderLoader](BlueprintsFolderLoader.md)
-- [BuildingManager](../BuildingManager.md)
-- [BuildingVersion](../BuildingVersion.md)
-- [BusinessLayoutSet](../BusinessLayoutSet.md)
-- [BusinessLayoutSetHelper](../BusinessLayoutSets/BusinessLayoutSetHelper.md)
-- [IsPlayerOwnedBusiness](../IsPlayerOwnedBusiness.md)
-- [ItemHelper](../ItemHelper.md)
-- [UIs](../UI/UIs.md)
+- None detected.
 
 ## Used By
 
-- [InteriorInstallationFirmContract](../Entities/InteriorInstallationFirmContract.md)
+- None detected.
 
 ## Notes
 

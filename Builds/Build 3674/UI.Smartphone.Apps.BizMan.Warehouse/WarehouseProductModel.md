@@ -1,10 +1,6 @@
 # WarehouseProductModel
 
-**Type:** Class
-
-**Declared Types:**
-
-- `WarehouseProductModel`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Warehouse](../Entities/Warehouse.md)
+- None detected.
 
 ## Used By
 
-- [WarehouseProductCellView](WarehouseProductCellView.md)
-- [WarehouseProductsScrollerController](WarehouseProductsScrollerController.md)
+- None detected.
 
 ## Notes
 

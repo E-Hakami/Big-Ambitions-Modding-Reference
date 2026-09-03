@@ -1,10 +1,6 @@
 # LogisticsManager
 
-**Type:** Class
-
-**Declared Types:**
-
-- `LogisticsManager`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [EmployeeInstance](EmployeeInstance.md)
-- [LogisticsManagerHelper](../Buildings.Office.Headquarters/LogisticsManagerHelper.md)
-- [LogisticsManagerPlanDestination](LogisticsManagerPlanDestination.md)
+- None detected.
 
 ## Used By
 
-- [RecruitmentHelper](../Helpers/RecruitmentHelper.md)
-- [UpdateHeadquartersPlansToNewSystem](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA06/UpdateHeadquartersPlansToNewSystem.md)
+- None detected.
 
 ## Notes
 

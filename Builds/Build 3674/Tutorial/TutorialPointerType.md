@@ -1,10 +1,6 @@
 # TutorialPointerType
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `TutorialPointerType`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,14 +12,7 @@
 
 ## Used By
 
-- [TutorialPointerData](TutorialPointerData.md)
-- [TutorialPointerDataUiElement](TutorialPointerDataUiElement.md)
-- [TutorialPointerDataUiElementDynamicItems](TutorialPointerDataUiElementDynamicItems.md)
-- [TutorialPointerDataWorldBuildingEntrance](TutorialPointerDataWorldBuildingEntrance.md)
-- [TutorialPointerDataWorldDeliveryJobStart](TutorialPointerDataWorldDeliveryJobStart.md)
-- [TutorialPointerDataWorldItem](TutorialPointerDataWorldItem.md)
-- [TutorialPointerDataWorldPosition](TutorialPointerDataWorldPosition.md)
-- [TutorialPointersManager](TutorialPointersManager.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # EmployeeStatusFilter
 
-**Type:** Class
-
-**Declared Types:**
-
-- `EmployeeStatusFilter`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [MyEmployees](MyEmployees.md)
+- None detected.
 
 ## Used By
 
-- [EmployeeFilterController](EmployeeFilterController.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # WorkstationController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `WorkstationController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [DesktopWorkstationController](DesktopWorkstationController.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [Item](../BusinessLayoutSets/Item.md)
-- [ItemController](../ItemController.md)
-- [SeatController](SeatController.md)
-- [ThirdPersonCharacter](../ThirdPersonCharacter.md)
-- [VideoClipData](../VideoClipData.md)
+- None detected.
 
 ## Used By
 
-- [ComputerController](../ComputerController.md)
+- None detected.
 
 ## Notes
 

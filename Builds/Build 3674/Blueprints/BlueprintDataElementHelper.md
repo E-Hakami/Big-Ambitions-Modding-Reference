@@ -1,10 +1,6 @@
 # BlueprintDataElementHelper
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BlueprintDataElementHelper`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,7 @@
 
 ## Uses
 
-- [BlueprintDataElement](BlueprintDataElement.md)
-- [Building](../Buildings/Building.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BuildingTypeHelper](../Buildings/BuildingTypeHelper.md)
-- [DataElement](DataElement.md)
-- [InteriorScoreCalculator](../InteriorDesign/InteriorScoreCalculator.md)
-- [PointOfSale](../Buildings.Retail.Simulation/PointOfSale.md)
+- None detected.
 
 ## Used By
 

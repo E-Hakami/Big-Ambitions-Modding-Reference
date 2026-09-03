@@ -1,10 +1,6 @@
 # MyModUI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `MyModUI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [GameVersion](../GameVersion.md)
-- [SingleModUI](SingleModUI.md)
+- None detected.
 
 ## Used By
 
-- [MyCreatedModsList](MyCreatedModsList.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # NewGamePanel
 
-**Type:** Class
-
-**Declared Types:**
-
-- `NewGamePanel`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [MainMenuController](../MainMenuController.md)
-- [NewGameModeButton](NewGameModeButton.md)
+- None detected.
 
 ## Used By
 
-- [CustomGamePanel](CustomGamePanel.md)
-- [StoryPanel](StoryPanel.md)
+- None detected.
 
 ## Notes
 

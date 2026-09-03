@@ -1,10 +1,6 @@
 # CustomGamePresetsHandler
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CustomGamePresetsHandler`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CustomGamePresetsParser](CustomGamePresetsParser.md)
-- [GameVariables](../GameVariables.md)
+- None detected.
 
 ## Used By
 
-- [CustomGameNameInput](CustomGameNameInput.md)
-- [CustomGamePanel](CustomGamePanel.md)
+- None detected.
 
 ## Notes
 

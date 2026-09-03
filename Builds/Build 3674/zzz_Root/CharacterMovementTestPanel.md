@@ -1,10 +1,6 @@
 # CharacterMovementTestPanel
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CharacterMovementTestPanel`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [ThirdPersonCharacter](ThirdPersonCharacter.md)
+- None detected.
 
 ## Used By
 

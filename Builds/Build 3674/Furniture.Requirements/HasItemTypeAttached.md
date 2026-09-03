@@ -1,10 +1,6 @@
 # HasItemTypeAttached
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasItemTypeAttached`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [Item](../BusinessLayoutSets/Item.md)
+- None detected.
 
 ## Used By
 
-- [AnyPrimaryProduct](../Buildings.BuildingTypes.Shared.BusinessRequirement/AnyPrimaryProduct.md)
-- [HasPurchasedDynamicItems](../Tutorial/HasPurchasedDynamicItems.md)
-- [HasPurchasedRequiredItemForSecondProductInBusiness](../Tutorial/HasPurchasedRequiredItemForSecondProductInBusiness.md)
+- None detected.
 
 ## Notes
 

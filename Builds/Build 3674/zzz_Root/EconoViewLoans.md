@@ -1,10 +1,6 @@
 # EconoViewLoans
 
-**Type:** Class
-
-**Declared Types:**
-
-- `EconoViewLoans`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [EconoView](UI.Smartphone.Apps.EconoView/EconoView.md)
-- [EconoViewOverview](UI.Smartphone.Apps.EconoView/EconoViewOverview.md)
-- [Loan](Loan.md)
-- [LoanEntryUi](LoanEntryUi.md)
-- [LoanHelper](Helpers/LoanHelper.md)
-- [SaveGameManager](SaveGameManager.md)
+- None detected.
 
 ## Used By
 
-- [EconoViewBanking](EconoViewBanking.md)
+- None detected.
 
 ## Notes
 

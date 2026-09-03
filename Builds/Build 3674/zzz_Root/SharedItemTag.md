@@ -1,10 +1,6 @@
 # SharedItemTag
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SharedItemTag`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [AnySharedItemName](AnySharedItemName.md)
-- [AreThereEmployeeStations](AreThereEmployeeStations.md)
-- [CustomerJoinQueue](CustomerJoinQueue.md)
-- [CustomerJoinQueueInstantly](CustomerJoinQueueInstantly.md)
-- [GetItemControllerByItemNames](GetItemControllerByItemNames.md)
-- [ProcessOrderEntryByName](ProcessOrderEntryByName.md)
+- None detected.
 
 ## Notes
 

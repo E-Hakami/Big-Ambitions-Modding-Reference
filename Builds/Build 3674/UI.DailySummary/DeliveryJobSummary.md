@@ -1,10 +1,6 @@
 # DeliveryJobSummary
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DeliveryJobSummary`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [DailySummary](DailySummary.md)
-- [DeliveryDriverMission](../Player.PlayerMissions/DeliveryDriverMission.md)
-- [GlobalReferences](../GlobalReferences.md)
-- [HappinessHelper](../Helpers/HappinessHelper.md)
-- [JobSummary](JobSummary.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 
-- [DailySummary](DailySummary.md)
+- None detected.
 
 ## Notes
 

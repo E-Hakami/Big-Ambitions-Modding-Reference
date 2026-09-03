@@ -1,10 +1,6 @@
 # CollapsibleWindow
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CollapsibleWindow`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [HoverFunction](HoverFunction.md)
+- None detected.
 
 ## Used By
 
-- [RadioControls](../RadioControls.md)
-- [UIs](UIs.md)
+- None detected.
 
 ## Notes
 

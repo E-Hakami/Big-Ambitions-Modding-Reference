@@ -1,10 +1,6 @@
 # WorkoutGroupType
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `WorkoutGroupType`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,9 +12,7 @@
 
 ## Used By
 
-- [GymBusinessHelper](../Buildings.Retail.Businesses.Gym/GymBusinessHelper.md)
-- [WorkoutGroup](WorkoutGroup.md)
-- [WorkoutPlan](WorkoutPlan.md)
+- None detected.
 
 ## Notes
 

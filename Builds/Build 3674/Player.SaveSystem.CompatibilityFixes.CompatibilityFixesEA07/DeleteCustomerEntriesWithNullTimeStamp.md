@@ -1,10 +1,6 @@
 # DeleteCustomerEntriesWithNullTimeStamp
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DeleteCustomerEntriesWithNullTimeStamp`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingRegistration](../BuildingRegistration.md)
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
-- [Order](../Order.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA07](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA07.md)
+- None detected.
 
 ## Notes
 

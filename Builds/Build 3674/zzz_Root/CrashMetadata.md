@@ -1,10 +1,6 @@
 # CrashMetadata
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CrashMetadata`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,7 +8,7 @@
 
 ## Uses
 
-- [GlobalEvents](GlobalEvents.md)
+- None detected.
 
 ## Used By
 

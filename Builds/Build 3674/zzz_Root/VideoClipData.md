@@ -1,11 +1,6 @@
 # VideoClipData
 
-**Type:** Multiple
-
-**Declared Types:**
-
-- `VideoClipData`
-- `VideoType`
+**Type:** Source File
 
 ## Main Reference
 
@@ -13,19 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [BuildingManager](BuildingManager.md)
-- [BuildingStationaryAiData](Entities/BuildingStationaryAiData.md)
-- [EntertainActivity](PlayerActivity/EntertainActivity.md)
-- [GlobalReferences](GlobalReferences.md)
-- [ItemController](ItemController.md)
-- [ScreenCinemaController](ScreenCinemaController.md)
-- [ScreenVideoController](ScreenVideoController.md)
-- [StudyActivity](PlayerActivity/StudyActivity.md)
-- [WorkstationController](Controllers/WorkstationController.md)
+- None detected.
 
 ## Notes
 

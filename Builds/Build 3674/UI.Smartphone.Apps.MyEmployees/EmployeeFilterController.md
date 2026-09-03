@@ -1,10 +1,6 @@
 # EmployeeFilterController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `EmployeeFilterController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,20 +8,11 @@
 
 ## Uses
 
-- [BaseFilterController](../UI.Smartphone.Apps.Shared/BaseFilterController.md)
-- [Employee](../Employee.md)
-- [EmployeeFilterToggle](EmployeeFilterToggle.md)
-- [EmployeeModel](EmployeeModel.md)
-- [EmployeeStatusFilter](EmployeeStatusFilter.md)
-- [FilterToggleGroup](../UI.Smartphone.Apps.Shared/FilterToggleGroup.md)
-- [JobDemandHelper](../Entities.Employee.JobDemands/JobDemandHelper.md)
-- [MyEmployees](MyEmployees.md)
-- [PurchaseUI](../UI.Purchase/PurchaseUI.md)
-- [SystemRequirement](../SystemRequirement.md)
+- None detected.
 
 ## Used By
 
-- [EmployeeScrollerController](EmployeeScrollerController.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # ItemSoldPerPriceEntry
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ItemSoldPerPriceEntry`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [BusinessHelper](Helpers/BusinessHelper.md)
-- [InventoryProductCellView](InventoryProductCellView.md)
-- [InventoryProductsScrollerController](InventoryProductsScrollerController.md)
-- [OrderHistoryEntry](Entities/OrderHistoryEntry.md)
+- None detected.
 
 ## Notes
 

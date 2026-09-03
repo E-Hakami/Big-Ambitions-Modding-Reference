@@ -1,10 +1,6 @@
 # HamptonsPurchaseBoxUI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HamptonsPurchaseBoxUI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BizMan](BizMan.md)
-- [Building](../Buildings/Building.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [RivalsHelper](../BigAmbitions.Rivals/RivalsHelper.md)
-- [SpecialRival](../BigAmbitions.Rivals/SpecialRival.md)
+- None detected.
 
 ## Used By
 
-- [BizManPresentation](../BizManPresentation.md)
+- None detected.
 
 ## Notes
 

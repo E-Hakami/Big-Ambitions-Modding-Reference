@@ -1,10 +1,6 @@
 # TutorialPointerDataWorldItemToInteractIfItemsToPurchaseGrabbedDynamic
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TutorialPointerDataWorldItemToInteractIfItemsToPurchaseGrabbedDynamic`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [HasPurchasedDynamicItems](HasPurchasedDynamicItems.md)
-- [ItemController](../ItemController.md)
-- [PlayerHelper](../Helpers/PlayerHelper.md)
-- [TutorialDynamicItems](TutorialDynamicItems.md)
-- [TutorialPointerDataWorldItemToInteract](TutorialPointerDataWorldItemToInteract.md)
+- None detected.
 
 ## Used By
 

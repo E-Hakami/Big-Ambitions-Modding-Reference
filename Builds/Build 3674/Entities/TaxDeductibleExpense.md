@@ -1,10 +1,6 @@
 # TaxDeductibleExpense
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TaxDeductibleExpense`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [EconoViewTaxes](../EconoViewTaxes.md)
-- [GameInstance](../GameInstance.md)
-- [MigrateCurrentTaxPeriodDeductibleExpenses](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixes1/MigrateCurrentTaxPeriodDeductibleExpenses.md)
-- [TaxHelper](../Helpers/TaxHelper.md)
+- None detected.
 
 ## Notes
 

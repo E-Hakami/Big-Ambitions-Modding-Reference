@@ -1,10 +1,6 @@
 # GoPlayOnAGameSpot
 
-**Type:** Class
-
-**Declared Types:**
-
-- `GoPlayOnAGameSpot`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CasinoBusinessHelper](Buildings/CasinoBusinessHelper.md)
-- [CharacterMoveToPosition](CharacterMoveToPosition.md)
-- [CharacterRotateTowards](CharacterRotateTowards.md)
-- [CharacterRunAnimation](CharacterRunAnimation.md)
-- [PlaySpotsManager](Buildings.BuildingTypes.Special/PlaySpotsManager.md)
-- [PlaySpotStatus](Buildings.BuildingTypes.Special/PlaySpotStatus.md)
-- [SharedCasinoGameType](SharedCasinoGameType.md)
-- [SharedCustomer](SharedCustomer.md)
-- [SharedPermanentAnimationType](SharedPermanentAnimationType.md)
-- [TimeHelper](TimeHelper.md)
+- None detected.
 
 ## Used By
 

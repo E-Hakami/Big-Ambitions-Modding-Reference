@@ -1,10 +1,6 @@
 # PublicShowerController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PublicShowerController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [GlobalEvents](GlobalEvents.md)
-- [GlobalReferences](GlobalReferences.md)
-- [HygieneItemController](HygieneItemController.md)
-- [ThirdPersonCharacter](ThirdPersonCharacter.md)
+- None detected.
 
 ## Used By
 
-- [PlayerActivityCtaBehavior](Player.HUD.ItemInfoOverlays/PlayerActivityCtaBehavior.md)
-- [UseShower](UseShower.md)
+- None detected.
 
 ## Notes
 

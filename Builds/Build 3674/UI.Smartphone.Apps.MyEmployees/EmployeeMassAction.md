@@ -1,10 +1,6 @@
 # EmployeeMassAction
 
-**Type:** Class
-
-**Declared Types:**
-
-- `EmployeeMassAction`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,19 +8,11 @@
 
 ## Uses
 
-- [MyEmployees](MyEmployees.md)
+- None detected.
 
 ## Used By
 
-- [AddressableLoader](../BigAmbitions.SaveSystem/AddressableLoader.md)
-- [AssignBusinessMassAction](../UI.Smartphone.Apps.MyEmployees.Types/AssignBusinessMassAction.md)
-- [AssignToBusinessAndHireMassAction](../UI.Smartphone.Apps.MyEmployees.Types/AssignToBusinessAndHireMassAction.md)
-- [DiscardCandidateMassAction](../UI.Smartphone.Apps.MyEmployees.Types/DiscardCandidateMassAction.md)
-- [EmployeeMassActionHelper](EmployeeMassActionHelper.md)
-- [FireMassAction](../UI.Smartphone.Apps.MyEmployees.Types/FireMassAction.md)
-- [HireCandidateMassAction](../UI.Smartphone.Apps.MyEmployees.Types/HireCandidateMassAction.md)
-- [PayBonusesMassAction](../UI.Smartphone.Apps.MyEmployees.Types/PayBonusesMassAction.md)
-- [TrainPrimarySkillMassAction](../UI.Smartphone.Apps.MyEmployees.Types/TrainPrimarySkillMassAction.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # FurnitureTagMatcher
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FurnitureTagMatcher`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [FurnitureCategoryToggle](FurnitureCategoryToggle.md)
-- [GameManager](../GameManager.md)
-- [IDItemUiTemplateData](IDItemUiTemplateData.md)
-- [Item](../BusinessLayoutSets/Item.md)
+- None detected.
 
 ## Used By
 
-- [FurnitureItemSearch](FurnitureItemSearch.md)
+- None detected.
 
 ## Notes
 

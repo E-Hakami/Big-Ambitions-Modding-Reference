@@ -1,10 +1,6 @@
 # RoomWallOcclusionManager
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RoomWallOcclusionManager`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [GameManager](../GameManager.md)
+- None detected.
 
 ## Used By
 
-- [HamptonsHouse](../HamptonsHouse.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # BizManFactoryInvalidWorkstationPanel
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BizManFactoryInvalidWorkstationPanel`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [BizManFactoryWorkstationPanel](BizManFactoryWorkstationPanel.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [FactoryWorkstationInstance](../FactoryWorkstationInstance.md)
+- None detected.
 
 ## Used By
 
-- [BizManFactory](BizManFactory.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # ItemIconGenerator
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ItemIconGenerator`
+**Type:** Source File
 
 ## Main Reference
 

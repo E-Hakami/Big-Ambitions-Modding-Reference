@@ -1,10 +1,6 @@
 # HealthInsuranceHelper
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HealthInsuranceHelper`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](BuildingHelper.md)
-- [GlobalReferences](../GlobalReferences.md)
-- [HealthInsuranceNegotiationParams](../Entities/HealthInsuranceNegotiationParams.md)
-- [HealthInsurancePlanType](../Entities/HealthInsurancePlanType.md)
+- None detected.
 
 ## Used By
 
-- [EmployeeHelper](EmployeeHelper.md)
-- [HealthInsurancePlanOffer](../Entities/HealthInsurancePlanOffer.md)
-- [HrManagerPlan](../Buildings.Office.Headquarters/HrManagerPlan.md)
-- [HrManagerPlanUI](../UI.Smartphone.Apps.BizMan.HrManagers/HrManagerPlanUI.md)
+- None detected.
 
 ## Notes
 

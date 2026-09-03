@@ -1,10 +1,6 @@
 # IDOtherItemTemplate
 
-**Type:** Class
-
-**Declared Types:**
-
-- `IDOtherItemTemplate`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [ActionPanelUI](ActionPanelUI.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [IDItemTemplateBase](IDItemTemplateBase.md)
-- [IDItemUiTemplateData](IDItemUiTemplateData.md)
-- [ItemController](../ItemController.md)
-- [ItemHelper](../ItemHelper.md)
+- None detected.
 
 ## Used By
 
-- [ItemActionPanelUI](ItemActionPanelUI.md)
+- None detected.
 
 ## Notes
 

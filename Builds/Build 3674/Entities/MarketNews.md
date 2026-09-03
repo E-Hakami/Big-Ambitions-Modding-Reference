@@ -1,10 +1,6 @@
 # MarketNews
 
-**Type:** Class
-
-**Declared Types:**
-
-- `MarketNews`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [MarketEventType](MarketEventType.md)
+- None detected.
 
 ## Used By
 

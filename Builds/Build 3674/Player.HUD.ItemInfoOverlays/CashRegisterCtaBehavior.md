@@ -1,10 +1,6 @@
 # CashRegisterCtaBehavior
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CashRegisterCtaBehavior`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,22 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [CashRegisterController](../Controllers/CashRegisterController.md)
-- [EntityController](../EntityController.md)
-- [GameManager](../GameManager.md)
-- [ICtaBehavior](ICtaBehavior.md)
-- [IsPlayerOwnedBusiness](../IsPlayerOwnedBusiness.md)
-- [JobInstance](../JobInstance.md)
-- [Order](../Order.md)
-- [PlayerHelper](../Helpers/PlayerHelper.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [VehicleHelper](../Helpers/VehicleHelper.md)
+- None detected.
 
 ## Used By
 
-- [CtaManager](CtaManager.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # NightclubDance
 
-**Type:** Class
-
-**Declared Types:**
-
-- `NightclubDance`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [CharacterMoveToPosition](CharacterMoveToPosition.md)
-- [CharacterRotateTowards](CharacterRotateTowards.md)
-- [Dances](Dancing/Dances.md)
-- [DanceSpot](Buildings/DanceSpot.md)
-- [ItemController](ItemController.md)
-- [NightclubBusinessHelper](Buildings/NightclubBusinessHelper.md)
-- [SharedNightclubCustomer](SharedNightclubCustomer.md)
-- [TimeHelper](TimeHelper.md)
+- None detected.
 
 ## Used By
 

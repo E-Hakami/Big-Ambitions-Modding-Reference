@@ -1,10 +1,6 @@
 # BlurEffect
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BlurEffect`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [MiniMenu](../UI.MiniMenu/MiniMenu.md)
-- [TimeMachine](../Timemachine/TimeMachine.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # GetOrder
 
-**Type:** Class
-
-**Declared Types:**
-
-- `GetOrder`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [Customer](Customer.md)
-- [SharedOrder](SharedOrder.md)
+- None detected.
 
 ## Used By
 

@@ -1,10 +1,6 @@
 # NeighborhoodLegacyMap
 
-**Type:** Class
-
-**Declared Types:**
-
-- `NeighborhoodLegacyMap`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [LegacyMapperBase](LegacyMapperBase.md)
+- None detected.
 
 ## Used By
 
-- [LegacyHelper](LegacyHelper.md)
+- None detected.
 
 ## Notes
 

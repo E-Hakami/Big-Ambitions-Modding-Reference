@@ -1,10 +1,6 @@
 # DetailedOverlay
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DetailedOverlay`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [DetailedOverlayType](DetailedOverlayType.md)
-- [EditableWorkstationHeader](EditableWorkstationHeader.md)
-- [EntityController](../EntityController.md)
-- [IOverlay](IOverlay.md)
-- [OverlayBase](OverlayBase.md)
-- [OverlayHelper](OverlayHelper.md)
-- [PurchaseUI](../UI.Purchase/PurchaseUI.md)
+- None detected.
 
 ## Used By
 
-- [OverlayManager](OverlayManager.md)
+- None detected.
 
 ## Notes
 

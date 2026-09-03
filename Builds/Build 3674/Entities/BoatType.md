@@ -1,10 +1,6 @@
 # BoatType
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BoatType`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BoatTypeName](BoatTypeName.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [BoatController](../Boats/BoatController.md)
-- [BoatManager](../Boats/BoatManager.md)
-- [BoatTypes](BoatTypes.md)
+- None detected.
 
 ## Notes
 

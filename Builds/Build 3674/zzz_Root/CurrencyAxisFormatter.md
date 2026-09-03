@@ -1,10 +1,6 @@
 # CurrencyAxisFormatter
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CurrencyAxisFormatter`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [EconoViewInvestments](EconoViewInvestments.md)
-- [SelectedRivalUI](UI.Smartphone.Apps.Rivals/SelectedRivalUI.md)
+- None detected.
 
 ## Notes
 

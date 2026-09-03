@@ -1,10 +1,6 @@
 # BoatColorSetter
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BoatColorSetter`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BoatColor](../Data.VehicleColors/BoatColor.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [DraggableWindows](../UI.DraggableWindows/DraggableWindows.md)
+- None detected.
 
 ## Used By
 
-- [Boat](Boat.md)
+- None detected.
 
 ## Notes
 

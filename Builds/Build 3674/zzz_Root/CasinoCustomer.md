@@ -1,10 +1,6 @@
 # CasinoCustomer
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CasinoCustomer`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingManager](BuildingManager.md)
-- [CasinoRandomAction](CasinoRandomAction.md)
-- [Customer](Customer.md)
-- [CustomerType](CustomerType.md)
+- None detected.
 
 ## Used By
 
-- [CasinoCustomerPool](CasinoCustomerPool.md)
-- [SharedCasinoCustomer](SharedCasinoCustomer.md)
+- None detected.
 
 ## Notes
 

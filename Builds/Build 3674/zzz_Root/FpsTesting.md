@@ -1,11 +1,6 @@
 # FpsTesting
 
-**Type:** Multiple
-
-**Declared Types:**
-
-- `FpsTesting`
-- `FpsTestResults`
+**Type:** Source File
 
 ## Main Reference
 
@@ -13,9 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [GameManager](GameManager.md)
-- [PlayerPrefs](PlayerPrefs.md)
+- None detected.
 
 ## Used By
 

@@ -1,10 +1,6 @@
 # MissionTasksUI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `MissionTasksUI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [ButtonEffects](../ButtonEffects.md)
-- [LocalizationHelper](../Helpers/LocalizationHelper.md)
-- [PlayerMission](../Player.PlayerMissions/PlayerMission.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [UIs](../UI/UIs.md)
+- None detected.
 
 ## Used By
 
-- [DeliveryJobUI](../Vehicles.DeliveryDriverJob/DeliveryJobUI.md)
-- [FoodDeliveryJobUI](../Player.FoodDeliveryJob/FoodDeliveryJobUI.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # UniformEditorTool
 
-**Type:** Class
-
-**Declared Types:**
-
-- `UniformEditorTool`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,7 @@
 
 ## Uses
 
-- [AddressableLoader](BigAmbitions.SaveSystem/AddressableLoader.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BusinessType](BusinessType.md)
-- [BusinessTypeHelper](Helpers/BusinessTypeHelper.md)
-- [Dropdown](UI.Elements/Dropdown.md)
-- [EmployeePreset](EmployeePreset.md)
-- [SpecialService](Buildings/SpecialService.md)
-- [UniformCustomizer](UniformCustomizer.md)
+- None detected.
 
 ## Used By
 

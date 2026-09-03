@@ -1,10 +1,6 @@
 # RemoveInvalidPlans
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RemoveInvalidPlans`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,21 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [CompatibilityHelper](../Player.SaveSystem.CompatibilityFixes/CompatibilityHelper.md)
-- [DeliveryContract](../Entities/DeliveryContract.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [GameInstance](../GameInstance.md)
-- [HeadhunterPlan](../Buildings.Office.Headquarters/HeadhunterPlan.md)
-- [HrManagerPlan](../Buildings.Office.Headquarters/HrManagerPlan.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
-- [ImportPartnership](../Entities/ImportPartnership.md)
-- [LogisticsManagerPlan](../Buildings.Office.Headquarters/LogisticsManagerPlan.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA010](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA010.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # FixReappearingDefeatedRivals
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FixReappearingDefeatedRivals`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
-- [RivalsHelper](../BigAmbitions.Rivals/RivalsHelper.md)
-- [SpecialRivalState](../BigAmbitions.Rivals/SpecialRivalState.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA05](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA05.md)
+- None detected.
 
 ## Notes
 

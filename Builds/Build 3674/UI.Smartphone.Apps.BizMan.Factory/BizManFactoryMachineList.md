@@ -1,10 +1,6 @@
 # BizManFactoryMachineList
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BizManFactoryMachineList`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [BizManFactoryValidWorkstationPanel](BizManFactoryValidWorkstationPanel.md)
-- [BizManFactoryWorkstationGroupTemplate](BizManFactoryWorkstationGroupTemplate.md)
-- [BizManFactoryWorkstationTemplate](BizManFactoryWorkstationTemplate.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [FactoryWorkstationInstance](../FactoryWorkstationInstance.md)
+- None detected.
 
 ## Used By
 
-- [BizManFactory](BizManFactory.md)
-- [BizManFactoryWorkstationPanel](BizManFactoryWorkstationPanel.md)
+- None detected.
 
 ## Notes
 

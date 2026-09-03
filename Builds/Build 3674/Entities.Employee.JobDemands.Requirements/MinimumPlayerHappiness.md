@@ -1,10 +1,6 @@
 # MinimumPlayerHappiness
 
-**Type:** Class
-
-**Declared Types:**
-
-- `MinimumPlayerHappiness`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Employee](../Employee.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [HappinessHelper](../Helpers/HappinessHelper.md)
-- [IEnvironmentDemand](IEnvironmentDemand.md)
-- [JobDemand](../Entities.Employee.JobDemands/JobDemand.md)
-- [ScheduleDay](../ScheduleDay.md)
+- None detected.
 
 ## Used By
 

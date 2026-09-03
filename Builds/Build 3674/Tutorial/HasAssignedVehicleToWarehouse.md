@@ -1,10 +1,6 @@
 # HasAssignedVehicleToWarehouse
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasAssignedVehicleToWarehouse`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [QuestRequirement](QuestRequirement.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [VehicleInstance](../VehicleInstance.md)
-- [VehicleSlot](../Entities/VehicleSlot.md)
-- [Warehouse](../Entities/Warehouse.md)
+- None detected.
 
 ## Used By
 

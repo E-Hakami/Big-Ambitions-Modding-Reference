@@ -1,10 +1,6 @@
 # LogisticsManagerDestinationUI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `LogisticsManagerDestinationUI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,19 +8,11 @@
 
 ## Uses
 
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [Dropdown](../UI.Elements/Dropdown.md)
-- [HudConfirm](../HudConfirm.md)
-- [LogisticsManagerListSortable](LogisticsManagerListSortable.md)
-- [LogisticsManagerPlan](../Buildings.Office.Headquarters/LogisticsManagerPlan.md)
-- [LogisticsManagerPlanUI](LogisticsManagerPlanUI.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 
-- [LogisticsManagerPlanUI](LogisticsManagerPlanUI.md)
+- None detected.
 
 ## Notes
 

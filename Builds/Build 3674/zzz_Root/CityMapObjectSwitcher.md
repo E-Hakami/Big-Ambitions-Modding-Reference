@@ -1,10 +1,6 @@
 # CityMapObjectSwitcher
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CityMapObjectSwitcher`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CityMap](CityMap.md)
-- [GlobalEvents](GlobalEvents.md)
+- None detected.
 
 ## Used By
 

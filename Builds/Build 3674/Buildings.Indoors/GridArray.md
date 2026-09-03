@@ -1,10 +1,6 @@
 # GridArray
 
-**Type:** Class
-
-**Declared Types:**
-
-- `GridArray`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [GridCell](GridCell.md)
+- None detected.
 
 ## Used By
 
-- [GridMatrix](GridMatrix.md)
+- None detected.
 
 ## Notes
 

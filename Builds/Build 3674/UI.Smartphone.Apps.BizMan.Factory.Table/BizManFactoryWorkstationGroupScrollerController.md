@@ -1,10 +1,6 @@
 # BizManFactoryWorkstationGroupScrollerController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BizManFactoryWorkstationGroupScrollerController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,21 +8,11 @@
 
 ## Uses
 
-- [BaTable](../BaTable/BaTable.md)
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [BizManFactoryWorkstationGroupCellView](BizManFactoryWorkstationGroupCellView.md)
-- [BizManFactoryWorkstationGroupModel](BizManFactoryWorkstationGroupModel.md)
-- [BizManFactoryWorkstationGroupModelIngredient](BizManFactoryWorkstationGroupModelIngredient.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [EmployeeHelper](../Helpers/EmployeeHelper.md)
-- [FactoryWorkstationInstance](../FactoryWorkstationInstance.md)
-- [WorkShift](../WorkShift.md)
+- None detected.
 
 ## Used By
 
-- [BizManFactoryWorkstationGroupModel](BizManFactoryWorkstationGroupModel.md)
-- [BizManFactoryWorkstationGroupPanel](../UI.Smartphone.Apps.BizMan.Factory/BizManFactoryWorkstationGroupPanel.md)
+- None detected.
 
 ## Notes
 

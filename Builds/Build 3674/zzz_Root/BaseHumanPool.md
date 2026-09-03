@@ -1,10 +1,6 @@
 # BaseHumanPool
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BaseHumanPool`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BaseHuman](BaseHuman.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [PrefabHelper](Helpers/PrefabHelper.md)
+- None detected.
 
 ## Used By
 
-- [BenchPedestrianPool](BenchPedestrianPool.md)
-- [GolferPool](GolferPool.md)
-- [OutsideBenchController](OutsideBenchController.md)
-- [PedestrianSpawnerForOutsideInteractableItems](Entities/PedestrianSpawnerForOutsideInteractableItems.md)
+- None detected.
 
 ## Notes
 

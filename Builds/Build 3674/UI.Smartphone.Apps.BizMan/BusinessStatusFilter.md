@@ -1,10 +1,6 @@
 # BusinessStatusFilter
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BusinessStatusFilter`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BizMan](BizMan.md)
-- [RealEstate](../Entities/RealEstate.md)
+- None detected.
 
 ## Used By
 
-- [BizManFilterController](BizManFilterController.md)
+- None detected.
 
 ## Notes
 

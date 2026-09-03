@@ -1,10 +1,6 @@
 # TimeSpeed
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `TimeSpeed`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,11 +12,7 @@
 
 ## Used By
 
-- [CemeteryDeadScenePlayer](CemeteryDeadScenePlayer.md)
-- [GameSpeed](GameSpeed.md)
-- [GameSpeedController](GameSpeedController.md)
-- [PlayerActivityUI](PlayerActivity/PlayerActivityUI.md)
-- [TimeMachine](Timemachine/TimeMachine.md)
+- None detected.
 
 ## Notes
 

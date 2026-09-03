@@ -1,10 +1,6 @@
 # HomelessPool
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HomelessPool`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [Homeless](Entities/Homeless.md)
-- [PrefabHelper](Helpers/PrefabHelper.md)
+- None detected.
 
 ## Used By
 
-- [StationaryAiSpawner](StationaryAiSpawner.md)
+- None detected.
 
 ## Notes
 

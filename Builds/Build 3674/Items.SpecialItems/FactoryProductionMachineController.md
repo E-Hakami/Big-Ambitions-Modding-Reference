@@ -1,10 +1,6 @@
 # FactoryProductionMachineController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FactoryProductionMachineController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [FactoryAssemblyMachineController](FactoryAssemblyMachineController.md)
-- [GlobalReferences](../GlobalReferences.md)
-- [ItemController](../ItemController.md)
-- [SpawnMorphPlayerData](../Factories.Timeline/SpawnMorphPlayerData.md)
+- None detected.
 
 ## Used By
 
-- [FactoryAssemblyMachineController](FactoryAssemblyMachineController.md)
-- [FactoryEmployee](../Factories/FactoryEmployee.md)
-- [ReplaceOldFactoryMachines](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA010/ReplaceOldFactoryMachines.md)
+- None detected.
 
 ## Notes
 

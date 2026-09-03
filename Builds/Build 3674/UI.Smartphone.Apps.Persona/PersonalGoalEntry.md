@@ -1,10 +1,6 @@
 # PersonalGoalEntry
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PersonalGoalEntry`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [GenericPersonalGoal](../GenericPersonalGoal.md)
-- [PersonalGoalProgressBoxData](PersonalGoalProgressBoxData.md)
-- [PersonalGoalTierGroup](PersonalGoalTierGroup.md)
+- None detected.
 
 ## Used By
 
-- [PersonalGoalsUI](PersonalGoalsUI.md)
+- None detected.
 
 ## Notes
 

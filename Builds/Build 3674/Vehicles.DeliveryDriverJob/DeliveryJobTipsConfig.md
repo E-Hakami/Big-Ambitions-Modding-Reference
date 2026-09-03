@@ -1,10 +1,6 @@
 # DeliveryJobTipsConfig
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DeliveryJobTipsConfig`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [TipChance](TipChance.md)
+- None detected.
 
 ## Used By
 
-- [DeliveryDriverMission](../Player.PlayerMissions/DeliveryDriverMission.md)
-- [DeliveryJobStartLocation](DeliveryJobStartLocation.md)
-- [FoodDeliveryJobConfig](../Player.FoodDeliveryJob/FoodDeliveryJobConfig.md)
-- [FoodDeliveryJobHelper](../Player.FoodDeliveryJob/FoodDeliveryJobHelper.md)
+- None detected.
 
 ## Notes
 

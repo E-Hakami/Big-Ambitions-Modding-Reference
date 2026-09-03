@@ -1,11 +1,6 @@
 # PrivateResidenceCellView
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PrivateResidenceCellView`
-- `PrivateResidenceModel`
+**Type:** Source File
 
 ## Main Reference
 
@@ -13,15 +8,11 @@
 
 ## Uses
 
-- [BaTable](BaTable/BaTable.md)
-- [BaTableCellView](BaTable/BaTableCellView.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [UIs](UI/UIs.md)
+- None detected.
 
 ## Used By
 
-- [BizManList](UI.Smartphone.Apps.BizMan/BizManList.md)
-- [PrivateResidenceScrollerController](UI.Smartphone.Apps.BizMan/PrivateResidenceScrollerController.md)
+- None detected.
 
 ## Notes
 

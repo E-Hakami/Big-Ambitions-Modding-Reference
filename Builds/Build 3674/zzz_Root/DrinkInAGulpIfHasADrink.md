@@ -1,10 +1,6 @@
 # DrinkInAGulpIfHasADrink
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DrinkInAGulpIfHasADrink`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [RemoveDrink](RemoveDrink.md)
-- [SharedCustomer](SharedCustomer.md)
-- [ThirdPersonCharacter](ThirdPersonCharacter.md)
+- None detected.
 
 ## Used By
 

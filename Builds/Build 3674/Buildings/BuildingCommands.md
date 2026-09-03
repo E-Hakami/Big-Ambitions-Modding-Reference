@@ -1,10 +1,6 @@
 # BuildingCommands
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BuildingCommands`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [Building](Building.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [BuildingVersion](../BuildingVersion.md)
-- [GameManager](../GameManager.md)
+- None detected.
 
 ## Used By
 

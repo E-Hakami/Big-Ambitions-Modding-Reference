@@ -1,10 +1,6 @@
 # LogisticsManagerListEntryData
 
-**Type:** Class
-
-**Declared Types:**
-
-- `LogisticsManagerListEntryData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [LogisticsManagerListOption](LogisticsManagerListOption.md)
+- None detected.
 
 ## Used By
 
-- [LogisticsManagerListSortable](LogisticsManagerListSortable.md)
-- [LogisticsManagerPlanUI](LogisticsManagerPlanUI.md)
+- None detected.
 
 ## Notes
 

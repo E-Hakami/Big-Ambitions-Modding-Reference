@@ -1,10 +1,6 @@
 # HasHappinessModifier
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasHappinessModifier`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [HappinessModifierData](../Helpers/HappinessModifierData.md)
-- [QuestRequirement](QuestRequirement.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 

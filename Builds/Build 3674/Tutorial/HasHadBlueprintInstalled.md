@@ -1,10 +1,6 @@
 # HasHadBlueprintInstalled
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasHadBlueprintInstalled`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [QuestRequirement](QuestRequirement.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [Transaction](../Transaction.md)
+- None detected.
 
 ## Used By
 

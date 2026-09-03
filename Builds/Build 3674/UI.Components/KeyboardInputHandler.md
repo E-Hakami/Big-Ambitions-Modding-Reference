@@ -1,10 +1,6 @@
 # KeyboardInputHandler
 
-**Type:** Class
-
-**Declared Types:**
-
-- `KeyboardInputHandler`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [KeyboardInputHelper](KeyboardInputHelper.md)
+- None detected.
 
 ## Used By
 
-- [KeyboardInputHelper](KeyboardInputHelper.md)
+- None detected.
 
 ## Notes
 

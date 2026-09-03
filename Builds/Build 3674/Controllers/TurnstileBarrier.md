@@ -1,10 +1,6 @@
 # TurnstileBarrier
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TurnstileBarrier`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [GameManager](../GameManager.md)
-- [VehicleController](../VehicleController.md)
+- None detected.
 
 ## Used By
 

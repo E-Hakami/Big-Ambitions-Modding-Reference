@@ -1,10 +1,6 @@
 # RescueMissingVehiclesWithWrongAddress
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RescueMissingVehiclesWithWrongAddress`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
-- [VehicleInstance](../VehicleInstance.md)
-- [VehicleType](../Vehicles.VehicleTypes/VehicleType.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA011](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA011.md)
-- [UpdateGameInstanceToEA04](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA04.md)
+- None detected.
 
 ## Notes
 

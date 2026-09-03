@@ -1,11 +1,6 @@
 # CityMapNeighborhoodZones
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CityMapNeighborhoodZones`
-- `CityMapNeighborhoodZone`
+**Type:** Source File
 
 ## Main Reference
 
@@ -13,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CityManager](CityManager.md)
-- [NeighborhoodHelper](NeighborhoodHelper.md)
+- None detected.
 
 ## Used By
 
-- [CityMap](CityMap.md)
-- [CityMapFilters](CityMapFilters.md)
-- [MarketInsiderNeighborhoodData](UI.Smartphone.Apps.MarketInsider/MarketInsiderNeighborhoodData.md)
+- None detected.
 
 ## Notes
 

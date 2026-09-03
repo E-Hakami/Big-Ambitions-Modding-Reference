@@ -1,10 +1,6 @@
 # RandomLightColor
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RandomLightColor`
+**Type:** Source File
 
 ## Main Reference
 

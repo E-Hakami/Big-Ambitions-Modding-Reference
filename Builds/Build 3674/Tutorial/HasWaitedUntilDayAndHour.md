@@ -1,10 +1,6 @@
 # HasWaitedUntilDayAndHour
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasWaitedUntilDayAndHour`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [QuestRequirement](QuestRequirement.md)
-- [TimeHelper](../TimeHelper.md)
+- None detected.
 
 ## Used By
 

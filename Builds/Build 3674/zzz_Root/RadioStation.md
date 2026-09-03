@@ -1,10 +1,6 @@
 # RadioStation
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `RadioStation`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,19 +12,7 @@
 
 ## Used By
 
-- [BuildingOutsideMusic](BuildingOutsideMusic.md)
-- [BuildingRegistration](BuildingRegistration.md)
-- [BusinessType](BusinessType.md)
-- [EnumHelpers](EnumHelpers.md)
-- [LoudSpeakersManager](Player.Sound.Radio/LoudSpeakersManager.md)
-- [MusicPlayer](MusicPlayer.md)
-- [PlayerPref](PlayerPref.md)
-- [PlayerPrefs](PlayerPrefs.md)
-- [PlayerPrefSettings](PlayerPrefSettings.md)
-- [RadioPlayer](RadioPlayer.md)
-- [RadioStationClips](Player.Sound.Radio/RadioStationClips.md)
-- [RadioStationData](RadioStationData.md)
-- [RadioStationSource](RadioStationSource.md)
+- None detected.
 
 ## Notes
 

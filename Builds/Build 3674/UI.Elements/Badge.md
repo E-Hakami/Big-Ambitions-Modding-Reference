@@ -1,10 +1,6 @@
 # Badge
 
-**Type:** Class
-
-**Declared Types:**
-
-- `Badge`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [BizManList](../UI.Smartphone.Apps.BizMan/BizManList.md)
-- [ContactCategoryButton](../UI.Smartphone.Apps.Contacts/ContactCategoryButton.md)
-- [ContactCellView](../UI.Smartphone.Apps.Contacts/ContactCellView.md)
-- [MarketDemandScrollerController](../UI.Smartphone.Apps.MarketInsider/MarketDemandScrollerController.md)
-- [MyEmployees](../UI.Smartphone.Apps.MyEmployees/MyEmployees.md)
-- [PricingManagerProductsScrollerController](../UI.Smartphone.Apps.BizMan.PricingManagers/PricingManagerProductsScrollerController.md)
-- [RealEstateScrollerController](../UI.Smartphone.Apps.MarketInsider/RealEstateScrollerController.md)
-- [SmartphoneAppButton](../SmartphoneAppButton.md)
+- None detected.
 
 ## Notes
 

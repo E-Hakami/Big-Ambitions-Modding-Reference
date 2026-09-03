@@ -1,10 +1,6 @@
 # CustomGameFoldout
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CustomGameFoldout`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [PreferredSizeFitter](PreferredSizeFitter.md)
+- None detected.
 
 ## Used By
 
-- [BizManFactoryWorkstationGroupCellView](../UI.Smartphone.Apps.BizMan.Factory.Table/BizManFactoryWorkstationGroupCellView.md)
-- [BizManFactoryWorkstationGroupTemplate](../UI.Smartphone.Apps.BizMan.Factory/BizManFactoryWorkstationGroupTemplate.md)
+- None detected.
 
 ## Notes
 

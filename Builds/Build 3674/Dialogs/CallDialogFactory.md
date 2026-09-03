@@ -1,10 +1,6 @@
 # CallDialogFactory
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CallDialogFactory`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,33 +8,11 @@
 
 ## Uses
 
-- [AutoTowServiceDialog](AutoTowServiceDialog.md)
-- [BankDialog](BankDialog.md)
-- [BlackjackDialog](BlackjackDialog.md)
-- [CallDialogType](CallDialogType.md)
-- [CandidateSalaryNegotiationDialog](../AI.Employees.SalaryNegotiation/CandidateSalaryNegotiationDialog.md)
-- [Dialog](Dialog.md)
-- [DoctorDialog](DoctorDialog.md)
-- [FoodDeliveryDialog](FoodDeliveryDialog.md)
-- [FurnitureStoreManagerDialog](FurnitureStoreManagerDialog.md)
-- [HealthInsuranceManagerDialog](HealthInsuranceManagerDialog.md)
-- [HealthInsuranceNegotiationDialog](HealthInsuranceNegotiationDialog.md)
-- [ImportManagerDialog](ImportManagerDialog.md)
-- [InteriorInstallationFirmAgentDialog](InteriorInstallationFirmAgentDialog.md)
-- [MarketingAgencyDialog](MarketingAgencyDialog.md)
-- [MovingServiceDialog](MovingServiceDialog.md)
-- [PrivateDriverServiceDialog](../Buildings/PrivateDriverServiceDialog.md)
-- [RecruitmentAgencyDialog](RecruitmentAgencyDialog.md)
-- [RouletteDialog](RouletteDialog.md)
-- [SlotMachineDialog](SlotMachineDialog.md)
-- [UncleFredDialog](UncleFredDialog.md)
-- [VehicleStoreDialog](../Buildings/VehicleStoreDialog.md)
-- [WholesaleStoreManagerDialog](WholesaleStoreManagerDialog.md)
+- None detected.
 
 ## Used By
 
-- [ContactsApp](../UI.Smartphone.Apps.Contacts/ContactsApp.md)
-- [DialogUI](../UI.Dialog/DialogUI.md)
+- None detected.
 
 ## Notes
 

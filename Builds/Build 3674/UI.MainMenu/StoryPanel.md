@@ -1,10 +1,6 @@
 # StoryPanel
 
-**Type:** Class
-
-**Declared Types:**
-
-- `StoryPanel`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [GlobalReferences](../GlobalReferences.md)
-- [MainMenuController](../MainMenuController.md)
-- [NewGamePanel](NewGamePanel.md)
-- [StoryDifficultyOption](StoryDifficultyOption.md)
+- None detected.
 
 ## Used By
 

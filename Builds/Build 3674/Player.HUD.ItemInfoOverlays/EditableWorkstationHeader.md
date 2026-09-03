@@ -1,10 +1,6 @@
 # EditableWorkstationHeader
 
-**Type:** Class
-
-**Declared Types:**
-
-- `EditableWorkstationHeader`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [EmployeeStationController](../EmployeeStationController.md)
-- [EntityController](../EntityController.md)
-- [IsPlayerOwnedBusiness](../IsPlayerOwnedBusiness.md)
-- [OverlayHelper](OverlayHelper.md)
+- None detected.
 
 ## Used By
 
-- [DetailedOverlay](DetailedOverlay.md)
+- None detected.
 
 ## Notes
 

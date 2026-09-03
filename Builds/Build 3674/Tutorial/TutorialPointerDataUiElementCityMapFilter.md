@@ -1,10 +1,6 @@
 # TutorialPointerDataUiElementCityMapFilter
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TutorialPointerDataUiElementCityMapFilter`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CityMapFilters](../CityMapFilters.md)
-- [GlobalEvents](../GlobalEvents.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [TutorialPointerDataUiElement](TutorialPointerDataUiElement.md)
-- [UIs](../UI/UIs.md)
+- None detected.
 
 ## Used By
 

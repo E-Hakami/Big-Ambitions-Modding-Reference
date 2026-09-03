@@ -1,10 +1,6 @@
 # ScheduleEmployeeSortingMethod
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `ScheduleEmployeeSortingMethod`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [Satisfaction](../Satisfaction.md)
+- None detected.
 
 ## Used By
 
-- [ScheduleEmployeeSortToggle](ScheduleEmployeeSortToggle.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # TextInputUI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TextInputUI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [KeyboardInputHelper](UI.Components/KeyboardInputHelper.md)
+- None detected.
 
 ## Used By
 
-- [UIs](UI/UIs.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # TennisInteractionNpcAnimator
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TennisInteractionNpcAnimator`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [PlayerHelper](../Helpers/PlayerHelper.md)
+- None detected.
 
 ## Used By
 

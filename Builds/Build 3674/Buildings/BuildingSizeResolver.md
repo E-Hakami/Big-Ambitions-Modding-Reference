@@ -1,11 +1,6 @@
 # BuildingSizeResolver
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BuildingSizeResolver`
-- `BackgroundPreloadRequest`
+**Type:** Source File
 
 ## Main Reference
 
@@ -13,20 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [BuildingPreloadMode](BuildingPreloadMode.md)
-- [BuildingSizeContainer](BuildingSizeContainer.md)
-- [BuildingSizeInfo](../Blueprints/BuildingSizeInfo.md)
-- [BuildingStructureController](BuildingStructureController.md)
-- [BuildingStructureEntry](BuildingStructureEntry.md)
-- [GlobalEvents](../GlobalEvents.md)
+- None detected.
 
 ## Used By
 
-- [BlueprintCreatorSystem](../BigAmbitions.BlueprintCreator/BlueprintCreatorSystem.md)
-- [BuildingManager](../BuildingManager.md)
-- [UndergroundParkingManager](../Parking.UndergroundParking/UndergroundParkingManager.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # PlayerLogoShape
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PlayerLogoShape`
+**Type:** Source File
 
 ## Main Reference
 

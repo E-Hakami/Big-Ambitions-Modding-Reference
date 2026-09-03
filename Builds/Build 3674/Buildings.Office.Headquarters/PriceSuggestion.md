@@ -1,10 +1,6 @@
 # PriceSuggestion
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PriceSuggestion`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [PricingManagerPlan](PricingManagerPlan.md)
-- [PricingManagerProductCellView](../UI.Smartphone.Apps.BizMan.PricingManagers/PricingManagerProductCellView.md)
-- [PricingManagerProductModel](../UI.Smartphone.Apps.BizMan.PricingManagers/PricingManagerProductModel.md)
-- [PricingManagerProductsScrollerController](../UI.Smartphone.Apps.BizMan.PricingManagers/PricingManagerProductsScrollerController.md)
+- None detected.
 
 ## Notes
 

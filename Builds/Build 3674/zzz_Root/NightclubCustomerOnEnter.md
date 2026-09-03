@@ -1,10 +1,6 @@
 # NightclubCustomerOnEnter
 
-**Type:** Class
-
-**Declared Types:**
-
-- `NightclubCustomerOnEnter`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [CustomerTimeState](CustomerTimeState.md)
-- [IndoorCustomerSpawner](IndoorCustomerSpawner.md)
-- [SharedCustomer](SharedCustomer.md)
+- None detected.
 
 ## Used By
 

@@ -1,10 +1,6 @@
 # PrivateDriverContract
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PrivateDriverContract`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [GasStationOverlay](../UI.Overlays/GasStationOverlay.md)
-- [PrivateDriverContractSettings](PrivateDriverContractSettings.md)
-- [PrivateDriverHelpers](../Helpers/PrivateDriverHelpers.md)
-- [PrivateDriverServiceDialog](../Buildings/PrivateDriverServiceDialog.md)
-- [SmartphoneUI](../SmartphoneUI.md)
+- None detected.
 
 ## Notes
 

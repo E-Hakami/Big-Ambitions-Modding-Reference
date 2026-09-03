@@ -1,10 +1,6 @@
 # ShelfController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ShelfController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,25 +8,11 @@
 
 ## Uses
 
-- [BuildingContext](BuildingContext.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [GameManager](GameManager.md)
-- [Item](BusinessLayoutSets/Item.md)
-- [Producer](Producer.md)
+- None detected.
 
 ## Used By
 
-- [DeliverySpot](DeliverySpot.md)
-- [ItemController](ItemController.md)
-- [ItemHelper](ItemHelper.md)
-- [PalletController](PalletController.md)
-- [PlayerItemPurchaser](Controllers/PlayerItemPurchaser.md)
-- [SecurityOverlay](Player.HUD.ItemInfoOverlays/SecurityOverlay.md)
-- [SelfServiceCustomerTryFindItem](SelfServiceCustomerTryFindItem.md)
-- [ShelfCtaBehavior](Player.HUD.ItemInfoOverlays/ShelfCtaBehavior.md)
-- [ShowcaseShelfController](Items.SpecialItems/ShowcaseShelfController.md)
-- [StockOverlay](Player.HUD.ItemInfoOverlays/StockOverlay.md)
-- [StorageShelfController](StorageShelfController.md)
+- None detected.
 
 ## Notes
 

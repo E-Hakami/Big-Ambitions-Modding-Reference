@@ -1,10 +1,6 @@
 # UncleFredDialog
 
-**Type:** Class
-
-**Declared Types:**
-
-- `UncleFredDialog`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [Dialog](Dialog.md)
-- [DialogController](../DialogController.md)
-- [DialogEntry](../Entities/DialogEntry.md)
-- [GameEvent](../GameEvent.md)
-- [TextMessage](../Entities/TextMessage.md)
-- [TutorialHelper](../Helpers/TutorialHelper.md)
+- None detected.
 
 ## Used By
 
-- [CallDialogFactory](CallDialogFactory.md)
-- [CallDialogType](CallDialogType.md)
-- [ContactsApp](../UI.Smartphone.Apps.Contacts/ContactsApp.md)
+- None detected.
 
 ## Notes
 

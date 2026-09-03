@@ -1,10 +1,6 @@
 # BlueprintsWorkshopHelper
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BlueprintsWorkshopHelper`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,7 +12,7 @@
 
 ## Used By
 
-- [Blueprint](Blueprint.md)
+- None detected.
 
 ## Notes
 

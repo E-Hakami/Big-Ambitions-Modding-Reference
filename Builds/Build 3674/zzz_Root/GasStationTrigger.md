@@ -1,10 +1,6 @@
 # GasStationTrigger
 
-**Type:** Class
-
-**Declared Types:**
-
-- `GasStationTrigger`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,21 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CityBuildingController](CityBuildingController.md)
-- [GameManager](GameManager.md)
-- [GlobalEvents](GlobalEvents.md)
-- [PlayerHelper](Helpers/PlayerHelper.md)
-- [ScreenshotController](ScreenshotController.md)
-- [VehicleController](VehicleController.md)
-- [VehicleHelper](Helpers/VehicleHelper.md)
-- [VehicleType](Vehicles.VehicleTypes/VehicleType.md)
+- None detected.
 
 ## Used By
 
-- [GasStationController](GasStationController.md)
-- [GasStationOverlay](UI.Overlays/GasStationOverlay.md)
-- [VehicleHelper](Helpers/VehicleHelper.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # SecurityGuardLockerController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SecurityGuardLockerController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,7 @@
 
 ## Uses
 
-- [EmployeeHelper](../Helpers/EmployeeHelper.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [EmployeeStationController](../EmployeeStationController.md)
-- [IndoorCustomerSpawner](../IndoorCustomerSpawner.md)
-- [SecurityGuardEmployee](../SecurityGuardEmployee.md)
-- [ThirdPersonCharacter](../ThirdPersonCharacter.md)
+- None detected.
 
 ## Used By
 

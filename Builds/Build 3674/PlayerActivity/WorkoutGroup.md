@@ -1,10 +1,6 @@
 # WorkoutGroup
 
-**Type:** Class
-
-**Declared Types:**
-
-- `WorkoutGroup`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [WorkoutGroupType](WorkoutGroupType.md)
-- [WorkoutType](WorkoutType.md)
+- None detected.
 
 ## Used By
 
-- [GymBusinessHelper](../Buildings.Retail.Businesses.Gym/GymBusinessHelper.md)
+- None detected.
 
 ## Notes
 

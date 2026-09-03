@@ -1,10 +1,6 @@
 # MainMenuMusic
 
-**Type:** Class
-
-**Declared Types:**
-
-- `MainMenuMusic`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [BlueprintCreatorManager](BigAmbitions.BlueprintCreator/BlueprintCreatorManager.md)
-- [CityManager](CityManager.md)
+- None detected.
 
 ## Notes
 

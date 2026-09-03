@@ -1,10 +1,6 @@
 # SharedCasinoRandomAction
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SharedCasinoRandomAction`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,7 +8,7 @@
 
 ## Uses
 
-- [CasinoRandomAction](CasinoRandomAction.md)
+- None detected.
 
 ## Used By
 

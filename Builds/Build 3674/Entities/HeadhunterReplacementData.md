@@ -1,10 +1,6 @@
 # HeadhunterReplacementData
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HeadhunterReplacementData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [EmployeeInstance](EmployeeInstance.md)
-- [ReplacementReason](ReplacementReason.md)
-- [Satisfaction](../Satisfaction.md)
+- None detected.
 
 ## Used By
 
-- [Headhunter](Headhunter.md)
-- [HeadhunterPlan](../Buildings.Office.Headquarters/HeadhunterPlan.md)
-- [UpdateHeadquartersPlansToNewSystem](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA06/UpdateHeadquartersPlansToNewSystem.md)
+- None detected.
 
 ## Notes
 

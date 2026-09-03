@@ -1,10 +1,6 @@
 # HasInvestments
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasInvestments`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [InvestmentFund](../Entities/InvestmentFund.md)
-- [InvestmentFundHelper](../Helpers/InvestmentFundHelper.md)
-- [QuestRequirement](QuestRequirement.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 

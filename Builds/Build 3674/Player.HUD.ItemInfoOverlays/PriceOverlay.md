@@ -1,10 +1,6 @@
 # PriceOverlay
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PriceOverlay`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,23 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [EntityController](../EntityController.md)
-- [GlobalReferences](../GlobalReferences.md)
-- [IOverlay](IOverlay.md)
-- [IsPlayerOwnedBusiness](../IsPlayerOwnedBusiness.md)
-- [ItemController](../ItemController.md)
-- [PlayerItemPurchaser](../Controllers/PlayerItemPurchaser.md)
-- [ShowcaseVehicleController](../Controllers/ShowcaseVehicleController.md)
-- [SlotMachineController](../SlotMachineController.md)
-- [SubwayStation](../SubwayStation.md)
-- [TicketHouse](../TicketHouse.md)
-- [VehicleSpawnerController](../VehicleSpawnerController.md)
+- None detected.
 
 ## Used By
 
-- [OverlayHelper](OverlayHelper.md)
+- None detected.
 
 ## Notes
 

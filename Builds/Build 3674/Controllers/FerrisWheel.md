@@ -1,10 +1,6 @@
 # FerrisWheel
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FerrisWheel`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,19 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CarnivalPedestrian](../CarnivalPedestrian.md)
-- [FerrisWheelCabin](FerrisWheelCabin.md)
-- [ICarnivalNpcItem](ICarnivalNpcItem.md)
-- [NpcItemPositionGiver](../NpcItemPositionGiver.md)
-- [ThirdPersonCharacter](../ThirdPersonCharacter.md)
+- None detected.
 
 ## Used By
 
-- [EnumHelpers](../EnumHelpers.md)
-- [FerrisWheelTicketSeller](FerrisWheelTicketSeller.md)
-- [FerrisWheelViewBlockingEntity](FerrisWheelViewBlockingEntity.md)
-- [PaidActivityType](../PlayerActivity.Activities.Paid/PaidActivityType.md)
+- None detected.
 
 ## Notes
 

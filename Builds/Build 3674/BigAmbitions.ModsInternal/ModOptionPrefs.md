@@ -1,10 +1,6 @@
 # ModOptionPrefs
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ModOptionPrefs`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [PlayerPrefs](../PlayerPrefs.md)
+- None detected.
 
 ## Used By
 
-- [ModOptionsDropdownControl](ModOptionsDropdownControl.md)
-- [ModOptionsSliderControl](ModOptionsSliderControl.md)
-- [ModOptionsToggleControl](ModOptionsToggleControl.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # DeliveryVehicleInstance
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DeliveryVehicleInstance`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [VehicleInstance](../VehicleInstance.md)
+- None detected.
 
 ## Used By
 
-- [DeliveryJobStartController](DeliveryJobStartController.md)
+- None detected.
 
 ## Notes
 

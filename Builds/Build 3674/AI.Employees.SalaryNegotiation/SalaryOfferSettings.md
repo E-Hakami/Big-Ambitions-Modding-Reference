@@ -1,10 +1,6 @@
 # SalaryOfferSettings
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SalaryOfferSettings`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CandidateSalaryOffer](CandidateSalaryOffer.md)
-- [Dialog](../Dialogs/Dialog.md)
-- [DialogController](../DialogController.md)
-- [PlayerOfferSettings](../UI.Dialog/PlayerOfferSettings.md)
+- None detected.
 
 ## Used By
 
-- [CandidateSalaryNegotiationDialog](CandidateSalaryNegotiationDialog.md)
+- None detected.
 
 ## Notes
 

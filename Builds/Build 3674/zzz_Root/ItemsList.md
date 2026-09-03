@@ -1,10 +1,6 @@
 # ItemsList
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ItemsList`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [InputField](UI.Components/InputField.md)
-- [ItemsListEntry](ItemsListEntry.md)
+- None detected.
 
 ## Used By
 
-- [UIs](UI/UIs.md)
+- None detected.
 
 ## Notes
 

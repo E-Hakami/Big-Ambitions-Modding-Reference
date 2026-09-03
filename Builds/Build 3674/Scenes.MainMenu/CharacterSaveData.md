@@ -1,10 +1,6 @@
 # CharacterSaveData
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CharacterSaveData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 
-- [LoadGame](LoadGame.md)
+- None detected.
 
 ## Notes
 

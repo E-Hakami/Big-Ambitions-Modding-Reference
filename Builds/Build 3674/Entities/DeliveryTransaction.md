@@ -1,10 +1,6 @@
 # DeliveryTransaction
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DeliveryTransaction`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [DeliveryItem](DeliveryItem.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 
-- [ImportPartnership](ImportPartnership.md)
-- [LogisticsManagerPlanDestination](LogisticsManagerPlanDestination.md)
-- [Warehouse](Warehouse.md)
+- None detected.
 
 ## Notes
 

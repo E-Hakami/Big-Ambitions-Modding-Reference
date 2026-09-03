@@ -1,10 +1,6 @@
 # CasinoBuildingController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CasinoBuildingController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [CityBuildingController](CityBuildingController.md)
-- [TicketHouse](TicketHouse.md)
+- None detected.
 
 ## Used By
 
-- [CasinoBoatManager](CasinoBoatManager.md)
+- None detected.
 
 ## Notes
 

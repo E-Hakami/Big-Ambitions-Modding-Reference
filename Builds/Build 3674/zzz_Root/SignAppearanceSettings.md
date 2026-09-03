@@ -1,10 +1,6 @@
 # SignAppearanceSettings
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SignAppearanceSettings`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [SignType](Enums/SignType.md)
+- None detected.
 
 ## Used By
 
-- [AiBusinessDefault](AiBusinessDefault.md)
-- [BuildingRegistration](BuildingRegistration.md)
-- [CityBuildingController](CityBuildingController.md)
-- [SpecialService](Buildings/SpecialService.md)
+- None detected.
 
 ## Notes
 

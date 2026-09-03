@@ -1,10 +1,6 @@
 # CustomerJoinQueueInstantly
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CustomerJoinQueueInstantly`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CustomerState](CustomerState.md)
-- [SharedCustomer](SharedCustomer.md)
-- [SharedItemTag](SharedItemTag.md)
-- [WaitingLinesHelper](WaitingLinesHelper.md)
+- None detected.
 
 ## Used By
 

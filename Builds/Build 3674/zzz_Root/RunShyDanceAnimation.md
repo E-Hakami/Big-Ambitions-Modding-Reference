@@ -1,10 +1,6 @@
 # RunShyDanceAnimation
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RunShyDanceAnimation`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [DanceType](Dancing/DanceType.md)
-- [SharedNightclubCustomer](SharedNightclubCustomer.md)
-- [TimeHelper](TimeHelper.md)
+- None detected.
 
 ## Used By
 

@@ -1,10 +1,6 @@
 # InteractiveObjectType
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `InteractiveObjectType`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,11 +12,7 @@
 
 ## Used By
 
-- [CityMap](CityMap.md)
-- [InteriorElementActionPanelUI](UI.InteriorDesigner/InteriorElementActionPanelUI.md)
-- [MopController](MopController.md)
-- [MouseController](MouseController.md)
-- [PlacementHelper](Buildings.Indoors.InteriorDesign/PlacementHelper.md)
+- None detected.
 
 ## Notes
 

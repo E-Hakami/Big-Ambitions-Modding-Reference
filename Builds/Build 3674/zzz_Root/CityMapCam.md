@@ -1,10 +1,6 @@
 # CityMapCam
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CityMapCam`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,22 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingPreview](UI/BuildingPreview.md)
-- [CityMap](CityMap.md)
-- [Feedback](UI.Smartphone.Apps.Feedback/Feedback.md)
-- [FullMenu](UI.Smartphone/FullMenu.md)
-- [GameManager](GameManager.md)
-- [GlobalEvents](GlobalEvents.md)
-- [MiniMenu](UI.MiniMenu/MiniMenu.md)
-- [Options](Scenes.MainMenu/Options.md)
-- [PedestrianCam](CameraControllers/PedestrianCam.md)
-- [SaveGameManager](SaveGameManager.md)
-- [UIs](UI/UIs.md)
+- None detected.
 
 ## Used By
 
-- [CityMap](CityMap.md)
+- None detected.
 
 ## Notes
 

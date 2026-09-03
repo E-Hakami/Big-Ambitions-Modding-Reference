@@ -1,10 +1,6 @@
 # LayoutScreenshotGenerator
 
-**Type:** Class
-
-**Declared Types:**
-
-- `LayoutScreenshotGenerator`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [BuildingSizeHelper](../Buildings/BuildingSizeHelper.md)
-- [BuildingSizeInfo](../Blueprints/BuildingSizeInfo.md)
+- None detected.
 
 ## Used By
 
-- [BuildingManager](../BuildingManager.md)
+- None detected.
 
 ## Notes
 

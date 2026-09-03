@@ -1,10 +1,6 @@
 # HasDeliveryContractWithAllStoreProducts
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasDeliveryContractWithAllStoreProducts`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [DeliveryContract](../Entities/DeliveryContract.md)
-- [DeliveryContractItem](../Entities/DeliveryContractItem.md)
-- [QuestEntryTarget](QuestEntryTarget.md)
-- [QuestRequirement](QuestRequirement.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 

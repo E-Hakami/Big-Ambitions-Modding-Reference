@@ -1,10 +1,6 @@
 # ManageCargoUi
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ManageCargoUi`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,22 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CargoItemUi](../UI.PlayerHUD/CargoItemUi.md)
-- [GameEvent](../GameEvent.md)
-- [GameManager](../GameManager.md)
-- [GlobalEvents](../GlobalEvents.md)
-- [HudConfirm](../HudConfirm.md)
-- [ItemPanelUI](../UI.ItemPanel/ItemPanelUI.md)
-- [PlayerHUD](../UI.PlayerHUD/PlayerHUD.md)
-- [TransactionInfo](../TransactionInfo.md)
-- [UIs](../UI/UIs.md)
+- None detected.
 
 ## Used By
 
-- [CancelButtonHandler](../CancelButtonHandler.md)
-- [CargoItemUi](../UI.PlayerHUD/CargoItemUi.md)
-- [PlayerHUD](../UI.PlayerHUD/PlayerHUD.md)
+- None detected.
 
 ## Notes
 

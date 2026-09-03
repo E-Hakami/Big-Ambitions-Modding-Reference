@@ -1,10 +1,6 @@
 # BedController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BedController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,22 +8,11 @@
 
 ## Uses
 
-- [BuildingContext](BuildingContext.md)
-- [IsPlayerOwnedBusiness](IsPlayerOwnedBusiness.md)
-- [ItemController](ItemController.md)
-- [Notification](UI.Notification/Notification.md)
-- [Notifications](UI.Notification/Notifications.md)
-- [NotificationType](UI.Notification/NotificationType.md)
-- [PlayerActivityUI](PlayerActivity/PlayerActivityUI.md)
-- [PlayerHelper](Helpers/PlayerHelper.md)
-- [SaveGameManager](SaveGameManager.md)
-- [SleepEnvironment](PlayerActivity/SleepEnvironment.md)
-- [VehicleInstance](VehicleInstance.md)
+- None detected.
 
 ## Used By
 
-- [PlayerActivityCtaBehavior](Player.HUD.ItemInfoOverlays/PlayerActivityCtaBehavior.md)
-- [SleepActivity](PlayerActivity/SleepActivity.md)
+- None detected.
 
 ## Notes
 

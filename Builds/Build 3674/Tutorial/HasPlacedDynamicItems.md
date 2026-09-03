@@ -1,10 +1,6 @@
 # HasPlacedDynamicItems
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasPlacedDynamicItems`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [BuildingRegistration](../BuildingRegistration.md)
-- [HasDynamicItemsInTarget](HasDynamicItemsInTarget.md)
-- [TutorialDynamicItems](TutorialDynamicItems.md)
+- None detected.
 
 ## Used By
 

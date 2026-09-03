@@ -1,10 +1,6 @@
 # FurnitureCategoryToggle
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FurnitureCategoryToggle`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [FurnitureActionPanelUi](FurnitureActionPanelUi.md)
+- None detected.
 
 ## Used By
 
-- [FurnitureActionPanelUi](FurnitureActionPanelUi.md)
-- [FurnitureItemSearch](FurnitureItemSearch.md)
-- [FurnitureTagMatcher](FurnitureTagMatcher.md)
+- None detected.
 
 ## Notes
 

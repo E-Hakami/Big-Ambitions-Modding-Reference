@@ -1,10 +1,6 @@
 # PricingManagerPlanUI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PricingManagerPlanUI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,20 +8,11 @@
 
 ## Uses
 
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [Dropdown](../UI.Elements/Dropdown.md)
-- [HudConfirm](../HudConfirm.md)
-- [NoManagerAssignedPopUp](../NoManagerAssignedPopUp.md)
-- [PricingManagerHelper](../Buildings.Office.Headquarters/PricingManagerHelper.md)
-- [PricingManagerPlan](../Buildings.Office.Headquarters/PricingManagerPlan.md)
-- [PricingManagerProductsScrollerController](PricingManagerProductsScrollerController.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 
-- [PricingManagersPlanList](PricingManagersPlanList.md)
+- None detected.
 
 ## Notes
 

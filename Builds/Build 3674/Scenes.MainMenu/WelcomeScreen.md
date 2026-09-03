@@ -1,10 +1,6 @@
 # WelcomeScreen
 
-**Type:** Class
-
-**Declared Types:**
-
-- `WelcomeScreen`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Dropdown](../UI.Elements/Dropdown.md)
-- [MainMenuController](../MainMenuController.md)
-- [NewsletterService](../Services/NewsletterService.md)
-- [PlayerPrefSettings](../PlayerPrefSettings.md)
+- None detected.
 
 ## Used By
 

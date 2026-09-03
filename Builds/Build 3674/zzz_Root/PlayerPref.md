@@ -1,10 +1,6 @@
 # PlayerPref
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `PlayerPref`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,22 +8,11 @@
 
 ## Uses
 
-- [GameSpeed](GameSpeed.md)
-- [RadioStation](RadioStation.md)
+- None detected.
 
 ## Used By
 
-- [AntiAliasingHelper](Settings/AntiAliasingHelper.md)
-- [BlueprintLibraryController](Blueprints/BlueprintLibraryController.md)
-- [ControlsHintsUIController](Player.HUD.ControlHints/ControlsHintsUIController.md)
-- [EnumHelpers](EnumHelpers.md)
-- [GameManager](GameManager.md)
-- [IntroCharacterCustomizer](Intro/IntroCharacterCustomizer.md)
-- [MainMenuController](MainMenuController.md)
-- [Options](Scenes.MainMenu/Options.md)
-- [PlayerPrefs](PlayerPrefs.md)
-- [PlayerPrefSettings](PlayerPrefSettings.md)
-- [VehicleInfoPanel](UI.ItemPanel/VehicleInfoPanel.md)
+- None detected.
 
 ## Notes
 

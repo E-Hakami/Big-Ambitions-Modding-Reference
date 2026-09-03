@@ -1,10 +1,6 @@
 # DanceFloorController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DanceFloorController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [ItemController](ItemController.md)
-- [PlayerDances](Character/PlayerDances.md)
-- [PlayerHelper](Helpers/PlayerHelper.md)
-- [UIs](UI/UIs.md)
+- None detected.
 
 ## Used By
 
-- [PlayerActivityCtaBehavior](Player.HUD.ItemInfoOverlays/PlayerActivityCtaBehavior.md)
+- None detected.
 
 ## Notes
 

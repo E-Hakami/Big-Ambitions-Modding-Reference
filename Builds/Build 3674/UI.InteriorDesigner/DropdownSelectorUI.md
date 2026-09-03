@@ -1,10 +1,6 @@
 # DropdownSelectorUI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DropdownSelectorUI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Dropdown](../UI.Elements/Dropdown.md)
-- [DropdownSelector](DropdownSelector.md)
+- None detected.
 
 ## Used By
 

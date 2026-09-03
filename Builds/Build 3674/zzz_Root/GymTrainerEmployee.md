@@ -1,10 +1,6 @@
 # GymTrainerEmployee
 
-**Type:** Class
-
-**Declared Types:**
-
-- `GymTrainerEmployee`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [Employee](Employee.md)
-- [EmployeeStationController](EmployeeStationController.md)
-- [ItemController](ItemController.md)
-- [WorkoutMachineController](WorkoutMachineController.md)
+- None detected.
 
 ## Used By
 
-- [FitnessPlanningBoardController](Controllers/FitnessPlanningBoardController.md)
-- [GymBusinessHelper](Buildings.Retail.Businesses.Gym/GymBusinessHelper.md)
+- None detected.
 
 ## Notes
 

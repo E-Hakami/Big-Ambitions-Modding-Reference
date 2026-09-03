@@ -1,10 +1,6 @@
 # UpdateItemInstancesToNewSystem
 
-**Type:** Class
-
-**Declared Types:**
-
-- `UpdateItemInstancesToNewSystem`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,19 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [CharacterData](../CharacterData.md)
-- [GameInstance](../GameInstance.md)
-- [ICompatibilityFix](../Player.SaveSystem.CompatibilityFixes/ICompatibilityFix.md)
-- [ItemHelper](../ItemHelper.md)
-- [PointOfSale](../Buildings.Retail.Simulation/PointOfSale.md)
-- [TodoTask](../Entities/TodoTask.md)
-- [VehicleInstance](../VehicleInstance.md)
+- None detected.
 
 ## Used By
 
-- [UpdateGameInstanceToEA08](../Player.SaveSystem.CompatibilityFixes/UpdateGameInstanceToEA08.md)
+- None detected.
 
 ## Notes
 

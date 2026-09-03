@@ -1,10 +1,6 @@
 # DJEmployee
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DJEmployee`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [Employee](Employee.md)
-- [EmployeeStationController](EmployeeStationController.md)
-- [TimeHelper](TimeHelper.md)
+- None detected.
 
 ## Used By
 
-- [DJBoothController](Controllers/DJBoothController.md)
+- None detected.
 
 ## Notes
 

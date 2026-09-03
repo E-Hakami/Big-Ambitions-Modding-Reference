@@ -1,10 +1,6 @@
 # BizManContractSettings
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BizManContractSettings`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,23 +8,11 @@
 
 ## Uses
 
-- [BizMan](BizMan.md)
-- [BizManDeliveries](BizManDeliveries.md)
-- [BizManDeliveriesProductsScrollerController](BizManDeliveriesProductsScrollerController.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [DeliveryContract](../Entities/DeliveryContract.md)
-- [DeliveryHelper](../Entities/DeliveryHelper.md)
-- [GameEvent](../GameEvent.md)
-- [HudConfirm](../HudConfirm.md)
-- [Notification](../UI.Notification/Notification.md)
-- [Notifications](../UI.Notification/Notifications.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [TimeHelper](../TimeHelper.md)
+- None detected.
 
 ## Used By
 
-- [BizManDeliveries](BizManDeliveries.md)
+- None detected.
 
 ## Notes
 

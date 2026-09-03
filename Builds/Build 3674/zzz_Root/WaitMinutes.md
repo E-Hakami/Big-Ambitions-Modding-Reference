@@ -1,10 +1,6 @@
 # WaitMinutes
 
-**Type:** Class
-
-**Declared Types:**
-
-- `WaitMinutes`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,7 +8,7 @@
 
 ## Uses
 
-- [TimeHelper](TimeHelper.md)
+- None detected.
 
 ## Used By
 

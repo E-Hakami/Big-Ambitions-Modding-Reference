@@ -1,10 +1,6 @@
 # PlaySpotsManager
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PlaySpotsManager`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [PathHelper](../PathHelper.md)
-- [PlaySpotStatus](PlaySpotStatus.md)
+- None detected.
 
 ## Used By
 
-- [CasinoBusinessHelper](../Buildings/CasinoBusinessHelper.md)
-- [CasinoGameController](../CasinoGameController.md)
-- [CasinoGameEmployeeController](../CasinoGameEmployeeController.md)
-- [GoPlayOnAGameSpot](../GoPlayOnAGameSpot.md)
-- [GoPlayOnAGameSpotInstantly](../GoPlayOnAGameSpotInstantly.md)
-- [SharedPlaySpotsManager](../SharedPlaySpotsManager.md)
+- None detected.
 
 ## Notes
 

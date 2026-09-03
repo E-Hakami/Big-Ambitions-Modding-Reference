@@ -1,10 +1,6 @@
 # BridgeController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BridgeController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CarFeatures](../CarFeatures.md)
-- [ViewBlockingEntity](../ViewBlockingEntity.md)
+- None detected.
 
 ## Used By
 
-- [BridgeTriggerController](BridgeTriggerController.md)
-- [CarFeatures](../CarFeatures.md)
+- None detected.
 
 ## Notes
 

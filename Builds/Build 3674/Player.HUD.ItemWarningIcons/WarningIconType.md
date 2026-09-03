@@ -1,10 +1,6 @@
 # WarningIconType
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `WarningIconType`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,13 +12,7 @@
 
 ## Used By
 
-- [CashRegisterController](../Controllers/CashRegisterController.md)
-- [EducationDoorController](../EducationDoorController.md)
-- [ItemController](../ItemController.md)
-- [ItemWarningIcon](ItemWarningIcon.md)
-- [ItemWarningIconManager](ItemWarningIconManager.md)
-- [Producer](../Producer.md)
-- [SeatController](../Controllers/SeatController.md)
+- None detected.
 
 ## Notes
 

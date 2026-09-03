@@ -1,10 +1,6 @@
 # CustomerEntriesCalculatorRetail
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CustomerEntriesCalculatorRetail`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BusinessHelper](../Helpers/BusinessHelper.md)
-- [CustomerEntriesCalculator](CustomerEntriesCalculator.md)
-- [Item](../BusinessLayoutSets/Item.md)
-- [OrderEntry](../Entities/OrderEntry.md)
-- [ProductMarketHelper](../Helpers/ProductMarketHelper.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 
-- [CustomerEntriesCalculatorCinemaTheater](CustomerEntriesCalculatorCinemaTheater.md)
-- [CustomerEntriesCalculatorFactory](CustomerEntriesCalculatorFactory.md)
+- None detected.
 
 ## Notes
 

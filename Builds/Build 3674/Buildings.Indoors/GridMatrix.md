@@ -1,10 +1,6 @@
 # GridMatrix
 
-**Type:** Class
-
-**Declared Types:**
-
-- `GridMatrix`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [GridArray](GridArray.md)
-- [GridCell](GridCell.md)
+- None detected.
 
 ## Used By
 
-- [GridFiller](GridFiller.md)
-- [GridGenerator](GridGenerator.md)
-- [MovingServiceHelper](../Buildings.BuildingTypes.Special.MovingCompany/MovingServiceHelper.md)
-- [WallGridFiller](WallGridFiller.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # GasStationSettings
 
-**Type:** Class
-
-**Declared Types:**
-
-- `GasStationSettings`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [SpecialServiceSettings](SpecialServiceSettings.md)
+- None detected.
 
 ## Used By
 
-- [VehicleHelper](../Helpers/VehicleHelper.md)
+- None detected.
 
 ## Notes
 

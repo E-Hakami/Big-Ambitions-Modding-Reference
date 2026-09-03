@@ -1,10 +1,6 @@
 # FileSystemHelper
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FileSystemHelper`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [BlueprintLibraryController](BlueprintLibraryController.md)
-- [IntroCharacterCustomizer](../Intro/IntroCharacterCustomizer.md)
-- [MiniMenu](../UI.MiniMenu/MiniMenu.md)
-- [ModBackupWarningUi](../ModBackupWarningUi.md)
-- [PlayerHelper](../Helpers/PlayerHelper.md)
-- [PortraitGenerator](../Character.Customization/PortraitGenerator.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [SteamWorkshopBlueprint](../Steam/SteamWorkshopBlueprint.md)
+- None detected.
 
 ## Notes
 

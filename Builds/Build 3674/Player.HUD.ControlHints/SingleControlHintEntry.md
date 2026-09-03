@@ -1,10 +1,6 @@
 # SingleControlHintEntry
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SingleControlHintEntry`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [ControlsHint](ControlsHint.md)
-- [InlineControlsHintRenderer](InlineControlsHintRenderer.md)
+- None detected.
 
 ## Used By
 
-- [ControllersHintProviderEntry](ControllersHintProviderEntry.md)
+- None detected.
 
 ## Notes
 

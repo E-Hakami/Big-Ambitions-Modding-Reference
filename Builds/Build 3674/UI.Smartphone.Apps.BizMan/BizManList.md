@@ -1,10 +1,6 @@
 # BizManList
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BizManList`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,20 +8,11 @@
 
 ## Uses
 
-- [Badge](../UI.Elements/Badge.md)
-- [BizMan](BizMan.md)
-- [BusinessCellView](../BusinessCellView.md)
-- [BusinessScrollerController](BusinessScrollerController.md)
-- [HeadquartersList](HeadquartersList.md)
-- [PrivateResidenceCellView](../PrivateResidenceCellView.md)
-- [PrivateResidenceScrollerController](PrivateResidenceScrollerController.md)
-- [TogglePanel](../UI.Elements/TogglePanel.md)
-- [UIs](../UI/UIs.md)
-- [WarehouseList](WarehouseList.md)
+- None detected.
 
 ## Used By
 
-- [BizMan](BizMan.md)
+- None detected.
 
 ## Notes
 

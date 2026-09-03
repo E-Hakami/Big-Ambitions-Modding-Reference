@@ -1,10 +1,6 @@
 # TimeOfDayActionPanelUI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TimeOfDayActionPanelUI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [ActionPanelUI](ActionPanelUI.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [InteriorDesignerHelper](../Buildings.Indoors.InteriorDesign/InteriorDesignerHelper.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [TimeOfDayController](../TimeOfDayController.md)
+- None detected.
 
 ## Used By
 

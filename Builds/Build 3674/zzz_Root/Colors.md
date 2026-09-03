@@ -1,10 +1,6 @@
 # Colors
 
-**Type:** Class
-
-**Declared Types:**
-
-- `Colors`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,20 +8,11 @@
 
 ## Uses
 
-- [GlobalReferences](GlobalReferences.md)
+- None detected.
 
 ## Used By
 
-- [ColorHelper](Helpers/ColorHelper.md)
-- [EconoViewIncomeStatementCellView](UI.Smartphone.Apps.EconoView/EconoViewIncomeStatementCellView.md)
-- [FixNullLogoShapes](Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA010/FixNullLogoShapes.md)
-- [GlobalReferences](GlobalReferences.md)
-- [HeadhuntersPlanList](UI.Smartphone.Apps.BizMan.Headhunters/HeadhuntersPlanList.md)
-- [HrManagersPlanList](UI.Smartphone.Apps.BizMan.HrManagers/HrManagersPlanList.md)
-- [LoanEntryUi](LoanEntryUi.md)
-- [LogoHelper](LogoHelper.md)
-- [MachineOverlay](Player.HUD.ItemInfoOverlays/MachineOverlay.md)
-- [PurchasingAgentsPlanList](UI.Smartphone.Apps.BizMan/PurchasingAgentsPlanList.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # TryGoChangeGymClothes
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TryGoChangeGymClothes`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,7 @@
 
 ## Uses
 
-- [BuildingCleanlinessHelper](Buildings.BuildingTypes.Shared.Dirtiness/BuildingCleanlinessHelper.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [CharacterMoveToPosition](CharacterMoveToPosition.md)
-- [CharacterRotateTowards](CharacterRotateTowards.md)
-- [CustomerTimeState](CustomerTimeState.md)
-- [Item](BusinessLayoutSets/Item.md)
-- [ItemController](ItemController.md)
-- [SharedGymCustomer](SharedGymCustomer.md)
-- [TimeHelper](TimeHelper.md)
+- None detected.
 
 ## Used By
 

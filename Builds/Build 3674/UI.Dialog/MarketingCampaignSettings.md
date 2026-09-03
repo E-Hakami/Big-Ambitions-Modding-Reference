@@ -1,10 +1,6 @@
 # MarketingCampaignSettings
 
-**Type:** Class
-
-**Declared Types:**
-
-- `MarketingCampaignSettings`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,25 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [BuildingSizeHelper](../Buildings/BuildingSizeHelper.md)
-- [BuildingTypeHelper](../Buildings/BuildingTypeHelper.md)
-- [BusinessTypeHelper](../Helpers/BusinessTypeHelper.md)
-- [Dialog](../Dialogs/Dialog.md)
-- [DialogController](../DialogController.md)
-- [Dropdown](../UI.Elements/Dropdown.md)
-- [MarketingAgencySettings](../Buildings/MarketingAgencySettings.md)
-- [MarketingTypeName](../Entities/MarketingTypeName.md)
-- [MarketingTypeSettings](../Entities/MarketingTypeSettings.md)
-- [SpecialService](../Buildings/SpecialService.md)
+- None detected.
 
 ## Used By
 
-- [BizManMarketing](../UI.Smartphone.Apps.BizMan/BizManMarketing.md)
-- [DialogEntry](../Entities/DialogEntry.md)
-- [EnumHelpers](../EnumHelpers.md)
-- [MarketingAgencyDialog](../Dialogs/MarketingAgencyDialog.md)
+- None detected.
 
 ## Notes
 

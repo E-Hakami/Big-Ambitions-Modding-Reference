@@ -1,10 +1,6 @@
 # PricingManager
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PricingManager`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [EmployeeInstance](EmployeeInstance.md)
-- [PricingManagerHelper](../Buildings.Office.Headquarters/PricingManagerHelper.md)
+- None detected.
 
 ## Used By
 
-- [RecruitmentHelper](../Helpers/RecruitmentHelper.md)
+- None detected.
 
 ## Notes
 

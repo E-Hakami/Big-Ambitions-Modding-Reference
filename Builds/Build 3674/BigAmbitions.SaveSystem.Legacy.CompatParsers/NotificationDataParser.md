@@ -1,10 +1,6 @@
 # NotificationDataParser
 
-**Type:** Class
-
-**Declared Types:**
-
-- `NotificationDataParser`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [Notification](../UI.Notification/Notification.md)
-- [TennisPopup](../PlayerActivity.Tennis/TennisPopup.md)
+- None detected.
 
 ## Used By
 
-- [Notification](../UI.Notification/Notification.md)
+- None detected.
 
 ## Notes
 

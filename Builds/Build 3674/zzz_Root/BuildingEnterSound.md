@@ -1,10 +1,6 @@
 # BuildingEnterSound
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BuildingEnterSound`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,7 +12,7 @@
 
 ## Used By
 
-- [BuildingManager](BuildingManager.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # SpecialNpcData
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SpecialNpcData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [CharacterData](CharacterData.md)
+- None detected.
 
 ## Used By
 
-- [SpecialNpcHelper](SpecialNpcHelper.md)
+- None detected.
 
 ## Notes
 

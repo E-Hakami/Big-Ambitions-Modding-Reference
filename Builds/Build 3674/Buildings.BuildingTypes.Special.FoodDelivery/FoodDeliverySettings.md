@@ -1,10 +1,6 @@
 # FoodDeliverySettings
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FoodDeliverySettings`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [DialogEntry](../Entities/DialogEntry.md)
-- [EnumHelpers](../EnumHelpers.md)
-- [FoodDeliveryContractSettings](../UI.Dialog/FoodDeliveryContractSettings.md)
-- [FoodDeliveryDialog](../Dialogs/FoodDeliveryDialog.md)
-- [GlobalReferences](../GlobalReferences.md)
+- None detected.
 
 ## Notes
 

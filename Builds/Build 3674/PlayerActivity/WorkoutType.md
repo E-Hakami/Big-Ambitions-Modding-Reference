@@ -1,10 +1,6 @@
 # WorkoutType
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `WorkoutType`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,18 +12,7 @@
 
 ## Used By
 
-- [EnumHelpers](../EnumHelpers.md)
-- [FitnessPlanningBoardController](../Controllers/FitnessPlanningBoardController.md)
-- [GymBusinessHelper](../Buildings.Retail.Businesses.Gym/GymBusinessHelper.md)
-- [InitGymWorkout](../InitGymWorkout.md)
-- [LocalizationHelper](../Helpers/LocalizationHelper.md)
-- [SharedWorkoutType](../SharedWorkoutType.md)
-- [SharedWorkoutTypes](../SharedWorkoutTypes.md)
-- [WorkoutExercise](WorkoutExercise.md)
-- [WorkoutGroup](WorkoutGroup.md)
-- [WorkoutPlan](WorkoutPlan.md)
-- [WorkoutPlanUI](WorkoutPlanUI.md)
-- [WorkoutVarietyCustomerDemand](../Entities/WorkoutVarietyCustomerDemand.md)
+- None detected.
 
 ## Notes
 

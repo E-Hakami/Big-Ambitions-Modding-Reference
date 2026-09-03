@@ -1,10 +1,6 @@
 # DanceType
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `DanceType`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,13 +12,7 @@
 
 ## Used By
 
-- [BaseHuman](../BaseHuman.md)
-- [Dances](Dances.md)
-- [EnumHelpers](../EnumHelpers.md)
-- [LocalizationHelper](../Helpers/LocalizationHelper.md)
-- [PlayerDances](../Character/PlayerDances.md)
-- [PlayerDancesUI](../UI.Topbar/PlayerDancesUI.md)
-- [RunShyDanceAnimation](../RunShyDanceAnimation.md)
+- None detected.
 
 ## Notes
 

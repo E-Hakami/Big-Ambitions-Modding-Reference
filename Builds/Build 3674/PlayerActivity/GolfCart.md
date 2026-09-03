@@ -1,10 +1,6 @@
 # GolfCart
 
-**Type:** Class
-
-**Declared Types:**
-
-- `GolfCart`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [AppearanceSetter](../AppearanceSetter.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [GameEvent](../GameEvent.md)
-- [Gender](../Character.Customization/Gender.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 
-- [GolfCourse](GolfCourse.md)
+- None detected.
 
 ## Notes
 

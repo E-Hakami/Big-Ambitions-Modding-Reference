@@ -1,10 +1,6 @@
 # Promotion
 
-**Type:** Class
-
-**Declared Types:**
-
-- `Promotion`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [BuildingRegistration](BuildingRegistration.md)
-- [BusinessHelper](Helpers/BusinessHelper.md)
+- None detected.
 
 ## Notes
 

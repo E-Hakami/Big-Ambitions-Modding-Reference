@@ -1,10 +1,6 @@
 # LogoSize
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `LogoSize`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,20 +12,7 @@
 
 ## Used By
 
-- [AdManager](AdManager.md)
-- [BillboardAd](BillboardAd.md)
-- [BizManBusiness](BizManBusiness.md)
-- [BizManMarketing](UI.Smartphone.Apps.BizMan/BizManMarketing.md)
-- [BizManPresentation](BizManPresentation.md)
-- [BuildingLogoSignController](BuildingLogoSignController.md)
-- [BuildingSignController](BuildingSignController.md)
-- [BusinessLogoGenerator](BusinessLogoGenerator.md)
-- [ContactsApp](UI.Smartphone.Apps.Contacts/ContactsApp.md)
-- [DeliveryContractEntry](UI.Smartphone.Apps.BizMan/DeliveryContractEntry.md)
-- [EconoView](UI.Smartphone.Apps.EconoView/EconoView.md)
-- [EnumHelpers](EnumHelpers.md)
-- [HeadquartersList](UI.Smartphone.Apps.BizMan/HeadquartersList.md)
-- [LogoHelper](LogoHelper.md)
+- None detected.
 
 ## Notes
 

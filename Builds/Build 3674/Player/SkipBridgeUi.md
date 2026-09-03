@@ -1,10 +1,6 @@
 # SkipBridgeUi
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SkipBridgeUi`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,7 @@
 
 ## Uses
 
-- [BridgeTriggerController](../Streets/BridgeTriggerController.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CityMap](../CityMap.md)
-- [GlobalEvents](../GlobalEvents.md)
-- [MiniMenu](../UI.MiniMenu/MiniMenu.md)
-- [SkipBridgeHelper](../Vehicles/SkipBridgeHelper.md)
-- [VehicleController](../VehicleController.md)
-- [VehicleHelper](../Helpers/VehicleHelper.md)
+- None detected.
 
 ## Used By
 

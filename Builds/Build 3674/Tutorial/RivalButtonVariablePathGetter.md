@@ -1,11 +1,6 @@
 # RivalButtonVariablePathGetter
 
-**Type:** Multiple
-
-**Declared Types:**
-
-- `RivalButtonVariablePathGetter`
-- `RivalFirstType`
+**Type:** Source File
 
 ## Main Reference
 
@@ -13,9 +8,7 @@
 
 ## Uses
 
-- [RivalsHelper](../BigAmbitions.Rivals/RivalsHelper.md)
-- [SpecialRival](../BigAmbitions.Rivals/SpecialRival.md)
-- [TutorialPointerVariablePathGetter](TutorialPointerVariablePathGetter.md)
+- None detected.
 
 ## Used By
 

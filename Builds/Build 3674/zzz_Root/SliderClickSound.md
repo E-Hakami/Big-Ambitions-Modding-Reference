@@ -1,10 +1,6 @@
 # SliderClickSound
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SliderClickSound`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [UiSound](UiSound.md)
-- [UiSoundHelper](UiSoundHelper.md)
+- None detected.
 
 ## Used By
 

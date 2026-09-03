@@ -1,10 +1,6 @@
 # HasImportPartnership
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasImportPartnership`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [ImportPartnership](../Entities/ImportPartnership.md)
-- [ImportProduct](../Entities/ImportProduct.md)
-- [QuestRequirement](QuestRequirement.md)
-- [RequiredProduct](RequiredProduct.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 

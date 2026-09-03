@@ -1,10 +1,6 @@
 # AcknowledgeWarning
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AcknowledgeWarning`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [PlayerPrefs](PlayerPrefs.md)
+- None detected.
 
 ## Used By
 
-- [AcknowledgeWarningUi](AcknowledgeWarningUi.md)
-- [ModsView](BigAmbitions/ModsView.md)
+- None detected.
 
 ## Notes
 

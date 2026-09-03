@@ -1,10 +1,6 @@
 # TutorialPointerHideConditionTooltipIsVisible
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TutorialPointerHideConditionTooltipIsVisible`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [TooltipSystem](../Tooltip/TooltipSystem.md)
-- [TutorialPointerHideCondition](TutorialPointerHideCondition.md)
+- None detected.
 
 ## Used By
 

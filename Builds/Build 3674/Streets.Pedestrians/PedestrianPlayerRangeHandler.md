@@ -1,10 +1,6 @@
 # PedestrianPlayerRangeHandler
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PedestrianPlayerRangeHandler`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CityManager](../CityManager.md)
+- None detected.
 
 ## Used By
 
-- [BuildingOutsidePedestrian](BuildingOutsidePedestrian.md)
-- [Pedestrian](Pedestrian.md)
+- None detected.
 
 ## Notes
 

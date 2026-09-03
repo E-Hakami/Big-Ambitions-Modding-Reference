@@ -1,10 +1,6 @@
 # NotificationData
 
-**Type:** Class
-
-**Declared Types:**
-
-- `NotificationData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Notification](Notification.md)
+- None detected.
 
 ## Used By
 

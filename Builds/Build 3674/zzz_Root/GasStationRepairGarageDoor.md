@@ -1,10 +1,6 @@
 # GasStationRepairGarageDoor
 
-**Type:** Class
-
-**Declared Types:**
-
-- `GasStationRepairGarageDoor`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [GarageDoor](Vehicles.Components/GarageDoor.md)
-- [VehicleController](VehicleController.md)
+- None detected.
 
 ## Used By
 
-- [GasStationController](GasStationController.md)
+- None detected.
 
 ## Notes
 

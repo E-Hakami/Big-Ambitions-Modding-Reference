@@ -1,10 +1,6 @@
 # TaxesMessage
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TaxesMessage`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Floor](../Parking.UndergroundParking/Floor.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [Taxes](../Entities/Taxes.md)
-- [TaxesMessageLine](TaxesMessageLine.md)
-- [TaxHelper](../Helpers/TaxHelper.md)
+- None detected.
 
 ## Used By
 
-- [ContactsApp](ContactsApp.md)
+- None detected.
 
 ## Notes
 

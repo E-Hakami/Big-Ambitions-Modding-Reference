@@ -1,10 +1,6 @@
 # HourlyFactorMultiplier
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HourlyFactorMultiplier`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [BusinessType](BusinessType.md)
-- [CustomerEntriesCalculator](AI.Customers.CustomerEntries/CustomerEntriesCalculator.md)
+- None detected.
 
 ## Notes
 

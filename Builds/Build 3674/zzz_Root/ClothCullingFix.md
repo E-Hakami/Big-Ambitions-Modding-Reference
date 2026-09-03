@@ -1,10 +1,6 @@
 # ClothCullingFix
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ClothCullingFix`
+**Type:** Source File
 
 ## Main Reference
 

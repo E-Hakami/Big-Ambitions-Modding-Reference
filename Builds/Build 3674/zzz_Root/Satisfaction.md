@@ -1,10 +1,6 @@
 # Satisfaction
 
-**Type:** Class
-
-**Declared Types:**
-
-- `Satisfaction`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,19 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [BuildingRegistration](BuildingRegistration.md)
-- [BusinessCellView](BusinessCellView.md)
-- [BusinessHelper](Helpers/BusinessHelper.md)
-- [EmployeeInstance](Entities/EmployeeInstance.md)
-- [HeadhunterHelper](Buildings.Office.Headquarters/HeadhunterHelper.md)
-- [HeadhunterReplacementData](Entities/HeadhunterReplacementData.md)
-- [ReplacementReason](Entities/ReplacementReason.md)
-- [ScheduleEmployeeSortingMethod](UI.Smartphone.Apps.BizMan.Schedule/ScheduleEmployeeSortingMethod.md)
-- [ScheduleEmployeeSortToggle](UI.Smartphone.Apps.BizMan.Schedule/ScheduleEmployeeSortToggle.md)
+- None detected.
 
 ## Notes
 

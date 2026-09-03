@@ -1,10 +1,6 @@
 # AiCarMusic
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AiCarMusic`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [BuildingManager](BuildingManager.md)
-- [GlobalEvents](GlobalEvents.md)
-- [LoadScene](UI.Load/LoadScene.md)
+- None detected.
 
 ## Used By
 

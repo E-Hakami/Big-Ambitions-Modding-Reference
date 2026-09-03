@@ -1,10 +1,6 @@
 # UiHoverTarget
 
-**Type:** Class
-
-**Declared Types:**
-
-- `UiHoverTarget`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [ChangeCharacterClothesUI](../ChangeCharacterClothesUI.md)
-- [CharacterZoom](../CharacterZoom.md)
-- [PlasticSurgeryUI](PlasticSurgeryUI.md)
+- None detected.
 
 ## Notes
 

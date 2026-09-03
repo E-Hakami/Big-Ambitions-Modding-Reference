@@ -1,10 +1,6 @@
 # CityMapFilter
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CityMapFilter`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CityManager](../CityManager.md)
-- [CityMap](../CityMap.md)
-- [CityMapFilterCategory](CityMapFilterCategory.md)
-- [CityMapFilterData](CityMapFilterData.md)
-- [DraggableWindows](../UI.DraggableWindows/DraggableWindows.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 
-- [CityMapFilterCategory](CityMapFilterCategory.md)
-- [CityMapFilters](../CityMapFilters.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # Quest
 
-**Type:** Class
-
-**Declared Types:**
-
-- `Quest`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [QuestAction](QuestAction.md)
-- [QuestCheckpointData](QuestCheckpointData.md)
-- [QuestEntry](QuestEntry.md)
+- None detected.
 
 ## Used By
 
-- [TutorialHelper](../Helpers/TutorialHelper.md)
+- None detected.
 
 ## Notes
 

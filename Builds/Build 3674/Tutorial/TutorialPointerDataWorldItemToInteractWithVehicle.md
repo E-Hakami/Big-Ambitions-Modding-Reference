@@ -1,10 +1,6 @@
 # TutorialPointerDataWorldItemToInteractWithVehicle
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TutorialPointerDataWorldItemToInteractWithVehicle`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [PlayerHelper](../Helpers/PlayerHelper.md)
-- [TutorialPointerDataWorldItemToInteract](TutorialPointerDataWorldItemToInteract.md)
+- None detected.
 
 ## Used By
 

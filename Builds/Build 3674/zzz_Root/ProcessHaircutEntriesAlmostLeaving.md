@@ -1,10 +1,6 @@
 # ProcessHaircutEntriesAlmostLeaving
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ProcessHaircutEntriesAlmostLeaving`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingManager](BuildingManager.md)
-- [EmployeeInstance](Entities/EmployeeInstance.md)
-- [EmployeeStationController](EmployeeStationController.md)
-- [IsPlayerOwnedBusiness](IsPlayerOwnedBusiness.md)
-- [ItemController](ItemController.md)
-- [ItemHelper](ItemHelper.md)
-- [OrderEntry](Entities/OrderEntry.md)
-- [SharedHairdresserCustomer](SharedHairdresserCustomer.md)
-- [WaitingLine](EmployeeStations/WaitingLine.md)
-- [WaitingLinesHelper](WaitingLinesHelper.md)
+- None detected.
 
 ## Used By
 

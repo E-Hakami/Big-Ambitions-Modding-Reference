@@ -1,10 +1,6 @@
 # MarketingAgencySettings
 
-**Type:** Class
-
-**Declared Types:**
-
-- `MarketingAgencySettings`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [MarketingTypeName](../Entities/MarketingTypeName.md)
-- [SpecialServiceSettings](SpecialServiceSettings.md)
+- None detected.
 
 ## Used By
 
-- [BizManMarketing](../UI.Smartphone.Apps.BizMan/BizManMarketing.md)
-- [MarketingAgencyDialog](../Dialogs/MarketingAgencyDialog.md)
-- [MarketingCampaignSettings](../UI.Dialog/MarketingCampaignSettings.md)
+- None detected.
 
 ## Notes
 

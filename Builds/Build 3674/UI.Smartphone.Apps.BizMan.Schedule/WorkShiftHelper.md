@@ -1,10 +1,6 @@
 # WorkShiftHelper
 
-**Type:** Class
-
-**Declared Types:**
-
-- `WorkShiftHelper`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,19 +8,11 @@
 
 ## Uses
 
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [ScheduleHelper](ScheduleHelper.md)
-- [WorkShift](../WorkShift.md)
+- None detected.
 
 ## Used By
 
-- [BizManSchedule](BizManSchedule.md)
-- [ScheduleCellView](ScheduleCellView.md)
-- [ScheduleScrollerController](ScheduleScrollerController.md)
-- [WorkShiftDrag](WorkShiftDrag.md)
-- [WorkShiftSlider](WorkShiftSlider.md)
-- [WorkShiftSliderHandle](WorkShiftSliderHandle.md)
+- None detected.
 
 ## Notes
 

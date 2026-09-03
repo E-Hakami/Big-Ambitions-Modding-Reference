@@ -1,10 +1,6 @@
 # InteriorDesignerInfoPanelUI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `InteriorDesignerInfoPanelUI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [InfoPanelUI](InfoPanelUI.md)
+- None detected.
 
 ## Used By
 
-- [InteriorDesignerUI](InteriorDesignerUI.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # SharedItemController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SharedItemController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,22 +8,11 @@
 
 ## Uses
 
-- [ItemController](ItemController.md)
+- None detected.
 
 ## Used By
 
-- [CompareSharedItemController](BehaviorDesigner.Runtime.Tasks.Unity.SharedVariables/CompareSharedItemController.md)
-- [GetItemControllerByItemNames](GetItemControllerByItemNames.md)
-- [GetWorkoutMachine](GetWorkoutMachine.md)
-- [InitGymWorkout](InitGymWorkout.md)
-- [PlaySlotMachineSounds](PlaySlotMachineSounds.md)
-- [SelfServiceCustomerTryFindItem](SelfServiceCustomerTryFindItem.md)
-- [SetSharedItemController](BehaviorDesigner.Runtime.Tasks.Unity.SharedVariables/SetSharedItemController.md)
-- [StopSlotMachineSounds](StopSlotMachineSounds.md)
-- [TryGrabItemBase](TryGrabItemBase.md)
-- [TryToMoveToShower](TryToMoveToShower.md)
-- [TryToMoveToWorkoutMachine](TryToMoveToWorkoutMachine.md)
-- [UseShower](UseShower.md)
+- None detected.
 
 ## Notes
 

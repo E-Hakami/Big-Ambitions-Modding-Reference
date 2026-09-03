@@ -1,10 +1,6 @@
 # CustomerDemandSet
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CustomerDemandSet`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,9 +12,7 @@
 
 ## Used By
 
-- [BusinessType](../BusinessType.md)
-- [CustomerDemandHelper](CustomerDemandHelper.md)
-- [CustomerEntriesCalculator](../AI.Customers.CustomerEntries/CustomerEntriesCalculator.md)
+- None detected.
 
 ## Notes
 

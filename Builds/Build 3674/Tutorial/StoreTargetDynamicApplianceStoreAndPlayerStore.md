@@ -1,10 +1,6 @@
 # StoreTargetDynamicApplianceStoreAndPlayerStore
 
-**Type:** Class
-
-**Declared Types:**
-
-- `StoreTargetDynamicApplianceStoreAndPlayerStore`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [CustomBuildingTarget](CustomBuildingTarget.md)
-- [GlobalEvents](../GlobalEvents.md)
-- [QuestEntryTarget](QuestEntryTarget.md)
-- [QuestRequirement](QuestRequirement.md)
+- None detected.
 
 ## Used By
 

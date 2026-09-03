@@ -1,10 +1,6 @@
 # NightclubCustomerLeave
 
-**Type:** Class
-
-**Declared Types:**
-
-- `NightclubCustomerLeave`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CharacterMoveToPosition](CharacterMoveToPosition.md)
-- [CharacterRotateTowards](CharacterRotateTowards.md)
-- [CharacterRunAnimation](CharacterRunAnimation.md)
-- [PutACoatInTheArm](PutACoatInTheArm.md)
-- [RemoveDrink](RemoveDrink.md)
-- [SharedNightclubCustomer](SharedNightclubCustomer.md)
+- None detected.
 
 ## Used By
 

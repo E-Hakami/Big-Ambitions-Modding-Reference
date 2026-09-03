@@ -1,10 +1,6 @@
 # SelfServiceCustomer
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SelfServiceCustomer`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,12 +8,7 @@
 
 ## Uses
 
-- [BuildingManager](BuildingManager.md)
-- [Customer](Customer.md)
-- [CustomerTimeState](CustomerTimeState.md)
-- [CustomerType](CustomerType.md)
-- [OrderEntry](Entities/OrderEntry.md)
-- [TimeHelper](TimeHelper.md)
+- None detected.
 
 ## Used By
 

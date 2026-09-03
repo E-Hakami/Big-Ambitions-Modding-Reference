@@ -1,10 +1,6 @@
 # HasReachedAge
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasReachedAge`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CharacterData](../CharacterData.md)
-- [PlayerHelper](../Helpers/PlayerHelper.md)
-- [QuestRequirement](QuestRequirement.md)
-- [TimeHelper](../TimeHelper.md)
+- None detected.
 
 ## Used By
 

@@ -1,10 +1,6 @@
 # PackageCursorChangeEvent
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PackageCursorChangeEvent`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CursorType](../CursorType.md)
-- [ICursorHoverEvent](../ICursorHoverEvent.md)
+- None detected.
 
 ## Used By
 
-- [PackageCargoItemUi](../UI.PlayerHUD/PackageCargoItemUi.md)
+- None detected.
 
 ## Notes
 

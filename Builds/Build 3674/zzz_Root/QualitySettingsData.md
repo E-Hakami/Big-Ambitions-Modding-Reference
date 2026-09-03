@@ -1,10 +1,6 @@
 # QualitySettingsData
 
-**Type:** Class
-
-**Declared Types:**
-
-- `QualitySettingsData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [Options](Scenes.MainMenu/Options.md)
+- None detected.
 
 ## Notes
 

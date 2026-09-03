@@ -1,10 +1,6 @@
 # CemeteryDeadScenePlayer
 
-**Type:** Class
-
-**Declared Types:**
-
-- `CemeteryDeadScenePlayer`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,19 +8,11 @@
 
 ## Uses
 
-- [BuildingManager](BuildingManager.md)
-- [CameraHelper](Helpers/CameraHelper.md)
-- [CemeteryFuneralSetup](CemeteryFuneralSetup.md)
-- [GameManager](GameManager.md)
-- [GameSpeed](GameSpeed.md)
-- [TimeHelper](TimeHelper.md)
-- [TimeSpeed](TimeSpeed.md)
-- [UiFader](UI/UiFader.md)
-- [UIs](UI/UIs.md)
+- None detected.
 
 ## Used By
 
-- [PlayerHelper](Helpers/PlayerHelper.md)
+- None detected.
 
 ## Notes
 

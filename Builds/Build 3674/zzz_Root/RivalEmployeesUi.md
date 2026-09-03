@@ -1,10 +1,6 @@
 # RivalEmployeesUi
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RivalEmployeesUi`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [AiBusinessEmployeeData](Buildings.BuildingTypes.Shared/AiBusinessEmployeeData.md)
-- [BizMan](UI.Smartphone.Apps.BizMan/BizMan.md)
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [BuildingRegistration](BuildingRegistration.md)
-- [EmployeeInstance](Entities/EmployeeInstance.md)
-- [RivalEmployeeScrollerController](UI.Smartphone.Apps.BizMan/RivalEmployeeScrollerController.md)
+- None detected.
 
 ## Used By
 
-- [UIs](UI/UIs.md)
+- None detected.
 
 ## Notes
 

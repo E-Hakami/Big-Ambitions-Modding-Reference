@@ -1,10 +1,6 @@
 # DropdownProducerOverlay
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DropdownProducerOverlay`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,18 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Dropdown](../UI.Elements/Dropdown.md)
-- [GameManager](../GameManager.md)
-- [IProducerOverlay](IProducerOverlay.md)
-- [ItemController](../ItemController.md)
-- [LocalizationHelper](../Helpers/LocalizationHelper.md)
-- [ShowcaseShelfController](../Items.SpecialItems/ShowcaseShelfController.md)
-- [SignController](../Controllers/SignController.md)
+- None detected.
 
 ## Used By
 
-- [ProducerOverlay](ProducerOverlay.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # TutorialPointerHideConditionHasHrManagerPlan
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TutorialPointerHideConditionHasHrManagerPlan`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [HrManagerPlan](../Buildings.Office.Headquarters/HrManagerPlan.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [TutorialPointerHideCondition](TutorialPointerHideCondition.md)
-- [UIs](../UI/UIs.md)
+- None detected.
 
 ## Used By
 

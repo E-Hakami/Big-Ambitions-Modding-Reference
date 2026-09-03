@@ -1,10 +1,6 @@
 # InteriorElementPaintCursorChangeEvent
 
-**Type:** Class
-
-**Declared Types:**
-
-- `InteriorElementPaintCursorChangeEvent`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [CursorType](../CursorType.md)
-- [ICursorHoverEvent](../ICursorHoverEvent.md)
-- [MouseController](../MouseController.md)
+- None detected.
 
 ## Used By
 
-- [InteriorDesignerController](../Buildings.Indoors.InteriorDesign/InteriorDesignerController.md)
+- None detected.
 
 ## Notes
 

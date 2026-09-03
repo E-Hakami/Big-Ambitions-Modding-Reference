@@ -1,10 +1,6 @@
 # TutorialPointerHideConditionIfPlayerHasEmployeesTraining
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TutorialPointerHideConditionIfPlayerHasEmployeesTraining`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [EmployeeInstance](../Entities/EmployeeInstance.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [TutorialPointerHideCondition](TutorialPointerHideCondition.md)
+- None detected.
 
 ## Used By
 

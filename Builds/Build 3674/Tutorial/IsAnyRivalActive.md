@@ -1,10 +1,6 @@
 # IsAnyRivalActive
 
-**Type:** Class
-
-**Declared Types:**
-
-- `IsAnyRivalActive`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [QuestRequirement](QuestRequirement.md)
-- [RivalsHelper](../BigAmbitions.Rivals/RivalsHelper.md)
-- [SpecialRival](../BigAmbitions.Rivals/SpecialRival.md)
+- None detected.
 
 ## Used By
 

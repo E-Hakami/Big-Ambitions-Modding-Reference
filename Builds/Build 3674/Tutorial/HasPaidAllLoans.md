@@ -1,10 +1,6 @@
 # HasPaidAllLoans
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HasPaidAllLoans`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,9 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [LoanHelper](../Helpers/LoanHelper.md)
-- [QuestRequirement](QuestRequirement.md)
+- None detected.
 
 ## Used By
 

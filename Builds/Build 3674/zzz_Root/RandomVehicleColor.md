@@ -1,10 +1,6 @@
 # RandomVehicleColor
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RandomVehicleColor`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [CarFeatures](CarFeatures.md)
-- [UndergroundParkingManager](Parking.UndergroundParking/UndergroundParkingManager.md)
-- [VehicleHelper](Helpers/VehicleHelper.md)
+- None detected.
 
 ## Used By
 
-- [VehicleController](VehicleController.md)
+- None detected.
 
 ## Notes
 

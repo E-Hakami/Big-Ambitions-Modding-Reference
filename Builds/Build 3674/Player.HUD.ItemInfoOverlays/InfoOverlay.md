@@ -1,10 +1,6 @@
 # InfoOverlay
 
-**Type:** Class
-
-**Declared Types:**
-
-- `InfoOverlay`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,20 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [DecorativeItemHolderController](../DecorativeItemHolderController.md)
-- [EntityController](../EntityController.md)
-- [FridgeController](../FridgeController.md)
-- [IOverlay](IOverlay.md)
-- [IRSStationController](../Controllers/IRSStationController.md)
-- [IsPlayerOwnedBusiness](../IsPlayerOwnedBusiness.md)
-- [TaxHelper](../Helpers/TaxHelper.md)
-- [TicketHouse](../TicketHouse.md)
+- None detected.
 
 ## Used By
 
-- [OverlayHelper](OverlayHelper.md)
+- None detected.
 
 ## Notes
 

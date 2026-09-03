@@ -1,10 +1,6 @@
 # LayoutFeedbackData
 
-**Type:** Class
-
-**Declared Types:**
-
-- `LayoutFeedbackData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,11 @@
 
 ## Uses
 
-- [BusinessLayoutSetHelper](../BusinessLayoutSets/BusinessLayoutSetHelper.md)
-- [Feedback](Feedback.md)
-- [IFeedbackData](IFeedbackData.md)
-- [InteriorDesignerHelper](../Buildings.Indoors.InteriorDesign/InteriorDesignerHelper.md)
-- [InteriorDesignerUI](../UI.InteriorDesigner/InteriorDesignerUI.md)
+- None detected.
 
 ## Used By
 
-- [Feedback](Feedback.md)
+- None detected.
 
 ## Notes
 

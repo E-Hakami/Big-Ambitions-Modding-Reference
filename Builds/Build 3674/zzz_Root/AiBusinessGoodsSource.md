@@ -1,10 +1,6 @@
 # AiBusinessGoodsSource
 
-**Type:** Enum
-
-**Declared Types:**
-
-- `AiBusinessGoodsSource`
+**Type:** Source File
 
 ## Main Reference
 
@@ -16,13 +12,7 @@
 
 ## Used By
 
-- [AiBusinessDefault](AiBusinessDefault.md)
-- [CityGenerator](Helpers/CityGenerator.md)
-- [CompetitionHelper](Helpers/CompetitionHelper.md)
-- [EstimatedWeeklyIncomeHelper](Helpers/EstimatedWeeklyIncomeHelper.md)
-- [PlayerItemPurchaser](Controllers/PlayerItemPurchaser.md)
-- [RivalsHelper](BigAmbitions.Rivals/RivalsHelper.md)
-- [SpecialService](Buildings/SpecialService.md)
+- None detected.
 
 ## Notes
 

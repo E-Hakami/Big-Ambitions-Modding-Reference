@@ -1,10 +1,6 @@
 # SharedFullServiceCustomer
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SharedFullServiceCustomer`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,7 +8,7 @@
 
 ## Uses
 
-- [FullServiceCustomer](FullServiceCustomer.md)
+- None detected.
 
 ## Used By
 

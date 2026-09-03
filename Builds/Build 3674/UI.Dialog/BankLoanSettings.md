@@ -1,10 +1,6 @@
 # BankLoanSettings
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BankLoanSettings`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BankSettings](../SpecialServices.Bank/BankSettings.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Dialog](../Dialogs/Dialog.md)
-- [DialogController](../DialogController.md)
-- [LoanHelper](../Helpers/LoanHelper.md)
+- None detected.
 
 ## Used By
 
-- [BankDialog](../Dialogs/BankDialog.md)
-- [TutorialPointerDataUiElementLastBankLoanInputField](../Tutorial/TutorialPointerDataUiElementLastBankLoanInputField.md)
+- None detected.
 
 ## Notes
 

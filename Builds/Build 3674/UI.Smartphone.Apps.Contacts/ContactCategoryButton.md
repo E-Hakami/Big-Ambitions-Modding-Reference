@@ -1,10 +1,6 @@
 # ContactCategoryButton
 
-**Type:** Class
-
-**Declared Types:**
-
-- `ContactCategoryButton`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,19 +8,11 @@
 
 ## Uses
 
-- [Badge](../UI.Elements/Badge.md)
-- [BasicTooltip](../BasicTooltip.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Contact](../Entities/Contact.md)
-- [ContactCategory](ContactCategory.md)
-- [ContactCategoryName](ContactCategoryName.md)
-- [ContactCategorySelection](ContactCategorySelection.md)
-- [ContactsApp](ContactsApp.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 
-- [ContactCategorySelection](ContactCategorySelection.md)
+- None detected.
 
 ## Notes
 

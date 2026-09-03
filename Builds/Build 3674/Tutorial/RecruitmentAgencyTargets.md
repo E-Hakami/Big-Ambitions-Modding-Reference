@@ -1,10 +1,6 @@
 # RecruitmentAgencyTargets
 
-**Type:** Class
-
-**Declared Types:**
-
-- `RecruitmentAgencyTargets`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,10 +8,7 @@
 
 ## Uses
 
-- [GameEvent](../GameEvent.md)
-- [QuestEntryTarget](QuestEntryTarget.md)
-- [RecruitmentCampaign](../Entities/RecruitmentCampaign.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 

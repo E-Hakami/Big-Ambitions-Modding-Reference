@@ -1,10 +1,6 @@
 # WaitingLineAnchor
 
-**Type:** Class
-
-**Declared Types:**
-
-- `WaitingLineAnchor`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [WaitingLine](WaitingLine.md)
-- [WaitingLineData](WaitingLineData.md)
-- [WaitingLineVisuals](WaitingLineVisuals.md)
+- None detected.
 
 ## Notes
 

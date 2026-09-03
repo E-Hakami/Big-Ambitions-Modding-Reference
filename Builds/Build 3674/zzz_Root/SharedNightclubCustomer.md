@@ -1,10 +1,6 @@
 # SharedNightclubCustomer
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SharedNightclubCustomer`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,21 +8,11 @@
 
 ## Uses
 
-- [NightclubCustomer](NightclubCustomer.md)
+- None detected.
 
 ## Used By
 
-- [HasACoat](HasACoat.md)
-- [IsLastNightclubRandomAction](IsLastNightclubRandomAction.md)
-- [IsTimeToLeave](IsTimeToLeave.md)
-- [NightclubCustomerLeave](NightclubCustomerLeave.md)
-- [NightclubDance](NightclubDance.md)
-- [NightclubDanceInAction](NightclubDanceInAction.md)
-- [OnCoatCheckQueueFinished](OnCoatCheckQueueFinished.md)
-- [ProcessCoatCheckEntryInAction](ProcessCoatCheckEntryInAction.md)
-- [PutACoatInTheArm](PutACoatInTheArm.md)
-- [RunShyDanceAnimation](RunShyDanceAnimation.md)
-- [SetLastNightclubRandomAction](SetLastNightclubRandomAction.md)
+- None detected.
 
 ## Notes
 

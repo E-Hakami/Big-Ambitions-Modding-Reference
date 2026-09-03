@@ -1,10 +1,6 @@
 # SimpleOverlay
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SimpleOverlay`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,16 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [IOverlay](IOverlay.md)
-- [OverlayBase](OverlayBase.md)
-- [OverlayHelper](OverlayHelper.md)
-- [PurchaseUI](../UI.Purchase/PurchaseUI.md)
-- [SimpleOverlayType](SimpleOverlayType.md)
+- None detected.
 
 ## Used By
 
-- [OverlayManager](OverlayManager.md)
+- None detected.
 
 ## Notes
 

@@ -1,11 +1,6 @@
 # FenceDoor
 
-**Type:** Multiple
-
-**Declared Types:**
-
-- `FenceDoor`
-- `State`
+**Type:** Source File
 
 ## Main Reference
 
@@ -13,18 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
-- [FenceDoorMode](FenceDoorMode.md)
-- [FenceDoorTrigger](FenceDoorTrigger.md)
-- [ItemController](ItemController.md)
+- None detected.
 
 ## Used By
 
-- [CandidateSalaryNegotiation](AI.Employees.SalaryNegotiation/CandidateSalaryNegotiation.md)
-- [FenceDoorTrigger](FenceDoorTrigger.md)
-- [HamptonsPrivateFenceDoor](HamptonsPrivateFenceDoor.md)
-- [MainMenuController](MainMenuController.md)
-- [SystemRequirement](SystemRequirement.md)
+- None detected.
 
 ## Notes
 

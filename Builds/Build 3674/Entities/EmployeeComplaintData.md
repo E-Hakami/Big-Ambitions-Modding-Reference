@@ -1,10 +1,6 @@
 # EmployeeComplaintData
 
-**Type:** Class
-
-**Declared Types:**
-
-- `EmployeeComplaintData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Complaint](../AI.Employees/Complaint.md)
-- [SaveGameManager](../SaveGameManager.md)
+- None detected.
 
 ## Used By
 
-- [EmployeeInstance](EmployeeInstance.md)
-- [SetEmployeeComplaints](../Player.SaveSystem.CompatibilityFixes.CompatibilityFixesEA05/SetEmployeeComplaints.md)
+- None detected.
 
 ## Notes
 

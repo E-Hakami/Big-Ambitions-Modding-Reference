@@ -1,10 +1,6 @@
 # AutoResetOnEnable
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AutoResetOnEnable`
+**Type:** Source File
 
 ## Main Reference
 

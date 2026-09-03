@@ -1,10 +1,6 @@
 # FerrisWheelTicketSeller
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FerrisWheelTicketSeller`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,15 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [FerrisWheel](FerrisWheel.md)
-- [GameManager](../GameManager.md)
-- [NavigationBlocker](../NavigationBlocker.md)
-- [PaidActivity](../PlayerActivity.Activities.Paid/PaidActivity.md)
-- [PlayerActivityState](../PlayerActivityState.md)
-- [PlayerController](../PlayerController.md)
-- [TicketSeller](TicketSeller.md)
-- [UIs](../UI/UIs.md)
+- None detected.
 
 ## Used By
 

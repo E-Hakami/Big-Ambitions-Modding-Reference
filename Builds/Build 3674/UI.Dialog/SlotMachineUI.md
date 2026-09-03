@@ -1,10 +1,6 @@
 # SlotMachineUI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `SlotMachineUI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Dialog](../Dialogs/Dialog.md)
-- [Icon](Icon.md)
-- [SlotMachineDialog](../Dialogs/SlotMachineDialog.md)
+- None detected.
 
 ## Used By
 
-- [SlotMachineDialog](../Dialogs/SlotMachineDialog.md)
+- None detected.
 
 ## Notes
 

@@ -1,10 +1,6 @@
 # TaxesMessageLine
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TaxesMessageLine`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [BusinessNameGenerator](../UI.Smartphone.Apps.BizMan/BusinessNameGenerator.md)
+- None detected.
 
 ## Used By
 
-- [TaxesMessage](TaxesMessage.md)
+- None detected.
 
 ## Notes
 

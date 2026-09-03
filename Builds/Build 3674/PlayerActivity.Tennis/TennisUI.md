@@ -1,10 +1,6 @@
 # TennisUI
 
-**Type:** Class
-
-**Declared Types:**
-
-- `TennisUI`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [TennisPopup](TennisPopup.md)
-- [TennisScoreLine](TennisScoreLine.md)
+- None detected.
 
 ## Used By
 
-- [TennisCourt](TennisCourt.md)
+- None detected.
 
 ## Notes
 

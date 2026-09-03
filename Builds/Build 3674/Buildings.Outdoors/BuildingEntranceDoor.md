@@ -1,10 +1,6 @@
 # BuildingEntranceDoor
 
-**Type:** Class
-
-**Declared Types:**
-
-- `BuildingEntranceDoor`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [CityBuildingController](../CityBuildingController.md)
+- None detected.
 
 ## Notes
 

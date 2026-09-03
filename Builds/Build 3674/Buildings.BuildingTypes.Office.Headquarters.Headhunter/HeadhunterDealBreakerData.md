@@ -1,10 +1,6 @@
 # HeadhunterDealBreakerData
 
-**Type:** Class
-
-**Declared Types:**
-
-- `HeadhunterDealBreakerData`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [Headhunter](../Entities/Headhunter.md)
+- None detected.
 
 ## Used By
 
-- [AddressableLoader](../BigAmbitions.SaveSystem/AddressableLoader.md)
-- [HeadhunterHelper](../Buildings.Office.Headquarters/HeadhunterHelper.md)
+- None detected.
 
 ## Notes
 

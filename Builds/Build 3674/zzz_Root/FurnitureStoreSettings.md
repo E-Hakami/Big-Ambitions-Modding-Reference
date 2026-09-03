@@ -1,10 +1,6 @@
 # FurnitureStoreSettings
 
-**Type:** Class
-
-**Declared Types:**
-
-- `FurnitureStoreSettings`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [SpecialServiceSettings](Buildings/SpecialServiceSettings.md)
+- None detected.
 
 ## Used By
 
-- [FurnitureDeliveryContractSettings](UI.Dialog/FurnitureDeliveryContractSettings.md)
+- None detected.
 
 ## Notes
 

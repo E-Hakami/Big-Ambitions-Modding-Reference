@@ -1,10 +1,6 @@
 # GamePromptHelper
 
-**Type:** Class
-
-**Declared Types:**
-
-- `GamePromptHelper`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingRegistration](../BuildingRegistration.md)
-- [SaveGameManager](../SaveGameManager.md)
-- [SpecialRivalState](../BigAmbitions.Rivals/SpecialRivalState.md)
+- None detected.
 
 ## Used By
 
-- [GameManager](../GameManager.md)
+- None detected.
 
 ## Notes
 

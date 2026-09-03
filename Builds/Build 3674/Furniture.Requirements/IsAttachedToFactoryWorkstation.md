@@ -1,10 +1,6 @@
 # IsAttachedToFactoryWorkstation
 
-**Type:** Class
-
-**Declared Types:**
-
-- `IsAttachedToFactoryWorkstation`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,7 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [FactoryAssemblyMachineController](../Items.SpecialItems/FactoryAssemblyMachineController.md)
-- [ItemController](../ItemController.md)
-- [ItemHelper](../ItemHelper.md)
+- None detected.
 
 ## Used By
 

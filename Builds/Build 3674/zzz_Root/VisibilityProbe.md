@@ -1,10 +1,6 @@
 # VisibilityProbe
 
-**Type:** Class
-
-**Declared Types:**
-
-- `VisibilityProbe`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,11 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [SpawnMorphBehavior](Factories.Timeline/SpawnMorphBehavior.md)
+- None detected.
 
 ## Notes
 

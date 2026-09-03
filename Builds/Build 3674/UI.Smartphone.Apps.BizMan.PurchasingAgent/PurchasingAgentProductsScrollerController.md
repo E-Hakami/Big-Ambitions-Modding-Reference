@@ -1,10 +1,6 @@
 # PurchasingAgentProductsScrollerController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `PurchasingAgentProductsScrollerController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,20 +8,11 @@
 
 ## Uses
 
-- [BaTable](../BaTable/BaTable.md)
-- [BizMan](../UI.Smartphone.Apps.BizMan/BizMan.md)
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingRegistration](../BuildingRegistration.md)
-- [ImportPartnership](../Entities/ImportPartnership.md)
-- [ImportProduct](../Entities/ImportProduct.md)
-- [PurchasingAgentProductCellView](PurchasingAgentProductCellView.md)
-- [PurchasingAgentProductModel](PurchasingAgentProductModel.md)
-- [PurchasingAgentProductsMassActionsUI](PurchasingAgentProductsMassActionsUI.md)
+- None detected.
 
 ## Used By
 
-- [PurchasingAgentPlanUI](PurchasingAgentPlanUI.md)
-- [PurchasingAgentProductsMassActionsUI](PurchasingAgentProductsMassActionsUI.md)
+- None detected.
 
 ## Notes
 

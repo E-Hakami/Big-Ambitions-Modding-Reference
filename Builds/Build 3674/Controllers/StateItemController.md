@@ -1,10 +1,6 @@
 # StateItemController
 
-**Type:** Class
-
-**Declared Types:**
-
-- `StateItemController`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,17 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
-- [BuildingManager](../BuildingManager.md)
-- [GameManager](../GameManager.md)
-- [GlobalEvents](../GlobalEvents.md)
-- [GlobalReferences](../GlobalReferences.md)
-- [ItemController](../ItemController.md)
-- [UIs](../UI/UIs.md)
+- None detected.
 
 ## Used By
 
-- [ManageCtaBehavior](../Player.HUD.ItemInfoOverlays/ManageCtaBehavior.md)
+- None detected.
 
 ## Notes
 

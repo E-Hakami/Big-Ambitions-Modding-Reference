@@ -1,10 +1,6 @@
 # MessageDataParser
 
-**Type:** Class
-
-**Declared Types:**
-
-- `MessageDataParser`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,14 +8,11 @@
 
 ## Uses
 
-- [AdditionalMessageData](../Entities/AdditionalMessageData.md)
-- [BusinessDeliveryInfo](../Buildings.Office.Headquarters/BusinessDeliveryInfo.md)
-- [HealthInsurancePlanType](../Entities/HealthInsurancePlanType.md)
-- [TextMessage](../Entities/TextMessage.md)
+- None detected.
 
 ## Used By
 
-- [TextMessage](../Entities/TextMessage.md)
+- None detected.
 
 ## Notes
 

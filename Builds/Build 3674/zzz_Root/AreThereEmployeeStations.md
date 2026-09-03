@@ -1,10 +1,6 @@
 # AreThereEmployeeStations
 
-**Type:** Class
-
-**Declared Types:**
-
-- `AreThereEmployeeStations`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,8 +8,7 @@
 
 ## Uses
 
-- [SharedItemTag](SharedItemTag.md)
-- [WaitingLinesHelper](WaitingLinesHelper.md)
+- None detected.
 
 ## Used By
 

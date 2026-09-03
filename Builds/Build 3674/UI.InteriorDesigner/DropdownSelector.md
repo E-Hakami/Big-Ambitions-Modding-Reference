@@ -1,10 +1,6 @@
 # DropdownSelector
 
-**Type:** Class
-
-**Declared Types:**
-
-- `DropdownSelector`
+**Type:** Source File
 
 ## Main Reference
 
@@ -12,13 +8,11 @@
 
 ## Uses
 
-- [BuildingHelper](../Helpers/BuildingHelper.md)
+- None detected.
 
 ## Used By
 
-- [DropdownSelectorUI](DropdownSelectorUI.md)
-- [SaveBlueprintActionPanelUI](SaveBlueprintActionPanelUI.md)
-- [SaveBlueprintUI](SaveBlueprintUI.md)
+- None detected.
 
 ## Notes
 
