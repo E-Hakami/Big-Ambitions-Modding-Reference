@@ -1,3 +1,5 @@
+[for ai](https://raw.githubusercontent.com/E-Hakami/Big-Ambitions-Modding-Reference/refs/heads/main/AI_Index.md)
+
 # Big Ambitions Modding Reference
 
 An unofficial reference for understanding the internal C# code of **Big Ambitions** and its modding-related systems.
