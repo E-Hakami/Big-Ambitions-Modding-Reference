@@ -233,7 +233,7 @@ For this reason:
 
 The generated Markdown should be treated as a navigation aid, not as a replacement for reading the C# source.
 
-Also, GitHub Blocks AIs from recursively searching the tree so you will need to give the AI a complete file directory URL to get it started on the navigation system using the .md files< Alternatively AI agents can simply use the suggested starting points.
+Also, GitHub Blocks AIs from recursively searching the tree so you will need to give the AI a complete file directory URL to get it started on the navigation system using the .md files, Alternatively AI agents can simply use the suggested starting points.
 
 ## Suggested Starting Points
 
@@ -261,6 +261,12 @@ These are straight directories to files that are useful entry points when invest
 
 - [Character](https://github.com/E-Hakami/Big-Ambitions-Modding-Reference/tree/main/Builds/Build%203674/Character)
 - [AddressHelper](https://github.com/E-Hakami/Big-Ambitions-Modding-Reference/blob/main/Builds/Build%203674/Streets/AddressHelper.md)
+
+### Modding APIs
+
+- [ModingAPI](https://github.com/E-Hakami/Big-Ambitions-Modding-Reference/blob/main/Builds/Build%203674/BAModAPI/ModdingAPI.md)
+- [ModOption]()
+
 
 # Disclaimer
 
