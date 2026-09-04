@@ -1,0 +1,12 @@
+# Big Ambitions Modding Reference
+
+> Unofficial reverse-engineered reference for Big Ambitions
+> internal C# systems and modding.
+
+## Documentation
+
+- AI Index:
+  https://raw.githubusercontent.com/E-Hakami/Big-Ambitions-Modding-Reference/refs/heads/main/AI_INDEX.md
+
+- README:
+  https://raw.githubusercontent.com/E-Hakami/Big-Ambitions-Modding-Reference/refs/heads/main/README.md
