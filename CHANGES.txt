@@ -1,0 +1,30 @@
+﻿Crime Syndicates - Fixes / Turkish Translation
+
+Prepared for merging into the main Crime Syndicates mod.
+
+Changes made:
+
+- Big Ambitions Build 3680 compatibility fixes
+- Fixed GetAssignableItems API compatibility issue
+- Restored syndicate hourly/game tick functionality
+- Fixed protection income / syndicate processing issues
+- Fixed furniture-related progression being interrupted by mod exceptions
+- Full Turkish translation added
+- Translated hardcoded UI strings
+- Fixed Turkish character issues
+- Fixed Italian / Irish syndicate localization text
+- Fixed city-map localization keys
+- Fixed dynamic :address:N localization issue
+- Fixed repeated city-map filter creation / map stuttering
+- Fixed invalid IL in RefreshProtectionPanel
+- Fixed invalid IL in ExtortCurrentBusiness
+- Fixed PP slider / Extort UI functionality
+- Player daily protectorate takeover restriction removed
+- AI daily offensive behavior was intentionally left unchanged
+- PP, Work Hours, Police Observation and rival PP requirements remain enabled
+
+Important:
+This package contains the currently modified DLL and Turkish locale file.
+Original mod credit remains with KIng :).
+
+Prepared by Melike.
